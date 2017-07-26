@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="status_bar_accessibility_recent_apps">
+        <item quantity="other">%d aplicaciones recientes</item>
+        <item quantity="one">1 aplicación reciente</item>
+    </plurals>
+    <plurals name="accessibility_recent_task_enter">
+        <item quantity="other">Recientemente abiertas, aplicaciones disponibles: %d.</item>
+        <item quantity="one">Recientemente abiertas, aplicación disponible: 1.</item>
+    </plurals>
+    <plurals name="accessibility_recent_task_first_enter_tips">
+        <item quantity="other">Recientemente abiertas, aplicaciones disponibles: %d. Desliza el dedo hacia arriba para eliminarlo, deslízalo hacia abajo para bloquearlo.</item>
+        <item quantity="one">Recientemente abiertas, aplicación disponible: 1. Desliza el dedo hacia arriba para eliminarlo, deslízalo hacia abajo para bloquearlo.</item>
+    </plurals>
+    <plurals name="settings_toggle_position_divider_page">
+        <item quantity="other">%1$d accesos activos encima de la barra de tareas</item>
+        <item quantity="one">1 acceso activo encima de la barra de tareas</item>
+    </plurals>
+    <plurals name="disable_notification_confirm_title">
+        <item quantity="other">¿Ocultar las notificaciones de %d aplicaciones?</item>
+        <item quantity="one">¿Ocultar las notificaciones de esta aplicación?</item>
+    </plurals>
+    <plurals name="block_record_notification_more_text">
+        <item quantity="other">Ocultando notificaciones de %1$s y %2$d aplicaciones.</item>
+        <item quantity="one">Ocultando notificaciones de %1$s y 1 aplicación.</item>
+    </plurals>
+    <plurals name="view_realtime_clear">
+        <item quantity="other">Despejado</item>
+        <item quantity="one">Soleado</item>
+    </plurals>
+    <plurals name="fold_tips_title">
+        <item quantity="other">%d notificaciones se repiten</item>
+        <item quantity="one">%d notificación se repite</item>
+    </plurals>
+</resources>

@@ -1,0 +1,119 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+     <string-array name="bookmarks_cu_customization">
+        <item>沃门户</item>
+        <item>http://www.wo.com.cn</item>
+     </string-array>
+     <string-array name="dianping">
+        <item>Clientes</item>
+        <item>dianping.com</item>
+        <item>http://developer.dianping.com/favicon.ico</item>
+        <item>http://m.dianping.com/shoplist/2/kw/{searchTerms}/search</item>
+        <item>UTF-8</item>
+        <item>http://suggestion.baidu.com/su?p=3&amp;wd={searchTerms}</item>
+     </string-array>
+     <string-array name="google">
+        <item>Google</item>
+        <item>google.com</item>
+        <item>http://www.google.com/favicon.ico</item>
+        <item>http://www.google.com/search?hl={language}&amp;ie={inputEncoding}&amp;source=android-browser&amp;q={searchTerms}</item>
+        <item>UTF-8</item>
+        <item>http://api.bing.com/osjson.aspx?query={searchTerms}&amp;language={language}</item>
+     </string-array>
+     <string-array name="menu_theme_setting">
+        <item>Blanco</item>
+        <item>Amarillo</item>
+        <item>Gris</item>
+        <item>Marrón</item>
+        <item>Verde</item>
+        <item>Azul</item>
+     </string-array>
+     <string-array name="pre_webapp_text_sizes">
+        <item>Mayor</item>
+        <item>Grande</item>
+        <item>Normal</item>
+        <item>Pequeño</item>
+     </string-array>
+     <string-array name="pref_content_plugins_choices">
+        <item>Siempre activado</item>
+        <item>Preguntar antes</item>
+        <item>Desactivado</item>
+     </string-array>
+     <string-array name="pref_data_preload_choices">
+        <item>Nunca</item>
+        <item>Sólo con Wi-Fi</item>
+        <item>Siempre</item>
+     </string-array>
+     <string-array name="pref_development_ua_choices">
+        <item>Android</item>
+        <item>Escritorio</item>
+        <item>iPhone</item>
+        <item>iPad</item>
+        <item>Froyo-N1</item>
+        <item>Honeycomb-Xoom</item>
+     </string-array>
+     <string-array name="pref_fling_on_border_choices">
+        <item>Página siguiente/anterior</item>
+        <item>Alternar ventana</item>
+     </string-array>
+     <string-array name="pref_fling_on_border_gesture_entries">
+        <item>Página atrás adelante</item>
+        <item>Cambiar las pestañas</item>
+        <item>Ninguno</item>
+     </string-array>
+     <string-array name="pref_homepage_choices">
+        <item>Página de inicio predeterminada</item>
+        <item>Personalizado</item>
+     </string-array>
+     <string-array name="pref_images_preload_choices">
+        <item>Nunca</item>
+        <item>Sólo con Wi-Fi</item>
+        <item>Siempre</item>
+     </string-array>
+     <string-array name="pref_link_prefetch_choices">
+        <item>Nunca</item>
+        <item>Sólo con Wi-Fi</item>
+        <item>Siempre</item>
+     </string-array>
+     <string-array name="pref_text_size_choices">
+        <item>Diminuto</item>
+        <item>Pequeño</item>
+        <item>Normal</item>
+        <item>Grande</item>
+        <item>Enorme</item>
+     </string-array>
+     <string-array name="pref_text_zoom_choices">
+        <item>Diminuto</item>
+        <item>Pequeño</item>
+        <item>Normal</item>
+        <item>Grande</item>
+        <item>Enorme</item>
+     </string-array>
+     <string-array name="pref_ua_choices">
+        <item>Android</item>
+        <item>Escritorio</item>
+        <item>iPhone</item>
+        <item>iPad</item>
+     </string-array>
+     <string-array name="shortcut_dialog_title">
+        <item>Mensaje del Navegador</item>
+        <item>Siga los Juegos Olímpicos con MI</item>
+     </string-array>
+     <string-array name="shortcut_dialog_keep">
+        <item>OK</item>
+        <item>Seguir</item>
+     </string-array>
+     <string-array name="shortcut_dialog_delete">
+        <item>Borrar</item>
+        <item>No, gracias</item>
+     </string-array>
+     <string-array name="pref_video_preload_choices">
+        <item>Nunca</item>
+        <item>Sólo con Wi-Fi</item>
+        <item>Siempre</item>
+     </string-array>
+     <string-array name="pref_volume_key_choices">
+        <item>Página anterior/Página siguiente</item>
+        <item>Pestaña anterior/Pestaña siguiente</item>
+     </string-array>
+</resources>

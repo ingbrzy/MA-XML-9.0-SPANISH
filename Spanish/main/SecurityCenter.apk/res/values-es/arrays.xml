@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="date_of_traffic_cmcc">
+        <item>"Esta semana "</item>
+        <item>"Hoy "</item>
+        <item>"Este mes "</item>
+    </string-array>
+    <string-array name="date_of_traffic">
+        <item>"Ayer "</item>
+        <item>"Hoy "</item>
+        <item>"Este mes "</item>
+    </string-array>
+    <string-array name="date_of_traffic_prefix_cmcc">
+        <item>"Esta semana: "</item>
+        <item>"Hoy: "</item>
+        <item>"Este mes: "</item>
+    </string-array>
+    <string-array name="date_of_traffic_prefix">
+        <item>"Ayer: "</item>
+        <item>"Hoy: "</item>
+        <item>"Este mes: "</item>
+    </string-array>
+    <string-array name="date_of_app_all">
+        <item>"Datos móviles utilizados ayer "</item>
+        <item>"Datos móviles utilizados hoy "</item>
+        <item>"Datos móviles utilizados este mes "</item>
+        <item>"Wi-Fi utilizado ayer "</item>
+        <item>"Wi-Fi utilizado hoy "</item>
+        <item>"Wi-Fi utilizado este mes "</item>
+    </string-array>
+    <string-array name="traffic_type">
+        <item>"Uso de datos móviles "</item>
+        <item>"Uso de Wi-Fi "</item>
+    </string-array>
+    <string-array name="mi_service_traffic_type">
+        <item>"Uso de datos móviles "</item>
+        <item>"Uso de Wi-Fi "</item>
+    </string-array>
+    <string-array name="over_limit_traffic_waring_style">
+        <item>Mostrar advertencia</item>
+        <item>Advertir y desactivar los datos móviles</item>
+    </string-array>
+    <string-array name="roaming_network_type">
+        <item>Siempre</item>
+        <item>Sólo para las excepciones</item>
+        <item>Nunca</item>
+    </string-array>
+    <string-array name="lock_mode">
+        <item>Bloquear cuando el dispositivo está bloqueado</item>
+        <item>Bloquear después de salir de una aplicación</item>
+        <item>Bloquear en 1 minuto después de salir de una aplicación</item>
+    </string-array>
+    <string-array name="sort_type">
+        <item>Estado</item>
+        <item>Nombre de la aplicación</item>
+        <item>Frecuencia de uso</item>
+        <item>Almacenamiento usado</item>
+        <item>Uso de datos</item>
+        <item>Uso de la batería</item>
+    </string-array>
+    <string-array name="sort_title">
+        <item>Ordenar por estado</item>
+        <item>Ordenar por nombre de aplicación</item>
+        <item>Ordenar por frecuencia de uso</item>
+        <item>Ordenar por almacenamiento usado</item>
+        <item>Ordenar por uso de datos</item>
+        <item>Ordenar por el uso de la batería</item>
+    </string-array>
+    <string-array name="sms_report_type">
+        <item>Uso de Datos</item>
+        <item>Saldo del teléfono</item>
+    </string-array>
+    <string-array name="alarm_repeat_type">
+        <item>Una vez</item>
+        <item>Todos los días</item>
+        <item>Días laborables</item>
+        <item>Entre semana</item>
+        <item>Personalizado</item>
+    </string-array>
+    <string-array name="alarm_repeat_type_no_workdays">
+        <item>Una vez</item>
+        <item>Todos los días</item>
+        <item>Días de semana</item>
+        <item>Personalizado</item>
+    </string-array>
+    <string-array name="power_dialog_sleep_items">
+        <item>15 segundos</item>
+        <item>30 segundos</item>
+        <item>1 minuto</item>
+        <item>2 minutos</item>
+        <item>5 minutos</item>
+        <item>10 minutos</item>
+        <item>Nunca</item>
+    </string-array>
+    <string-array name="power_dialog_cpu_state_items">
+        <item>Alto rendimiento</item>
+        <item>Balanceado</item>
+    </string-array>
+    <string-array name="power_dialog_wifi_internet_state_items">
+        <item>Desactivar</item>
+        <item>Activar</item>
+        <item>Predeterminado</item>
+    </string-array>
+    <string-array name="power_dialog_vibration_items">
+        <item>No vibrar nunca</item>
+        <item>Vibrar en modo silencio</item>
+        <item>Vibrar siempre</item>
+    </string-array>
+</resources>

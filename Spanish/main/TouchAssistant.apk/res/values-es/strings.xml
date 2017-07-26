@@ -1,0 +1,47 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<resources>
+  <string name="app_name">Asistente táctil</string>
+  <string name="app_not_installed">No instalada</string>
+  <string name="applications">Aplicaciones</string>
+  <string name="category_others">Otros</string>
+  <string name="category_setting">Ajustes</string>
+  <string name="close_panel">Desactivar Asistente táctil</string>
+  <string name="customize_entries">Seleccionar accesos directos</string>
+  <string name="enable_touch_assistant">Activar Asistente táctil</string>
+  <string name="enabled_for_pad_hint">Trabajar cuando \"Bloquear los botones de navegación en modo horizontal\" está activado</string>
+  <string name="function_settings">Ajustes de los accesos directos</string>
+  <string name="hide_touch_assistant">Ocultar automáticamente</string>
+  <string name="hide_touch_assistant_intro">Ocultar la Asistente táctil en las aplicaciones seleccionadas.</string>
+  <string name="hide_when_fullscreen">Mueve hacia un lado estando en Pantalla completa</string>
+  <string name="hide_when_fullscreen_intro">Mueve hacia un lado cuando entres en modo Pantalla completa.</string>
+  <string name="motion_behavior">Gesto preferido</string>
+  <string name="name_alipay_payment_code">Pago Alipay</string>
+  <string name="name_alipay_scan">Escáner Alipay</string>
+  <string name="name_handy_mode">Modo con una mano</string>
+  <string name="name_long_press_power_key">Pulsación prolongada del botón de encendido</string>
+  <string name="name_memory_clean">Limpiar caché</string>
+  <string name="name_music_next_song">Próxima canción</string>
+  <string name="name_music_prev_song">Anterior canción</string>
+  <string name="name_music_toggle">Reproducir/Pausar canción</string>
+  <string name="name_payment_code">Pago rápido</string>
+  <string name="name_press_back_key">Atrás</string>
+  <string name="name_press_home_key">Inicio</string>
+  <string name="name_press_menu_key">Menú</string>
+  <string name="name_quick_lock">Apagar la pantalla</string>
+  <string name="name_quick_search">Buscar</string>
+  <string name="name_scan_to_pay">Escanear para pagar</string>
+  <string name="name_screenshot">Captura de pantalla</string>
+  <string name="name_wechat_payment_code">Pago WeChat</string>
+  <string name="name_wechat_scan">Escáner WeChat</string>
+  <string name="not_working">%s (No funciona)</string>
+  <string name="open_panel">Activar Asistente táctil</string>
+  <string name="pay_entry_dialog_title_select">Seleccionar aplicación para abrirla</string>
+  <string name="pay_entry_dialog_title_setting">Configurar la aplicación</string>
+  <string name="pref_category_others">Otros</string>
+  <string name="pref_category_quick_pay">Pago rápido</string>
+  <string name="pref_category_quick_settings">Ajustes rápidos</string>
+  <string name="pref_category_system">Ajustes del sistema</string>
+  <string name="restore_intro">Restaurar los valores de fábrica, incluyendo los accesos directos y su orden. Los datos de las aplicaciones de tu dispositivo no se verán afectados.</string>
+  <string name="show_on_keyguard">Mostrar en la Pantalla de bloqueo</string>
+  <string name="theme_manager_not_supported">"No se admite el gestor de temas."</string>
+</resources>

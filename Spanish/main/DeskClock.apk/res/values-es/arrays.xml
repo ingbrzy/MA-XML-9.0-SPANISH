@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="stat_volume_button_behaviors">
+        <item>No</item>
+        <item>Posponer alarma</item>
+        <item>Apagar</item>
+    </string-array>
+    <string-array name="alarm_in_furture">
+        <item>Alarma en menos de 1 minuto</item>
+        <item>Sonará en %1$s</item>
+        <item>Sonará en %2$s</item>
+        <item>Sonará en %1$s %2$s</item>
+        <item>Sonará en %3$s</item>
+        <item>Sonará en %1$s %3$s</item>
+        <item>Sonará en %2$s %3$s</item>
+        <item>Sonará en %1$s %2$s %3$s</item>
+    </string-array>
+    <string-array name="days">
+        <item>Ayer</item>
+        <item>Hoy</item>
+        <item>Mañana</item>
+    </string-array>
+    <string-array name="alarm_repeat_type">
+        <item>Una sola vez</item>
+        <item>Diariamente</item>
+        <item>En días laborales</item>
+        <item>En días de descanso</item>
+        <item>De Lunes a Viernes</item>
+        <item>Personalizar</item>
+    </string-array>
+    <string-array name="alarm_repeat_type_no_workdays">
+        <item>Una sola vez</item>
+        <item>Diariamente</item>
+        <item>Lunes a Viernes</item>
+        <item>Personalizar</item>
+    </string-array>
+    <string-array name="alarm_set">
+        <item>La alarma sonará en menos de 1 minuto.</item>
+        <item>La alarma sonará en %1$s.</item>
+        <item>La alarma sonará en %2$s.</item>
+        <item>La alarma sonará en %1$s y %2$s.</item>
+        <item>La alarma sonará en %3$s.</item>
+        <item>La alarma sonará en %1$s y %3$s.</item>
+        <item>La alarma sonará en %2$s y %3$s.</item>
+        <item>La alarma sonará en %1$s %2$s y %3$s.</item>
+    </string-array>
+    <string-array name="snooze_duration_entries">
+        <item>1 minuto</item>
+        <item>5 minutos</item>
+        <item>10 minutos</item>
+        <item>15 minutos</item>
+        <item>20 minutos</item>
+        <item>25 minutos</item>
+        <item>30 minutos</item>
+    </string-array>
+    <string-array name="auto_silence_entries">
+        <item>Nunca</item>
+        <item>1 minuto</item>
+        <item>5 minutos</item>
+        <item>10 minutos</item>
+        <item>15 minutos</item>
+        <item>20 minutos</item>
+        <item>25 minutos</item>
+        <item>30 minutos</item>
+    </string-array>
+    <string-array name="volume_button_setting_entries">
+        <item>No hacer nada</item>
+        <item>Repetir</item>
+        <item>Rechazar</item>
+    </string-array>
+</resources>

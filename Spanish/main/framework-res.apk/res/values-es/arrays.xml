@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="app_ops_labels">
+        <item>Intentando habilitar Wi-Fi</item>
+        <item>Intentando activar BT</item>
+    </string-array>
+    <string-array name="config_globalActionsList">
+        <item>energía</item>
+        <item>perfil</item>
+        <item>reiniciar</item>
+        <item>avión</item>
+        <item>silencio</item>
+    </string-array>
+    <string-array name="emailAddressTypes">
+        <item>Casa</item>
+        <item>Trabajo</item>
+        <item>Otros</item>
+        <item>Personalización</item>
+    </string-array>
+    <string-array name="imProtocols">
+        <item>AIM</item>
+        <item>Windows Live</item>
+        <item>Yahoo</item>
+        <item>Skype</item>
+        <item>QQ</item>
+        <item>Google Talk</item>
+        <item>ICQ</item>
+        <item>Jabber</item>
+    </string-array>
+    <string-array name="organizationTypes">
+        <item>Trabajo</item>
+        <item>Otros</item>
+        <item>Personalización</item>
+    </string-array>
+    <string-array name="phoneTypes">
+        <item>Casa</item>
+        <item>Móvil</item>
+        <item>Trabajo</item>
+        <item>Fax laboral</item>
+        <item>Fax residencial</item>
+        <item>Localizador</item>
+        <item>Otros</item>
+        <item>Personalización</item>
+    </string-array>
+    <string-array name="postalAddressTypes">
+        <item>Casa</item>
+        <item>Trabajo</item>
+        <item>Otros</item>
+        <item>Personalización</item>
+    </string-array>
+    <string-array name="fingerprint_acquired_vendor">
+        <item>Inténtalo de nuevo</item>
+        <item></item>
+        <item></item>
+        <item>Cubra el lector de huellas dactilares por completo y aplique presión</item>
+        <item></item>
+        <item>Cubra el lector de huellas dactilares por completo y aplique presión</item>
+        <item>Cubra el lector de huellas dactilares por completo y aplique presión</item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item>Cubra el lector de huellas dactilares por completo y aplique presión</item>
+        <item>Cubra el lector de huellas dactilares por completo y aplique presión</item>
+        <item>"¡Demasiado rápido! No se ha podido reconocer la huella dactilar"</item>
+        <item>Mueva el dedo un poco y vuelva a intentarlo</item>
+        <item>Levante el dedo y colóquelo de nuevo lector de huellas</item>
+        <item>Mantener el dedo en el lector de huellas un poco más</item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item>Mueve tu dedo ligeramente</item>
+        <item>Esta huella digital se ha añadido, utilizar un dedo diferente</item>
+    </string-array>
+    <string-array name="imAddressTypes">
+        <item>Casa</item>
+        <item>Trabajo</item>
+        <item>Otros</item>
+        <item>Personalización</item>
+    </string-array>
+    <string-array name="wfcOperatorErrorAlertMessages">
+        <item>Para realizar llamadas y enviar mensajes a través de Wi-Fi, primero pida a su operador que configure este servicio. A continuación, vuelva a activar la llamada Wi-Fi desde ajustes.</item>
+    </string-array>
+    <string-array name="wfcOperatorErrorNotificationMessages">
+        <item>Regístrese con su operador</item>
+    </string-array>
+    <string-array name="wfcSpnFormats">
+        <item>%s</item>
+        <item>%s Llamadas Wi-Fi</item>
+    </string-array>
+</resources>
