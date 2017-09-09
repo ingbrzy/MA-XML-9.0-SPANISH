@@ -7,11 +7,9 @@
   <string name="ac_privacy_mode_sum">Se requiere una contraseña para desactivar el Modo invitado</string>
   <string name="ac_privacy_mode_title">Contraseña</string>
   <string name="ac_set_apps_title">Seleccionar aplicaciones para bloquear</string>
-  <string name="access_control_app_entry_multiple">
-    <xliff:g id="ENTRY">%s</xliff:g>Abrir </string>
+  <string name="access_control_app_entry_multiple">%s Abrir </string>
   <string name="access_control_app_entry_single">Abrir aplicación</string>
-  <string name="access_control_need_password">
-    <xliff:g id="ACCESS">%s</xliff:g> ha sido bloqueado\n</string>
+  <string name="access_control_need_password">%s ha sido bloqueado\n</string>
   <string name="access_control_need_to_unlock">Se requiere contraseña:</string>
   <string name="access_control_no_back_footer">Pulsa [icon] para salir</string>
   <string name="access_control_password_title">Contraseña</string>
@@ -73,10 +71,8 @@
   <string name="app_backup">Copia de seguridad</string>
   <string name="app_factory_reset_dlg_text">Todas las actualizaciones de esta aplicación de sistema Android serán desinstaladas.</string>
   <string name="app_factory_reset_dlg_title">¿Desinstalar actualizaciones?</string>
-  <string name="app_floating_window_dlg_disable">
-    <xliff:g idNAME="PACKAGE_idNAME">%1$s</xliff:g> requiere que la aplicación se reinicie.Desactivar las ventanas flotantes de </string>
-  <string name="app_floating_window_dlg_enable">
-    <xliff:g idNAME="PACKAGE_idNAME">%1$s</xliff:g> requiere que la aplicación se reinicie.Activar las ventanas flotantes de </string>
+  <string name="app_floating_window_dlg_disable">%1$s requiere que la aplicación se reinicie.Desactivar las ventanas flotantes de </string>
+  <string name="app_floating_window_dlg_enable">%1$s requiere que la aplicación se reinicie.Activar las ventanas flotantes de </string>
   <string name="app_invisible">Aplicaciones invisibles</string>
   <string name="app_notifications_switch_label" msgid="9124072219553687583">"Notificación personalizada"</string>
   <string name="app_switch_key">Recientes</string>
@@ -108,15 +104,13 @@
   <string name="auto_rule">programar regla</string>
   <string name="auto_silent">Timing Muted</string>
   <string name="auto_startup_application_manage">Inicio automático</string>
-  <string name="available_size">
-    <xliff:g id="SIZE">%s</xliff:g> disponible</string>
+  <string name="available_size">%s disponible</string>
   <string name="avoid_ui">Bloqueo de toque</string>
   <string name="back_key">Volver</string>
   <string name="backtouch_enable_title">Ajustar volumen en la tapa trasera</string>
   <string name="backup_data_summary">Crear copia de respaldo de datos, contraseñas Wi-Fi y otros ajustes en los servidores de Google</string>
   <string name="backup_erase_dialog_message">¿Desea detener la copia de contraseñas Wi-Fi, marcadores, otros ajustes, datos de aplicaciones y eliminar también las copias de los servidores de Google?</string>
-  <string name="batch_delete_saved_network">
-    <xliff:g id="NETWORK_SSID">Eliminar las redes seleccionadas: %s</xliff:g>?¿</string>
+  <string name="batch_delete_saved_network">¿Eliminar las redes seleccionadas: %s?</string>
   <string name="batch_delete_saved_networks">Eliminar todas las redes seleccionadas</string>
   <string name="battery_action_wifi">Ajustes de Wi-Fi</string>
   <string name="battery_desc_wifi">Batería usada con Wi-Fi</string>
@@ -167,13 +161,13 @@
   <string name="block_list_diaglog_cancle">Cancelar</string>
   <string name="block_list_diaglog_ok">OK</string>
   <string name="block_list_dialog_content">
-    <xliff:g id="DEVICE_NAME">%s</xliff:g>” de este dispositivo y lo añadirá a la lista de bloqueoEsta acción desconectará “</string>
+    %s de este dispositivo y lo añadirá a la lista de bloqueo.Esta acción desconectará “</string>
   <string name="block_list_dialog_title">¿Desconectar ahora?</string>
   <string name="block_list_no_device">No hay dispositivos en la lista de bloqueo</string>
   <string name="block_list_remove_dialog_content">
-    <xliff:g id="DEVICE_NAME">%s</xliff:g>” podrá conectarse a este punto de accesoEste dispositivo “</string>
+    %s podrá conectarse a este punto de acceso Este dispositivo “</string>
   <string name="block_list_remove_dialog_title">
-    <xliff:g id="DEVICE_NAME">%s</xliff:g>” de la lista de bloqueoEliminar “</string>
+    %s de la lista de bloqueoEliminar “</string>
   <string name="block_list_summary">Ver dispositivos que no tienen permitido conectarse a este punto de acceso</string>
   <string name="block_list_title">Lista de bloqueo</string>
   <string name="bluetooth_ask_enablement_and_discovery_detected" product="tablet">
@@ -182,7 +176,7 @@
     <xliff:g id="timeout">%1$d</xliff:g> segundos.\u0020quiere activar el Bluetooth y hacer su teléfono visible para otros dispositivos durante </string>
   <string name="bluetooth_ask_enablement_and_lasting_discovery_detected" product="tablet">\u0020quiere activar el Bluetooth y hacer su tablet visible para otros dispositivos. Puede cambiar esto más tarde en los ajustes del Bluetooth.</string>
   <string name="bluetooth_ask_enablement_and_lasting_discovery_detected" product="default">\u0020quiere activar el Bluetooth y hacer su teléfono visible para otros dispositivos. Puede cambiar esto más tarde en los ajustes del Bluetooth.</string>
-  <string name="bluetooth_ask_enablement_detected">\u0020quiere activar el Bluetooth.</string>
+  <string name="bluetooth_ask_enablement_detected"> quiere activar el Bluetooth.</string>
   <string name="bluetooth_device_address">Dirección:</string>
   <string name="bluetooth_device_misc_title">Dispositivos Bluetooth raramente usados</string>
   <string name="bluetooth_device_name">Nombre:</string>
@@ -206,7 +200,7 @@
   <string name="bluetooth_unlock_settings_unlock_device">Desbloquear dispositivo</string>
   <string name="bluetooth_unlock_state_disconnected">Desconectado</string>
   <string name="bluetooth_unlock_state_key_error">Error de clave</string>
-  <string name="bluetooth_unlock_state_label">Estado:\u0020</string>
+  <string name="bluetooth_unlock_state_label">Estado: </string>
   <string name="bluetooth_unlock_state_ok">Desbloqueado</string>
   <string name="bluetooth_unlock_state_too_far">No está lo suficientemente cerca</string>
   <string name="bluetooth_unlock_title">Desbloquear con disp. Bluetooth</string>
@@ -248,7 +242,7 @@
   <string name="bt_hci_snoop_log">Registro snoop de Bluetooth HCI</string>
   <string name="bt_hci_snoop_log_summary">Mantener todos los paquetes Bluetooth HCI en un archivo</string>
   <string name="bt_rarely_used_device_title">
-    <xliff:g id="count" example="5">%d</xliff:g>)Rerely used devices (</string>
+    %d)Rerely used devices (</string>
   <string name="bt_trace_log">Registro de seguimiento de Bluetooth</string>
   <string name="bt_trace_log_summary">Registro de seguimiento de Bluetooth</string>
   <string name="bug_report_settings">Feedback</string>
@@ -317,8 +311,7 @@
   <string name="connected_wifi">Conectado</string>
   <string name="connecting_to_vpn">Conectándose a la VPN</string>
   <string name="convenience_key_category_title">System control</string>
-  <string name="country_name">
-    <xliff:g id="NAME">%s</xliff:g> (sistema)</string>
+  <string name="country_name">%s (sistema)</string>
   <string name="credentials_configure_lock_screen_hint">Para usar el almacenamiento de credenciales, debe establecer una contraseña o un PIN en la Pantalla de bloqueo.</string>
   <string name="credentials_password_too_short">Mínimo de 8 caracteres</string>
   <string name="crypt_keeper_conditions" product="tablet">El proceso de cifrado puede tardar una hora o más. Debe comenzar con la batería cargada y mantener su tableta enchufada durante el proceso. Si lo interrumpe, perderá algunos o todos sus datos</string>
@@ -532,7 +525,7 @@
   <string name="font_size_preview" tranlatable="false">MIUI</string>
   <string name="font_size_small">Más pequeño</string>
   <string name="font_size_summary">Cambiar el tamaño del texto de la pantalla de Inicio, barra de notificaciones, teclado de marcado y menús del sistema.\n\n</string>
-  <string name="font_size_summary1">Si el tamaño del texto sigue siendo pequeño, pruebe con\u0020</string>
+  <string name="font_size_summary1">Si el tamaño del texto sigue siendo pequeño, pruebe con </string>
   <string name="font_size_summary2">Modo simplificado.</string>
   <string name="forbidden_switch_apn_string">Los ajustes de la APN seleccionada no corresponden con el tipo de red actual</string>
   <string name="force_immersive_compatibility_dont_hide">No ocultar</string>
@@ -554,31 +547,28 @@
   <string name="free_wifi_agreement_remind_never">"No mostrar de nuevo"</string>
   <string name="free_wifi_confirm">OK</string>
   <string name="free_wifi_connect">Conectar</string>
-  <string name="free_wifi_connect_dialog_summary">
-    <xliff:g id="WIFI_NAME">%1$s</xliff:g>
-    <xliff:g id="PROVIDER_NAME">%2$s</xliff:g> proporcionado por .</string>
+  <string name="free_wifi_connect_dialog_summary">%1$s%2$s proporcionado por .</string>
   <string name="free_wifi_connect_dialog_title">Red Wi-Fi disponible</string>
   <string name="free_wifi_connect_fail">"No es posible conectarse a la red. Compruebe la conexión de datos e inténtelo de nuevo."</string>
   <string name="free_wifi_connect_fail2">"No se puede acceder. Espere un par de minutos e inténtelo de nuevo."</string>
   <string name="free_wifi_connect_summary">
-    <xliff:g id="NAME">%1$s</xliff:g>.Pulsa para conectarse a </string>
+    %1$s.Pulsa para conectarse a </string>
   <string name="free_wifi_connect_title">Red Wi-Fi disponible</string>
   <string name="free_wifi_connected">Conectado a una red Wi-Fi gratuita</string>
-  <string name="free_wifi_connected_time">
-    <xliff:g id="WIFI_ONLINE_TIME">%1$s</xliff:g>Duración： </string>
+  <string name="free_wifi_connected_time">%1$s Duración： </string>
   <string name="free_wifi_connecting">Conectando…</string>
   <string name="free_wifi_login_again">Acceder de nuevo</string>
   <string name="free_wifi_manage_summary">
-    <xliff:g id="NAME">%1$s</xliff:g>.Pulsa para ver </string>
+    %1$s.Pulsa para ver </string>
   <string name="free_wifi_speed_title">¿Conexión lenta?</string>
   <string name="free_wifi_summary">
-    <xliff:g id="NAME">%1$s</xliff:g>.Pulsa para conectarse a </string>
+    %1$s.Pulsa para conectarse a </string>
   <string name="free_wifi_user_agreement">Cuando use WiWide para conectarse a una red, su número de teléfono se utilizará para verificar su identidad.</string>
   <string name="free_wifi_user_agreement_allow">Permitir</string>
   <string name="free_wifi_user_agreement_title">Aviso de privacidad</string>
   <string name="free_wifi_wiwide_provider">WiWide</string>
   <string name="free_xiaomi_wifi_connect_summary">
-    <xliff:g id="NAME">%1$s</xliff:g>.Pulsa para conectarse a </string>
+    %1$s.Pulsa para conectarse a </string>
   <string name="frequently_fragment_delete">Eliminar</string>
   <string name="frequently_fragment_tempty">Los elementos usados frecuentemente se indicarán aquí</string>
   <string name="full_transparent_smarrcover_title">Fondo transparente</string>
@@ -617,7 +607,7 @@
   <string name="http_invoke_app">Aplicaciones Web</string>
   <string name="http_invoke_app_summary">Abrir aplicaciones más rápido sin instalarlas</string>
   <string name="ime_security_warning">
-    <xliff:g id="ime_application_name">%1$s</xliff:g> puede almacenar todo lo que escriba, incluyendo contraseñas, números de tarjetas de crédito y otra información personal.</string>
+    <xliff:g id="ime_application_name">%1$s puede almacenar todo lo que escriba, incluyendo contraseñas, números de tarjetas de crédito y otra información personal.</string>
   <string name="incoming_call_breathing_light_color_title">Color del LED para llamadas</string>
   <string name="incoming_call_breathing_light_freq_title">Frecuencia de parpadeo del LED para llamadas</string>
   <string name="information_dialog_button_text">De acuerdo</string>
@@ -629,15 +619,17 @@
   <string name="install_whole_rom">Descargar ROM</string>
   <string name="instruction_title">Instrucciones</string>
   <string name="keep_legacy_fingerprint">Mantener</string>
-  <string name="key_combination_power_back">Power key + Back key</string>
-  <string name="key_combination_power_home">Power key + Home key</string>
-  <string name="key_combination_power_menu">Power key + Menu key</string>
+  <string name="long_press_back_key">Pulsación larga botón atrás</string>
+  <string name="key_combination_power_home">Botón de encendido + Botón de inicio</string>
+  <string name="key_combination_power_menu">Botón de encendido + Botón de menú</string>
+  <string name="key_combination_power_back">Botón de encendido  + Botón de atrás</string>
+  <string name="long_press_buttom_key">Pulsación larga en botón después de bloquear</string>
   <string name="key_gesture_function_dialog_message">%1$s has been set to %2$s shortcuts ,whether replaced with %3$s</string>
-  <string name="key_gesture_function_dialog_negative">Cancel</string>
+  <string name="key_gesture_function_dialog_negative">Cancelar</string>
   <string name="key_gesture_function_dialog_positive">Replace</string>
   <string name="key_gesture_function_optional">Optional gestures and key</string>
   <string name="key_gesture_function_preview">Gestures and key preview</string>
-  <string name="key_gesture_function_shortcut">Function shortcut</string>
+  <string name="key_gesture_function_shortcut">Atajo de función</string>
   <string name="key_none">none</string>
   <string name="key_settings">Key and gesture shortcut</string>
   <string name="key_settings_title">Key and gesture shortcut</string>
@@ -724,8 +716,7 @@
   <string name="lock_screen_notifications_summary_hide">Mostrar todas las notificaciones pero ocultar contenido</string>
   <string name="lock_screen_notifications_summary_show">Mostrar todas las notificaciones y su contenido</string>
   <string name="lock_screen_secure_after_timeout_immediately_summary">Se requiere contraseña inmediatamente. </string>
-  <string name="lock_screen_secure_after_timeout_summary">
-    <xliff:g id="NEED_PASSWORD_DESCRIPTION">%1$s</xliff:g>Requiere contraseña: </string>
+  <string name="lock_screen_secure_after_timeout_summary">%1$s Requiere contraseña: </string>
   <string name="lock_screen_secure_after_timeout_title">Se requiere contraseña</string>
   <string name="lock_screen_unlock_show">Ocultar pantalla de bloqueo</string>
   <string name="lock_screen_unlock_show_summary">Ir directamente a la pantalla de inicio o introducción de la contraseña al activar</string>
@@ -747,8 +738,7 @@
   <string name="lockpassword_pin_contains_non_digits">"El PIN sólo puede contener números"</string>
   <string name="lockpassword_pin_recently_used">"El administrador de dispositivos no permite el desbloqueo PIN"</string>
   <string name="lockpassword_pin_set_toast">"PIN establecido"</string>
-  <string name="lockpassword_pin_too_long">
-    <xliff:g id="number" example="17">%d</xliff:g> dígitos""El PIN debe de tener menos de </string>
+  <string name="lockpassword_pin_too_long">%d dígitos""El PIN debe de tener menos de </string>
   <string name="lockpassword_pin_too_short">"El PIN debe tener %d dígitos"</string>
   <string name="lockpattern_change_lock_pin_label">"Cambiar PIN"</string>
   <string name="lockpattern_need_to_confirm">Dibuje nuevamente el patrón para confirmar:</string>
@@ -811,10 +801,10 @@
   <string name="media_button">Botón multimedia</string>
   <string name="media_feedback_enable_title">Vibrar según el ritmo de la música</string>
   <string name="memory_rightvalue">
-    <xliff:g id="SIZE">%s</xliff:g>""Disponible: </string>
+    <xliff:g id="SIZE">%s""Disponible: </string>
   <string name="memory_title">
-    <xliff:g id="SIZE">%1$s</xliff:g>
-    <xliff:g id="SIZE">%2$s</xliff:g>""Disponible: \t\tTotal: </string>
+    <xliff:g id="SIZE">%1$s
+    <xliff:g id="SIZE">%2$s""Disponible: \t\tTotal: </string>
   <string name="menu_check">Experiencia</string>
   <string name="menu_key">Menú</string>
   <string name="menu_restore">Restablecer</string>
@@ -860,9 +850,9 @@
   <string name="msd_install_status_undo">Instalar controlador</string>
   <string name="msd_install_succeed">Controlador instalado</string>
   <string name="msd_pc_system_install_finish_summary_vista">
-    <xliff:g id="MODEL">%1$s</xliff:g> aparecerá como un almacenamiento USB cuando lo conecte al ordenador.Para Windows Vista y versiones posteriores, </string>
+    <xliff:g id="MODEL">%1$s aparecerá como un almacenamiento USB cuando lo conecte al ordenador.Para Windows Vista y versiones posteriores, </string>
   <string name="msd_pc_system_install_finish_summary_xp">
-    <xliff:g id="MODEL">%1$s</xliff:g> aparecerá como un almacenamiento USB cuando se conecte al ordenador.Después de instalar el controlador\n</string>
+    <xliff:g id="MODEL">%1$s aparecerá como un almacenamiento USB cuando se conecte al ordenador.Después de instalar el controlador\n</string>
   <string name="msd_pc_system_install_summary_xp">1. Ejecute setup.exe para instalar</string>
   <string name="msg_wlan_signal_found">¿Conectarse a %s?</string>
   <string name="msim_sim_radio_off">Desactivado</string>
@@ -876,7 +866,7 @@
   <string name="netcheck_title">Diagnóstico de red</string>
   <string name="network_assistant">Uso de datos</string>
   <string name="network_detail">
-    <xliff:g id="NETWORK">%s</xliff:g> Detalles de red</string>
+    <xliff:g id="NETWORK">%s Detalles de red</string>
   <string name="network_error">Error de red</string>
   <string name="network_settings_title">Redes móviles</string>
   <string name="networks_title">Redes móviles</string>
@@ -889,7 +879,7 @@
   <string name="nfc_se_wallet_title">Monedero predeterminado</string>
   <string name="no_connected_devices">No hay dispositivos conectados</string>
   <string name="no_internet_access_text">
-    <xliff:g id="NETWORK_NAME">%1$s</xliff:g> no tiene acceso a internet. ¿Permanecer conectado?La red Wi-Fi </string>
+    <xliff:g id="NETWORK_NAME">%1$s no tiene acceso a internet. ¿Permanecer conectado?La red Wi-Fi </string>
   <string name="no_media_button_receiver">No</string>
   <string name="no_nearby_wifi">No hay redes disponibles</string>
   <string name="no_services">No hay servicios activos</string>
@@ -920,7 +910,7 @@
   <string name="open_sdcard_optimization_warning_message">Tu dispositivo se reiniciará para aplicar este cambio.</string>
   <string name="open_wifi_connect_summary">Toca para ver detalles.</string>
   <string name="open_wifi_connect_title">
-    <xliff:g id="NAME">%1$s</xliff:g>Conectado a </string>
+    %1$sConectado a </string>
   <string name="optimization_cancel">Cancelar</string>
   <string name="optimization_close">"Desactivar y reiniciar"</string>
   <string name="optimization_open">Activar</string>
@@ -1040,27 +1030,27 @@
   <string name="preferred_app_settings_reset_button">Restablecer</string>
   <string name="preferred_app_settings_reset_message">Las preferencias predeterminadas de las aplicaciones se restablecerán a los ajustes de fábrica.</string>
   <string name="preferred_application_title">
-    <xliff:g id="APPLICATION_LABEL">%s</xliff:g>Preferentemente </string>
+    <xliff:g id="APPLICATION_LABEL">%sPreferentemente </string>
   <string name="preferred_application_warning_message" product="tablet">
-    <xliff:g id="APPLICATION_LABEL">%1$s</xliff:g>
-    <xliff:g id="APPLICATION_LABEL">%2$s</xliff:g> predeterminado puede incrementar el consumo de energía, reducir la velocidad, poner en riesgo los contenidos, etc. Use en su lugar .Reemplazar el </string>
+    <xliff:g id="APPLICATION_LABEL">%1$s
+    <xliff:g id="APPLICATION_LABEL">%2$s predeterminado puede incrementar el consumo de energía, reducir la velocidad, poner en riesgo los contenidos, etc. Use en su lugar .Reemplazar el </string>
   <string name="preferred_application_warning_message" product="default">
-    <xliff:g id="APPLICATION_LABEL">%1$s</xliff:g>
-    <xliff:g id="APPLICATION_LABEL">%2$s</xliff:g> predeterminado puede incrementar el consumo de energía, reducir la velocidad, poner en riesgo los contenidos, etc. Use en su lugar .Reemplazar el </string>
+    <xliff:g id="APPLICATION_LABEL">%1$s
+    <xliff:g id="APPLICATION_LABEL">%2$s predeterminado puede incrementar el consumo de energía, reducir la velocidad, poner en riesgo los contenidos, etc. Use en su lugar .Reemplazar el </string>
   <string name="preferred_application_warning_replace">Reemplazar</string>
   <string name="preferred_application_warning_title">
-    <xliff:g id="APPLICATION_LABEL">%s</xliff:g> predeterminadoReemplazar </string>
+    <xliff:g id="APPLICATION_LABEL">%s predeterminadoReemplazar </string>
   <string name="preferred_application_warning_use_system">
-    <xliff:g id="APPLICATION_LABEL">%s</xliff:g>Usar </string>
+    <xliff:g id="APPLICATION_LABEL">%sUsar </string>
   <string name="preferred_media_app_summary">Seleccionar reproductor de música</string>
   <string name="preferred_network_type_title">Tipo de red preferida</string>
   <string name="preferred_sms_settings">Esta aplicación será su aplicación principal de mensajería para leer y redactar mensajes.</string>
   <string name="preferred_sms_title">Aplicación de mensajería predeterminada</string>
   <string name="preferred_sms_warning_message">
-    <xliff:g id="APPLICATION_LABEL">%1$s</xliff:g> como app de mensajería por defecto podría aumentar el uso de datos móviles o poner tus datos personales en riesgo.Usar </string>
+    <xliff:g id="APPLICATION_LABEL">%1$s como app de mensajería por defecto podría aumentar el uso de datos móviles o poner tus datos personales en riesgo.Usar </string>
   <string name="preferred_sms_warning_use_system">"No usar"</string>
   <string name="priority_storage_app_settings">
-    <xliff:g id="PRIORITY_STORAGE_APP">%1$s</xliff:g>Los datos se guardarán en </string>
+    <xliff:g id="PRIORITY_STORAGE_APP">%1$sLos datos se guardarán en </string>
   <string name="priority_storage_settings_summary">"Si no se detecta ninguna tarjeta SD, los datos del usuario se guardarán automáticamente en la memoria interna del dispositivo"</string>
   <string name="priority_storage_summary">Selecciona dónde guardar sus datos</string>
   <string name="priority_storage_title">Ajustes de almacenamiento</string>
@@ -1445,8 +1435,8 @@
   <string name="size_mega_byte">MB</string>
   <string name="size_peta_byte">PB</string>
   <string name="size_suffix">
-    <xliff:g id="number" example="123">%1$s</xliff:g>
-    <xliff:g id="unit" example="KB">%2$s</xliff:g>
+    <xliff:g id="number" example="123">%1$s
+    <xliff:g id="unit" example="KB">%2$s
   </string>
   <string name="size_tera_byte">TB</string>
   <string name="skip_lock_screen_confirm_msg">Notificaciones, controles del reproductor de música, Cámara y Mi Home se deshabilitarán en la pantalla de bloqueo.</string>
@@ -1481,24 +1471,24 @@
   <string name="storage_usb">Almacenamiento USB</string>
   <string name="storage_wizard_format_confirm_public_body">
     <b>
-      <xliff:g id="name" example="SD card">^1</xliff:g>.Al formatear se eliminarán todos los datos almacenados en </b>
-    <xliff:g id="name" example="SD card">^1</xliff:g> Para evitar la pérdida de datos, haga una copia de seguridad.
+      <xliff:g id="name" example="SD card">^1.Al formatear se eliminarán todos los datos almacenados en </b>
+    <xliff:g id="name" example="SD card">^1 Para evitar la pérdida de datos, haga una copia de seguridad.
     .
         \nEs necesario formatear </string>
   <string name="storage_wizard_format_confirm_third_body">
-    <xliff:g id="NAME_0">^1</xliff:g> está en proceso de formateo""</string>
+    <xliff:g id="NAME_0">^1 está en proceso de formateo""</string>
   <string name="storage_wizard_migrate_body">
-    <xliff:g id="name" example="SD card">^1</xliff:g>
-    <xliff:g id="time" example="1 hour">^2</xliff:g>
-    <xliff:g id="size" example="1.2 GB">^3</xliff:g> de almacenamiento interno. Algunas aplicaciones no funcionarán durante el proceso.
+    <xliff:g id="name" example="SD card">^1
+    <xliff:g id="time" example="1 hour">^2
+    <xliff:g id="size" example="1.2 GB">^3 de almacenamiento interno. Algunas aplicaciones no funcionarán durante el proceso.
      y liberará .
         \nTardará Puede mover sus fotos, archivos y algunas aplicaciones a </string>
   <string name="storage_wizard_ready_external_body">
-    <xliff:g id="name" example="SD card">^1</xliff:g> está lista para usarse con fotos y otro contenido multimedia.
+    <xliff:g id="name" example="SD card">^1 está lista para usarse con fotos y otro contenido multimedia.
     
         Su </string>
   <string name="storage_wizard_ready_title">
-    <xliff:g id="NAME">^1</xliff:g> está listo""</string>
+    ^1 está listo""</string>
   <string name="suggest_unrestrict_max_aspect_ratio_title">Suggest enable max aspect ratio</string>
   <string name="supl_not_set">&lt;No definido&gt;</string>
   <string name="sure_sync_now">¿Sincronizar elementos ahora?</string>
@@ -1541,7 +1531,7 @@
   <string name="total">No molestar</string>
   <string name="total_info">Silence sounds and turn off vibration for all items except the Alarm clock</string>
   <string name="total_size">
-    <xliff:g id="SIZE">%s</xliff:g> total</string>
+    <xliff:g id="SIZE">%s total</string>
   <string name="touch_assistant">Bola flotante</string>
   <string name="touch_sensitive_summary">Hacer que la sensibilidad de la pantalla sea mayor a la presión</string>
   <string name="touch_sensitive_title">Modo guantes</string>
@@ -1694,11 +1684,11 @@
   <string name="welcome">Bienvenido</string>
   <string name="wfd_available_devices">Dispositivos disponibles</string>
   <string name="wfd_disconnect_diag_msg">
-    <xliff:g id="peer_name">%1$s</xliff:g>?¿Desconectar de </string>
+    <xliff:g id="peer_name">%1$s?¿Desconectar de </string>
   <string name="wfd_disconnect_diag_title">¿Desconectar pantalla?</string>
   <string name="wfd_disconnect_multiple_diag_message">
-    <xliff:g id="peer_name">%1$s</xliff:g>
-    <xliff:g id="peer_count">%2$s</xliff:g> otros dispositivos? y ¿Desconectar de </string>
+    <xliff:g id="peer_name">%1$s
+    <xliff:g id="peer_count">%2$s otros dispositivos? y ¿Desconectar de </string>
   <string name="wfd_enable_wifi_diag_title">¿Activar Wi-Fi?</string>
   <string name="wfd_enabler_title">Pantalla inalámbrica</string>
   <string name="wfd_menu_search">Buscar dispositivos</string>
@@ -1762,8 +1752,8 @@
   <string name="wifi_p2p_wps_setup">Configuración WPS</string>
   <string name="wifi_poor_network_detection_summary">No usar una red Wi-Fi a menos que tenga una buena conexión a internet</string>
   <string name="wifi_priority_changed">
-    <xliff:g id="old_value"> %s </xliff:g>
-    <xliff:g idnew="idnew_value"> %s </xliff:g> | Nuevo valor Valor antiguo </string>
+    <xliff:g id="old_value"> %s 
+    <xliff:g idnew="idnew_value"> %s  | Nuevo valor Valor antiguo </string>
   <string name="wifi_priority_label">Prioridad</string>
   <string name="wifi_priority_settings_label">Ajustes de prioridad</string>
   <string name="wifi_priority_settings_summary">Establecer prioridad de cada punto de acceso</string>
@@ -1789,11 +1779,11 @@
   <string name="wifi_setup_eap_not_supported">Durante la configuración no puede definir una conexión Wi-Fi EAP, pero puede hacerlo cuando haya finalizado a través de Ajustes &gt; Conexiones inalámbricas y redes.</string>
   <string name="wifi_setup_title">Configuración Wi-Fi</string>
   <string name="wifi_setup_title_connected_network">
-    <xliff:g id="network_name" example="Happy Mobile">%s</xliff:g>Conectándose a </string>
+    <xliff:g id="network_name" example="Happy Mobile">%sConectándose a </string>
   <string name="wifi_setup_title_connecting_network">
-    <xliff:g id="network_name" example="Happy Mobile">%s</xliff:g>…Conectándose a </string>
+    <xliff:g id="network_name" example="Happy Mobile">%s…Conectándose a </string>
   <string name="wifi_setup_title_editing_network">
-    <xliff:g id="network_name" example="Happy Mobile">%s</xliff:g>Conectarse a </string>
+    <xliff:g id="network_name" example="Happy Mobile">%sConectarse a </string>
   <string name="wifi_setup_wizard_title">Seleccionar red Wi-Fi</string>
   <string name="wifi_share">Compartir Wi-Fi</string>
   <string name="wifi_share_action_turn_off">No compartir más redes</string>
@@ -1835,8 +1825,8 @@
   <string name="wifi_tether_checkbox_text">Zona Wi-Fi portátil</string>
   <string name="wifi_tether_configure_ap_text">Configurar zona Wi-Fi portátil</string>
   <string name="wifi_tether_configure_subtext">
-    <xliff:g id="network_ssid">%1$s</xliff:g>
-    <xliff:g id="network_security">%2$s</xliff:g> portátil</string>
+    <xliff:g id="network_ssid">%1$s
+    <xliff:g id="network_security">%2$s portátil</string>
   <string name="wifi_tether_failed_subtext">Error de zona Wi-Fi portátil</string>
   <string name="wifi_tether_setting_title">Ajustes</string>
   <string name="wifi_tether_settings_title">Punto de acceso personal</string>
@@ -1863,10 +1853,10 @@
   <string name="wifi_wapi_certification_dont_exist">La contraseña de red introducida no es correcta.</string>
   <string name="wifi_wapi_user_cert">Certificado de usuario</string>
   <string name="wifi_wps_connected">
-    <xliff:g id="network_name">%s</xliff:g>Conexión establecida con la red Wi-Fi </string>
+    <xliff:g id="network_name">%sConexión establecida con la red Wi-Fi </string>
   <string name="wifi_wps_onstart_pbc">Pulsa el botón Configuración Wi-Fi Protegida en tu router. Es posible que se llame \"WPS\" o que incluya este símbolo:</string>
   <string name="wifi_wps_onstart_pin">
-    <xliff:g id="number">%1$s</xliff:g> en tu router Wi-Fi. El asistente de instalación podría tardar hasta dos minutos en completarse.Introduce el PIN </string>
+    <xliff:g id="number">%1$s en tu router Wi-Fi. El asistente de instalación podría tardar hasta dos minutos en completarse.Introduce el PIN </string>
   <string name="wifi_wps_overlap_error">Se ha detectado otra sesión Wi-Fi. Inténtelo de nuevo en unos minutos.</string>
   <string name="wifi_wps_setup_title">Configuración Wi-Fi Protegida</string>
   <string name="wireless_off">Desactivado</string>
@@ -1887,8 +1877,8 @@
   <string name="xspace">Aplicaciones duales</string>
   <string name="zen_mode_alarm_use">Sonidos</string>
   <string name="zen_mode_events" msgid="2456995649835437565">Eventos</string>
-  <string name="zen_mode_from_call">Llamadas de\u0020</string>
-  <string name="zen_mode_from_sms">Mensajes de\u0020</string>
+  <string name="zen_mode_from_call">Llamadas de </string>
+  <string name="zen_mode_from_sms">Mensajes de </string>
   <string name="zen_mode_important_category" msgid="8123274463331022993">Ajustes</string>
   <string name="zen_mode_messages" msgid="5886440273537510894">Mensajes</string>
   <string name="zen_mode_miui_silent_category">Permitir</string>
