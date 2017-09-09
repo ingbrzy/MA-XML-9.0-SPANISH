@@ -58,7 +58,8 @@
   <string name="current_preview">Previsualizar</string>
   <string name="current_wallpaper">Actual</string>
   <string name="custom_wallpaper_picker">Personalizado</string>
-   <string name="default_folder_title_tools">Herramientas</string>
+  <string name="default_folder_title_tools">Herramientas</string>
+  <string name="default_screen_preview_title">Toque para establecer pantalla preterminada</string>
   <string name="delete">Eliminar</string>
   <string name="delete_screen">Eliminar pantalla</string>
   <string name="deselect_all">Deseleccionar todo</string>
@@ -151,15 +152,16 @@
   <string name="lock_screen_success_message">Aplicado a la pantalla de bloqueo</string>
   <string name="lock_screen_wallpaper">Fondo de pantalla de bloqueo</string>
   <string name="menu_add">Añadir</string>
-  <string name="menu_auto_fill">Relleno Automático</string>
+  <string name="menu_auto_fill">Rellenar celdas vacías</string>
   <string name="menu_back_desktop">Volver al escritorio</string>
-  <string name="menu_cell_setting">Ajustes de pantalla</string>
+  <string name="menu_cell_setting">Diseño de la pantalla</string>
   <string name="menu_customize">Ajustes</string>
+  <string name="menu_default_screen_preview">Establecer pantalla preterminada </string>
   <string name="menu_edit">Modificar escritorio</string>
   <string name="menu_exit_scene">Salir de Mi Space</string>
   <string name="menu_item_add_item">Llevar a la pantalla de inicio</string>
   <string name="menu_launcher_setting">Ajustes del lanzador</string>
-  <string name="menu_lock">Pantalla de bloqueo</string>
+  <string name="menu_lock">Bloquear iconos</string>
   <string name="menu_more">Más</string>
   <string name="menu_picktheme">Escoger un tema</string>
   <string name="menu_reset_scene">Volver a escenario predeterminado</string>
@@ -266,5 +268,5 @@
   <string name="widget_favorite_contacts_style">Cambiar tamaño</string>
   <string name="widget_gadget_player">Música</string>
   <string name="widget_global_search">Buscar</string>
-  <string name="widget_quick_function">Función rápida</string>
+  <string name="widget_quick_function">Atajos rápidos</string>
 </resources>
