@@ -532,4 +532,7 @@ Compruebe la configuración de la red y vuelva a intentarlo."</string>
   <string name="xingxiu">Estrellas</string>
   <string name="yearly">Anual (cada %s)</string>
   <string name="yearly_plain">Anual</string>
+  <string name="global_football_no_match">No hay partidos de fútbol programados para hoy.</string>
+  <string name="global_football_final">FINAL</string>
+  <string name="english_premium_league">English Premiere League</string>
 </resources>

@@ -11,11 +11,11 @@ Latest XML changes from originals values to translate | Últimos cambios hechos 
 
 https://github.com/ingbrzy/Xiaomi.eu-MIUIv9-XML-Compare
 
-What's new in our repositorie?  | Últimas actualizaciones al repositorio en Español:
+What's new in our repository?  | Últimas actualizaciones al repositorio en Español:
 
 https://github.com/ingbrzy/MA-XML-9.0-SPANISH/commits/master
 
 Special thanks to the active translators volunteers:
-@Infante007, @nosijf982, @rdgi, @Muchachito, @tururut, @elyorch76 & @asirena
+@Infante007, @nosijf982, @rdgi, @Muchachito
 
 # If you want to help in translations, please contact @Infante007 or @ingbrzy for further details.
