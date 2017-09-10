@@ -444,15 +444,10 @@
   <string name="card_data_request_error">Error de transferencia, por favor inténtelo más tarde~</string>
   <string name="card_retry">Reintentar</string>
   <string name="in_the_end">No hay más</string>
-  <string name="item_resource_audio_divider">│</string>
   <string name="item_resource_audio_optional_color_ring">color ring</string>
   <string name="item_resource_audio_optional_phone_ring">tono de llamada</string>
   <string name="item_resource_audio_optional_alarm_ring">tono de alarma</string>
-  <string name="item_resource_audio_optional_notification_ring">notification ring</string>
-  <string name="resource_ring_ranking_list_divider">-</string>
-  <string name="resource_ring_ranking_list_rank_1">1</string>
-  <string name="resource_ring_ranking_list_rank_2">2</string>
-  <string name="resource_ring_ranking_list_rank_3">3</string>
+  <string name="item_resource_audio_optional_notification_ring">tono de notificación</string>
   <string name="ringtone_set_success">Establecido con éxito</string>
   <string name="online_precust_dreams">Sueños</string>
   <string name="online_precust_midnight">Medianoche</string>
