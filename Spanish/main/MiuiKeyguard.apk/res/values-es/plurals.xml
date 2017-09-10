@@ -1,7 +1,55 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+	<plurals name="incorrect_pukcode_remaining_attempts">
+        <item quantity="other">Código PUK incorrecto, %d intentos restantes</item>
+        <item quantity="one">Código PUK incorrecto, %d intento restante</item>
+    </plurals>
+    <plurals name="incorrect_pincode_remaining_attempts">
+        <item quantity="other">Código PIN incorrecto, %d intentos restantes</item>
+        <item quantity="one">Código PIN incorrecto, %d intento restante</item>
+    </plurals>
+    <plurals name="phone_locked_timeout_seconds_string">
+        <item quantity="other">Vuelve a intentarlo en %d segundos</item>
+        <item quantity="one">Vuelve a intentarlo en %d segundo</item>
+    </plurals>
+    <plurals name="phone_locked_timeout_minutes_string">
+        <item quantity="other">Vuelve a intentarlo en %d minutos</item>
+        <item quantity="one">Vuelve a intentarlo en %d minuto</item>
+    </plurals>
     <plurals name="new_notifications_msg">
         <item quantity="other">%d nuevas notificaciones</item>
         <item quantity="one">%d nueva notificación</item>
+    </plurals>
+    <plurals name="keyguard_charging_info_charging_full_need_min_time__text">
+        <item quantity="other">Aprox. %d minutos para carga completa​</item>
+        <item quantity="one">Aprox. %d minuto para carga completa​</item>
+    </plurals>
+    <plurals name="keyguard_charging_info_charging_full_need_hour_time__text">
+        <item quantity="other">Aprox. %d horas para carga completa</item>
+        <item quantity="one">Aprox. %d hora para carga completa</item>
+    </plurals>
+    <plurals name="keyguard_charging_info_charging_full_need_time__text">
+        <item quantity="other">Aprox. %1$d h %2$d m para carga completa</item>
+        <item quantity="one">Aprox. %1$d h %2$d m para carga completa</item>
+    </plurals>
+    <plurals name="keyguard_charging_info_could_use_min_time_text">
+        <item quantity="other">Aprox. %d minutos restantes</item>
+        <item quantity="one">Aprox. %d minuto restante</item>
+    </plurals>
+    <plurals name="keyguard_charging_info_could_use_hour_time_text">
+        <item quantity="other">Aprox. %d horas restantes</item>
+        <item quantity="one">Aprox. %d hora restante</item>
+    </plurals>
+    <plurals name="keyguard_charging_info_could_use_time_text">
+        <item quantity="other">Aprox. %1$d h %2$d m restante</item>
+        <item quantity="one">Aprox. %1$d h %2$d m restante</item>
+    </plurals>
+    <plurals name="keyguard_charging_info_drained_hour_time_format">
+        <item quantity="other">%d horas</item>
+        <item quantity="one">%d hora</item>
+    </plurals>
+    <plurals name="keyguard_charging_info_drained_min_time_format">
+        <item quantity="other">%d minutos</item>
+        <item quantity="one">%d minuto</item>
     </plurals>
 </resources>

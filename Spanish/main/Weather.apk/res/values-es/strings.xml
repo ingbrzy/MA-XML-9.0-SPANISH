@@ -232,13 +232,9 @@ Toque la pantalla para añadir o reposicionar manualmente la ciudad</string>
   <string name="content_desc_activity_main_add_city_manage">Gestionar ciudades</string>
   <string name="content_desc_activity_main_more_settings">Más ajustes</string>>
   <string name="realtime_wind_default_title">Viento</string>
-  <string name="mi_pad2">latte</string>
-  <string name="index_item_install_dialog">""</string>
-  <string name="index_item_install_dialog_cancel">""</string>
-  <string name="index_item_install_dialog_open">""</string>
   <string name="other_warning_settings">Otras alertas</string>
-  <string name="rainfall_settings_title">Rainfall</string>
-  <string name="rainfall_settings_summary">Rainfall alerts</string>
+  <string name="rainfall_settings_title">Lluvia</string>
+  <string name="rainfall_settings_summary">Alerta por lluvias</string>
   <string name="night_not_disturb_settings_title">No molestar por la noche</string>
   <string name="night_not_disturb_settings_summary">Alertas silenciosas entre las 23:00 y las 07:00</string>
   <string name="reminder_from_xiaomi_weather_app">Alerta de Mi Weather</string>
