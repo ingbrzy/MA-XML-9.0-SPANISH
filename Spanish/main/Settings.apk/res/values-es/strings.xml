@@ -23,7 +23,7 @@
   <string name="account_autostar_label">Inicio automático</string>
   <string name="account_list">Otras cuentas</string>
   <string name="account_other">Otra</string>
-  <string name="activating">Activando…</string>
+  <string name="activating">Activando\u2026</string>
   <string name="ad_service">Servicios de publicidad</string>
   <string name="add_auto_startup_application">Añadir aplicaciones de inicio automático</string>
   <string name="add_fingerprint_done_msg">Ahora podrá desbloquear el dispositivo con su huella.</string>
@@ -89,7 +89,7 @@
   <string name="application_permission_manager">Permisos de aplicaciones</string>
   <string name="application_permissions">Permisos de aplicaciones</string>
   <string name="applications_settings">Aplicaciones instaladas</string>
-  <string name="apply_fingerprint_to_category_title">Aplicar huella a…</string>
+  <string name="apply_fingerprint_to_category_title">Aplicar huella a\u2026</string>
   <string name="apply_now_button_text">Actualizar</string>
   <string name="apply_password_to_category_title">Se requiere desbloqueo</string>
   <string name="apply_update_fail">No se pudo actualizar</string>
@@ -221,7 +221,7 @@
   <string name="bootloader_apply_title">Aviso importante</string>
   <string name="bootloader_device_bind_already">Añadido con éxito. Cuenta Mi está ahora asociada con este dispositivo.</string>
   <string name="bootloader_device_bind_fail">No se pudo verificar, espere unos minutos e inténtelo de nuevo</string>
-  <string name="bootloader_device_bind_msg">Preparándose para añadir cuenta y dispositivo…</string>
+  <string name="bootloader_device_bind_msg">Preparándose para añadir cuenta y dispositivo\u2026</string>
   <string name="bootloader_device_bind_no_account">Primero inicia sesión en Cuenta Mi</string>
   <string name="bootloader_device_bind_no_network">Conéctese a la red e inténtelo de nuevo</string>
   <string name="bootloader_locked_answer_1">Bloqueamos los dispositivos para asegurarnos de que son seguros y de que su información personal no es compartida a terceras partes. Si necesita entrar al Modo reinicio rápido para flashear su dispositivo, puede desbloquearlo.</string>
@@ -287,8 +287,8 @@
   <string name="change_security_lock">Probar otras formas de desbloqueo</string>
   <string name="check_find_device_status_failure_confirm">OK</string>
   <string name="check_update">Comprobar actualizaciones</string>
-  <string name="checking_find_device_status">Comprobando el estado de búsqueda del dispositivo…</string>
-  <string name="checking_for_updates">Buscando actualizaciones…</string>
+  <string name="checking_find_device_status">Comprobando el estado de búsqueda del dispositivo\u2026</string>
+  <string name="checking_for_updates">Buscando actualizaciones\u2026</string>
   <string name="choose_smartcover_type">Selecciona el tipo de letra</string>
   <string name="cleaner">Limpiador</string>
   <string name="clear_activities_summary">Use esta aplicación para algunas funciones predeterminadas</string>
@@ -452,7 +452,7 @@
   <string name="do_not_disturb_mode">No molestar</string>
   <string name="double_click_power_key">Double Click Power Key</string>
   <string name="download_current_rom">Obtener la última versión de MIUI</string>
-  <string name="downloading_description">Descargando…</string>
+  <string name="downloading_description">Descargando\u2026</string>
   <string name="drive_mode">Modo coche</string>
   <string name="drive_mode_auto_reply">Respuesta rápida</string>
   <string name="drive_mode_auto_sms_reply_content">Ahora estoy conduciendo... Te llamaré más tarde</string>
@@ -511,7 +511,7 @@
   <string name="fingerprint_and_password_entrance_title">Bloqueo de pantalla y huella dactilar</string>
   <string name="fingerprint_for_keyguard_disabled">La huella dactilar se ha desactivado por razones de seguridad.</string>
   <string name="fingerprint_identify_input_password_msg">Introduce contraseña</string>
-  <string name="fingerprint_identify_msg">Leyendo huella…</string>
+  <string name="fingerprint_identify_msg">Leyendo huella\u2026</string>
   <string name="fingerprint_identify_try_again_msg">No se pudo leer la huella, inténtelo de nuevo</string>
   <string name="fingerprint_list_title">Huella</string>
   <string name="fingerprint_lock_first">Desbloquear Primer espacio</string>
@@ -566,7 +566,7 @@
   <string name="free_wifi_connected">Conectado a una red Wi-Fi gratuita</string>
   <string name="free_wifi_connected_time">
     <xliff:g id="WIFI_ONLINE_TIME">%1$s</xliff:g>Duración： </string>
-  <string name="free_wifi_connecting">Conectando…</string>
+  <string name="free_wifi_connecting">Conectando\u2026</string>
   <string name="free_wifi_login_again">Acceder de nuevo</string>
   <string name="free_wifi_manage_summary">
     <xliff:g id="NAME">%1$s</xliff:g>.Pulsa para ver </string>
@@ -625,7 +625,7 @@
   <string name="input_settings">Ajustes de entrada</string>
   <string name="install_no_market_app_summary">Permitir la instalación de aplicaciones de fuentes distintas de la App Store</string>
   <string name="install_no_market_app_title">Fuentes desconocidas</string>
-  <string name="install_preinstall_app">Cargando aplicaciones…</string>
+  <string name="install_preinstall_app">Cargando aplicaciones\u2026</string>
   <string name="install_whole_rom">Descargar ROM</string>
   <string name="instruction_title">Instrucciones</string>
   <string name="keep_legacy_fingerprint">Mantener</string>
@@ -664,7 +664,7 @@
   <string name="launch_voice_assistant">Launch Voice assistant</string>
   <string name="launching_cit">Ejecutando CIT</string>
   <string name="launching_pho">Iniciando información del teléfono, por favor, espere.</string>
-  <string name="launching_rep">Notificando…</string>
+  <string name="launching_rep">Notificando\u2026</string>
   <string name="layout_size_exhuge">XXL</string>
   <string name="layout_size_exhuge_text">XXL</string>
   <string name="layout_size_huge">XL</string>
@@ -761,7 +761,7 @@
   <string name="lockpattern_recording_intro_header">Dibuje un patrón de desbloqueo:</string>
   <string name="lockpattern_recording_intro_header_second_space">Dibuje un patrón de desbloqueo para el Segundo espacio:</string>
   <string name="lockpattern_settings_enable_power_button_instantly_locks">El botón de encendido/apagado bloquea la pantalla</string>
-  <string name="lockscreen_glogin_checking_password">Comprobando…</string>
+  <string name="lockscreen_glogin_checking_password">Comprobando\u2026</string>
   <string name="lockscreen_glogin_password_hint">Contraseña</string>
   <string name="lockscreen_glogin_submit_button">Iniciar sesión</string>
   <string name="lockscreen_magazine_title">Fondo de pantalla Carrusel</string>
@@ -795,13 +795,13 @@
   <string name="master_clear_apply_step_2" product="default">
     <b>No podrá restaurar los elementos importantes que no haya copiado.</b>Asegúrese de que todos los elementos importantes estén copiados en su ordenador. Todos los datos se eliminarán durante el reinicio. </string>
   <string name="master_clear_apply_title">Atención</string>
-  <string name="master_clear_erase_application_progress">Eliminando aplicaciones…</string>
+  <string name="master_clear_erase_application_progress">Eliminando aplicaciones\u2026</string>
   <string name="master_clear_personal_data">¿Quiere eliminar todos sus datos personales? ¡Esta acción no podrá deshacerse!</string>
   <string name="master_clear_personal_data_application">¿Quiere eliminar todos sus datos personales y las aplicaciones descargadas? ¡Esta acción no podrá deshacerse!</string>
   <string name="master_clear_personal_data_sdcard">¿Quiere eliminar todo sus contenidos y datos personales? ¡Esta acción no podrá deshacerse!</string>
   <string name="master_clear_summary" product="tablet">Eliminar todos los datos de la tablet</string>
   <string name="master_clear_summary" product="default">Eliminar todos los datos del teléfono</string>
-  <string name="max_aspect_settings_all_app_display_loading">Un momento…</string>
+  <string name="max_aspect_settings_all_app_display_loading">Un momento\u2026</string>
   <string name="max_cpu10_info">"Deca-core Max "</string>
   <string name="max_cpu2_info">"Dual-core Max"</string>
   <string name="max_cpu4_info">"Quad-core Max "</string>
@@ -1093,8 +1093,8 @@
   <string name="radio_controls_title">Más</string>
   <string name="radio_info_asdiv_switch_label">Estado ASDiv:</string>
   <string name="rank_title">Clasificaciones</string>
-  <string name="reading_data">Obteniendo info…</string>
-  <string name="rebootiing_for_updates">Reiniciando…</string>
+  <string name="reading_data">Obteniendo info\u2026</string>
+  <string name="rebootiing_for_updates">Reiniciando\u2026</string>
   <string name="receiver_clean">Liberar espacio</string>
   <string name="recent_location_requests_summary">Ver aplicaciones que solicitan acceso a su ubicación</string>
   <string name="recent_location_requests_title">Acceso a ubicación</string>
@@ -1137,7 +1137,7 @@
   <string name="screen_key_press_action">Función de disparo</string>
   <string name="screen_max_aspect_ratio_desc">Whether app can show fullscreen</string>
   <string name="screen_max_aspect_ratio_title">Ajustes de tasa de exposición máx</string>
-  <string name="screen_monochrome_mode_apps_loading">Un momento…</string>
+  <string name="screen_monochrome_mode_apps_loading">Un momento\u2026</string>
   <string name="screen_monochrome_mode_apps_title">Usar modo Monocromo</string>
   <string name="screen_monochrome_mode_global_summary">Usar modo Monocromo para todas las aplicaciones</string>
   <string name="screen_monochrome_mode_global_title">Todas las aplicaciones</string>
@@ -1153,7 +1153,7 @@
   <string name="screen_on_proximity_sensor_title">Modo bolsillo</string>
   <string name="screen_optimize">Contraste</string>
   <string name="screen_paper_mode_adjust_level">Ajustar</string>
-  <string name="screen_paper_mode_apps_loading">Un momento…</string>
+  <string name="screen_paper_mode_apps_loading">Un momento\u2026</string>
   <string name="screen_paper_mode_apps_title">Usar Modo lectura</string>
   <string name="screen_paper_mode_global_summary">Utilice el Modo de lectura para todas las aplicaciones</string>
   <string name="screen_paper_mode_global_title">Todas las aplicaciones</string>
@@ -1392,8 +1392,8 @@
   <string name="security_encryption_close_dialog_title">Volver a la protección de contraseña predeterminada</string>
   <string name="security_encryption_diaglog_continue">Siguiente</string>
   <string name="security_encryption_is_used">Activar</string>
-  <string name="security_encryption_progress_dialog_close">Descifrando…</string>
-  <string name="security_encryption_progress_dialog_open">Cifrando…</string>
+  <string name="security_encryption_progress_dialog_close">Descifrando\u2026</string>
+  <string name="security_encryption_progress_dialog_open">Cifrando\u2026</string>
   <string name="security_encryption_rejected_via_home_manager">Está función no es compatible con la versión demo.</string>
   <string name="security_encryption_title">Cifre su dispositivo usando la contraseña de bloqueo de pantalla</string>
   <string name="security_keyguard_category_name">Pantalla de bloqueo</string>
@@ -1403,7 +1403,7 @@
   <string name="select_ssid_type_title">Seleccionar SSID</string>
   <string name="service_manage">Configurar</string>
   <string name="service_stop_description">Servicio iniciado por su aplicación. Si se detiene, se puede producir un error.</string>
-  <string name="settings_ad_loading">Cargando…</string>
+  <string name="settings_ad_loading">Cargando\u2026</string>
   <string name="settings_ad_loading_unavailable">Ha habido un problema al cargar.</string>
   <string name="settings_forbidden_message">Esta configuración está desactivada</string>
   <string name="show_connected_devices_summary">Ver dispositivos conectados</string>
@@ -1418,7 +1418,7 @@
   <string name="shut_down_find_device_failure_confirm">OK</string>
   <string name="shut_down_find_device_network_failure_content">No se pudo desactivar la búsqueda del dispositivo. Asegúrese de que su dispositivo tiene una conexión a internet.</string>
   <string name="shut_down_find_device_network_failure_title">No es posible conectarse a la red</string>
-  <string name="shuting_down_find_device">Desactivando la búsqueda del dispositivo…</string>
+  <string name="shuting_down_find_device">Desactivando la búsqueda del dispositivo\u2026</string>
   <string name="silent_duration">Duration</string>
   <string name="silent_mode">Silent Mode</string>
   <string name="silent_mode_title">Modo silencio</string>
@@ -1639,21 +1639,21 @@
   <string name="virus_scan_app_no_risk">No se encontró ningún riesgo</string>
   <string name="virus_scan_app_passed">Analizado</string>
   <string name="virus_scan_app_risk">Riesgo detectado</string>
-  <string name="virus_scan_app_safe_scanning"> Escaneando…</string>
+  <string name="virus_scan_app_safe_scanning"> Escaneando\u2026</string>
   <string name="virus_scan_app_scan_finish">Análisis finalizado</string>
-  <string name="virus_scan_app_scanning">Escaneando…</string>
+  <string name="virus_scan_app_scanning">Escaneando\u2026</string>
   <string name="virus_scan_app_stop_scan">Detener análisis</string>
   <string name="virus_scan_app_uninstall">Eliminar %d</string>
-  <string name="virus_scan_app_waiting"> Esperando…</string>
+  <string name="virus_scan_app_waiting"> Esperando\u2026</string>
   <string name="virus_scanner_auto_update"> Actualizar automáticamente</string>
   <string name="virus_scanner_date_formater">d MMM yyyy</string>
   <string name="virus_scanner_lib_already_latest"> Las definiciones ya están actualizadas</string>
   <string name="virus_scanner_lib_update_failed"> No se pudo actualizar</string>
-  <string name="virus_scanner_lib_updating"> Actualizando definiciones… </string>
+  <string name="virus_scanner_lib_updating"> Actualizando definiciones\u2026 </string>
   <string name="virus_scanner_manual_update"> Actualizado en %s </string>
   <string name="virus_scanner_provider">Desarrollado por %s</string>
   <string name="virus_scanner_scan">Pulsa para analizar</string>
-  <string name="virus_scanner_scanning">Escaneando…</string>
+  <string name="virus_scanner_scanning">Escaneando\u2026</string>
   <string name="virus_scanner_select_Cancel"> Cancelar</string>
   <string name="virus_scanner_select_lib">Seleccionar definiciones de virus</string>
   <string name="virus_scanner_select_multi">La selección de más de un conjunto de definiciones hará que se ralentice la instalación y el análisis</string>
@@ -1702,7 +1702,7 @@
   <string name="wfd_enable_wifi_diag_title">¿Activar Wi-Fi?</string>
   <string name="wfd_enabler_title">Pantalla inalámbrica</string>
   <string name="wfd_menu_search">Buscar dispositivos</string>
-  <string name="wfd_menu_searching">Buscando…</string>
+  <string name="wfd_menu_searching">Buscando\u2026</string>
   <string name="wfd_menu_teardown">Detener</string>
   <string name="wfd_settings_description">Conectarse a una pantalla usando red Wi-Fi</string>
   <string name="wfd_settings_title">Pantalla inalámbrica</string>
@@ -1739,7 +1739,7 @@
   <string name="wifi_eap_sim_simcard">Seleccionar SIM</string>
   <string name="wifi_empty_list_user_restricted">Usted no tiene permiso para cambiar esta red.</string>
   <string name="wifi_empty_list_wifi_off">Para ver las redes disponibles, active la conexión Wi-Fi</string>
-  <string name="wifi_empty_list_wifi_on">Buscando redes Wi-Fi…</string>
+  <string name="wifi_empty_list_wifi_on">Buscando redes Wi-Fi\u2026</string>
   <string name="wifi_enable">Wi-Fi</string>
   <string name="wifi_enable_data_and_wifi_roam">Asistente Wi-Fi</string>
   <string name="wifi_enable_data_and_wifi_roam_summary">Mantener datos móviles y Wi-Fi activados, para cambiar a datos cuando la conexión Wi-Fi sea débil.</string>
@@ -1791,7 +1791,7 @@
   <string name="wifi_setup_title_connected_network">
     <xliff:g id="network_name" example="Happy Mobile">%s</xliff:g>Conectándose a </string>
   <string name="wifi_setup_title_connecting_network">
-    <xliff:g id="network_name" example="Happy Mobile">%s</xliff:g>…Conectándose a </string>
+    <xliff:g id="network_name" example="Happy Mobile">%s</xliff:g>\u2026Conectándose a </string>
   <string name="wifi_setup_title_editing_network">
     <xliff:g id="network_name" example="Happy Mobile">%s</xliff:g>Conectarse a </string>
   <string name="wifi_setup_wizard_title">Seleccionar red Wi-Fi</string>
@@ -1822,11 +1822,11 @@
   <string name="wifi_share_turn_on">Activado</string>
   <string name="wifi_share_upload">Compartir</string>
   <string name="wifi_share_upload_finish">Compartido</string>
-  <string name="wifi_share_uploading">Compartiendo…</string>
+  <string name="wifi_share_uploading">Compartiendo\u2026</string>
   <string name="wifi_signal_found_msg">¿Conectarse a PA Wi-Fi?</string>
   <string name="wifi_ssid" tranlatable="false">SSID</string>
-  <string name="wifi_starting">Activando Wi-Fi…</string>
-  <string name="wifi_stopping">Desactivando Wi-Fi…</string>
+  <string name="wifi_starting">Activando Wi-Fi\u2026</string>
+  <string name="wifi_stopping">Desactivando Wi-Fi\u2026</string>
   <string name="wifi_subnet_mask">Máscara de subred</string>
   <string name="wifi_suspend_optimizations">Optimización Wi-Fi</string>
   <string name="wifi_suspend_optimizations_summary">Minimizar el uso de la batería cuando la conexión Wi-Fi esté activada</string>
