@@ -5573,8 +5573,8 @@ Asistente de Wi‑Fi"</string>
   <string name="key_gesture_function_dialog_message">%1$s en el atajo %2$s ,si es sustituída por %3$s</string>
   <string name="key_gesture_function_dialog_negative">Cancelar</string>
   <string name="key_gesture_function_dialog_positive">Remplazar</string>
-  <string name="key_gesture_function_optional">Optional gestures and key</string>
-  <string name="key_gesture_function_preview">Gestures and key preview</string>
+  <string name="key_gesture_function_optional">Gestos opcionales y botones</string>
+  <string name="key_gesture_function_preview">Vista previa</string>
   <string name="key_gesture_function_shortcut">Atajos</string>
   <string name="key_none">nada</string>
   <string name="key_system_control">Control del sistema</string>
@@ -5609,7 +5609,7 @@ Asistente de Wi‑Fi"</string>
   <string name="search_input_hint">Configuración de búsqueda</string>
   <string name="show_menu">Mostrar menú</string>
   <string name="silent_duration">Duración</string>
-  <string name="spellchecker_switch_title">Turn on Spell checker</string>
+  <string name="spellchecker_switch_title">Activar el corrector ortográfico</string>
   <string name="status_bar_screen_button_force_immersive_desc">Desliza de abajo arriba de la pantalla para mostrar botones virtuales</string>
   <string name="status_bar_screen_button_key_force_immersive">Ocultar botones virtuales</string>
   <string name="suggest_unrestrict_max_aspect_ratio_title">Sugerir habilitar la relación de aspecto máxima</string>
