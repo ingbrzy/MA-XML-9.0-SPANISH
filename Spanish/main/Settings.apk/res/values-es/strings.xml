@@ -1687,7 +1687,7 @@
   <string name="vpn_set_screen_lock_title">Establecer contraseña de la pantalla de bloqueo</string>
   <string name="vpn_settings_password">Añadir contraseña de VPN</string>
   <string name="vpn_settings_summary">Proteger los ajustes de VPN con la contraseña de Pantalla de bloqueo</string>
-  <string name="wakeup_for_keyguard_notification_title">Encender la pantalla de bloqueo cuando llegue una notificación</string>
+  <string name="wakeup_for_keyguard_notification_title">Activar pantalla de bloqueo para notificaciones</string>
   <string name="wallpaper_desktop">Pantalla de inicio</string>
   <string name="wallpaper_live">Fondo animado</string>
   <string name="wallpaper_lockscreen">Pantalla de bloqueo</string>
