@@ -1329,4 +1329,18 @@ Elija una de las siguientes opciones: "</string>
   <string name="yellowpage_user_profile">Perfil</string>
   <string name="yesterday">Ayer</string>
   <string name="zero_items_selected">Seleccionar elementos</string>
+  <string name="add_field_toast">No hay más campos para agregar.</string>
+  <string name="call_settings_primary_user_only">La configuración de las llamadas solo puedo ser cambiada por el usuario principal</string>
+  <string name="config_import_vcard_type">preterminado</string>
+  <string name="group_rename_success_toast">Grupo renombrado</string>
+  <string name="phoneLabelsGroup">Télefono</string>
+  <string name="select_all_exceed">"No seleccione más de %1$d, no puede seleccionar todo"</string>
+  <string name="select_exceed">No seleccione más de %1$d</string>
+  <string name="sim_export_error">La tarjeta SIM no está lista, inténtelo más tarde</string>
+  <string name="t9_search_empty_edit_contact">Añadir a contacto</string>
+  <string name="t9_search_empty_send_sms">Enviar mensaje</string>
+  <string name="t9_search_empty_video_call">Videollamada</string>
+  <string name="toast_start_intent_failed">No se encontró ninguna aplicación</string>
+  <string name="unfold_all">desplegar todo</string>
+  <string name="unknown_details_new_contact">Nuevo contacto</string>
 </resources>
