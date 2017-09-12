@@ -1331,7 +1331,6 @@ Elija una de las siguientes opciones: "</string>
   <string name="zero_items_selected">Seleccionar elementos</string>
   <string name="add_field_toast">No hay más campos para agregar.</string>
   <string name="call_settings_primary_user_only">La configuración de las llamadas solo puedo ser cambiada por el usuario principal</string>
-  <string name="config_import_vcard_type">preterminado</string>
   <string name="group_rename_success_toast">Grupo renombrado</string>
   <string name="phoneLabelsGroup">Télefono</string>
   <string name="select_all_exceed">"No seleccione más de %1$d, no puede seleccionar todo"</string>
