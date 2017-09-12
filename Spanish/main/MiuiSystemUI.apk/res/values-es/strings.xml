@@ -602,4 +602,13 @@ Desliza hacia abajo para bloquear"</string>
   <string name="wifi_verbose_logging">Habilitar el registro detallado Wi-Fi</string>
   <string name="wifi_verbose_logging_summary">Aumentar el nivel de registro Wi-Fi, mostrar el RSSI por SSID en el selector de Wi-Fi</string>
   <string name="window_animation_scale_title">Escala de animación de ventanas</string>
+  <string name="accessibility_divider">Divisor de pantalla dividida</string>
+  <string name="click_to_return_multi_window">Toque para volver a la pantalla dividida</string>
+  <string name="dock_forced_resizable">Es posible que esta aplicación no funcione con la pantalla dividida</string>
+  <string name="dock_keyguard_locked_failed_to_dock_text">"La pantalla dividida no se admite en la Pantalla de bloqueo."</string>
+  <string name="dock_non_resizeble_failed_to_dock_text">"Esta aplicación no admite la pantalla dividida"</string>
+  <string name="no_multi_window_app">No hay aplicaciones que soporten la pantalla dividida</string>
+  <string name="not_support_multi_window">"La aplicación actual no admite la pantalla dividida"</string>
+  <string name="recents_incompatible_app_message">"Esta aplicación no admite la pantalla dividida"</string>
+  <string name="recents_multi_window_mode">Dividir pantalla</string>
 </resources>
