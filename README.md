@@ -20,4 +20,4 @@ Special thanks to the active translators volunteers:
 
 # If you want to help in translations, please contact @Infante007, @ingbrzy or create a issue in the repository for further details.
 
-# Si quieres ayudar a traducir, ponte en contacto con @Infante007, @ingbrzy o crea una issue en el repositorio para más información.
+Si quieres ayudar a traducir, ponte en contacto con @Infante007, @ingbrzy o crea una issue en el repositorio para más información.
