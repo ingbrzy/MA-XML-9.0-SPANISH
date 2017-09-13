@@ -227,4 +227,21 @@ Toque la pantalla para añadir o reposicionar manualmente la ciudad</string>
   <string name="xiaomi_weather_description_content">"Weather te proporciona información meteorológica exacta, sin esta aplicación la barra de estado y el widget del tiempo de la pantalla de inicio no funcionarán correctamente, asegúrate de que puedes prescindir de estas funciones antes de desinstalar la aplicación".</string>
   <string name="xiaomi_weather_description_title">Acerca del tiempo</string>
   <string name="yes_vote_ratio">A favor %1$s%%</string>
+  <string name="activity_minute_rain_location_fail_msg">No se pudo encontrar la ubicación. Se muestra Beijing por defecto.</string>
+  <string name="content_desc_activity_main_add_city">Añadir ciudad</string>
+  <string name="content_desc_activity_main_add_city_manage">Gestionar ciudades</string>
+  <string name="content_desc_activity_main_more_settings">Más ajustes</string>
+  <string name="realtime_wind_default_title">Viento</string>
+  <string name="other_warning_settings">Otras alertas</string>
+  <string name="rainfall_settings_title">Lluvia</string>
+  <string name="rainfall_settings_summary">Alerta por lluvias</string>
+  <string name="night_not_disturb_settings_title">No molestar por la noche</string>
+  <string name="night_not_disturb_settings_summary">Alertas silenciosas entre las 23:00 y las 07:00</string>
+  <string name="reminder_from_xiaomi_weather_app">Alerta de Mi Weather</string>
+  <string name="it_is_going_to_rain">Va a llover</string>
+  <string name="your_location">Tu ubicación</string>
+  <string name="update_setting_title_text">Actualización de información del tiempo</string>
+  <string name="update_night_setting_title_text">Actualizar automáticamente por la noche</string>
+  <string name="update_night_setting_summary_text">Actualizar info del tiempo entre las 23:00 y las 07:00</string>
+  <string name="card_vote_item_vs">contra</string>
 </resources>

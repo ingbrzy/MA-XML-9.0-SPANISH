@@ -27,9 +27,7 @@
     <string name="empty_card_tip">"Parece que no te has conectado aún o que no has establedido ésta tarjeta aún."</string>
     <string name="empty_card_title">Sin datos</string>
     <string name="express_complete">Aceptado</string>
-    <string name="express_complete_flag">3</string>
     <string name="express_delivery">Entregando</string>
-    <string name="express_delivery_flag">5</string>
     <string name="express_no_info">Sin info</string>
     <string name="express_number_txt">Número:</string>
     <string name="express_origin_prev">De</string>

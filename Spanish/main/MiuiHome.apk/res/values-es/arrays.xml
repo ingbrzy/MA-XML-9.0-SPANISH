@@ -53,7 +53,7 @@
     <string-array name="editing_mode_entries">
         <item>Fondos</item>
         <item>Widgets</item>
-        <item>Ajuste</item>
+        <item>Configuración</item>
     </string-array>
     <string-array name="quality_business_devices">
         <item>litio</item>
