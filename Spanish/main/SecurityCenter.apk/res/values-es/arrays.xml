@@ -66,6 +66,12 @@
         <item>Ordenar por uso de datos</item>
         <item>Ordenar por el uso de la batería</item>
     </string-array>
+    <string-array name="title_app_info">
+        <item>Fuente de instalación</item>
+        <item>Fecha de intalación</item>
+        <item>Fuente última actualización</item>
+        <item>Fecha última actualización</item>
+    </string-array>
     <string-array name="sms_report_type">
         <item>Uso de Datos</item>
         <item>Saldo del teléfono</item>
