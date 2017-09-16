@@ -489,7 +489,6 @@
   <string name="formatted_subject">%1$s %2$s</string>
   <string name="forward">Reenviar</string>
   <string name="forward_attachment">Reenviar</string>
-  <string name="forward_attribution">---------- Mensaje reenviado ----------<br>De: %1$s<br>Fecha: %2$s<br>Asunto: %3$s<br>;Para: %4$s<br></string>
   <string name="forward_attribution_no_headers">---------- Mensaje reenviado ----------</string>
   <string name="forward_download_failed_ticker">No se pudieron reenviar uno o más archivos adjuntos.</string>
   <string name="forward_download_failed_title">Adjunto no reenviado</string>
