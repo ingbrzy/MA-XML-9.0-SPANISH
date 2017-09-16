@@ -327,7 +327,7 @@ Error: %1$s"</string>
   <string name="status_submitted">Enviado</string>
   <string name="subtitle_print_preview_multiple_documents">Varios documentos</string>
   <string name="success_msg">Operación correcta</string>
-  <string name="text_learn_more">&lt;a href=http://goto.google.com/on-the-go&gt; Aprende más&lt;/a&gt;</string>
+  <string name="text_learn_more"><a href="http://goto.google.com/on-the-go"> Aprende más</a></string>
   <string name="title_add_printer">Añadir impresora</string>
   <string name="title_advanced_print_options">Opciones avanzadas de impresión</string>
   <string name="title_invitations">Invitaciones</string>

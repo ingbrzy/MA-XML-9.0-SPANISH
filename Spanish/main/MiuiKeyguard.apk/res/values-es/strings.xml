@@ -114,9 +114,9 @@ Inicie sesión en i.mi.com, vaya a "Buscar dispositivo", seleccione el dispositi
   <string name="phone_locked_foget_password_method_next">Siguiente</string>
   <string name="phone_locked_forget_password_suggesstions_title">¿Cómo borrar los datos?</string>
   <string name="input_password_handle_sdcard_fs">Desactiva \"Optimización de la tarjeta SD emulada\" antes de entrar en el Segundo espacio.</string>
-  <string name="phone_locked_foget_password_method_content">&lt;Data&gt;Tiene que &amp;lt;font color=#a5220e&amp;gt;borrar todos los datos &amp;lt;/font&amp;gt; de su dispositivo, incluyendo fotos y contactos, y establecer un nuevo bloqueo de pantalla.&lt;/Data&gt;</string>
-  <string name="phone_locked_forget_password_suggesstion_one_content">&lt;Data&gt;Apaga tu dispositivo, mantén pulsado el &amp;lt;font color=#a5220e&amp;gt;Botón de encendido &amp;lt;/font&amp;gt; y el &amp;lt;font color=#a5220e&amp;gt;Botón de subir volumen &amp;lt;/font&amp;gt;simultaneamente hasta que veas el logo de Xiaomi.&lt;/Data&gt;</string>
-  <string name="phone_locked_forget_password_suggesstion_two_content">&lt;Data&gt;Selecione &amp;lt;font color=#a5220e&amp;gt;\"Wipe &amp;amp;amp; Reset\"&amp;lt;/font&amp;gt; y espere a que el dispositivo se reincie.&lt;/Data&gt;</string>
+  <string name="phone_locked_foget_password_method_content"><Data>Tiene que <font color="#a5220e">borrar todos los datos </font> de su dispositivo, incluyendo fotos y contactos, y establecer un nuevo bloqueo de pantalla.</Data></string>
+  <string name="phone_locked_forget_password_suggesstion_one_content"><Data>Apaga tu dispositivo, mantén pulsado el <font color="#a5220e">Botón de encendido </font> y el <font color="#a5220e">Botón de subir volumen </font>simultaneamente hasta que vea el logo de Xiaomi.</Data></string>
+  <string name="phone_locked_forget_password_suggesstion_two_content"><Data>Selecione <font color="#a5220e">"Wipe &amp; Reset"</font> y espere a que el dispositivo se reincie.</Data></string>
   <!--Sin traduicir-->
   <string name="face_data_input_title">Add face data</string>
   <string name="face_data_introduction_title">Face recognition</string>

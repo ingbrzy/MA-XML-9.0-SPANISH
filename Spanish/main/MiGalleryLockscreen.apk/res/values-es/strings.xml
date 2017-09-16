@@ -85,8 +85,8 @@
   <string name="sst_subscribe_title">Suscripciones</string>
   <string name="sst_wifi_only_desc">Desactive esta función para ahorrar datos</string>
   <string name="sst_wifi_only_title">Actualizar fondos usando la conexión de datos</string>
-  <string name="summary">"Acepte nuestro &lt;a href='http://www.miui.com/res/doc/privacy/en.html'&gt;Privacy Policy&lt;/a&gt; para ver el contenido en línea. Si no está de acuerdo, los fondos de pantalla locales seguirán disponibles."</string>
-  <string name="summary_international">"Al usar esta función, está aceptando nuestro &lt;a href ='http://www.miui.com/res/doc/eula.html?lang=en_US'&gt;Acuerdo de Usuario&lt;/a&gt; y nuestra &lt;a href='http://www.miui.com/res/doc/privacy/en.html'&gt;Política de Privacidad&lt;/a&gt;. Esta función necesita conectarse a internet para funcionar con normalidad."</string>
+  <string name="summary">"Acepte nuestra <a href='http://www.miui.com/res/doc/privacy/en.html'>Política de privacidad</a> para ver el contenido en línea. Si no está de acuerdo, los fondos de pantalla locales seguirán disponibles."</string>
+  <string name="summary_international">"Al usar esta función, está aceptando nuestro <a href ='http://www.miui.com/res/doc/eula.html?lang=en_US'>Acuerdo de Usuario</a> y nuestra <a href='http://www.miui.com/res/doc/privacy/en.html'>Política de Privacidad</a>. Esta función necesita conectarse a internet para funcionar con normalidad."</string>
   <string name="theme_apply_failured">"No se ha podido aplicar, inténtelo de nuevo más tarde"</string>
   <string name="theme_apply_success">Aplicado correctamente</string>
   <string name="theme_applying">Aplicando…</string>

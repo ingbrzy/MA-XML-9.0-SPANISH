@@ -5606,7 +5606,7 @@ Asistente de Wi‑Fi"</string>
   <string name="screen_max_aspect_ratio_desc">Si la aplicación puede mostrarse a pantalla completa</string>
   <string name="screen_max_aspect_ratio_title">Ajustes de tasa de exposición máx</string>
   <string name="screen_shot">Hacer captura</string>
-  <string name="search_input_hint">Configuración de búsqueda</string>
+  <string name="search_input_hint">Buscar configuración</string>
   <string name="show_menu">Mostrar menú</string>
   <string name="silent_duration">Duración</string>
   <string name="spellchecker_switch_title">Activar el corrector ortográfico</string>

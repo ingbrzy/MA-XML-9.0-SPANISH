@@ -60,7 +60,7 @@
   <string name="progress_set_owner">Estableciendo propietario del dispositivo…</string>
   <string name="provisioning">Aprovisionamiento</string>
   <string name="provisioning_error_title">¡Upss!</string>
-  <string name="read_more_delete_profile">Antes de continuar, &lt;a href="#read_this_link"&gt;lea esto&lt;/a&gt;.</string>
+  <string name="read_more_delete_profile">Antes de continuar, <a href="#read_this_link">lea esto</a>.</string>
   <string name="setting_up_workspace">Configurando su perfil de trabajo…</string>
   <string name="setup_device_encryption">Configure su dispositivo. Encriptación</string>
   <string name="setup_device_progress">Configure su dispositivo. Mostrando progreso</string>

@@ -18,6 +18,6 @@ https://github.com/ingbrzy/MA-XML-9.0-SPANISH/commits/master
 Special thanks to the active translators volunteers:
 @Infante007, @nosijf982, @rdgi, @Muchachito
 
-# If you want to help in translations, please contact @Infante007, @ingbrzy or create a issue in the repository for further details.
+# If you want to help in translations, please contact @Infante007, @ingbrzy or create a issue in this repository for further details.
 
 Si quieres ayudar a traducir, ponte en contacto con @Infante007, @ingbrzy o crea una issue en el repositorio para más información.

@@ -324,7 +324,7 @@
   <string name="sniff_result_num_prefix">Encontrado</string>
   <string name="sniff_result_num_video_suffix">elementos</string>
   <string name="sniff_result_num_website_suffix">sitios web</string>
-  <string name="sniff_result_website_intro">Total &lt;font color=\"#6699ff\"&gt;%1$d&lt;/font&gt; elementos | Fuente: %2$s</string>
+  <string name="sniff_result_website_intro">Total <font color="#6699ff">%1$d</font> elementos | Fuente: %2$s</string>
   <string name="sniff_search_assoicate_sizeinfo">Tamaño: %1$s</string>
   <string name="sniff_search_install">Instalar</string>
   <string name="sniff_shortcut_cloudconfig_btn">Lo tengo</string>

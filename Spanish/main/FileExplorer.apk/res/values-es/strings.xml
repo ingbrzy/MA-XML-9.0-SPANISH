@@ -411,7 +411,7 @@
   <string name="origin_name">%1$s: </string>
   <string name="original_user_desc">Sube vídeos originales regularmente para obtener el estado de Creador.</string>
   <string name="original_user_qq_group">Únete al grupo QQ del equipo de Talentos</string>
-  <string name="original_user_register">• &lt;font color=#fc7050&gt;%1$s&lt;/font&gt; se ha unido a la comunidad</string>
+  <string name="original_user_register">• <font color="#fc7050">%1$s</font> se ha unido a la comunidad</string>
   <string name="original_user_signal">Equipo de Talentos</string>
   <string name="original_user_title">¡Enhorabuena por llegar a ser un miembro del equipo de Talentos!</string>
   <string name="original_user_verify">• ¡Gracias por quedarte!</string>
