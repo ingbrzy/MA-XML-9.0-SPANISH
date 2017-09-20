@@ -171,7 +171,6 @@
   <string name="always_bcc_myself">Siempre CCO auto</string>
   <string name="always_show_images">Mostrar siempre imágenes de este remitente</string>
   <string name="app_name">Correo</string>
-  <string name="application_mime_type">application/email-ls</string>
   <string name="archive">Archivar</string>
   <string name="archived">Archivado</string>
   <string name="att_download_failed_content">No se puede descargar el adjunto de este mensaje.</string>
