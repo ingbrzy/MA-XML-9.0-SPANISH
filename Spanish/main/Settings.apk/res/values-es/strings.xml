@@ -2446,7 +2446,6 @@ Hay otros usuarios presentes en este dispositivo.
   <string name="memory_title">Disponible: %1$s\u0009\u0009Total: %2$s</string>
   <string name="memory_usage">Uso de memoria</string>
   <string name="memory_usage_apps">Memoria usada por aplicaciones</string>
-  <string name="memory_use_running_format">%1$s / %2$s</string>
   <string name="memory_use_summary">Se ha usado una media de %1$s de memoria durante las últimas 3 horas</string>
   <string name="menu_cancel">Descartar</string>
   <string name="menu_check">Experiencia</string>
@@ -2506,7 +2505,6 @@ Hay otros usuarios presentes en este dispositivo.
   <string name="miracast_wifi_off">Para usar Miracast, activ el Wi-Fi</string>
   <string name="misc_files">Archivos variados</string>
   <string name="misc_files_selected_count">Has seleccionado %1$d de %2$d.</string>
-  <string name="misc_files_selected_count_bytes">%1$s de %2$s</string>
   <string name="miui_allow_alarm">Alarmas</string>
   <string name="miui_allow_light">Luz de notificación</string>
   <string name="miui_allow_music">Multimedia</string>
@@ -2668,7 +2666,6 @@ Seleccione su sistema operativo:"</string>
   <string name="nfc_how_it_works_got_it">Entendido</string>
   <string name="nfc_how_it_works_title">Pago en terminal</string>
   <string name="nfc_more_title">Más...</string>
-  <string name="nfc_payment_app_and_desc">%1$s - %2$s</string>
   <string name="nfc_payment_default">Pago predeterminado</string>
   <string name="nfc_payment_default_not_set">No establecido</string>
   <string name="nfc_payment_favor_default">Siempre</string>
@@ -2689,7 +2686,6 @@ Seleccione su sistema operativo:"</string>
   <string name="nfc_se_wallet_title">Cartera predeterminada</string>
   <string name="night_mode_auto">Automático</string>
   <string name="night_mode_no">Claro</string>
-  <string name="night_mode_summary">%s</string>
   <string name="night_mode_title">Tema</string>
   <string name="night_mode_yes">Oscuro</string>
   <string name="no">No</string>
@@ -2791,8 +2787,6 @@ Esto también dará a la aplicación la capacidad de activar y desactivar No Mol
   <string name="notifications_sensitive">Contenido sensible oculto</string>
   <string name="notifications_silenced">Silenciadas</string>
   <string name="notifications_summary_divider"> / </string>
-  <string name="notifications_three_items">%1$s / %2$s / %3$s</string>
-  <string name="notifications_two_items">%1$s / %2$s</string>
   <string name="now">Reiniciar ahora</string>
   <string name="nsd_quick_toggle_summary">Permitir que las aplicaciones de otros dispositivos puedan ver las aplicaciones de este dispositivo</string>
   <string name="nsd_quick_toggle_title">Detección de aplicaciones</string>
@@ -2843,7 +2837,6 @@ Esto también dará a la aplicación la capacidad de activar y desactivar No Mol
   <string name="overlay_display_devices_title">Simular pantallas secundarias</string>
   <string name="overlay_settings">Escribir sobre otras aplicaciones</string>
   <string name="owner_info_settings_edit_text_hint">p. ej., Android de Juan</string>
-  <string name="owner_info_settings_status">%1$d / %2$d</string>
   <string name="owner_info_settings_summary">Ninguno</string>
   <string name="owner_info_settings_title">Información del propietario en la Pantalla de bloqueo</string>
   <string name="owner_space">Primer espacio</string>
@@ -3132,7 +3125,6 @@ Esto también dará a la aplicación la capacidad de activar y desactivar No Mol
   <string name="private_sms_recording_intro_header">Dibuje un patrón de desbloqueo:</string>
   <string name="private_sms_reset_by_account">Para restablecer su contraseña, inicie sesión en su Cuenta Mi</string>
   <string name="process_dex2oat_label">Optimización de aplicación</string>
-  <string name="process_format">%1$s (%2$d)</string>
   <string name="process_kernel_label">SO Android</string>
   <string name="process_mediaserver_label">Servidor multimedia</string>
   <string name="process_provider_in_use_description">Proveedor %1$s en uso</string>
@@ -3831,11 +3823,9 @@ Nota: su huella dactilar puede ser menos segura que un patrón complejo o un PIN
   <string name="selinux_status_enforcing">Obligatorio</string>
   <string name="selinux_status_permissive">Permisivo</string>
   <string name="service_background_processes">%1$s libre</string>
-  <string name="service_client_name">%1$s</string>
   <string name="service_foreground_processes">%1$s usado</string>
   <string name="service_manage">Configurar</string>
   <string name="service_manage_description">%1$s: actualmente en uso. Toca en Ajustes para controlarlo.</string>
-  <string name="service_process_name">%1$s</string>
   <string name="service_restarting">Reiniciando</string>
   <string name="service_started_by_app">Iniciado por aplicación</string>
   <string name="service_stop">Detener</string>
@@ -4007,7 +3997,6 @@ Es posible que el PIN no sea correcto."</string>
   <string name="sim_reenter_new">Volver a introducir nuevo PIN</string>
   <string name="sim_select_card">Selecciona una tarjeta SIM</string>
   <string name="sim_selection_required_pref">Debes seleccionar una opción</string>
-  <string name="sim_settings_summary">%1$s - %2$s</string>
   <string name="sim_settings_title">Tarjetas SIM</string>
   <string name="sim_setup_wizard_title">Tarjetas SIM</string>
   <string name="sim_signal_strength">%1$d dBm %2$d asu</string>
@@ -4347,7 +4336,6 @@ Considera usar una ^1 para mejorar el rendimiento."</string>
   <string name="sync_gmail">Gmail</string>
   <string name="sync_in_progress">Sincronizando…</string>
   <string name="sync_is_failing">En este momento hay incidencias con la sincronización. Se restablecerá en breve.</string>
-  <string name="sync_item_title">%s</string>
   <string name="sync_menu_sync_cancel">Cancelar sincronización</string>
   <string name="sync_menu_sync_now">Sincronizar ahora</string>
   <string name="sync_now">Sincronizar</string>
@@ -5516,7 +5504,6 @@ Asistente de Wi‑Fi"</string>
   <string name="zen_mode_rule_name_hint">Introduzca un nombre</string>
   <string name="zen_mode_rule_name_warning">Nombre de regla ya en uso</string>
   <string name="zen_mode_rule_not_found_text">No se ha encontrado esa regla.</string>
-  <string name="zen_mode_rule_summary_combination">%1$s/%2$s</string>
   <string name="zen_mode_rule_summary_enabled_combination">Encendida / %1$s</string>
   <string name="zen_mode_rule_summary_provider_combination">"%1$s
 %2$s"</string>
