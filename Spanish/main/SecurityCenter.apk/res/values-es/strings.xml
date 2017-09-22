@@ -965,7 +965,6 @@ responda</string>
   <string name="menu_text_license_manager">Permisos</string>
   <string name="menu_text_networkassistants">Uso de datos</string>
   <string name="menu_text_networkassistants_danger">%s por encima del límite</string>
-  <string name="menu_text_networkassistants_data">%1$s%2$s</string>
   <string name="menu_text_networkassistants_remain">%s restantes</string>
   <string name="menu_text_networkassistants_unit_b">B</string>
   <string name="menu_text_networkassistants_unit_gb">GB</string>
@@ -1101,7 +1100,6 @@ Esta actividad acorta la duración de la batería."</string>
   <string name="om_media_scan_timeout_proc_detail">El servidor multimedia funciona en segundo plano. Puede restringir su actividad.</string>
   <string name="om_media_scan_timeout_proc_name">Servidor multimedia</string>
   <string name="om_memory_clean_cleaning_text">Optimizando velocidad…</string>
-  <string name="om_memory_clean_memory_info_text">%1$s / %2$s</string>
   <string name="om_notify_cpu_load_too_high_summary">Restringir la actividad de segundo plano para aumentar la velocidad</string>
   <string name="om_notify_cpu_load_too_high_title">El uso de CPU de %s es muy elevado</string>
   <string name="om_notify_need_clean_memory_summary">Limpia la cache para optimizar la velocidad</string>
@@ -1335,7 +1333,6 @@ Esta actividad acorta la duración de la batería."</string>
   <string name="pref_normal_traffic_limit">Cuando el plan de datos diario está agotado</string>
   <string name="pref_open_adjust_traffic">Actualice el uso de datos todos los días usando las estadísticas de su compañía</string>
   <string name="pref_operator_not_set">Operadora no establecida</string>
-  <string name="pref_operator_setting">%1$s%2$s</string>
   <string name="pref_over_traffic_limit">Cuando supera su plan de datos</string>
   <string name="pref_package_traffic_settings">Límite de datos móviles</string>
   <string name="pref_pkg_begin_date">Fecha de reinicio de uso</string>

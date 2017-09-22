@@ -4,7 +4,6 @@
   <string name="add_vm_number_str">Agregar número</string>
   <string name="antispam_local_marked">Marcado en local</string>
   <string name="antispam_marked_count">Informado por %1$d usuarios MIUI</string>
-  <string name="antispam_marked_title">%1$s</string>
   <string name="antispam_notification_title">Número desconocido</string>
   <string name="antispam_provider">Identificado por %s</string>
   <string name="callFailed_cb_enabled">No pueden hacer llamadas mientras esté activada la restricción de llamadas.</string>

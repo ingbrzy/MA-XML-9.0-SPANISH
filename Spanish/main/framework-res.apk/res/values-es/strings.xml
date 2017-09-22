@@ -355,7 +355,6 @@ con %s"</string>
   <string name="fast_scroll_numeric_alphabet">" 0123456789ABCDEFGHIJKLMNOPQRSTUVWXYZ"</string>
   <string name="fcComplete">Código de función completo.</string>
   <string name="fcError">Problema de conexión o código de función no válido.</string>
-  <string name="fileSizeSuffix">%1$s %2$s</string>
   <string name="find">Buscar</string>
   <string name="find_next">Buscar siguiente</string>
   <string name="find_on_page">Buscar en la página</string>
@@ -765,7 +764,6 @@ Vuelve a intentarlo en %2$d segundos."</string>
   <string name="needPuk">Tu tarjeta SIM está bloqueada con PUK. Escribe el código PUK para desbloquearla.</string>
   <string name="needPuk2">Escribir PUK2 para desbloquear la tarjeta SIM.</string>
   <string name="network_available_sign_in">Acceder a la red</string>
-  <string name="network_available_sign_in_detailed">%1$s</string>
   <string name="new_app_action">Inicio %1$s</string>
   <string name="new_app_description">Interrumpe la aplicación anterior sin guardar los cambios.</string>
   <string name="new_sms_notification_content">Abrir la aplicación de SMS para ver</string>

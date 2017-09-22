@@ -120,7 +120,6 @@ Tire hacia abajo para actualizar o comprobar los ajustes de red"</string>
   <string name="indices_desc_feel">Sensación %1$s°C</string>
   <string name="indices_desc_feel_without_pic">%1$s°C</string>
   <string name="indices_desc_humidity">Humedad %1$s%%</string>
-  <string name="indices_desc_humidity_without_pic">%1$s%%</string>
   <string name="indices_desc_pressure">%1$shPa</string>
   <string name="indices_desc_visibility">%1$skm</string>
   <string name="indices_no_restriction">Ninguna</string>
@@ -139,14 +138,12 @@ Tire hacia abajo para actualizar o comprobar los ajustes de red"</string>
   <string name="information_manager_information">Información meteorológica</string>
   <string name="information_manager_wlan">Cargar cuando se conecte a Wifi</string>
   <string name="information_set">Otros ajustes</string>
-  <string name="information_time_source">%1$s | %2$s</string>
   <string name="install">Instalar</string>
   <string name="international_detail_menu_title">Detalles</string>
   <string name="international_details_pressure_title">PRESIÓN</string>
   <string name="international_details_real_feel_title">SENSACIÓN TÉRMICA®</string>
   <string name="international_details_title">Detalles</string>
   <string name="international_details_uv_index_title">ÍNDICE UV</string>
-  <string name="international_details_wind_connect">%1$s %2$s</string>
   <string name="international_details_wind_title">VIENTO</string>
   <string name="locate_fail_detail_err">No se puede localizar el dispositivo
 Toque la pantalla para añadir o reposicionar manualmente la ciudad</string>
@@ -205,7 +202,6 @@ Toque la pantalla para añadir o reposicionar manualmente la ciudad</string>
   <string name="share_subject">Compartir</string>
   <string name="share_title">Compartir tiempo</string>
   <string name="share_weather_desc">\#Tiempo MIUI#Hoy a las %1$s %2$s</string>
-  <string name="share_weather_desc_alert">%1$s%2$s</string>
   <string name="share_weather_desc_split">,</string>
   <string name="share_weather_save_pic_fail">No se pudo realizar la captura</string>
   <string name="some_where_on_earth">Un lugar en la Tierra</string>

@@ -485,7 +485,6 @@
   <string name="folder_trash_name_en2">Mensajes Eliminados</string>
   <string name="folder_trash_name_en3">[Gmail]/Papelera</string>
   <string name="formatted_email_address">&lt;%1$s&gt;</string>
-  <string name="formatted_subject">%1$s %2$s</string>
   <string name="forward">Reenviar</string>
   <string name="forward_attachment">Reenviar</string>
   <string name="forward_attribution_no_headers">---------- Mensaje reenviado ----------</string>
@@ -1002,7 +1001,6 @@ para recibir recordatorios sobre pagos y viajes"</string>
   <string name="silent_ringtone">Silencio</string>
   <string name="single_new_message_notification_big_text">"%1$s
 %2$s"</string>
-  <string name="single_new_message_notification_title">%1$s: %2$s</string>
   <string name="sms_tip">La autenticación falla, compruebe si el software antivirus bloquea los SMS</string>
   <string name="smtp_password_error">La contraseña del servidor de correo saliente es incorrecta</string>
   <string name="sort_attachment">Ordenar por</string>

@@ -153,7 +153,6 @@ Comprueba el número de rastreo."</string>
   <string name="express_order_failed">Fallido</string>
   <string name="express_order_ongoing">Pidiendo…</string>
   <string name="express_order_result">Resultado</string>
-  <string name="express_order_state">%1$s / %2$s</string>
   <string name="express_order_state_accepted">Aceptado</string>
   <string name="express_order_state_allograph">Firmado</string>
   <string name="express_order_state_cancelled">Cancelado</string>
@@ -320,7 +319,6 @@ Comprueba el número de rastreo."</string>
   <string name="nearby_average_price">Promedio de %d DÓL</string>
   <string name="nearby_no_yellow_page">Sin resultados cercanos</string>
   <string name="nearby_yellow_page_title">Cercano</string>
-  <string name="nearby_yellow_page_title_format">%1$s-%2$s</string>
   <string name="network_access_denied">Acceso a la red negado</string>
   <string name="network_unavaliable">No es posible conectarse a la red</string>
   <string name="no_brief">Sin resumen</string>
@@ -336,7 +334,6 @@ Comprueba el número de rastreo."</string>
   <string name="order_id_label">Pedido #: %1$s</string>
   <string name="order_info">Información del pedido</string>
   <string name="order_merchant_title">Mis pedidos</string>
-  <string name="order_merchant_title_format">%1$s-%2$s</string>
   <string name="order_not_found">Sin pedidos</string>
   <string name="order_price_label">Precio del pedido: %1$s</string>
   <string name="order_product_name_label">Nombre del producto: %1$s</string>
@@ -385,7 +382,6 @@ Comprueba el número de rastreo."</string>
   <string name="recharge_payment_result_ok_title">Añadidos DÓL %s</string>
   <string name="recharge_payment_result_progress_summary">Comprobando resultado de pago…</string>
   <string name="recharge_phone">Recargar numero:</string>
-  <string name="recharge_phone_format">%1$s / %2$s</string>
   <string name="recharge_phone_number_empty">El número de teléfono no puede estar vacío</string>
   <string name="recharge_phone_number_error">El teléfono introducido no es válido</string>
   <string name="recharge_select_money_title">Selecciona la cantidad de recarga</string>
@@ -412,7 +408,6 @@ Total: DÓL %3$s"</string>
   <string name="sending_shortcut">Enviando…</string>
   <string name="service_unavailiable">Servicio no disponible</string>
   <string name="share">Compartir</string>
-  <string name="shop_recommendation_format">%1$s: %2$s</string>
   <string name="sim1">Sim 1</string>
   <string name="sim2">Sim 2</string>
   <string name="sina_share_fail">"No se pudo enviar"</string>

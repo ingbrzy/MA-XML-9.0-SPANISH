@@ -333,7 +333,6 @@ Puede que tu operador te cobre por volver a activar datos."</string>
   <string name="nav_guide_message">Usa gestos para ocultar/mostrar botones de función.</string>
   <string name="nav_guide_ok">Establecer</string>
   <string name="nav_guide_title">Ocultar botones programables</string>
-  <string name="network_speed_suffix">%1$s%2$s</string>
   <string name="no_application">Nada</string>
   <string name="no_multi_window_app">No hay aplicaciones que soporten pantalla Dividida</string>
   <string name="no_notification_tips">No hay notificaciones.</string>
@@ -581,7 +580,6 @@ Desliza hacia abajo para bloquear"</string>
   <string name="vpn_title">VPN activado</string>
   <string name="wait_for_debugger">Espere a depurador</string>
   <string name="wait_for_debugger_summary">La aplicación depurada espera que el depurador se adjunte antes de ejecutar</string>
-  <string name="weather_description_no_aqi">%1$s</string>
   <string name="weather_publish_time">Actualizado %1$s</string>
   <string name="wifi_aggressive_handover">Wi-fi agresivo a la entrega móvil</string>
   <string name="wifi_aggressive_handover_summary">Cuando está activado, el Wi-Fi será más agresivo en la entrega de la conexión de datos a móvil, cuando la señal Wi-Fi es baja</string>

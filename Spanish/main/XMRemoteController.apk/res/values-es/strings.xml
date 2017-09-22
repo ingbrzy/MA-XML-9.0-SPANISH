@@ -165,7 +165,6 @@ Intente lo siguiente para solucionar el problema:
   <string name="channel_catogory_name">Canales</string>
   <string name="channel_list">Lista de canales</string>
   <string name="channel_removed_from_fav">%1$s eliminado de favoritos</string>
-  <string name="character_counter_pattern">%1$d / %2$d</string>
   <string name="check_upgrade">Comprobar actualizaciones</string>
   <string name="choose_ac">Elegir control remoto</string>
   <string name="choose_address_title">Seleccionar ubicación</string>
@@ -1003,7 +1002,6 @@ link enviado a su correo electrónico.</string>
   <string name="temprature_frame">%1$d ℃</string>
   <string name="third_app_launch_failed">Error al iniciar la aplicación</string>
   <string name="time_error">Parece que la hora es errónea</string>
-  <string name="time_interval_in_sec">%1$d</string>
   <string name="timer">Temporizador</string>
   <string name="timer_turn_off">Desactivar temporizador</string>
   <string name="timer_turn_on">Activar temporizador</string>

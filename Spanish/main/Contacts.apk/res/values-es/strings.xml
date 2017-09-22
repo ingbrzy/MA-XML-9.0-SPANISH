@@ -93,7 +93,6 @@
   <string name="call_sim_menu_title_suffix">(Primario)</string>
   <string name="call_telex">Llamada télex</string>
   <string name="call_tty_tdd">Llamada TTY/TDD</string>
-  <string name="call_type_and_date">%1$s %2$s</string>
   <string name="call_unit">CNY</string>
   <string name="call_work">Llamar al trabajo</string>
   <string name="call_work_mobile">Llamada de trabajo móvil</string>
@@ -477,7 +476,6 @@ Para evitar consultas frecuentes, actualizamos la información del saldo una vez
   <string name="foundTooManyContacts">Más de %d encontrados.</string>
   <string name="fraud_more_indemnity">Más</string>
   <string name="frequentList">Frecuentes</string>
-  <string name="from_account_format">%1$s</string>
   <string name="full_name">Nombre</string>
   <string name="gallery">Galería</string>
   <string name="generic_no_account_prompt">Mantener tus contactos seguros incluso si pierdes tu teléfono: sincronizar con un servicio en línea.</string>
@@ -550,7 +548,6 @@ Para evitar consultas frecuentes, actualizamos la información del saldo una vez
   <string name="import_weibo_fetch_followers">Combinando contactos…</string>
   <string name="import_weibo_notification_title_done">%s contactos actualizados</string>
   <string name="import_weibo_progress_name">Cotejando \"%1$s\" …</string>
-  <string name="import_weibo_progress_percent">%1$d%%</string>
   <string name="importing_sim_contacts_miui">Importar contactos de la tarjeta SIM…</string>
   <string name="importing_sim_contacts_miui_prepare">Preparando contactos…</string>
   <string name="importing_vcard_canceled_title">Exportación de %s cancelado</string>
@@ -1174,7 +1171,6 @@ Para agregar un contacto a la lista de favoritos:
   <string name="sim_unloaded">La tarjeta SIM no está instalada</string>
   <string name="sina_weibo">Sina Weibo</string>
   <string name="single_group_list_empty">No hay miembros en el grupo</string>
-  <string name="smart_group_action_bar_title">%1$s: %2$s (%3$s)</string>
   <string name="smart_group_company_label">Por la empresa</string>
   <string name="smart_group_company_unavailable">Ninguna empresa</string>
   <string name="smart_group_frequency_1">Durante el pasado mes</string>
@@ -1301,7 +1297,6 @@ Elija una de las siguientes opciones: "</string>
   <string name="voip_audio_description">Llamada VoIP</string>
   <string name="voip_video_description">Videollamada VoIP</string>
   <string name="websiteLabelsGroup">Página web</string>
-  <string name="widget_name_and_phonetic">%1$s (%2$s)</string>
   <string name="wipe_data">Borrar datos</string>
   <string name="yellowPageNavigationIconLabel">Páginas amarillas</string>
   <string name="yellowPageNavigationLabel">Páginas amarillas</string>

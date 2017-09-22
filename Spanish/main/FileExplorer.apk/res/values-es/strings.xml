@@ -200,7 +200,6 @@
   <string name="favorite_ringtone">Tonos de llamada</string>
   <string name="favorite_screen_cap">Capturas de pantalla</string>
   <string name="female">Mujer</string>
-  <string name="fileSizeSuffix">%1$s %2$s</string>
   <string name="file_info_canread">"Lectura: "</string>
   <string name="file_info_canwrite">"Escritura: "</string>
   <string name="file_info_ishidden">"Oculto: "</string>
@@ -408,7 +407,6 @@
   <string name="operation_share">Compartir</string>
   <string name="operation_show_sys">Mostrar archivos ocultos</string>
   <string name="operation_unfavorite">No favorito</string>
-  <string name="origin_name">%1$s: </string>
   <string name="original_user_desc">Sube vídeos originales regularmente para obtener el estado de Creador.</string>
   <string name="original_user_qq_group">Únete al grupo QQ del equipo de Talentos</string>
   <string name="original_user_register">• <font color="#fc7050">%1$s</font> se ha unido a la comunidad</string>
@@ -488,7 +486,6 @@
   <string name="recommend_popup_title">Recomendaciones</string>
   <string name="recommend_topic">Temas recomendados</string>
   <string name="recommend_user">Perfiles recomendados</string>
-  <string name="recommend_users">%1$s+</string>
   <string name="remote_video_report_success">¡Gracias por la retroalimentación! Estaremos prestos a ello muy pronto.</string>
   <string name="rename_alert">Si cambias la extensión de este archivo, puede que no lo consigas abrir.</string>
   <string name="rename_failed">No se puede renombrar %1$s</string>
@@ -792,7 +789,6 @@
   <string name="video_topic_hint">Buscar personas o temas</string>
   <string name="video_upload_btn">Siguiente</string>
   <string name="video_upload_btn_hint">Los vídeos MP$ deberán tener de 3s~10min de duración</string>
-  <string name="video_upload_item_title">%1$s (%2$s)</string>
   <string name="video_upload_kuaishou_hint">Sube vídeos a KuaiShou para conseguir más fans.</string>
   <string name="video_upload_retry_confirm">Intentar de nuevo</string>
   <string name="video_upload_retry_message">No se ha podido subir, ¿intentar de nuevo?</string>

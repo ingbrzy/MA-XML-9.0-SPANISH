@@ -826,7 +826,6 @@ Las emisiones utilizan señales de Bluetooth de baja energía."</string>
   <string name="calendar_sound_title">Sonido del calendario</string>
   <string name="call_manager_enable_summary">Permite que este servicio administre la forma de hacer llamadas.</string>
   <string name="call_manager_enable_title">Habilitar el administrador de llamadas</string>
-  <string name="call_manager_summary">%1$s</string>
   <string name="call_manager_title">Administrador de llamadas</string>
   <string name="call_settings_primary_user_only">Cambie los ajustes de llamada en su Primer espacio</string>
   <string name="call_settings_summary">Configurar buzón, llamada en espera, desvío e identificador</string>
@@ -1424,7 +1423,6 @@ El uso de datos determinado por el teléfono puede variar del recuento realizado
   <string name="dndm_auto_button_title">Repetir hora para el modo No molestar</string>
   <string name="dndm_auto_setting_group">Programado</string>
   <string name="dndm_auto_time_setting">Establecer hora</string>
-  <string name="dndm_auto_time_setting_summary">%1$s-%2$s</string>
   <string name="dndm_auto_time_turn_off">A</string>
   <string name="dndm_auto_time_turn_off_title">Desactivar automáticamente el modo No molestar</string>
   <string name="dndm_auto_time_turn_on">De</string>
@@ -1808,7 +1806,6 @@ Al activar la copia de seguridad automática, los datos del dispositivo y de las
   <string name="gadget_picker_title">Seleccionar gadget</string>
   <string name="gadget_state_off">apagado</string>
   <string name="gadget_state_on">encendido</string>
-  <string name="gadget_state_template">%1$s %2$s</string>
   <string name="gadget_state_turning_off">desactivando</string>
   <string name="gadget_state_turning_on">activando</string>
   <string name="gadget_sync">Sincronizar</string>
@@ -2066,7 +2063,6 @@ Al activar la copia de seguridad automática, los datos del dispositivo y de las
   <string name="lift_to_wake_title">Levantar el dispositivo para activarlo</string>
   <string name="line_breaking_summary">Optimizar los saltos de línea del párrafo</string>
   <string name="line_breaking_title">Optimizar texto</string>
-  <string name="link_speed">%1$d Mbps</string>
   <string name="link_speed_label">Link speed:</string>
   <string name="loading_notification_apps">Cargando aplicaciones...</string>
   <string name="local_auto_backup_off">Apagado</string>
@@ -4307,8 +4303,6 @@ Considera usar una ^1 para mejorar el rendimiento."</string>
   <string name="suggestions_title">Sugerencias (%1$d)</string>
   <string name="sum_carrier_select">Selecciona un operador de red</string>
   <string name="summary_divider_text">", "</string>
-  <string name="summary_font_size">%1$s</string>
-  <string name="summary_range_symbol_combination">%1$s-%2$s</string>
   <string name="summary_range_verbal_combination">De %1$s a %2$s</string>
   <string name="supl_not_set">&lt;No definido&gt;</string>
   <string name="supplicant_state_label">Estado de la solicitud:</string>
@@ -5528,7 +5522,6 @@ Asistente de Wi‑Fi"</string>
   <string name="zen_mode_summary_alarms_only_by_time">Cambiar a Solo alarmas hasta las %1$s</string>
   <string name="zen_mode_summary_alarms_only_indefinite">Cambiar a Solo alarmas de forma indefinida</string>
   <string name="zen_mode_summary_always">Cambiar a interrumpir siempre</string>
-  <string name="zen_mode_summary_combination">%1$s: %2$s</string>
   <string name="zen_mode_visual_interruptions_settings_title">Bloquear las molestias visuales</string>
   <string name="zen_mode_when">Activar automáticamente</string>
   <string name="zen_mode_when_every_night">Todas las noches</string>

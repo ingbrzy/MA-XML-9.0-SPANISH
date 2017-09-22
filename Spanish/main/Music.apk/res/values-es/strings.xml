@@ -439,7 +439,6 @@ es proporcionado principalmente por Ultimate Inc."</string>
   <string name="list_detail_title">Detalles</string>
   <string name="list_item_play_FM_radio">Toca para reproducir la radio FM</string>
   <string name="list_item_play_all_tracks">Reproducir todo</string>
-  <string name="listview_index_of_total">%1$d/%2$d</string>
   <string name="load_shuffle">Cargando…</string>
   <string name="loadercontainer_loading">Un momento…</string>
   <string name="loading_hint">Un momento…</string>
