@@ -97,6 +97,7 @@
   <string name="clear_immediately">Limpiar ahora</string>
   <string name="clear_safe_notify">Widget de panel de notificaciones</string>
   <string name="close">Cerrar</string>
+  <string name="close_debug_mode">Pulse %1$d para cerrar el interruptor de debug</string>
   <string name="confirm_auto_cleaner">Aceptar</string>
   <string name="conn_of_function_safe">Conexión de Red para Seguridad</string>
   <string name="connecting">Conectando…</string>
@@ -292,6 +293,7 @@
   <string name="open">Activar</string>
   <string name="open_app">Abrir</string>
   <string name="open_browser">Abrir en el navegador</string>
+  <string name="open_debug_mode">Pulse %1$d para abrir el interruptor de debug</string>
   <string name="open_file_error">"No se pudo encontrar la aplicación que abre este archivo."</string>
   <string name="optimizecenter_data_support_cm">Desarrollado por Clean Master</string>
   <string name="optimizecenter_data_support_tc">Desarrollado por Tencent</string>

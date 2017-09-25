@@ -1,4 +1,4 @@
-<?xml version='1.0' encoding='utf-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <resources>
   <string name="accept_modify_call_request_prompt">¿Aceptar modificar solicitud de llamada?</string>
   <string name="add_vm_number_str">Agregar número</string>
@@ -6,6 +6,7 @@
   <string name="antispam_marked_count">Informado por %1$d usuarios MIUI</string>
   <string name="antispam_notification_title">Número desconocido</string>
   <string name="antispam_provider">Identificado por %s</string>
+  <string name="areacode_set_default">Establecer como por defecto</string>
   <string name="callFailed_cb_enabled">No pueden hacer llamadas mientras esté activada la restricción de llamadas.</string>
   <string name="callFailed_congestion">Red ocupada</string>
   <string name="callFailed_dialToDial">Petición DIAL modificada a DIAL con diferente número.</string>
@@ -57,9 +58,9 @@
   <string name="can_not_call_oneself">"No se puede marcar este número."</string>
   <string name="can_not_use">"No se puede usar"</string>
   <string name="cancel">Cancelar</string>
-  <string name="card_title_answering">Contestando la llamada</string>
-  <string name="card_title_answering_fail">"No se pudo contestar la llamada, intente de nuevo."</string>
   <string name="cancel_call">Colgar</string>
+  <string name="card_title_answering">Contestando la llamada</string>
+  <string name="card_title_answering_fail">No se pudo contestar la llamada, intente de nuevo.</string>
   <string name="card_title_call_ended">"Llamada finalizada "</string>
   <string name="card_title_conf_call">Llamada de conferencia</string>
   <string name="card_title_dialing">Llamando</string>
@@ -91,6 +92,7 @@
   <string name="conference_caller_name_me">Yo</string>
   <string name="conference_callers_exceeded">"No se puede agregar más personas"</string>
   <string name="contacts_icon_label">Contactos</string>
+  <string name="default_area_code_setting">Código de área por defecto</string>
   <string name="description_image_button_answer">Responder</string>
   <string name="description_image_button_dialpad">Marcador</string>
   <string name="description_image_button_eight">ocho</string>
@@ -231,8 +233,8 @@
   <string name="phone_info_divider">" ｜ "</string>
   <string name="picking_participant">Obteniendo información del contacto…</string>
   <string name="private_num">Número privado</string>
-  <string name="remind_unlock_message">Tu dispositivo está bloqueado. \"%s\" estará disponible después de desbloquear el dispostivo. ¿Desbloquear ahora?</string>
   <string name="purchase_now">Recargar</string>
+  <string name="remind_unlock_message">Tu dispositivo está bloqueado. \"%s\" estará disponible después de desbloquear el dispostivo. ¿Desbloquear ahora?</string>
   <string name="respond_via_sms_custom_message">Escribe tu propio…</string>
   <string name="select_audio_dialog_title">Seleccione el modo de respuesta</string>
   <string name="select_one_sim_title">Sólo se puede utilizar la tarjeta SIM %1$d</string>
@@ -240,7 +242,7 @@
   <string name="select_voice_call_sim">Elegir tarjeta SIM</string>
   <string name="separate_from_conference">Separada llamada</string>
   <string name="sip_call_not_support_record">"No se puede grabar llamadas SIP"</string>
-  <string name="suspect_info">Siempre verifique la identidad de la persona con la que está hablando mediante una llamada de teléfono o vídeo antes de responder a cualquier mensaje relacionado con sus finanzas personales.</string>
+  <string name="suspect_info">Tenga cuidado con su información personal.</string>
   <string name="time_left_livetalk">(%ds)</string>
   <string name="unknown">Desconocido</string>
   <string name="unlock_phone">Desbloquear dispositivo</string>

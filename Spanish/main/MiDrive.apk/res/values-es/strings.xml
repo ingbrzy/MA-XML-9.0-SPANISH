@@ -110,6 +110,7 @@
   <string name="sd_invalid">Su tarjeta SD está corrupta.</string>
   <string name="send_to_midrive_failed">"Este tipo de archivo no está soportado."</string>
   <string name="slashes">/</string>
+  <string name="source_file_missing">Archivo no encontrado.</string>
   <string name="space_full">Espacio cloud insuficiente.</string>
   <string name="start_use_xiaomi_account">Comience a usar Mi Drive</string>
   <string name="system_alert">Conexión a Internet</string>

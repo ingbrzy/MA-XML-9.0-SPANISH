@@ -42,7 +42,7 @@
   <string name="account_settings_incoming_summary">Nombre de usuario, contraseña y otros ajustes del servidor</string>
   <string name="account_settings_login_dialog_content_fmt">"El nombre de usuario o contraseña para %s es incorrecta.
  ¿Actualizar ahora?"</string>
-  <string formatted="false" name="account_settings_login_dialog_reason_fmt">No se pudo iniciar sesión en %s. El servidor respondió: %s</string>
+  <string name="account_settings_login_dialog_reason_fmt" formatted="false">No se pudo iniciar sesión en %s. El servidor respondió: %s</string>
   <string name="account_settings_login_dialog_title">No se ha podido iniciar sesión</string>
   <string name="account_settings_mail_check_frequency_label">Frecuencia</string>
   <string name="account_settings_mibill_resolve_label">Gestionar facturas automáticamente</string>
@@ -538,7 +538,7 @@
   <string name="invalid_recipient">La dirección %s no es válida.</string>
   <string name="invalid_recipient_title">Error de destinatario</string>
   <string name="kilobytes">%s KB</string>
-  <string formatted="false" name="label_notification_ticker">%s: %s</string>
+  <string name="label_notification_ticker" formatted="false">%s: %s</string>
   <string name="load_from_remote">Buscar bandeja de entrada en el servidor</string>
   <string name="load_more">Cargar más</string>
   <string name="loading_conversation">Cargando…</string>
@@ -626,7 +626,7 @@ Declinado:
   <string name="menu_att_mgr_order_default">Vistos Recientemente</string>
   <string name="menu_att_mgr_order_mime">Ordenar por formato</string>
   <string name="menu_att_mgr_order_name">Ordenar por nombre</string>
-  <string name="menu_att_mgr_order_rev_date">Mostrar por fecha de recepción</string>
+  <string name="menu_att_mgr_order_rev_date">Ordenar por fecha de recepción</string>
   <string name="menu_att_mgr_order_size">Ordenar por tamaño</string>
   <string name="menu_change_folders">Mover</string>
   <string name="menu_compose">Crear</string>
@@ -771,7 +771,7 @@ Prueba una bandeja de entrada diferente."</string>
   <string name="permission_tip">Los ajustes fallaron, por favor permita llamadas y mensajes de texto durante los permisos de ajustes</string>
   <string name="phone">teléfono</string>
   <string name="photo_load_failed">No se puede cargar la imagen</string>
-  <string formatted="false" name="photo_view_count">%d de %d</string>
+  <string name="photo_view_count" formatted="false">%d de %d</string>
   <string name="please_fill_in_your_mailbox_information2">Introduzca información de su correo</string>
   <string name="pls_parse_bill_discribe">"Analiza facturas e informacion de viajes en tu correo
 para recibir recordatorios sobre pagos y viajes"</string>
@@ -927,9 +927,9 @@ para recibir recordatorios sobre pagos y viajes"</string>
   <string name="remove_folder">Quitar de %1$s</string>
   <string name="remove_star">No favorito</string>
   <string name="reply">Responder</string>
-  <string name="reply_add_bodycontent">¿Añadir texto de respuesta rápida para el contenido del mensaje?</string>
+  <string name="reply_add_bodycontent">¿Añadir texto de respuesta rápida al contenido del mensaje?</string>
   <string name="reply_all">Responder a todos</string>
-  <string formatted="false" name="reply_attribution">El %s, %s escribió:</string>
+  <string name="reply_attribution" formatted="false">El %s, %s escribió:</string>
   <string name="report_phishing">Notificar phishing</string>
   <string name="report_spam">Notificar spam</string>
   <string name="request_entity_large">El archivo es demasiado grande</string>
@@ -1017,7 +1017,7 @@ para recibir recordatorios sobre pagos y viajes"</string>
   <string name="storage">Almacenamiento</string>
   <string name="str_select_all">Seleccionar todo</string>
   <string name="str_select_none">Desmarcar</string>
-  <string formatted="false" name="subject_and_snippet">%s — %s</string>
+  <string name="subject_and_snippet" formatted="false">%s — %s</string>
   <string name="subject_hint">Asunto</string>
   <string name="suggestions_authority">com.android.mail.providers.SuggestionsProvider</string>
   <string name="sync_error">No es posible sincronizar.</string>

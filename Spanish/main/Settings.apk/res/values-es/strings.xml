@@ -308,8 +308,8 @@ El administrador podrá controlar y administrar los ajustes, el acceso, las apli
   <string name="app_ops_settings_summary">Ver o cambiar permisos de aplicaciones</string>
   <string name="app_overlay_permission_preference">Permiso: escribir sobre otras aplicaciones</string>
   <string name="app_permissions">Permisos de aplicaciones</string>
-  <string formatted="false" name="app_permissions_group_summary">%d de %d aplicaciones permitidas</string>
-  <string formatted="false" name="app_permissions_summary">%d de %d aplicaciones tienen permitidos accesos adicionales</string>
+  <string name="app_permissions_group_summary" formatted="false">%d de %d aplicaciones permitidas</string>
+  <string name="app_permissions_summary" formatted="false">%d de %d aplicaciones tienen permitidos accesos adicionales</string>
   <string name="app_process_limit_title">Limitar procesos en segundo plano</string>
   <string name="app_restrictions_custom_label">Definir restricciones de aplicación</string>
   <string name="app_sees_restricted_accounts">Esta aplicación puede acceder a tus cuentas</string>
@@ -4347,7 +4347,7 @@ un servicio de Google que te permite sincronizar datos para que puedas acceder a
   <string name="system_alert_window_off">No</string>
   <string name="system_alert_window_on">Sí</string>
   <string name="system_alert_window_settings">Escribir sobre otras aplicaciones</string>
-  <string formatted="false" name="system_alert_window_summary">Aplicaciones que pueden escribir sobre otras: %d de %d</string>
+  <string name="system_alert_window_summary" formatted="false">Aplicaciones que pueden escribir sobre otras: %d de %d</string>
   <string name="system_and_device_section_title">Sistema y dispositivo</string>
   <string name="system_app">(Sistema)</string>
   <string name="system_app_settings">Aplicaciones del sistema</string>
@@ -5169,7 +5169,7 @@ Asistente de Wi‑Fi"</string>
   <string name="wifi_password">Contraseña</string>
   <string name="wifi_poor_network_detection">Solo conexiones estables</string>
   <string name="wifi_poor_network_detection_summary">No usar una red Wi-Fi a menos que tenga una buena conexión a Internet</string>
-  <string formatted="false" name="wifi_priority_changed">Valor antiguo %s | Nuevo valor %s</string>
+  <string name="wifi_priority_changed" formatted="false">Valor antiguo %s | Nuevo valor %s</string>
   <string name="wifi_priority_label">Prioridad</string>
   <string name="wifi_priority_settings_label">Ajustes de prioridad</string>
   <string name="wifi_priority_settings_summary">Establecer prioridad de cada punto de acceso</string>
@@ -5409,7 +5409,7 @@ Asistente de Wi‑Fi"</string>
   <string name="write_settings_off">Apagado</string>
   <string name="write_settings_on">Encendido</string>
   <string name="write_settings_preference">Permiso de aplicación para modificar ajustes sistema</string>
-  <string formatted="false" name="write_settings_summary">%d de %d aplicaciones pueden modificar los ajustes del sistema</string>
+  <string name="write_settings_summary" formatted="false">%d de %d aplicaciones pueden modificar los ajustes del sistema</string>
   <string name="write_settings_title">Puede modificar los ajustes del sistema</string>
   <string name="write_system_settings">Modificar ajustes del sistema</string>
   <string name="write_tag">Editar</string>

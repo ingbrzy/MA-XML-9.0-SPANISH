@@ -2,7 +2,6 @@
 <resources>
   <string name="ErrorTooManyRequests">Demasiadas solicitudes están siendo procesadas. Inténtalo más tarde.</string>
   <string name="ack_record">Registro de ACK</string>
-  <string name="airplane_can_not_share">En el modo avión no puede utilizar Bluetooth para compartir</string>
   <string name="airplane_error_msg">No puede utilizar Bluetooth en el modo avión.</string>
   <string name="airplane_error_title">Modo avión</string>
   <string name="app_name">Compartir por Bluetooth</string>
@@ -11,7 +10,6 @@
   <string name="auth_notif_title">Clave de sesión</string>
   <string name="bluetooth_connected">Audio conectado Bluetooth</string>
   <string name="bluetooth_disconnected">Audio desconectado Bluetooth</string>
-  <string name="bluetooth_in_airplane_mode">Modo avión</string>
   <string name="bluetooth_map_settings_app_icon">Icono de la aplicación</string>
   <string name="bluetooth_map_settings_cancel">Cancelar</string>
   <string name="bluetooth_map_settings_count">Ranuras de la izquierda:</string>
@@ -56,15 +54,13 @@
   <string name="download_succ_ok">Abrir</string>
   <string name="download_success">%1$s Recepción completada.</string>
   <string name="download_title">Transferencia de archivos</string>
-  <string name="empty_file_notification_sent">Transferencia Bluetooth: El dispositivo remoto rechazó el archivo porque su tamaño es cero %1$s</string>
   <string name="enabling_progress_content">Encendiendo Bluetooth…</string>
   <string name="enabling_progress_title">Por favor, espera…</string>
   <string name="hello">Hola mundo, TestActivity</string>
   <string name="inbound_history_title">Transferencias entrantes</string>
   <string name="inbound_noti_title">Transferencia Bluetooth: Archivos recibidos</string>
-  <string name="incoming_file_confirm_Notification_caption">¿Quieres recibir este archivo?</string>
   <string name="incoming_file_confirm_Notification_content">%1$s está listo para enviar %2$s</string>
-  <string name="incoming_file_confirm_Notification_title">Transferencia Bluetooth: Archivo entrante</string>
+  <string name="incoming_file_confirm_Notification_title">Archivo entrante</string>
   <string name="incoming_file_confirm_cancel">Declinar</string>
   <string name="incoming_file_confirm_content">¿Acepta el archivo entrante?</string>
   <string name="incoming_file_confirm_ok">Aceptar</string>
@@ -84,7 +80,6 @@
   <string name="not_exist_file">No hay ningún archivo</string>
   <string name="not_exist_file_desc">"El archivo no existe.
 "</string>
-  <string name="noti_caption">%1$s exitosa(s), %2$s fracasada(s).</string>
   <string name="notification_received">Transferencia Bluetooth: %1$s recibido</string>
   <string name="notification_received_fail">Transferencia Bluetooth: Archivo %1$s no recibido</string>
   <string name="notification_receiving">Transferencia Bluetooth: Recibiendo %1$s</string>

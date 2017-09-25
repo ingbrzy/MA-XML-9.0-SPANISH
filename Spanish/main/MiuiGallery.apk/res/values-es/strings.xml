@@ -939,27 +939,18 @@
   <string name="places_album_empty_title">Las fotos pueden ordenarse por ubicación</string>
   <string name="things_album_empty_title">Photos can be sorted by objects in them</string>
   <string name="setup_network_connection">Ajustes de red</string>
-  <string name="picker_title_specify_format">Select %d photos</string>
-  <string name="picker_title_specify_format_one">Select %d photo</string>
   <string name="download_error_format">No se pudo descargar %s</string>
   <string name="thumbnail_name">adjunto</string>
   <string name="origin_image_name">archivo original</string>
   <string name="origin_gif_name">archivo original</string>
   <string name="origin_video_name">vídeo</string>
-  <string name="add_to_secret_successful">Añadido al álbum oculto</string>
   <string name="album_name_people">Personas</string>
   <string name="album_name_locations">Ubicaciones</string>
   <string name="album_name_tags">Etiquetas</string>
   <string name="search_syncing">Sincronizando datos, vuelve en un rato</string>
-  <string name="search_title_album">Álbum</string>
   <string name="search_net_error">Se ha producido un error de red. Conéctate a una red diferente e inténtalo de nuevo.</string>
   <string name="search_select_network">Seleccionar red</string>
-  <string name="search_title_suggestion">Sugerencias</string>
-  <string name="search_setting_title">Encontrar fotos en Galería</string>
-  <string name="search_setting_sub_title">Búsqueda de imagen mejorada</string>
-  <string name="search_setting_sub_title_open">Aprobado. Espera un momento antes de comenzar.</string>
   <string name="search_request_open">Únete al equipo de prueba</string>
-  <string name="search_title_more">Más</string>
   <string name="error_no_network_tip">No fue posible conectarse a la red</string>
   <string name="error_no_network_msg">Asegúrate de que tu dispositivo está conectado al Wi-Fi o que los datos móviles estén activados.</string>
   <string name="error_no_network_action">Ajustes de red</string>
@@ -1007,7 +998,4 @@
   <string name="error_download_tip">No se pudo descargar</string>
   <string name="people_mark_mode_title">Seleccionar \"%s\"</string>
   <string name="people_mark_mode_title_no_mark_name">Seleccionar una persona</string>
-  <string name="home_menu_cleaner">Liberar espacio</string>
-  <string name="home_menu_collage">Collage</string>
-  <string name="home_menu_photo_movie">Mirar atrás</string>
 </resources>
