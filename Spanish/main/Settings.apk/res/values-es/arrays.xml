@@ -108,6 +108,16 @@
         <item>Combinar</item>
         <item>Separar</item>
     </string-array>
+    <string-array name="status_bar_show_carrier_entries">
+        <item>Sólo mostrarlo en la Pantalla de bloqueo y en el área de Notificaciones</item>
+        <item>Mostrar siempre el nombre del operador</item>
+        <item>Nunca mostar el nombre del operador</item>
+    </string-array>
+    <string-array name="check_importance_entries">
+        <item>Recomendado</item>
+        <item>Importante</item>
+        <item>Sin importancia</item>
+    </string-array>
     <string-array name="entries_font_size">
         <item>Pequeña</item>
         <item>Predeterminado</item>

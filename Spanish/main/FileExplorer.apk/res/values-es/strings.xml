@@ -596,8 +596,8 @@
   <string name="shared_sticker_page_no_file">No se pudo conectar a la red. Comprueba tu conexión y vuelve a intentarlo.</string>
   <string name="shared_sticker_str">Compartidos por fans de Mi</string>
   <string name="shared_sticker_suffix">Pegatina en %s</string>
-  <string name="shared_sticker_use_tip">"Puedes enviar las pegatinas que guardaste en conversaciones de Chat igual que envías imágenes.
-(Los GIFs se pueden añadir a Personalizados en las pegatinas de chat)."</string>
+  <string name="shared_sticker_use_tip">"Puede enviar las pegatinas que guardó en conversaciones de Chat igual que envía imágenes.
+(Los GIFs se pueden añadir a Personalizados en las pegatinas de WeChat)."</string>
   <string name="shared_sticker_use_tip_title">Cómo usar pegatinas</string>
   <string name="shared_str">Compartido por %s</string>
   <string name="shortcut_exists">El acceso directo ya existe</string>

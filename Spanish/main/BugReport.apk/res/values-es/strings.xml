@@ -223,7 +223,7 @@
   <string name="packaging_dialog_content">Creando informe…</string>
   <string name="permission_granted">%1$s permiso concedido</string>
   <string name="pic_not_exist">Esta imagen no existe</string>
-  <string name="plus_one_submit_dialog_content">Su comentario, junto con los registros de error, serán enviados a los servidores de Mi.</string>
+  <string name="plus_one_submit_dialog_content">Su comentario, junto con los registros de error, serán enviados a los servidores de Mi. Podría contener información personal.</string>
   <string name="plus_one_submit_dialog_not_show_again">Recordar preferencia</string>
   <string name="post_miui_bbs_failed">No se pudo publicar en MIUI Forum</string>
   <string name="pull_to_refresh_pull_label">Deslice hacia abajo para refrescar</string>

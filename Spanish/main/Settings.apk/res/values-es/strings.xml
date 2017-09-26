@@ -4110,6 +4110,8 @@ Esto es posible por una credencial de confianza instalada en tu dispositivo."</s
   <string name="status_bar_settings_style">Notificaciones y disposición de los accesos directos</string>
   <string name="status_bar_settings_toggle_collapse_after_clicked">Contraer al pulsar</string>
   <string name="status_bar_settings_toggle_position">Cambiar posiciones</string>
+  <string name="status_bar_settings_user_fold">Carpeta de notificaciones</string>
+  <string name="status_bar_settings_user_fold_summary">Todas las notificaciones sin importancia aparecerán en una carpeta aparte</string>
   <string name="status_bar_style_list">Combinada</string>
   <string name="status_bar_style_page">Separada</string>
   <string name="status_bt_address">Dirección de Bluetooth</string>

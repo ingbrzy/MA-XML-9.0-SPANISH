@@ -489,7 +489,8 @@ Para evitar consultas frecuentes, actualizamos la información del saldo una vez
   <string name="group_create_success_toast">Grupo creado</string>
   <string name="group_delete_success_toast">Grupo eliminado</string>
   <string name="group_edit_field_hint_text">Nombre del grupo</string>
-  <string name="group_member_remove_toast">Eliminado del grupo</string>
+  <string name="group_member_remove_fail_toast">No eliminado del grupo</string>
+  <string name="group_member_remove_success_toast">Eliminado del grupo</string>
   <string name="group_name">Mis grupos</string>
   <string name="group_name_hint">Nombre del grupo</string>
   <string name="group_read_only">No se puede modificar en este dispositivo.</string>
@@ -539,15 +540,6 @@ Para evitar consultas frecuentes, actualizamos la información del saldo una vez
   <string name="import_to_xiaomi_account_title">Importar a la Cuenta Mi</string>
   <string name="import_vcard_description">Importar contactos de la memoria interna del teléfono</string>
   <string name="import_vcard_dialog_message">¿Importar vCard?</string>
-  <string name="import_weibo_dialog_title">Importar contactos de Weibo</string>
-  <string name="import_weibo_error_no_matched_contacts">No hay contactos coincidentes</string>
-  <string name="import_weibo_error_no_network">No se puede conectar a la red. Comprueba tu conexión de datos e intenta recargar.</string>
-  <string name="import_weibo_error_no_xiaomi_phone">Hay no hay números de teléfono almacenados en su cuenta de Mi.</string>
-  <string name="import_weibo_error_unknown">Error desconocido</string>
-  <string name="import_weibo_error_user_cancel">Importación cancelada</string>
-  <string name="import_weibo_fetch_followers">Combinando contactos…</string>
-  <string name="import_weibo_notification_title_done">%s contactos actualizados</string>
-  <string name="import_weibo_progress_name">Cotejando \"%1$s\" …</string>
   <string name="importing_sim_contacts_miui">Importar contactos de la tarjeta SIM…</string>
   <string name="importing_sim_contacts_miui_prepare">Preparando contactos…</string>
   <string name="importing_vcard_canceled_title">Exportación de %s cancelado</string>
@@ -725,7 +717,7 @@ Para evitar consultas frecuentes, actualizamos la información del saldo una vez
   <string name="multi_number_menu_message">Mensaje</string>
   <string name="multi_number_title">Conferencia</string>
   <string name="multipleContactDeleteConfirmation">Eliminar este contacto eliminará la información en varias cuentas.</string>
-  <string name="multipleContactDeleteConfirmationDetail">Al eliminar \"%s\" sera eliminado de varias cuentas.</string>
+  <string name="multipleContactDeleteConfirmationDetail">Al eliminar \"%s\" será eliminado la información de varias cuentas.</string>
   <string name="my_phone_not_provider_bluetooth">No</string>
   <string name="my_phone_provider_bluetooth">Si</string>
   <string name="nameLabelsGroup">Nombre</string>
@@ -1043,7 +1035,7 @@ Para agregar un contacto a la lista de favoritos:
   <string name="quit_dialog_confirm_message">No has fusionado ningún contacto</string>
   <string name="quit_dialog_confirm_title">Cancelar la fusión de contactos</string>
   <string name="readOnlyContactDeleteConfirmation">Este contacto contiene información de varias cuentas. Esta información es de sólo lectura y se ocultará en su lista de contactos, pero no se borrará.</string>
-  <string name="readOnlyContactDeleteConfirmationDetail">\"%s\" contiene información de varias cuentas. Cualquier información que no se pueda borrar se ocultará de tu lista de contactos.</string>
+  <string name="readOnlyContactDeleteConfirmationDetail">\"%s\" contiene información de varias cuentas. Cualquier información que no se pueda borrar se ocultará de su lista de contactos.</string>
   <string name="readOnlyContactWarning">No puedes eliminar contactos de cuentas de sólo lectura, pero puedes ocultarlos de tus listas de contactos.</string>
   <string name="readingSimContacts">Leyendo tarjeta SIM…</string>
   <string name="reading_vcard_canceled_title">Lectura de vCard cancelada</string>
@@ -1324,18 +1316,12 @@ Elija una de las siguientes opciones: "</string>
   <string name="yellowpage_user_profile">Perfil</string>
   <string name="yesterday">Ayer</string>
   <string name="zero_items_selected">Seleccionar elementos</string>
-  <string name="add_field_toast">No hay más campos para agregar.</string>
-  <string name="call_settings_primary_user_only">La configuración de las llamadas solo puedo ser cambiada por el usuario principal</string>
   <string name="group_rename_success_toast">Grupo renombrado</string>
   <string name="phoneLabelsGroup">Télefono</string>
-  <string name="select_all_exceed">"No seleccione más de %1$d, no puede seleccionar todo"</string>
-  <string name="select_exceed">No seleccione más de %1$d</string>
-  <string name="sim_export_error">La tarjeta SIM no está lista, inténtelo más tarde</string>
   <string name="t9_search_empty_create_contact">Nuevo contacto</string>
   <string name="t9_search_empty_edit_contact">Añadir a contacto</string>
   <string name="t9_search_empty_send_sms">Enviar mensaje</string>
   <string name="t9_search_empty_video_call">Videollamada</string>
-  <string name="toast_start_intent_failed">No se encontró ninguna aplicación</string>
   <string name="unfold_all">desplegar todo</string>
   <string name="unknown_details_new_contact">Nuevo contacto</string>
 </resources>
