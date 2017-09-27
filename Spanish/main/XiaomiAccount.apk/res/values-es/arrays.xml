@@ -13,12 +13,4 @@
         <item>Maestría</item>
         <item>Doctorado</item>
     </string-array>
-    <string-array name="income">
-        <item>&lt; 2000</item>
-        <item>2001~4000</item>
-        <item>4001~6000</item>
-        <item>6001~8000</item>
-        <item>8001~12000</item>
-        <item>> 12000</item>
-    </string-array>
 </resources>

@@ -25,4 +25,69 @@
         <item>¿Por qué sólo puedo encender el aire acondicionado y no puedo apagarlo?</item>
         <item>¿Puedo usar Mi 3, Mi 2 y Redmi como un control remoto de infrarrojos?</item>
     </string-array>
+    <string-array name="assistant_tab">
+        <item>Videos</item>
+        <item>Capturas de pantalla</item>
+        <item>Aplicaciones</item>
+    </string-array>
+    <string-array name="epg_channel_tab">
+        <item>Todos</item>
+        <item>Favoritos</item>
+        <item>CCTV</item>
+        <item>TV</item>
+        <item>HD</item>
+        <item>Recientes</item>
+    </string-array>
+    <string-array name="epg_channel_tab_actionbar">
+        <item>Todos los canales</item>
+        <item>Canales favoritos</item>
+        <item>Canales CCTV</item>
+        <item>Canales TV</item>
+        <item>Canales HD</item>
+        <item>Vistos recientemente</item>
+    </string-array>
+    <string-array name="epg_channel_tab_actionbar_v53">
+        <item>Todos los canales</item>
+        <item>Vistos recientemente</item>
+        <item>Canales HD</item>
+        <item>Canales TV</item>
+        <item>Canales CCTV</item>
+    </string-array>
+    <string-array name="epg_channel_tab_v53">
+        <item>Todos</item>
+        <item>Reciente</item>
+        <item>HD</item>
+        <item>TV</item>
+        <item>CCTV</item>
+    </string-array>
+    <string-array name="epg_program_genre">
+        <item></item>
+        <item></item>
+        <item>Entretenimiento</item>
+        <item></item>
+        <item>Deportes</item>
+        <item>Infantiles</item>
+        <item>Noticias</item>
+        <item>Estilo de vida</item>
+    </string-array>
+    <string-array name="epg_program_tab">
+        <item>Popular</item>
+        <item>Películas</item>
+        <item>Entretenimiento</item>
+        <item>Shows TV</item>
+        <item>Deportes</item>
+        <item>Infantil</item>
+        <item>Noticias</item>
+        <item>Estilo de vida</item>
+    </string-array>
+    <string-array name="epg_program_tab_actionbar">
+        <item>Shows populares</item>
+        <item>Películas</item>
+        <item>Programas de entretenimiento</item>
+        <item>Shows de TV</item>
+        <item>Deportes</item>
+        <item>Infantil</item>
+        <item>Noticias</item>
+        <item>Programas de estilo de vida</item>
+    </string-array>
 </resources>

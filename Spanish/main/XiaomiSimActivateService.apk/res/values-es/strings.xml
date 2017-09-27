@@ -1,4 +1,4 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <resources>
   <string name="accept">Aceptar</string>
   <string name="activate">Activar</string>
@@ -6,8 +6,10 @@
   <string name="activate_auto_sms_notification_desc_2_cards">SMS enviado desde la tarjeta SIM %s para activar \"Encontrar dispositivo\"</string>
   <string name="activate_auto_sms_notification_title">Activación de la tarjeta SIM</string>
   <string name="activate_feature_call_log_sync">Sincronizar el registro de llamadas</string>
+  <string name="activate_feature_default_name">Servicios Mi</string>
   <string name="activate_feature_find_device">Encontrar dispositivo</string>
   <string name="activate_feature_live_talk">Paquete de recarga de teléfono</string>
+  <string name="activate_feature_mi_roaming">Roaming Mi</string>
   <string name="activate_feature_mms_sync">Sincronizar mensajes</string>
   <string name="activate_feature_mx">Mensajes Mi</string>
   <string name="activate_feature_mx_and_voip">Mensajes Mi y Voz Mi</string>
@@ -21,11 +23,11 @@
   <string name="activate_history_success_overview">Activación de la tarjeta SIM con éxito. La activación es desencadenada por \"%1$s\".</string>
   <string name="activate_history_title">Activación de la tarjeta SIM</string>
   <string name="activate_phone_cancel_notif_title">Activación de la tarjeta SIM cancelada</string>
-  <string name="activate_phone_cancel_notif_title_msim">Activación de la tarjeta SIM %s cancelada</string>
+  <string name="activate_phone_cancel_notif_title_msim">Activación de la tarjeta SIM %d cancelada</string>
   <string name="activate_phone_failed_notif_title">"No se puede activar la tarjeta SIM"</string>
-  <string name="activate_phone_failed_notif_title_msim">"No se puede activar la tarjeta SIM %s"</string>
+  <string name="activate_phone_failed_notif_title_msim">"No se puede activar la tarjeta SIM %d"</string>
   <string name="activate_phone_success_notif_title">Tarjeta SIM activada</string>
-  <string name="activate_phone_success_notif_title_msim">Tarjeta SIM %s activada</string>
+  <string name="activate_phone_success_notif_title_msim">Tarjeta SIM %d activada</string>
   <string name="activate_popup_confirm_all_gateway_failed_query_info">Inténtalo de nuevo</string>
   <string name="activate_popup_confirm_all_gateway_failed_send_sms">Inténtalo de nuevo</string>
   <string name="activate_popup_confirm_error_device_id">Inténtalo de nuevo</string>
@@ -73,6 +75,7 @@
   <string name="activate_popup_title_manual">Activar %s</string>
   <string name="activate_popup_title_new_sim_card">Reactivar %s</string>
   <string name="activate_popup_title_register_account">Crear Cuenta Mi</string>
+  <string name="activate_sms_postfix">Este SMS se usa para activar su servicio Mi</string>
   <string name="activate_status_desc_acquire_phone_number">Verificando número de teléfono…</string>
   <string name="activate_status_desc_acquire_phone_number_server_error">Error del servidor mientras se verificaba el número de teléfono</string>
   <string name="activate_status_desc_acquire_phone_number_server_no_info">"No se pudo verificar el número de teléfono"</string>
@@ -100,10 +103,17 @@
   <string name="activate_status_desc_wait_for_sms_fail">"No se pudo recibir el SMS de activación del servidor"</string>
   <string name="activate_status_desc_wait_for_sms_success">SMS de activación recibido</string>
   <string name="activate_status_title_activating">Activando tarjeta SIM…</string>
-  <string name="activate_status_title_activating_msim">Activando tarjeta SIM %s…</string>
+  <string name="activate_status_title_activating_msim">Activando tarjeta SIM %d…</string>
+  <string name="agree">Aceptar</string>
   <string name="app_name">Servicio de activación de SIM de Xiaomi</string>
   <string name="explain_send_sms_permission_button">Verificar</string>
   <string name="explain_send_sms_permission_msg">Para activar %s, Xiaomi Service Framework enviará un SMS para verificar tu número. Su operador le cobrará por estos mensajes.</string>
   <string name="explain_send_sms_permission_title">Verifique su número de teléfono</string>
+  <string name="phone_get_processing">obteniendo…</string>
+  <string name="phone_get_text">Acepta que %1$s obtenga su número de teléfono：%2$s</string>
+  <string name="phone_get_title">Acepta que %1$s obtenga su número de teléfono</string>
+  <string name="phone_verify_processing">verificando…</string>
+  <string name="phone_verify_text">%1$s no obtendrá su número de teléfono, sólo verificará que su número coincide。</string>
+  <string name="phone_verify_title">Acepta que %1$s verifique su número de teléfono</string>
   <string name="sim_unactivated_title">"Su tarjeta SIM está sin activar"</string>
 </resources>
