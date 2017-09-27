@@ -144,7 +144,7 @@
   <string name="duration_sec">Duración (%s seg)</string>
   <string name="duration_selector_title">Duración de la diapositiva</string>
   <string name="duration_zero">La duración debe ser mayor que 0 segundos</string>
-  <string name="earlier">Más temprano</string>
+  <string name="earlier">Anterior</string>
   <string name="edit">Editar</string>
   <string name="edit_phrase">Editar respuestas rápidas</string>
   <string name="edit_slide_activity">Editar diapositivas</string>
