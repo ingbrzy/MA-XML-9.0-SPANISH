@@ -399,8 +399,6 @@ Puede que tu operador te cobre por volver a activar datos."</string>
   <string name="quick_settings_wifi_nearby">Seleccione una red</string>
   <string name="recents_app_info_button_label">Información de la aplicación</string>
   <string name="recent_dock_tip">Toca para seleccionar aplicaciones</string>
-  <string name="recent_task_app_info_text">Información</string>
-  <string name="recent_task_cleaning">Eliminando aplicaciones…</string>
   <string name="recent_task_app_info_text">Info.</string>
   <string name="recent_task_cleaning">Limpiando aplicaciones…</string>
   <string name="recent_task_lock_text">Bloq.</string>
