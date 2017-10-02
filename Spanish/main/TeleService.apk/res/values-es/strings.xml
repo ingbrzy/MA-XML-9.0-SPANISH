@@ -81,6 +81,7 @@
   <string name="autoip_setting">Configuración automática de IP</string>
   <string name="autoip_summary">Añadir un prefijo IP para números internacionales</string>
   <string name="autoip_support_local_numbers">Utilizar siempre prefijo IP</string>
+  <string name="available_via_passpoint">Disponible vía %1$s</string>
   <string name="back">Atrás</string>
   <string name="badPin">El PIN antiguo que escribió es incorrecto. Inténtelo de nuevo.</string>
   <string name="badPin2">Antiguo PIN2 incorrecto. Inténtelo de nuevo.</string>
@@ -91,9 +92,13 @@
   <string name="bad_puk">El PUK introducido es incorrecto.</string>
   <string name="bad_puk2">El PUK2 introducido es incorrecto.</string>
   <string name="bf_news_settings">Noticias financieras y comerciales</string>
+  <string name="callEnded_pulled">Llamada transferida a otro dispositivo.</string>
   <string name="callFailed_cb_enabled">No puedes realizar llamadas cuando está activa la restricción de llamadas.</string>
   <string name="callFailed_cdma_activation">Una tarjeta SIM activó su servicio y actualizó las capacidades de itinerancia de su teléfono.</string>
   <string name="callFailed_congestion">Red ocupada</string>
+  <string name="callFailed_data_disabled">La llamada terminó porque los datos móviles se deshabilitaron.</string>
+  <string name="callFailed_data_limit_reached">Límite de datos alcanzado. Llamada terminada.</string>
+  <string name="callFailed_data_limit_reached_description">La llamada terminó porque ha sido alcanzado el límite de los datos móviles.</string>
   <string name="callFailed_dialToDial">El requerimiento del DIAL de marcación fue modificado por un número diferente.</string>
   <string name="callFailed_dialToSs">DIAL modificado por requerimiento SS.</string>
   <string name="callFailed_dialToUssd">DIAL request modified to USSD request.</string>
@@ -105,6 +110,7 @@
   <string name="callFailed_invalid_credentials">Nombre de usuario o contraseña incorrectos</string>
   <string name="callFailed_limitExceeded">Se excedió el límite de ACM.</string>
   <string name="callFailed_low_battery">Batería baja</string>
+  <string name="callFailed_maximum_reached">Todas las líneas disponibles están en uso. Para hacer una llamada, desconecte una de las llamadas en este dispositivo, o en otro de sus dispositivos.</string>
   <string name="callFailed_noSignal">No hay señal.</string>
   <string name="callFailed_number_unreachable">No se puede establecer conexión con el número.</string>
   <string name="callFailed_outOfService">Red móvil no disponible</string>
@@ -120,7 +126,7 @@
   <string name="call_advanced_setting_title">Ajustes avanzados</string>
   <string name="call_background_default">Por defecto</string>
   <string name="call_background_lock_wallpaper">Fondo de pantalla de bloqueo</string>
-  <string name="call_background_setting">Fondo de llamada</string>
+  <string name="call_background_setting">Fondo de llamada entrante</string>
   <string name="call_barring">Restricción de llamadas</string>
   <string name="call_barring_incoming">Restricción de llamadas entrantes</string>
   <string name="call_barring_outgoing">Restricción de llamadas salientes</string>
@@ -198,7 +204,10 @@
   <string name="card_title_outgoing_barred">Llamadas salientes</string>
   <string name="card_title_redialing">Marcando nuevamente</string>
   <string name="card_title_unconditionalCF">Desvío de llamada incondicional activado</string>
+  <string name="carrier_info">Información de la operadora</string>
   <string name="carrier_settings_title">Configuración de la operadora</string>
+  <string name="category_personal">Personal</string>
+  <string name="category_work">Trabajo</string>
   <string name="cb_psw_dont_match">Las contraseñas no coinciden</string>
   <string name="cb_sms_settings">Configuración de SMS de difusión móvil</string>
   <string name="cdma_activate_device">Activar dispositivo</string>
@@ -230,6 +239,7 @@
   <string name="change_password">Cambiar contraseña de restricción</string>
   <string name="change_pin">Cambiar PIN de tarjeta SIM</string>
   <string name="change_pin2">Cambiar PIN2</string>
+  <string name="change_pin_cancel_label">Cancelar</string>
   <string name="china_mobile">China Mobile</string>
   <string name="clir_choices_hide_number">Ocultar número</string>
   <string name="clir_choices_network_default">Predeterminada de la red</string>
@@ -239,6 +249,7 @@
   <string name="cloud_antispam_title">Identificar números desconocidos</string>
   <string name="cmcc_ut_data_enable_prompt">Este servicio requiere una conexión de datos móviles. Encenderlo para continuar.</string>
   <string name="command_error_fdn_failure">Primero debe deshabilitar FDN</string>
+  <string name="config_default_data_sim">Ajustes</string>
   <string name="confirmPin2Label">Confirmar nuevo PIN2</string>
   <string name="confirmPinLabel">Confirmar nuevo PIN</string>
   <string name="confirm_password_label">Confirme la nueva contraseña</string>
@@ -265,8 +276,8 @@
   <string name="cursorError">Error de cursor</string>
   <string name="data_enable_summary">Permitir a este dispositivo utilizar datos móviles</string>
   <string name="data_enabled">Datos móviles</string>
-  <string name="default_preference_summary">&lt;No configurado&gt;</string>
   <string name="deactivate_all">Cancelar todo</string>
+  <string name="default_preference_summary">&lt;No configurado&gt;</string>
   <string name="delete">Eliminar</string>
   <string name="deleteAllSimEntries">Eliminar todos los contactos de SIM</string>
   <string name="deleteSimContacts">Borrando…</string>
@@ -397,7 +408,7 @@
   <string name="enterName">Nombre:</string>
   <string name="enterNumber">Número de teléfono:</string>
   <string name="enter_callbarring_password">Introduzca la contraseña (4 dígitos) de restricción de llamadas</string>
-  <string name="enter_input" formatted="false">El mensaje USSD debe tener entre %d y %d caracteres. Inténtelo de nuevo.</string>
+  <string formatted="false" name="enter_input">El mensaje USSD debe tener entre %d y %d caracteres. Inténtelo de nuevo.</string>
   <string name="enter_pin2_text">PIN2</string>
   <string name="enter_pin_text">PIN de tarjeta SIM:</string>
   <string name="entertainment_news_settings">Noticias de entretenimiento</string>
@@ -676,11 +687,13 @@ Usando red preferida."</string>
   <string name="new_password_label">Nueva contraseña de 4 dígitos</string>
   <string name="new_pin2_label">Nuevo PIN2</string>
   <string name="new_pin_label">Nuevo PIN</string>
+  <string name="no_application">Nada</string>
   <string name="no_call_barring">Las restricciones están desactivadas</string>
   <string name="no_change">No se ha realizado ningún cambio.</string>
   <string name="no_checked_network">"No podrá conectarse a la red móvil y realizar llamadas. ¿Desea seleccionar otra red?"</string>
   <string name="no_internet_available">Para realizar una llamada por Internet, necesita una conexión a Internet.</string>
   <string name="no_internet_available_title">Sin conexión a Internet</string>
+  <string name="no_mobile_data">Los datos móbiles no están disponibles</string>
   <string name="no_mobile_data_roaming">Datos en roaming no disponibles</string>
   <string name="no_sip_account_found">No hay cuentas de llamadas por Internet en este teléfono. ¿Quiere añadir una cuenta ahora?</string>
   <string name="no_sip_account_found_title">Sin cuentas de llamada por Internet.</string>
@@ -764,6 +777,7 @@ Inténtalo de nuevo o ponte en contacto con el servicio de atención al cliente 
   <string name="other_settings">Otras opciones de llamado</string>
   <string name="other_settings_category">Otros</string>
   <string name="overseas_roaming_setting">Roaming de datos</string>
+  <string name="password">Contraseña</string>
   <string name="password_changed">Contraseña cambiada</string>
   <string name="password_title">Contraseña</string>
   <string name="path_answer_state_setting_title">Aplicaciones del Sistema/Teléfono/Ajustes de llamada entrante</string>
@@ -772,7 +786,7 @@ Inténtalo de nuevo o ponte en contacto con el servicio de atención al cliente 
   <string name="path_auto_answer_pref_title">Aplicaciones del Sistema/Teléfono/Auto-respuesta</string>
   <string name="path_auto_retry_mode_title">Aplicaciones del sistema/Teléfono/Ajustes avanzados/Auto-reintento</string>
   <string name="path_autoip">Aplicaciones del Sistema/Teléfono/Ajustes avanzados/Automarcado IP</string>
-  <string name="path_call_background_setting_name">Aplicaciones del Sistema/Teléfono/Ajustes avanzados/Llamada de fondo</string>
+  <string name="path_call_background_setting_name">Aplicaciones del Sistema/Teléfono/Ajustes avanzados/Fondo de llamada</string>
   <string name="path_call_forwarding_settings">Aplicaciones del Sistema/Teléfono/Ajustes de reenvío de llamada</string>
   <string name="path_call_record_auto_title">Aplicaciones del Sistema/Teléfono/Grabación de llamada/Grabar llamadas automáticamente</string>
   <string name="path_call_record_setting">Aplicaciones del Sistema/Teléfono/Grabación de llamada</string>
@@ -899,19 +913,19 @@ Su teléfono se bloqueará automáticamente después del último intento fallido
   <string name="preferred_network_mode_lte_wcdma_summary">Modo de red preferido: 4G/WCDMA</string>
   <string name="preferred_network_mode_summary">Cambiar el modo operativo de la red</string>
   <string name="preferred_network_mode_td_scdma_gsm_lte_choice">TD-SCDMA/GSM/4G</string>
-  <string name="preferred_network_mode_td_scdma_gsm_wcdma_lte_choice">TD-SCDMA/GSM/WCDMA/4G</string>
-  <string name="preferred_network_mode_td_scdma_lte_choice">TD-SCDMA/4G</string>
-  <string name="preferred_network_mode_td_scdma_lte_gsm_wcdma_cdma_evdo_choice">TD-SCDMA/4G/GSM/WCDMA/CDMA/EVDO</string>
   <string name="preferred_network_mode_td_scdma_gsm_lte_summary">Modo de red preferido: TD-SCDMA/GSM/4G</string>
   <string name="preferred_network_mode_td_scdma_gsm_summary">Modo de red preferido: TD-SCDMA/GSM</string>
   <string name="preferred_network_mode_td_scdma_gsm_wcdma_cdma_evdo_summary">Modo de red preferido: TD-SCDMA/GSM/WCDMA/CDMA/EvDo</string>
+  <string name="preferred_network_mode_td_scdma_gsm_wcdma_lte_choice">TD-SCDMA/GSM/WCDMA/4G</string>
   <string name="preferred_network_mode_td_scdma_gsm_wcdma_lte_summary">Modo de red preferido: TD-SCDMA/GSM/WCDMA/4G</string>
-  <string name="preferred_network_mode_td_scdma_wcdma_lte_choice">TD-SCDMA/WCDMA/4G</string>
   <string name="preferred_network_mode_td_scdma_gsm_wcdma_summary">Modo de red preferido: TD-SCDMA/GSM/WCDMA</string>
   <string name="preferred_network_mode_td_scdma_lte_cdma_evdo_gsm_wcdma_summary">Modo de red preferido: TD-SCDMA/4G/CDMA/EvDo/GSM/WCDMA</string>
+  <string name="preferred_network_mode_td_scdma_lte_choice">TD-SCDMA/4G</string>
+  <string name="preferred_network_mode_td_scdma_lte_gsm_wcdma_cdma_evdo_choice">TD-SCDMA/4G/GSM/WCDMA/CDMA/EVDO</string>
   <string name="preferred_network_mode_td_scdma_lte_summary">Modo de red preferido: TD-SCDMA/4G</string>
   <string name="preferred_network_mode_td_scdma_only_choice">TD-SCDMA solamente</string>
   <string name="preferred_network_mode_td_scdma_only_summary">Modo de red preferido: solo TD-SCDMA</string>
+  <string name="preferred_network_mode_td_scdma_wcdma_lte_choice">TD-SCDMA/WCDMA/4G</string>
   <string name="preferred_network_mode_td_scdma_wcdma_lte_summary">Modo de red preferido: TD-SCDMA/WCDMA/4G</string>
   <string name="preferred_network_mode_td_scdma_wcdma_summary">Modo de red preferido: TD-SCDMA/WCDMA</string>
   <string name="preferred_network_mode_title">Tipo de red preferido</string>
