@@ -1553,6 +1553,7 @@ Mientras se calibra, MIUI le enviará un mensaje de texto a su operadora para re
   <string name="sp_toast_removed_from_sign_white_list">Eliminado de excepciones. El elemento será escaneado la próxima vez.</string>
   <string name="special_number_group">Bloquear números informados</string>
   <string name="sponsored_sec_fb">Patrocinado</string>
+  <string name="ss_activity_main_support_text">Desarrollado por %s</string>
   <string name="st_antispam_black_adress_add">Añadir ubicaciones</string>
   <string name="st_antispam_bw_adress_add">Añadir ubicaciones</string>
   <string name="st_antispam_bw_choose_modes">Añadir a la lista</string>
