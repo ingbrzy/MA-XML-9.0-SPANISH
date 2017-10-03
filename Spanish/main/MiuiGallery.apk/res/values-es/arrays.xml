@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
   <string-array name="baby_sexy">
-        <item>Chico</item>
-        <item>Chica</item>
+    <item>Chico</item>
+    <item>Chica</item>
   </string-array>
   <string-array name="editing_mode_entries">
-	<item>Temas</item>
-        <item>Widgets</item>
-	<item>Fondos</item>
-	<item>Efectos</item>
-	<item>Celdas de pantalla</item>
+	   <item>Temas</item>
+     <item>Widgets</item>
+	   <item>Fondos</item>
+	   <item>Efectos</item>
+	   <item>Celdas de pantalla</item>
   </string-array>
   <string-array name="owner_relation">
         <item>Padre</item>
@@ -35,5 +35,19 @@
         <item>Compañeros de clase</item>
         <item>Amigos</item>
         <item>Desagrupado</item>
+  </string-array>
+  <string-array name="collage_month">
+    <item>Ene</item>
+    <item>Feb</item>
+    <item>Mar</item>
+    <item>Abr</item>
+    <item>May</item>
+    <item>Jun</item>
+    <item>Jul</item>
+    <item>Ago</item>
+    <item>Sep</item>
+    <item>Oct</item>
+    <item>Nov</item>
+    <item>Dic</item>
   </string-array>
 </resources>

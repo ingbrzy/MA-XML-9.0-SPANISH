@@ -104,10 +104,6 @@
         <item quantity="other">%1$d elementos en espera para ser respaldados</item>
         <item quantity="one">1 elemento en espera para ser respaldado</item>
   </plurals>
-  <plurals name="add_to_secret_successful">
-        <item quantity="other">Añadido %1$d fotos al álbum oculto</item>
-        <item quantity="one">Añadido 1 foto al álbum oculto</item>
-  </plurals>
   <plurals name="number_of_images_synced">
          <item quantity="other">%1$d fotos</item>
          <item quantity="one">Una foto</item>
@@ -187,5 +183,5 @@
   <plurals name="quickly_discovery_message_format">
          <item quantity="other">Encontradas %1$d fotos nuevas</item>
          <item quantity="one">Encontrada una foto nueva</item>
-  </plurals>  
+  </plurals>
 </resources>
