@@ -1823,7 +1823,7 @@ Si no ha modificado MIUI en modo alguno, asegúrese de saber de dónde viene est
   <string name="title_data_flow">Establecer alerta de uso de datos</string>
   <string name="title_dev_no">Opciones de desarrollo activadas</string>
   <string name="title_dev_yes">Opciones de desarrollo desactivadas</string>
-  <string name="title_device_not_root">El acceso root no fue concedido</string>
+  <string name="title_device_not_root">"No se concedió acceso root"</string>
   <string name="title_find_device">Encontrar dispositivo</string>
   <string name="title_flow_notification">Notificación de datos móviles</string>
   <string name="title_flow_purchase">Comprar datos móviles</string>
