@@ -1813,6 +1813,7 @@ Si no ha modificado MIUI en modo alguno, asegúrese de saber de dónde viene est
   <string name="title_app_lock_disable">Bloquear aplicaciones</string>
   <string name="title_app_update">Actualizaciones disponibles</string>
   <string name="title_auto_update">Actualizar automáticamente</string>
+  <string name="title_chain_start">Restringir el inicio de la cadena</string>
   <string name="title_cleaner_cloudscan">Escanear papelera de reciclaje de la nube</string>
   <string name="title_cloud_account">Cuenta Mi</string>
   <string name="title_cloud_service">Mi Cloud</string>
@@ -1821,6 +1822,7 @@ Si no ha modificado MIUI en modo alguno, asegúrese de saber de dónde viene est
   <string name="title_cmcc_app_check">Verificación incompleta</string>
   <string name="title_consume_power_rank">Uso de la batería</string>
   <string name="title_data_flow">Establecer alerta de uso de datos</string>
+  <string name="title_dev_model_off">Opciones de desarrollador desactivadas</string>
   <string name="title_dev_no">Opciones de desarrollo activadas</string>
   <string name="title_dev_yes">Opciones de desarrollo desactivadas</string>
   <string name="title_device_not_root">"No se concedió acceso root"</string>
@@ -1852,7 +1854,7 @@ Si no ha modificado MIUI en modo alguno, asegúrese de saber de dónde viene est
   <string name="title_power_optimizer">Ahorro de batería</string>
   <string name="title_realname_verify">Verificación del ID</string>
   <string name="title_show_notification">Widget de cortina de notificaciones</string>
-  <string name="title_system_auto_download">Las actualizaciones serán descargadas automáticamente</string>
+  <string name="title_system_auto_download">Actualiza. descargadas automática.</string>
   <string name="title_telecom_operator">Auto ajuste</string>
   <string name="title_usb_no">Depuración USB activada</string>
   <string name="title_usb_yes">Depuración USB desactivada</string>
