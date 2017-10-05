@@ -407,7 +407,6 @@
   <string name="theme_is_external_priority_storage">Guardar a tarjeta SD</string>
   <string name="theme_is_external_priority_storage_summary">La aplicación Temas se reiniciará inmediatamente para aplicar los cambios</string>
   <string name="theme_multiple_button_title_customize">Personalizar</string>
-  <string name="theme_name" traducir="a currar">%1$s</string>
   <string name="theme_no">No</string>
   <string name="theme_precast_create_notification_content">Toca para ver nuevos temas.</string>
   <string name="theme_precast_create_notification_title">Actualizados a MIUI 7</string>
