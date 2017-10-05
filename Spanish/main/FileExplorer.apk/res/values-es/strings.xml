@@ -125,7 +125,7 @@
   <string name="data_consumption_checkbox_hint">No mostrar de nuevo</string>
   <string name="data_consumption_confirm">Aceptar</string>
   <string name="data_consumption_message">Esta aplicación necesita conectarse a Internet por Wi-Fi para funcionar con normalidad.</string>
-  <string name="data_consumption_message1">Videos and Stickers necesita conectarse a Internet usando Wi-Fi para trabajar normalmente.</string>
+  <string name="data_consumption_message1">El explorador necesita conectarse a internet para hacer disponibles los videos populares y las pegatinas.</string>
   <string name="data_consumption_title">Conexión a Internet</string>
   <string name="decompress_cancel">Cancelar</string>
   <string name="decompress_confirm">Extraer</string>
@@ -488,6 +488,7 @@
   <string name="recommend_user">Perfiles recomendados</string>
   <string name="remote_video_report_success">¡Gracias por la retroalimentación! Estaremos prestos a ello muy pronto.</string>
   <string name="rename_alert">Si cambias la extensión de este archivo, puede que no lo consigas abrir.</string>
+  <string name="rename_alert2">El archivo será ocultado después de que cambie su extensión.</string>
   <string name="rename_failed">No se puede renombrar %1$s</string>
   <string name="repair_done">Restaurado</string>
   <string name="repair_error">No se pudo restaurar</string>
