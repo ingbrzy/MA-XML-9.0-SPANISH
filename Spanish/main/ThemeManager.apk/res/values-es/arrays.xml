@@ -46,6 +46,41 @@
         <item>SoundRecorderRewind</item>
         <item>LowBattery</item>
     </string-array>
+    <string-array name="wallpaper_settings_precust_cover_name">
+        <item>Entretenimiento</item>
+        <item>Paisaje</item>
+        <item>Cielo estrellado</item>
+        <item>Planta</item>
+        <item>Animal</item>
+    </string-array>
+    <string-array name="wallpaper_settings_precust_global_cover_name">
+        <item>Paisaje</item>
+        <item>Animal</item>
+        <item>Planta</item>
+        <item>Creativo</item>
+        <item>Estilo de vida</item>
+    </string-array>
+    <string-array name="wallpaper_settings_precust_india_cover_name">
+        <item>Animal</item>
+        <item>Construcciones</item>
+        <item>Creativo</item>
+        <item>Dibujos animados</item>
+        <item>Paisaje</item>
+    </string-array>
+    <string-array name="wallpaper_settings_precust_brazil_cover_name">
+        <item>Paisaje</item>
+        <item>Animal</item>
+        <item>Creativo</item>
+        <item>Planta</item>
+        <item>Estilo de vida</item>
+    </string-array>
+    <string-array name="wallpaper_settings_precust_hong_kong_cover_name">
+        <item>Scenery</item>
+        <item>Animal</item>
+        <item>Creative</item>
+        <item>Plant</item>
+        <item>Lifestyle</item>
+    </string-array>
     <string-array name="disable_package_replacement">
         <item>desactivar nombre de paquete</item>
     </string-array>

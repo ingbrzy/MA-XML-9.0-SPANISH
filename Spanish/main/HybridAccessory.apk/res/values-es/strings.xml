@@ -1,0 +1,9 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<resources>
+  <string name="app_name">HybridAccessory</string>
+  <string name="short_cut_dialog_cancel_button_text">No</string>
+  <string name="short_cut_dialog_cotent">Las siguientes aplicaciones pueden ser usadas sin instalación. ¿Guardar accesos directos?</string>
+  <string name="short_cut_dialog_create_button_text">Sí</string>
+  <string name="short_cut_dialog_not_tip_check_box">No me lo recuerdes otra vez en las próximas 2 semanas</string>
+  <string name="short_cut_dialog_title">Crear accesos directos</string>
+</resources>
