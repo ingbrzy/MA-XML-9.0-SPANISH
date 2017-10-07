@@ -4,10 +4,6 @@
      <item>Chico</item>
      <item>Chica</item>
   </string-array>
-  <string-array name="baby_sexy_value">
-      <item>masculino</item>
-      <item>femenino</item>
-  </string-array>
   <string-array name="owner_relation">
      <item>Padre</item>
      <item>Madre</item>
@@ -32,15 +28,6 @@
      <item>Compañeros de clase</item>
      <item>Amigos</item>
      <item>Desagrupado</item>
-  </string-array>
-  <string-array name="relation_with_me_value">
-     <item>yo mismo</item>
-     <item>niño</item>
-     <item>familia</item>
-     <item>compañero</item>
-     <item>compañero de clases</item>
-     <item>amigos</item>
-     <item>desconocido</item>
   </string-array>
   <string-array name="collage_month">
     <item>Ene</item>
