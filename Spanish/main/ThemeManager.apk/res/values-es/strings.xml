@@ -128,7 +128,17 @@
   <string name="my_gifts_received">Recibidos</string>
   <string name="no_data">No se puede conectar a la red</string>
   <string name="online_no_network">No se puede conectar a la red</string>
+  <string name="online_precust_animal">Animal</string>
   <string name="online_precust_asphalt">Asfalto</string>
+  <string name="online_precust_building">Edificio</string>
+  <string name="online_precust_cartoon">Dibujos animados</string>
+  <string name="online_precust_creative">Creativo</string>
+  <string name="online_precust_entertainment">Entretenimiento</string>
+  <string name="online_precust_lifestyle">Estilo de vida</string>
+  <string name="online_precust_peach_blossom">Flor de melocotón</string>
+  <string name="online_precust_plant">Planta</string>
+  <string name="online_precust_scenery">Paisaje</string>
+  <string name="online_precust_starry_sky">Cielo estrellado</string>
   <string name="online_precust_dreams">Sueños</string>
   <string name="online_precust_midnight">Medianoche</string>
   <string name="online_precust_peach_blossom">Flor de melocotón</string>
