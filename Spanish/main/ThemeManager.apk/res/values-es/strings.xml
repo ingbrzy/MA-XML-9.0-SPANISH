@@ -328,7 +328,7 @@
   <string name="resource_title">Detalles</string>
   <string name="resource_title_category">Categorías</string>
   <string name="resource_title_hot_subject">Popular</string>
-  <string name="resource_title_local">Local</string>
+  <string name="resource_title_local">Desconectado</string>
   <string name="resource_title_rank">Mejores</string>
   <string name="resource_title_select_ringtone">Seleccione un tono</string>
   <string name="resource_title_subject">Destacado</string>
