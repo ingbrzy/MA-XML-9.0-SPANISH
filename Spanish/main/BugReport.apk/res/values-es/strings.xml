@@ -55,6 +55,7 @@
   <string name="feedback_choose_module">Seleccione elemento</string>
   <string name="feedback_choose_module_hint">Requerido</string>
   <string name="feedback_collect_log_failed">Fallo al obtener los registros</string>
+  <string name="feedback_contact_info_hint">Número de teléfono/Correo electrónico</string>
   <string name="feedback_continue">Continuar con el feedback</string>
   <string name="feedback_description">Descripción</string>
   <string name="feedback_description_bugreport_hint">En algunos casos (…) mi teléfono tiene fallos (…).</string>
