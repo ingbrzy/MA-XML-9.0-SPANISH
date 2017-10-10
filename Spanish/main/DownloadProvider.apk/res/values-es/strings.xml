@@ -1,4 +1,4 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <resources>
   <string name="app_label">Gestor de descargas</string>
   <string name="auto_restart_under_wifi">Cuando haya conexión Wi-Fi se descargará automáticamente este archivo</string>
@@ -7,9 +7,21 @@
   <string name="button_queue_for_wifi">Cola</string>
   <string name="button_start_now">Comenzar ahora</string>
   <string name="button_wait_for_wifi">Esperar</string>
+  <string name="dialog_button_cancel">Cancelar</string>
+  <string name="dialog_button_ok">Ok</string>
+  <string name="dialog_content_limit0">Restringir descargas</string>
+  <string name="dialog_content_limit_max">Ilimitado</string>
+  <string name="dialog_data_limit_button1">Esperar WI-Fi</string>
+  <string name="dialog_data_limit_button2">Descargar ahora</string>
+  <string name="dialog_data_limit_msg1">%s datos móviles serán usados para descargar este archivo. ¿Descargar ahora?</string>
+  <string name="dialog_data_limit_msg3">Cambiar límite</string>
+  <string name="dialog_data_limit_title">Aviso de uso de datos</string>
   <string name="dialog_insufficient_space_on_cache">No hay suficiente espacio en el almacenamiento interno de descargas</string>
   <string name="dialog_insufficient_space_on_external">No hay suficiente espacio en el almacenamiento externo</string>
   <string name="dialog_not_show_again">No mostrar de nuevo</string>
+  <string name="dialog_tip_limit">Advertir cuando se descargue un archivo mayor de %s</string>
+  <string name="dialog_tip_limit0">Advertir cada vez</string>
+  <string name="dialog_tip_no_limit">No advertir</string>
   <string name="download_apk_desktop_installing">Instalando</string>
   <string name="download_apk_desktop_pause">Pausado</string>
   <string name="download_apk_desktop_pending">Pendiente</string>
@@ -70,11 +82,11 @@
   <string name="warning_tip_content">Ya no está conectado a Wi-Fi. Usar su conexión de datos móviles para completar esta descarga incrementará el uso de datos. Si excede el límite de datos contratado, su compañía podría cobrar tasas adicionales.</string>
   <string name="warning_tip_ok">Pausar</string>
   <string name="warning_tip_title">Advertencia de uso de datos</string>
-  <string name="wifi_recommended_body" formatted="false">"Iniciar la descarga de %s puede resultar en un uso excesivo de la conexión de datos móviles, que puede conducir a cargos por su operador de telefonía móvil dependiendo de su plan de datos.
+  <string formatted="false" name="wifi_recommended_body">"Iniciar la descarga de %s puede resultar en un uso excesivo de la conexión de datos móviles, que puede conducir a cargos por su operador de telefonía móvil dependiendo de su plan de datos.
 
  Toque %s para iniciar la descarga la próxima vez que tenga una conexión Wi-Fi."</string>
   <string name="wifi_recommended_title">¿Poner en cola para descargar más tarde?</string>
-  <string name="wifi_required_body" formatted="false">"Debes usar una conexión Wi-Fi para completar la descarga de %s.
+  <string formatted="false" name="wifi_required_body">"Debes usar una conexión Wi-Fi para completar la descarga de %s.
 
  Toque %s para iniciar la descarga la próxima vez que tenga una conexión Wi-Fi."</string>
   <string name="wifi_required_title">Descarga demasiado grande para la red del operador</string>

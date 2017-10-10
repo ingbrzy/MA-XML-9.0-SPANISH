@@ -7,7 +7,7 @@
   <string name="accessibility_guide_second">Luego haga clic en el interruptor en la esquina superior derecha, haga clic en \"Confirmar\" y continuar.</string>
   <string name="account_duplicate_dlg_message_fmt">"Ya está usando este nombre de usuario para la cuenta \"%s\"."</string>
   <string name="account_duplicate_dlg_title">Cuenta duplicada</string>
-  <string name="account_failure">Error de cuenta</string>
+  <string name="account_failure">Sesión caducada</string>
   <string name="account_manager_type_exchange">com.android.exchange</string>
   <string name="account_manager_type_imap">com.android.email</string>
   <string name="account_manager_type_legacy_imap">com.android.email</string>
@@ -53,6 +53,7 @@
   <string name="account_settings_param">Configuración de cuenta</string>
   <string name="account_settings_policies">Políticas de seguridad</string>
   <string name="account_settings_preference_add_account">Añadir una cuenta de correo</string>
+  <string name="account_settings_preference_head_icon">Head portrait switch</string>
   <string name="account_settings_preference_notify">Aviso</string>
   <string name="account_settings_retry_label">Intentar sincronización</string>
   <string name="account_settings_retry_summary">Pulse para sincronizar la cuenta</string>
@@ -158,6 +159,8 @@
   <string name="account_setup_server_acc_manager_title">Cuentas</string>
   <string name="account_setup_username_password_toast">Introduzca una dirección de correo electrónico y una contraseña válidos.</string>
   <string name="account_sync_off">La sincronización de la cuenta está desactivada.</string>
+  <string name="account_sync_settings_settings">Sincronizar contactos y calendaros de la cuenta</string>
+  <string name="account_sync_settingstip_description">Ajustes de sincronización</string>
   <string name="account_waiting_for_folders_msg">Cargando carpetas…</string>
   <string name="actionbar_large_unread_count">%1$d+ no leídos</string>
   <string name="activity_folder_selection">Seleccione carpeta</string>
@@ -228,7 +231,7 @@
   <string name="auto_remind_text">Recordatorios automaticos</string>
   <string name="auto_remind_unbind">Parar</string>
   <string name="auto_sync_off">La sincronización automática está desactivada.</string>
-  <string name="automatic_remind_text">recordar</string>
+  <string name="automatic_remind_text">Recordar automáticamente</string>
   <string name="bank_card_detail">Detalles de la tarjeta de credito</string>
   <string name="bank_card_list_card_num_fmt">****%s</string>
   <string name="battery_saver">Ahorro de batería</string>
@@ -249,11 +252,11 @@
   <string name="bottom_bar_more_share">Compartir</string>
   <string name="bottom_bar_no_quickreply_toast">No hay respuesta rápida</string>
   <string name="bytes">"%s B"</string>
-  <string name="calendar_remind_dialog_title">Recordatorio</string>
+  <string name="calendar_remind_dialog_title">Recordar más tarde</string>
   <string name="calendar_remind_gridview_pick_date">Elegir fecha</string>
   <string name="cancel">Cancelar</string>
   <string name="cancel_action">Cancelar</string>
-  <string name="cancel_pop3_attchemt_downloading">La cancelación de cualquier archivo adjunto que se está descargando no está disponible para un tipo de cuenta POP3.</string>
+  <string name="cancel_pop3_attchemt_downloading">No se puede cancelar descargas en curso de adjuntos en cuentas POP3</string>
   <string name="cant_move_or_change_labels">"No se puede mover los elementos de varias cuentas."</string>
   <string name="cc">Cc</string>
   <string name="cc_attribution">Cc: %1$s&lt;br&gt;</string>
@@ -262,7 +265,7 @@
   <string name="change_folders_selection_dialog_title">Cambiar carpetas</string>
   <string name="change_sync_settings">Cambiar ajustes de sincronización</string>
   <string name="changepw_dialog_tips">Reintroduzca la contraseña para %s</string>
-  <string name="changepw_dialog_tips_please_clikc_btn">Compruebe el código de verificación %s y vuelva a iniciar sesión</string>
+  <string name="changepw_dialog_tips_please_clikc_btn">Vea el código de verificación en %s e inicie sesión otra vez</string>
   <string name="chat_item_msg_people_unit">personas</string>
   <string name="chat_item_msg_user_etc">etc.</string>
   <string name="check_setup_data">"    Validando configuración del servidor…"</string>
@@ -562,6 +565,7 @@
   <string name="login139">Iniciar sesión con una tecla CMCC</string>
   <string name="login_failed_ticker">Fallo al iniciar sesión en %s.</string>
   <string name="login_failed_title">No es posible iniciar sesión</string>
+  <string name="login_support_tip_text">Soporta todos los inicios de sesión de las cuentas de correo más cocmunes</string>
   <string name="long_press_to_select_tip">Pulse y mantenga pulsado para seleccionar una conversación; a continuación, pulse para seleccionar más.</string>
   <string name="long_string">looooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooong</string>
   <string name="mail">Correo</string>
@@ -637,10 +641,10 @@ Declinado:
   <string name="megabytes">%s MB</string>
   <string name="menu_att_mgr">Adjuntos</string>
   <string name="menu_att_mgr_order_default">Vistos Recientemente</string>
-  <string name="menu_att_mgr_order_mime">Ordenar por formato</string>
-  <string name="menu_att_mgr_order_name">Ordenar por nombre</string>
-  <string name="menu_att_mgr_order_rev_date">Ordenar por fecha de recepción</string>
-  <string name="menu_att_mgr_order_size">Ordenar por tamaño</string>
+  <string name="menu_att_mgr_order_mime">formato</string>
+  <string name="menu_att_mgr_order_name">nombre</string>
+  <string name="menu_att_mgr_order_rev_date">Fecha de recepción</string>
+  <string name="menu_att_mgr_order_size">Tamaño</string>
   <string name="menu_change_folders">Mover</string>
   <string name="menu_compose">Crear</string>
   <string name="menu_contact_edit">Editar</string>
@@ -724,8 +728,13 @@ Prueba una bandeja de entrada diferente."</string>
   <string name="oauth_gmail_login_notify">Introduzca su usuario y contraseña de su cuenta de Google en la siguiente pantalla de inicio de sesión.</string>
   <string name="oauth_login_continue">Continuar</string>
   <string name="oauth_login_continue_qq">Obtener código de autorización para iniciar sesión &gt;</string>
+  <string name="oauth_login_usr_proxy">Inicio de sesión en proxy</string>
   <string name="ok">Ok</string>
   <string name="okay_action">Ok</string>
+  <string name="open_calendar_and_contacts_permission">Por favor active permiso de calendario y contactos en Ajustes de Sistema</string>
+  <string name="open_external_storage_and_calendar_permission">Por favor active permiso de almacenamiento externo y calendario en Ajustes de Sistema</string>
+  <string name="open_external_storage_and_contacts_and_calendar_permission">Por favor active permiso almacenamiento externo, calendario y contactos en Ajustes de Sistema</string>
+  <string name="open_external_storage_and_contacts_permission">Por favor active permiso de almacenamiento externo y contactos en Ajustes de Sistema</string>
   <string name="outbox_alert_button_no_resend">No enviar</string>
   <string name="outbox_alert_button_resend">Reenviar</string>
   <string name="outbox_alert_certificate_error">Contacte con el administrador del servidor de correo y actualice su certificado.</string>
@@ -941,7 +950,7 @@ para recibir recordatorios sobre pagos y viajes"</string>
   <string name="remove_folder">Quitar de %1$s</string>
   <string name="remove_star">No favorito</string>
   <string name="reply">Responder</string>
-  <string name="reply_add_bodycontent">¿Añadir texto de respuesta rápida al contenido del mensaje?</string>
+  <string name="reply_add_bodycontent">¿Añadir la respuesta al cuerpo del mensaje?</string>
   <string name="reply_all">Responder a todos</string>
   <string formatted="false" name="reply_attribution">El %s, %s escribió:</string>
   <string name="report_phishing">Notificar phishing</string>
@@ -1037,7 +1046,10 @@ para recibir recordatorios sobre pagos y viajes"</string>
   <string name="str_select_none">Desmarcar</string>
   <string formatted="false" name="subject_and_snippet">%s — %s</string>
   <string name="subject_hint">Asunto</string>
-  <string name="suggestions_authority">com.android.mail.providers.SuggestionsProvider</string>
+  <string name="sync_contacts_fail_per_content">Aplicar para permisos de contacto, por favor haga click para aplicar</string>
+  <string name="sync_contacts_fail_per_title">Contacto sincrónico falló</string>
+  <string name="sync_contacts_fail_permission">Contacto sincrónico falló, no está habilitado el acceso a los contactos del teléfono móvil, por favor ábralo en los ajustes del sistema - gestión de derechos</string>
+  <string name="sync_contacts_req_per_ignored">Contacto del teléfono no está abierto y no se puede sincronizar contactos</string>
   <string name="sync_error">No es posible sincronizar.</string>
   <string name="sync_error_message">Su dispositivo no tiene espacio de almacenamiento suficiente para sincronizar.</string>
   <string name="syncing_wait_restart">Haga clic en Reintentar</string>
@@ -1059,14 +1071,15 @@ para recibir recordatorios sobre pagos y viajes"</string>
   <string name="to_heading">"Para: "</string>
   <string name="toast_bar_fail_synchronization">No se puede conectar a la red</string>
   <string name="toast_bar_insufficient_memory_space">No hay espacio de almacenamiento suficiente</string>
-  <string name="toast_bar_invalid_account">Es necesario volver a iniciar sesión</string>
+  <string name="toast_bar_invalid_account">Sesión caducada, inicie sesión otra vez</string>
   <string name="toast_bar_no_connection_network">No tiene conexión a Internet</string>
   <string name="toast_bar_open_gmail_synchronization">Pulse para usar el servidor proxy para Gmail</string>
   <string name="today_text">Hoy</string>
   <string name="too_large_to_attach_additional">El tamaño de archivo no puede exceder %1$s.</string>
   <string name="too_large_to_attach_multiple">No se adjuntaron uno a varios archivos. El tamaño no puede exceder %1$s.</string>
   <string name="too_large_to_attach_single">No es posible adjuntar un archivo con un tamaño superior a %1$s.</string>
-  <string name="topic_merge">Combinar temas</string>
+  <string name="topic_merge">Visualización de correo</string>
+  <string name="topic_merge_summary">Modo Organizado por conversación</string>
   <string name="translation_loading">Un segundo…</string>
   <string name="translation_no_result">No hay resultados</string>
   <string name="translation_pronunciation_am">AmE</string>
@@ -1083,14 +1096,15 @@ para recibir recordatorios sobre pagos y viajes"</string>
   <string name="turn_auto_sync_on_dialog_body">"Los cambios que realice en todas las aplicaciones y cuentas, no sólo Gmail, se sincronizarán en la web, otros dispositivos y en su %1$s."</string>
   <string name="turn_auto_sync_on_dialog_confirm_btn">Activar</string>
   <string name="turn_auto_sync_on_dialog_title">¿Activar sincronización automática?</string>
-  <string name="unbind_dialog_text">"No podrá recibir recordatorios después de dejar de analizar.
-¿Parar ahora?"</string>
+  <string name="unbind_dialog_text">"La aplicación de Correo no analizará más sus emails después de esto.
+¿Eliminar cuenta?"</string>
   <string name="undo">Deshacer</string>
   <string name="unknow">Desconocido</string>
   <string name="unread_string">conversación sin leer</string>
   <string name="unsent_messages_in_outbox">%1$s mensajes no enviados en %2$s</string>
   <string name="unzip_file_failed">No se pudo descomprimir el archivo</string>
   <string name="update_date_format_templete">HH:mm aa, dd MMMM</string>
+  <string name="update_to_wps_mail">Más características avanzadas, mejore a correo-WPS</string>
   <string name="updated_at">Última actualización: %1$s</string>
   <string name="upload_log">Enviar registros</string>
   <string name="upload_log_failed">No se pudo enviar el registro</string>

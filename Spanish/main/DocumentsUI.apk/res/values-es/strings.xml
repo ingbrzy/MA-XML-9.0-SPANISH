@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <resources>
+  <string name="allow">Permitir</string>
   <string name="app_label">Documentos</string>
   <string name="button_copy">Copiar</string>
   <string name="button_select">Seleccionar</string>
