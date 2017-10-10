@@ -408,7 +408,7 @@ Puede que tu operador te cobre por volver a activar datos."</string>
   <string name="recents_empty_message">No hay temas recientes</string>
   <string name="recents_empty_message_dismissed_all">Has eliminado todos los elementos</string>
   <string name="recents_empty_message_multi_window">Ir a Inicio para abrir aplicaciones</string>
-  <string name="recents_exit_multi_window_mode">Salida</string>
+  <string name="recents_exit_multi_window_mode">Salir</string>
   <string name="recents_launch_error_message">%s no se pudo iniciar.</string>
   <string name="reject_call">Rechazando llamada</string>
   <string name="remaining_length_format">%1$s restante</string>
