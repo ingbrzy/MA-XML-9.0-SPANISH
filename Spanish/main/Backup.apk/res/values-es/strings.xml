@@ -204,7 +204,7 @@
   <string name="select_backup_item">Elegir elementos</string>
   <string name="select_storage_location">Elegir lugar para los respaldos</string>
   <string name="service_stoped">Servicio detenido</string>
-  <string name="settings_summary">: configuración del teléfono y mensajería</string>
+  <string name="settings_summary">Configuración del teléfono y mensajería</string>
   <string name="size_byte">B</string>
   <string name="size_giga_byte">GB</string>
   <string name="size_kilo_byte">KB</string>
