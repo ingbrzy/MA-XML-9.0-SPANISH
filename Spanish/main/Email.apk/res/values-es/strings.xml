@@ -53,7 +53,7 @@
   <string name="account_settings_param">Configuración de cuenta</string>
   <string name="account_settings_policies">Políticas de seguridad</string>
   <string name="account_settings_preference_add_account">Añadir una cuenta de correo</string>
-  <string name="account_settings_preference_head_icon">Head portrait switch</string>
+  <string name="account_settings_preference_head_icon">Mostrar foto de contacto/perfil</string>
   <string name="account_settings_preference_notify">Aviso</string>
   <string name="account_settings_retry_label">Intentar sincronización</string>
   <string name="account_settings_retry_summary">Pulse para sincronizar la cuenta</string>
