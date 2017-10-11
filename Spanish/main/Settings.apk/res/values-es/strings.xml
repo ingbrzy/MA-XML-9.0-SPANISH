@@ -144,7 +144,7 @@ Si hay varios usuarios en el dispositivo, usar este acceso directo en la pantall
   <string name="add_fingerprint_done_title">¿Listo para disfrutar?</string>
   <string name="add_fingerprint_failed_retry_text">No se pudo añadir la huella dactilar, vuelva a intentarlo</string>
   <string name="add_fingerprint_finished_button_text">Listo</string>
-  <string name="add_fingerprint_instruction_msg">Desbloquear el dispositivo o verificar el pago con su huella.</string>
+  <string name="add_fingerprint_instruction_msg">El sensor de huellas dactilares está integrado en el botón Inicio del dispositivo.</string>
   <string name="add_fingerprint_instruction_title">Añada su huella</string>
   <string name="add_fingerprint_name_suggest_text">Nombre de la huella</string>
   <string name="add_fingerprint_put_finger_edge_msg">Mueva el dedo ligeramente y colóquelo de nuevo en el sensor para añadir las diferentes partes de su huella dactilar.</string>
