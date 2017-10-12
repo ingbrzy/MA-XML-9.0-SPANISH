@@ -923,7 +923,7 @@ responda</string>
   <string name="memory_clean_memory_size_tip">Cache</string>
   <string name="memory_clean_no_need_clean">Parece que todo está bien</string>
   <string name="memory_clean_no_running_process">No hay tareas que borrar</string>
-  <string name="memory_clean_running_process_title">Monitorizando applicaciones (%d)</string>
+  <string name="memory_clean_running_process_title">Monitorizando aplicaciones (%d)</string>
   <string name="memory_cleaned_memory_info">Memoria disponible</string>
   <string name="memory_cleaned_memory_up">Velocidad aumentada</string>
   <string name="memory_clear_unused">Limpiar caché (%s)</string>
