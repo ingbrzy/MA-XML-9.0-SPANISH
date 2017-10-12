@@ -34,13 +34,13 @@
   <string name="cloud_app_restore_data">Restaurar las aplicaciones previamente instaladas</string>
   <string name="cloud_app_restore_error">No se pudo restaurar</string>
   <string name="cloud_app_restore_success">Aplicaciones restauradas</string>
-  <string name="cloud_app_restore_wifi_prompt">Para restaurar la aplicación, conéctese a una red Wi-Fi.</string>
+  <string name="cloud_app_restore_wifi_prompt">Restaurar desde una copia de seguridad en Mi Cloud.</string>
   <string name="cloud_back_up_date_format">HH:mm dd/MM/yyyy</string>
   <string name="cloud_back_up_detail_discription">"Estos elementos se guardarán en Mi Cloud cuando el dispositivo esté conectado a Wi-Fi:
 *\u0009\u0009\u0009\u0009Aplicaciones, disposición de pantalla de inicio y fondos
 *\u0009\u0009\u0009\u0009Alarmas, relojes y ajustes de tiempo
 *\u0009\u0009\u0009\u0009Ajustes de notificaciones
-*\u0009\u0009\u0009\u0009Ajustes de MIUI y del sistema 
+*\u0009\u0009\u0009\u0009Ajustes de MIUI y del sistema
 Nota: Los datos de las aplicaciones instaladas no se copiarán en Mi Cloud."</string>
   <string name="cloud_back_up_frequence_choice_title">Programar copia</string>
   <string name="cloud_back_up_frequence_long">Cada 7 días</string>
@@ -107,6 +107,7 @@ Nota: Los datos de las aplicaciones instaladas no se copiarán en Mi Cloud."</st
   <string name="remove_task_in_process">Eliminando…</string>
   <string name="remove_task_unfinished">Eliminado no finalizado</string>
   <string name="restore_data_summary">Esta funcionalidad requiere conexión a Internet.</string>
+  <string name="restore_data_title">Restaurar datos</string>
   <string name="restore_from_cloud">Restaurar desde Mi Cloud</string>
   <string name="restore_from_this_device">Restaurar usando esta copia</string>
   <string name="restore_home_screen_apps">Restaurar desde copia de Mi Cloud</string>

@@ -62,6 +62,7 @@
   <string name="from_unit">km/h</string>
   <string name="from_unit_en">Kilómetros por hora</string>
   <string name="from_unit_short">km/h</string>
+  <string name="global_network_confirm_content">Los cálculos de conversión de moneda necesitan usar la conexión de red de su dispositivo para trabajar normalmente.</string>
   <string name="global_search_key_area_convertion">Área;Conversor de área;Conversión de área</string>
   <string name="global_search_key_calculation">Calculadora;Conversión de unidades;Convertidor;Convertidor de unidades</string>
   <string name="global_search_key_date_convertion">Conversor de tiempo;Unidades de tiempo;iempo de conversión;Tiempo</string>

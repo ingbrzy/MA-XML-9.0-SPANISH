@@ -56,6 +56,10 @@
         <item quantity="other">%d entradas en la lista de bloqueo</item>
         <item quantity="one">%d entrada en la lista de bloqueo</item>
     </plurals>
+    <plurals name="dirty_secretphoto_count">
+        <item quantity="other">%d fotos ocultas no están sincronizadas. Salga de la sesión después de que todos los elementos hayan sido sincronizados para mantenerlos; si no, los elementos serán borrados.</item>
+        <item quantity="one">%d foto oculta no está sincronizada. Salga de la sesión después de que todos los elementos hayan sido sincronizados para mantenerlos; si no, los elementos serán borrados.</item>
+    </plurals>
     <plurals name="micloud_main_resume_sync_hour">
         <item quantity="other">Reanudar la sincronización después de %d horas</item>
         <item quantity="one">Reanudar la sincronización después de %d hora</item>

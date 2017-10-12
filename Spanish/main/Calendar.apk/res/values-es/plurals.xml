@@ -15,6 +15,10 @@
     <plurals name="weekN">
         <item quantity="other">%d SEMANA</item>
     </plurals>
+    <plurals name="edit_date_calculate_days_error_hint">
+        <item quantity="other">Puede introducir hasta %1$d días</item>
+        <item quantity="one">Puede introducir hasta %1$d día</item>
+    </plurals>
     <plurals name="month_more_events">
         <item quantity="other">+%d</item>
         <item quantity="one">+1</item>
@@ -38,6 +42,14 @@
     <plurals name="anniversary_notify_before_3_day_title">
         <item quantity="other">Aniversario: %2$d años desde %1$s en 3 días</item>
         <item quantity="one">Aniversario: %2$d año desde %1$s en 3 días</item>
+    </plurals>
+    <plurals name="birthday_event_description_days_ago">
+        <item quantity="other">%1$d días desde</item>
+        <item quantity="one">%1$d día desde</item>
+    </plurals>
+    <plurals name="birthday_event_description_days_later">
+        <item quantity="other">%1$d días hasta</item>
+        <item quantity="one">%1$d día hasta</item>
     </plurals>
     <plurals name="birthday_notification_age_term">
         <item quantity="other">%1$s años</item>

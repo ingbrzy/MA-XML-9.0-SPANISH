@@ -21,6 +21,7 @@
   <string name="acessibility_cal_notification">Notificación de calendario</string>
   <string name="acessibility_selected_marker_description">Evento seleccionado</string>
   <string name="acessibility_snooze_notification">Notificación de repetición</string>
+  <string name="action_bar_more_menu_view_description">más</string>
   <string name="action_label">Regresar</string>
   <string name="action_text_card_manager">Canal</string>
   <string name="action_text_online">Suscribirse</string>
@@ -47,20 +48,16 @@
   <string name="alert_reminder_divider">|</string>
   <string name="alert_reminder_expired">Expirada</string>
   <string name="alert_title">Notificaciones de calendario</string>
-  <string name="anniversary_card_title">Aniversario</string>
   <string name="anniversary_event_title">Aniversario: %1$s</string>
   <string name="app_label">Calendario</string>
+  <string name="app_name">común</string>
   <string name="attendees_label">Invitados</string>
   <string name="birthday_calendar_display_name">Recordatorio de cumpleaños</string>
-  <string name="birthday_card_other_day_title">Cumpleaños</string>
-  <string name="birthday_card_title">Cumpleaños de hoy</string>
   <string name="birthday_event_description">¡Hoy es el %4$s de %1$s!</string>
   <string name="birthday_event_description_a_week_ago">Hace una semana</string>
   <string name="birthday_event_description_a_week_later">Dentro de una semana</string>
   <string name="birthday_event_description_day_after_tomorrow">Pasado mañana</string>
   <string name="birthday_event_description_day_before_yesterday">Anteayer</string>
-  <string name="birthday_event_description_days_ago">Hace %1$s días</string>
-  <string name="birthday_event_description_days_later">Dentro de %1$s días</string>
   <string name="birthday_event_description_default">"%1$s's %2$s %3$s %4$s"</string>
   <string name="birthday_event_description_special">%1$s %3$s %4$s %5$s de %2$s</string>
   <string name="birthday_event_description_today">Hoy es</string>
@@ -102,7 +99,6 @@
   <string name="chongsha">chongsha</string>
   <string name="copy_email">Copiar la dirección de email</string>
   <string name="copy_number">Copiar el numero de teléfono</string>
-  <string name="countdown_card_title">Cuenta atrás</string>
   <string name="countdown_event_title">Cuenta atrás: %1$s</string>
   <string name="countdown_notify_before_3_day_title">Cuenta atrás: %1$s en 3 días</string>
   <string name="countdown_notify_title">Cuenta atrás: %1$s</string>
@@ -116,13 +112,10 @@
   <string name="credit">Tarjeta de crédito</string>
   <string name="credit_card_date_label">Fecha de vencimiento：</string>
   <string name="credit_card_number_label">Número de tarjeta：</string>
-  <string name="credit_card_overdue">Fecha de expiración</string>
-  <string name="credit_card_repayment_count">Último(s) día%1$s天</string>
   <string name="credit_currency">Dólar</string>
   <string name="credit_detail_amount_label">Monto</string>
   <string name="credit_detail_sms_content">Texto original</string>
   <string name="credit_detail_today">Hoy：</string>
-  <string name="credit_event_card_title">Pagos con tarjeta de crédito</string>
   <string name="credit_event_delete_successfully">Evento eliminado correctamente</string>
   <string name="credit_event_title">Factura de la tarjeta de crédito</string>
   <string name="custom">Personalizado (no se puede personalizar en el teléfono)</string>
@@ -141,7 +134,7 @@
   <string name="date_interval_tab">Intervalo</string>
   <string name="date_interval_text_to">A %1$s</string>
   <string name="date_pattern_mm_dd">ddíaMMes</string>
-  <string name="date_time_fmt" formatted="false">%s, %s</string>
+  <string formatted="false" name="date_time_fmt">%s, %s</string>
   <string name="date_today">" (hoy)"</string>
   <string name="day_view">Día</string>
   <string name="day_view_new_event_hint">Nuevo evento</string>
@@ -150,7 +143,6 @@
   <string name="delete_recurring_event_title">¿Eliminar %s?</string>
   <string name="delete_this_event_title">¿Eliminar este evento?</string>
   <string name="deleting_calendar">Cancelando la suscripción…</string>
-  <string name="departure">Salida</string>
   <string name="description_calendar">Aplicaciones del Sistema/Calendario</string>
   <string name="description_calendar_edit_event">Aplicaciones del Sistema/Calendario/Agenda</string>
   <string name="description_label">Descripción</string>
@@ -158,6 +150,7 @@
   <string name="discard_label">Cancelar</string>
   <string name="dismiss_all_label">Descartar todo</string>
   <string name="does_not_repeat">Evento único</string>
+  <string name="done">Volver</string>
   <string name="download">Descargar</string>
   <string name="download_finished">Descarga finalizada</string>
   <string name="downloaded">Descargado</string>
@@ -166,7 +159,6 @@
   <string name="dropdown_delete_button_desc">Quitar %s de destinatarios</string>
   <string name="edit_date_calculate_days_backward_error_hint">"No se puede calcular hacia delante"</string>
   <string name="edit_date_calculate_days_empty_hint">Introduzca el número de días</string>
-  <string name="edit_date_calculate_days_error_hint">Puede ingresar hasta %1$d días</string>
   <string name="edit_date_calculate_days_forward_error_hint">"No se puede calcular hacia atrás"</string>
   <string name="edit_event_all_day_label">Todo el día</string>
   <string name="edit_event_anniversary_name_empty_hint">Introduzca el nombre del evento</string>
@@ -175,7 +167,6 @@
   <string name="edit_event_birthday_import_from_contact">Importar cumpleaños de los contactos</string>
   <string name="edit_event_birthday_name_empty_hint">Ingresa un nombre</string>
   <string name="edit_event_birthday_name_hint">Nombre</string>
-  <string name="edit_event_birthday_reminder_3_days_before">Recordar 3 días antes</string>
   <string name="edit_event_birthday_reminder_summary">Ese día en %1$s</string>
   <string name="edit_event_birthday_reminder_summary_3_days_before">Recordar 3 días antes y ese día en %1$s</string>
   <string name="edit_event_birthday_reminder_time">Tiempo de aviso</string>
@@ -202,9 +193,11 @@
   <string name="edit_event_to_label">Hasta</string>
   <string name="edit_label">Editar</string>
   <string name="email_guests_label">Enviar email a los invitados</string>
+  <string name="email_install_hint">Email ha sido desinstalado. Reinstalándolo, puede restaurar los datos del calendario de la cuenta o añadir una nueva cuenta.</string>
   <string name="email_picker_label">Enviar email con</string>
   <string name="email_subject_prefix">"Re: "</string>
   <string name="empty_event">Evento vacío no creado</string>
+  <string name="english_premium_league">English Premiere League</string>
   <string name="event_account">Cuenta</string>
   <string name="event_action_delete">Eliminar</string>
   <string name="event_action_edit">Editar</string>
@@ -214,7 +207,6 @@
   <string name="event_edit">Editar evento</string>
   <string name="event_info_descrip">Descripción</string>
   <string name="event_info_end">Fin</string>
-  <string name="event_info_from">De</string>
   <string name="event_info_jump_to_email">Saltar al Email</string>
   <string name="event_info_organizer">Organizador:</string>
   <string name="event_info_reminders_label">Recordatorios</string>
@@ -240,6 +232,8 @@
   <string name="gadget_title">Calendario</string>
   <string name="global_action_text_card_manager">Más categorías</string>
   <string name="global_cricket_no_match">Ningún partido de cricket está programado para hoy. Eche un vistazo a otros días.</string>
+  <string name="global_football_final">FINAL</string>
+  <string name="global_football_no_match">No hay partidos de fútbol programados para hoy.</string>
   <string name="goto_today">Hoy</string>
   <string name="guide_card_hint_text">Importar cumpleaños de contactos</string>
   <string name="hide_controls">Ocultar controles</string>
@@ -266,6 +260,9 @@
   <string name="insert_event_dialog_title">Aviso</string>
   <string name="insert_event_toast_add_failed">No se pudo añadir</string>
   <string name="insert_event_toast_add_success">Evento creado</string>
+  <string name="install_email_app">Instalar Email</string>
+  <string name="install_email_finished">Email instalado</string>
+  <string name="installing_email">Instalando...</string>
   <string name="item_num_selected">%1$d seleccionado</string>
   <string name="joke_card_icon_text">%1$s las personas ríen</string>
   <string name="jump_date_full">Ir a fecha</string>
@@ -277,8 +274,8 @@
   <string name="marketing_activity_text_cake">Pastel de cumpleaños predeterminado</string>
   <string name="marketing_activity_text_flower">Enviar flores</string>
   <string name="marketing_activity_text_header">Enviar un regalo</string>
-  <string name="menu_about_preferences">Acerca de Calendario</string>
   <string name="match_select_activity_label">Seleccionar coincidencias</string>
+  <string name="menu_about_preferences">Acerca de Calendario</string>
   <string name="menu_general_preferences">Configuración general</string>
   <string name="menu_preferences">Ajustes</string>
   <string name="menu_reminder_preferences">Recordatorios</string>
@@ -306,6 +303,7 @@
   <string name="monthly_on_day_count">Mensual (%1$s %2$s)</string>
   <string name="more_string">+%1$d</string>
   <string name="network_not_available">No se pudo conectar con la red</string>
+  <string name="new_event_description">nuevo</string>
   <string name="new_event_dialog_label">Nuevo evento</string>
   <string name="new_event_dialog_option">Nuevo evento</string>
   <string name="no_contact_birthday_hint">No hay cumpleaños para importar</string>
@@ -319,6 +317,7 @@ Compruebe la configuración de la red y vuelva a intentarlo."</string>
   <string name="no_visiable_calendar_title">Seleccione una cuenta de calendario</string>
   <string name="not_synced">no sincronizado</string>
   <string name="olympic_vs">VS</string>
+  <string name="online_reminder_header_text">Recordar</string>
   <string name="panchang_amanta">Amanta</string>
   <string name="panchang_amanta_month">Mes Amanta:</string>
   <string name="panchang_ayana">Ayana</string>
@@ -340,10 +339,12 @@ Compruebe la configuración de la red y vuelva a intentarlo."</string>
   <string name="panchang_vikram_samvat">Vikram Samvat</string>
   <string name="panchang_yamaghanta">Yamaghanta</string>
   <string name="panchang_yog">Yog</string>
-  <string name="online_reminder_header_text">Recordar</string>
   <string name="path_calendar">Aplicaciones del sistema/Calendario/Ajustes</string>
   <string name="path_calendar_settings">Aplicaciones del Sistema/Calendario/Ajustes</string>
   <string name="pengzu">pengzu</string>
+  <string name="prefDefault_alerts_vibrateWhen">nunca</string>
+  <string name="prefDefault_alerts_vibrate_false">nuncar</string>
+  <string name="prefDefault_alerts_vibrate_true">siempre</string>
   <string name="prefDialogTitle_vibrateWhen">Vibrar</string>
   <string name="pref_error_no_ringtone_select">Tono de llamada predeterminado</string>
   <string name="pref_reminder_time">Hora de recordatorio</string>
@@ -366,9 +367,9 @@ Compruebe la configuración de la red y vuelva a intentarlo."</string>
   <string name="preferences_use_home_tz_title">Usar zona horaria propia</string>
   <string name="preferences_week_start_day_dialog">La semana comienza en</string>
   <string name="preferences_week_start_day_title">La semana comienza en</string>
-  <string name="pull_to_refresh_hint">Tire para actualizar los eventos de %1$d</string>
   <string name="presence_label">Estado</string>
   <string name="privacy_label">Privacidad</string>
+  <string name="pull_to_refresh_hint">Tire para actualizar los eventos de %1$d</string>
   <string name="refresh">Actualizar</string>
   <string name="refreshing_hint">Actualizando</string>
   <string name="reminders_label">Añadir recordatorio</string>
@@ -435,8 +436,6 @@ Compruebe la configuración de la red y vuelva a intentarlo."</string>
   <string name="settings_calendar">Calendario</string>
   <string name="show_controls">Mostrar controles</string>
   <string name="show_day_view">Mostrar día</string>
-  <string name="show_newer_events">Toque para ver los eventos después de %1$s</string>
-  <string name="show_older_events">Toque para ver los eventos antes de %1$s</string>
   <string name="sms_import_description">Una mejor gestión de los mensajes de eventos relacionados con el tiempo</string>
   <string name="snooze_all_label">Repetir todos</string>
   <string name="snooze_label">Repetir</string>
@@ -468,9 +467,7 @@ Compruebe la configuración de la red y vuelva a intentarlo."</string>
   <string name="timezone_label">Zona horaria</string>
   <string name="today">Hoy</string>
   <string name="today_at_time_fmt">Hoy a las %s</string>
-  <string name="today_flight_event">Vuelo</string>
   <string name="today_no_events">No hay eventos</string>
-  <string name="today_train_event">Tren</string>
   <string name="tomorrow">Mañana</string>
   <string name="tomorrow_at_time_fmt">Mañana a las %s</string>
   <string name="too_long_content">El contenido es demasiado largo</string>
@@ -482,9 +479,6 @@ Compruebe la configuración de la red y vuelva a intentarlo."</string>
   <string name="travel_eta_advice">%2$s minutos de conducción a %1$s.</string>
   <string name="travel_ets_advice">Conducir a %2$s antes de las %1$s.</string>
   <string name="travel_event_add_successfully">Evento creado</string>
-  <string name="travel_event_add_unsuccessfully">No se pudo crear el evento</string>
-  <string name="travel_event_added">Evento creado</string>
-  <string name="travel_event_delete_successfully">Evento borrado</string>
   <string name="travel_event_title_flight">Vuelo: %1$s-%2$s %3$s</string>
   <string name="travel_event_title_train">Tren: %1$s-%2$s %3$s</string>
   <string name="travel_event_title_train_only_dep">Tren: %1$s %2$s</string>
@@ -532,7 +526,4 @@ Compruebe la configuración de la red y vuelva a intentarlo."</string>
   <string name="xingxiu">Estrellas</string>
   <string name="yearly">Anual (cada %s)</string>
   <string name="yearly_plain">Anual</string>
-  <string name="global_football_no_match">No hay partidos de fútbol programados para hoy.</string>
-  <string name="global_football_final">FINAL</string>
-  <string name="english_premium_league">English Premiere League</string>
 </resources>
