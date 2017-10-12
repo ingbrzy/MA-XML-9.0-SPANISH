@@ -15,7 +15,7 @@
   <string name="ac_firstUseApplock_title">Establecer contraseña para proteger sus aplicaciones</string>
   <string name="ac_summaryOff">Apagado, no requiere ninguna contraseña para abrir aplicaciones</string>
   <string name="ac_summaryOn">Encendido, requiere una contraseña para abrir aplicaciones</string>
-  <string name="access_control_app_is_launching">La aplicación está arrancando</string>
+  <string name="access_control_app_is_launching">La aplicación está empezando</string>
   <string name="access_control_failed_need_to_unlock_nofingerprint">La contraseña es obligatoria para abrir aplicaciones</string>
   <string name="access_control_fingerprint_not_identified_msg">No se puedo leer la huella dactilar.</string>
   <string name="access_control_need_password">"%s añadido exitosamente
