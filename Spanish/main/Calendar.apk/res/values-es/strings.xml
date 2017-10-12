@@ -342,9 +342,6 @@ Compruebe la configuración de la red y vuelva a intentarlo."</string>
   <string name="path_calendar">Aplicaciones del sistema/Calendario/Ajustes</string>
   <string name="path_calendar_settings">Aplicaciones del Sistema/Calendario/Ajustes</string>
   <string name="pengzu">pengzu</string>
-  <string name="prefDefault_alerts_vibrateWhen">nunca</string>
-  <string name="prefDefault_alerts_vibrate_false">nuncar</string>
-  <string name="prefDefault_alerts_vibrate_true">siempre</string>
   <string name="prefDialogTitle_vibrateWhen">Vibrar</string>
   <string name="pref_error_no_ringtone_select">Tono de llamada predeterminado</string>
   <string name="pref_reminder_time">Hora de recordatorio</string>
