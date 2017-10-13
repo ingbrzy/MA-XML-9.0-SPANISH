@@ -1334,7 +1334,7 @@ El uso de datos determinado por el teléfono puede variar del recuento realizado
   <string name="device_rear_camera">Cámara trasera</string>
   <string name="device_reset_title">Restablecer dispositivo</string>
   <string name="device_screen_resolution">Resolución de la pantalla</string>
-  <string name="device_screen_size">Tamaño de pantalla</string>
+  <string name="device_screen_size">Tamaño pantalla</string>
   <string name="device_sd_memory">Tarjeta SD</string>
   <string name="device_security_settings_title">Seguridad</string>
   <string name="device_share_loading">Crear imagen</string>
@@ -1829,7 +1829,7 @@ Al activar la copia de seguridad automática, los datos del dispositivo y de las
   <string name="gsm_to_wifi_connect_type_title">De GSM a Wi-Fi</string>
   <string name="handy_mode">Modo con una sola mano</string>
   <string name="handy_mode_enable">Modo con una sola mano</string>
-  <string name="handy_mode_size">Tamaño de pantalla</string>
+  <string name="handy_mode_size">Tamaño pantalla</string>
   <string name="handy_mode_tips">Deslice a la izquierda o a la derecha desde el botón de inicio para poner la pantalla en un lado.</string>
   <string name="haptic_feedback_enable_title">Vibrar al tocar</string>
   <string name="haptic_feedback_level">Vibración</string>
