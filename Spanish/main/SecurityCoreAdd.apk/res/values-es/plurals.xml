@@ -12,4 +12,8 @@
         <item quantity="other">%d notificaciones del segundo espacio</item>
         <item quantity="one">%d notificación del segundo espacio</item>
     </plurals>
+    <plurals name="search_app_count_txt_na">
+        <item quantity="other">Buscar %d aplicaciones</item>
+        <item quantity="one">Buscar %d aplicación</item>
+    </plurals>
 </resources>
