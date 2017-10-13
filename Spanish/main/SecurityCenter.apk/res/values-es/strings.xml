@@ -416,7 +416,7 @@ o introduzca la contraseña de bloqueo de Aplicación"</string>
   <string name="byteShort">B</string>
   <string name="call_address">Zona lista negra</string>
   <string name="call_and_contact">Llamadas y contactos</string>
-  <string name="call_blacklist">Llamar a la lista negra</string>
+  <string name="call_blacklist">Lista de bloqueo de llamadas</string>
   <string name="call_cloud_block">Intercepción de la nube</string>
   <string name="call_contact_block">Bloquear contactos</string>
   <string name="call_delete_hint">¿Borrar todas las llamadas bloqueadas de este número?</string>
