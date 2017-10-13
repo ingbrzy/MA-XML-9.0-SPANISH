@@ -168,7 +168,7 @@
   <string name="file">archivo</string>
   <string name="file_details" formatted="false">"Tamaño: %s
 
-Longitud: %s
+Duración: %s
 
 Última modificación: %s
 
