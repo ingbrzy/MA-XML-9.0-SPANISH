@@ -1106,9 +1106,9 @@ Esta actividad acorta la duración de la batería."</string>
   <string name="om_media_scan_timeout_proc_name">Servidor multimedia</string>
   <string name="om_memory_clean_cleaning_text">Optimizando velocidad…</string>
   <string name="om_notify_cpu_load_too_high_summary">Restringir la actividad de segundo plano para aumentar la velocidad</string>
-  <string name="om_notify_cpu_load_too_high_title">CPU usage of %s is too high</string>
-  <string name="om_notify_need_clean_memory_summary">Clear cache to boost speed</string>
-  <string name="om_notify_need_clean_memory_title">Cache size reached %s</string>
+  <string name="om_notify_cpu_load_too_high_title">El uso de CPU de %s es muy elevado</string>
+  <string name="om_notify_need_clean_memory_summary">Limpia la cache para optimizar la velocidad</string>
+  <string name="om_notify_need_clean_memory_title">El tamaño de cache alcanzó los %s</string>
   <string name="om_other_processes">Otras tareas</string>
   <string name="om_other_processes_cpu_usage_summary">El uso promedio de la CPU es menor que %s%%</string>
   <string name="om_settings_cpu_over_load_notify">Uso de CPU</string>
