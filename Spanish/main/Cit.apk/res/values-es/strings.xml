@@ -16,6 +16,8 @@
   <string name="cit_OTG_plugout_check_title">OTG (retirar)</string>
   <string name="cit_OTG_waiting_in">Conecte el dispositivo USB OTG ahora</string>
   <string name="cit_OTG_waiting_out">Desconecte el dispositivo USB OTG ahora</string>
+  <string name="cit_abnormal_reboot_summary">Espere por favor...Leyendo datos de estabilidad en este dispositivo.</string>
+  <string name="cit_abnormal_reboot_title">Datos de Estabilidad del Dispositivo</string>
   <string name="cit_ac_charger_in">Carga por AC</string>
   <string name="cit_ac_charger_out">Cargador AC desconectado</string>
   <string name="cit_accelermeter_sensor_check_summary">Mueve rápidamente el dispositivo en una dirección. Abajo se muestran valores de coordenadas X，Y，Z. (si el teléfono está en movimiento: X representa izquierda/derecha, Y representa delante y detrás, Z representa arriba y abajo). Antes de calibrar el dispositivo, colóquelo sobre una superficie plana.</string>
@@ -38,7 +40,7 @@
   <string name="cit_audio_cali_t0">T0:</string>
   <string name="cit_audio_cali_title">Prueba de calibración del altavoz PA</string>
   <string name="cit_audio_calibrating">Calibración en curso...</string>
-  <string name="cit_audio_get_temp_fail">Get temp data Failed!</string>
+  <string name="cit_audio_get_temp_fail">Falló al obtener datos temporales!</string>
   <string name="cit_audio_lb_backmic_to_speaker_title">Prueba de retroalimentación del micrófono posterior</string>
   <string name="cit_audio_lb_frontmic_to_speaker_title">Prueba de retroalimentación del micrófono delantero</string>
   <string name="cit_audio_lb_mainmic_to_earpiece_title">Prueba de retroalimentación del micrófono principal</string>
@@ -92,16 +94,16 @@ Coja el teléfono como si estuviera respondiendo una llamada, hable al micrófon
   <string name="cit_blue_tooth_scan_check_summary">Abajo está la información de los dispositivos Bluetooth que se detectaron cerca.</string>
   <string name="cit_blue_tooth_scan_check_title">Explorar Bluetooth</string>
   <string name="cit_blue_torch_on">Encender luz de flash azul</string>
-  <string name="cit_bluetooth_address_open_error">"No pude dirección Bluetooth. Error al abrir el dispositivo Bluetooth.
+  <string name="cit_bluetooth_address_open_error">"No se pudo obtener la dirección del Bluetooth. Ocurrió un error al abrir el dispositivo Bluetooth.
 "</string>
   <string name="cit_bluetooth_not_support">Este dispositivo no es compatible con Bluetooth</string>
   <string name="cit_bluetooth_scan_retry">Explorar de nuevo</string>
   <string name="cit_bluetooth_scanning">Buscando dispositivos cercanos (podría llevar alrededor de 4 segundos)…</string>
-  <string name="cit_bluetooth_scanning_bluetooth_done">Hecho. No buscar dispositivos Bluetooth cercanos.</string>
+  <string name="cit_bluetooth_scanning_bluetooth_done">Hecho. No se encontraron dispositivos Bluetooth cercanos.</string>
   <string name="cit_bluetooth_scanning_bluetooth_error">Se ha producido un error mientras se buscaban dispositivos Bluetooth.</string>
   <string name="cit_bluetooth_scanning_opening_bluetooth">Abriendo dispositivo Bluetooth…</string>
-  <string name="cit_build_finger_failed">construir huella digital FALLIDA</string>
-  <string name="cit_build_finger_passed">construir huella digital Pasó</string>
+  <string name="cit_build_finger_failed">construir huella digital FALLÓ</string>
+  <string name="cit_build_finger_passed">construir huella digital PASÓ</string>
   <string name="cit_button_light_off">Luz de los botones apagada</string>
   <string name="cit_button_light_on">Luz de los botones encendida</string>
   <string name="cit_calibration_fail">Error de calibración</string>
@@ -114,7 +116,7 @@ Coja el teléfono como si estuviera respondiendo una llamada, hable al micrófon
   <string name="cit_charger_plugout_check_title">Cargador (desconectar)</string>
   <string name="cit_charger_waiting_in">Conecte el cargador</string>
   <string name="cit_charger_waiting_out">Desconecte el cargador ahora</string>
-  <string name="cit_display_check_summary">Confirme que el archivo bmp requerida en la tarjeta SD. Confirman que los colores se muestran consistentemente a través de toda la pantalla. Asegúrese de que no hay manchas oscuras ni manchas irregulares.</string>
+  <string name="cit_display_check_summary">Confirme que el archivo bmp requerido esté en la tarjeta SD. Confirme que los colores se muestran consistentemente a través de toda la pantalla. Asegúrese de que no hay zonas  irregulares oscuras o brillantes.</string>
   <string name="cit_display_check_title">Pantalla</string>
   <string name="cit_display_continue">Toca la pantalla para comenzar el test</string>
   <string name="cit_exit_test_summary">Cuando sale, se borrarán todos los datos de texto relacionado.</string>
