@@ -264,9 +264,12 @@ al Segundo espacio desde la Pantalla de bloqueo"</string>
   <string name="tryNow">Probar ahora</string>
   <string name="wating">Un segundo…</string>
   <string name="xpsace_guide_button">Crear</string>
+  <string name="xspace_account">Cuentas de aplicaciones dobles</string>
   <string name="xspace_chocie">Soporta duplicado de aplicación</string>
   <string name="xspace_creating">Duplicando aplicación…</string>
-  <string name="xspace_description">Duplica aplicaciones para usarlas por separado. Las aplicaciones duplicadas tendrán iconos específicos en la pantalla de inicio.</string>
+  <string name="xspace_description">"Las aplicaciones duales son copias de aplicaciones que pueden utilizarse por separado con una cuenta diferente.
+  
+Algunas aplicaciones dobles requieren el soporte de Google Services Framework. En estos casos, se crea el marco de servicios de Google dual."</string>
   <string name="xspace_guide_des">Usar 2 cuentas sin cambiar</string>
   <string name="xspace_guide_title">Crear una aplicación Dual para %s</string>
   <string name="xspace_header">Aplicaciones duplicadas</string>
@@ -276,6 +279,7 @@ al Segundo espacio desde la Pantalla de bloqueo"</string>
   <string name="xspace_introduce">Recomendado</string>
   <string name="xspace_label">Aplicaciones duplicadas</string>
   <string name="xspace_loading_msg">Cargando aplicaciones…</string>
+  <string name="xspace_setting_label">Ajustes duales de las aplicaciones</string>
   <string name="xspace_uninstall_completed">Aplicación duplicada desinstalada con éxito</string>
   <string name="xspace_uninstall_dialog_content">La desinstalación de aplicaciones duplicadas eliminará todos los datos de la aplicación.</string>
   <string name="xspace_uninstall_dialog_title">Desinstalar aplicación duplicada</string>

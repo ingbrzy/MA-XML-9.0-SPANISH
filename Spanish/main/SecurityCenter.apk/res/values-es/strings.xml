@@ -157,6 +157,9 @@ o introduzca la contraseña de bloqueo de Aplicación"</string>
   <string name="app_manager_factory_reset_dlg_title">¿Desinstalar actualizaciones?</string>
   <string name="app_manager_force_stop_dlg_text">Si fuerza el cierre de una aplicación, puede comportarse mal.</string>
   <string name="app_manager_force_stop_dlg_title">¿Forzar cierre?</string>
+  <string name="app_manager_globel_other_perm_title">Otros permisos</string>
+  <string name="app_manager_globel_perm_summary">Administrar permisos relacionados con la ubicación, el almacenamiento, el teléfono, los mensajes y los contactos.</string>
+  <string name="app_manager_globel_perm_title">Permisos de aplicación</string>
   <string name="app_manager_have_not_consume">Ninguna</string>
   <string name="app_manager_hide_system_server">Ocultar servicios del sistema</string>
   <string name="app_manager_instruction">Instrucción</string>
@@ -413,7 +416,7 @@ o introduzca la contraseña de bloqueo de Aplicación"</string>
   <string name="byteShort">B</string>
   <string name="call_address">Zona lista negra</string>
   <string name="call_and_contact">Llamadas y contactos</string>
-  <string name="call_blacklist">Llamar a la lista negra</string>
+  <string name="call_blacklist">Lista de bloqueo de llamadas</string>
   <string name="call_cloud_block">Intercepción de la nube</string>
   <string name="call_contact_block">Bloquear contactos</string>
   <string name="call_delete_hint">¿Borrar todas las llamadas bloqueadas de este número?</string>
@@ -436,6 +439,7 @@ o introduzca la contraseña de bloqueo de Aplicación"</string>
   <string name="card_main_deepclean_wechat_action">Limpiar</string>
   <string name="card_main_deepclean_wechat_summary">Borrar el caché de WeChat para liberar espacio de almacenamiento</string>
   <string name="card_main_deepclean_wechat_title">Caché de WeChat</string>
+  <string name="card_main_gamebooster_title">Aumen. veloci. juego</string>
   <string name="card_main_hbassistant_summary">Utilice esta herramienta para acelerar los juegos más rápido</string>
   <string name="card_main_hbassistant_title">Asistente para los juegos</string>
   <string name="card_main_monthreport_action">Ver</string>
@@ -970,6 +974,7 @@ responda</string>
   <string name="menu_text_networkassistants_unit_gb">GB</string>
   <string name="menu_text_networkassistants_unit_kb">KB</string>
   <string name="menu_text_networkassistants_unit_mb">MB</string>
+  <string name="menu_text_optimize_manage">Aumento de velocidad</string>
   <string name="menu_text_power_manager">Uso de batería</string>
   <string name="menu_text_power_percent">%s</string>
   <string name="menu_text_power_percent_title">Batería %s</string>
@@ -1128,7 +1133,7 @@ Esta actividad acorta la duración de la batería."</string>
   <string name="operator_name_cmcc">China Mobile</string>
   <string name="operator_name_telcom">China Telecom</string>
   <string name="operator_name_unicom">China Unicom</string>
-  <string name="optimize_manage_title">Aumentar velocidad</string>
+  <string name="optimize_manage_title">Aumento de velocidad</string>
   <string name="optimize_result_ads_close_text">Publicidad</string>
   <string name="optimize_result_available_memory_info">Memoria disponible</string>
   <string name="optimize_result_button_cloudspace">Añadir almacenamiento en la nube</string>
@@ -1702,7 +1707,7 @@ Mientras se calibra, MIUI le enviará un mensaje de texto a su operadora para re
   <string name="summary_virus_cloudscan">Subir detalles y nombres de aplicaciones y escanear usando definiciones de virus en línea</string>
   <string name="summary_virus_update">Obtener automáticamente las últimas definiciones de virus</string>
   <string name="summary_xiaomi_roaming">CNY 0,01/MB para la itinerancia de datos móviles.</string>
-  <string name="support_game_booster_tips">Aumente la velocidad &amp; mejore su experiencia de juego</string>
+  <string name="support_game_booster_tips">Aumente la velocidad y mejore su experiencia de juego</string>
   <string name="sys_app_prot_cracked_confirm">Lo tengo</string>
   <string name="sys_app_prot_cracked_login">Identifíquese con la Cuenta Mi</string>
   <string name="sys_app_prot_cracked_text_login">"La versión actual de MIUI ha sido modificada lo que pone a la seguridad de su dispositivo en riesgo.

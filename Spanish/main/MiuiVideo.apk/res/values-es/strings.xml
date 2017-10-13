@@ -165,10 +165,20 @@
   <string name="expired_buy_vip">vip ya ha expirado</string>
   <string name="favorite">Favorito</string>
   <string name="fenghuang">iFeng</string>
-  <string name="file_error">Error de archivo</string>
-  <string name="file_not_exist">El archivo no existe</string>
+  <string name="file">archivo</string>
+  <string name="file_details" formatted="false">"Tamaño: %s
+
+Longitud: %s
+
+Última modificación: %s
+
+Ubicación: %s
+
+"</string>
   <string name="filter">Filtro</string>
-  <string name="finish_install">Instalado con éxito</string>
+  <string name="filter_file_tips">¿Filtrar este archivo?</string>
+  <string name="folder">Carpeta</string>
+  <string name="folder_up_tips">(Carpeta arriba)</string>
   <string name="forecast">Previo</string>
   <string name="forecast_empty_hint">Vacío</string>
   <string name="forecasts">EPG</string>
@@ -208,6 +218,12 @@
   <string name="local_video">Local</string>
   <string name="login_tip_content">Inicia sesión con tu Cuenta Mi para sincronizar y actualizar las series que estés siguiendo.</string>
   <string name="login_tip_title">Iniciar sesión</string>
+  <string name="more">Más</string>
+  <string name="more_file_details" formatted="false">"Tamaño: %s
+
+Duración: %s 
+
+"</string>
   <string name="media_name_comment">Comentario de %s</string>
   <string name="memory_mode_desc">Ahorrar uso de memoria</string>
   <string name="menu_item_enable_audio_enhance">Mejorar audio</string>
@@ -233,6 +249,12 @@
   <string name="need_upgrade_title">Actualización disponible</string>
   <string name="negative_comment">Negativo</string>
   <string name="netease">NetEase</string>
+  <string name="network_stream">Flujo de red</string>
+  <string name="no_filter_folder_tips">Ninguna carpeta de filtro</string>
+  <string name="no_folder_found">No se encontraron carpetas de vídeo</string>
+  <string name="no_hidden_files_tips">No hay archivos ocultos</string>
+  <string name="no_search_found">No se han encontrado resultados</string>
+  <string name="no_videos_found">No se encontraron vídeos</string>
   <string name="no_login_xiaomi_account">Para enviar comentarios, inicia sesión con tu cuenta de Mi</string>
   <string name="no_longer_tips">"No mostrar de nuevo"</string>
   <string name="no_pay_record">sin registro del pago</string>
@@ -467,6 +489,14 @@
   <string name="receive_mipush_summary">Recibir notificaciones cuando haya nuevo contenido disponible</string>
   <string name="recentplay">Reproducido recientemente</string>
   <string name="refreshing">Cargando…</string>
+  <string name="refresh">Refrescar</string>
+  <string name="remove">Eliminar</string>
+  <string name="rename">Renombrar</string>
+  <string name="rename_file">Renombrar Archivo</string>
+  <string name="rename_folder">Renombrar Carpeta</string>
+  <string name="rename_hidden_error">El archivo se ocultará</string>
+  <string name="replace_num_files">%d archivos</string>
+  <string name="replace_num_videos">%d Videos</string>
   <string name="releasetorefresh">Soltar y actualizar</string>
   <string name="reload_sub_title">Pulse la pantalla para reintentar</string>
   <string name="reload_title">"No se puede conectar a la red"</string>
@@ -515,6 +545,10 @@
   <string name="storage_remain">"Disponible: "</string>
   <string name="storage_total">"Espacio total: "</string>
   <string name="subscribe">Suscribir</string>
+  <string name="subtitle">Subtítulo</string>
+  <string name="subtitle_color_text">Color del subtítulo</string>
+  <string name="subtitle_font_tips">Tamaño de fuente del subtítulo</string>
+  <string name="subtitles">Subtítulos</string>
   <string name="suffix_countdown">s</string>
   <string name="system_setting">Ajustes de sistema</string>
   <string name="tab_loading"><CDATA>...</CDATA></string>
