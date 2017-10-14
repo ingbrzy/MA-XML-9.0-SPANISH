@@ -135,8 +135,8 @@ Si vuelve a activar los datos móviles, su operador puede cobrarle por datos adi
         <item quantity="one">"%s aplicación no está protegida</item>
     </plurals>
     <plurals name="system_check_content">
-        <item quantity="other">%1$d elementos de seguridad</item>
-        <item quantity="one">%1$d elemento seguro</item>
+        <item quantity="other">%1$d elementos</item>
+        <item quantity="one">%1$d elemento</item>
     </plurals>
     <plurals name="cache_check_content">
         <item quantity="other">Protegiendo %d aplicaciones</item>

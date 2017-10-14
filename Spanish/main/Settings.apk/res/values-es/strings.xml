@@ -1334,7 +1334,7 @@ El uso de datos determinado por el teléfono puede variar del recuento realizado
   <string name="device_rear_camera">Cámara trasera</string>
   <string name="device_reset_title">Restablecer dispositivo</string>
   <string name="device_screen_resolution">Resolución de la pantalla</string>
-  <string name="device_screen_size">Tamaño pantalla</string>
+  <string name="device_screen_size">Pantalla</string>
   <string name="device_sd_memory">Tarjeta SD</string>
   <string name="device_security_settings_title">Seguridad</string>
   <string name="device_share_loading">Crear imagen</string>
@@ -1363,7 +1363,6 @@ El uso de datos determinado por el teléfono puede variar del recuento realizado
   <string name="dirac_mode_piston_100">Auriculares Mi in-ear</string>
   <string name="dirac_mode_piston_2">Mi piston-2</string>
   <string name="dirac_mode_piston_youth">Mi piston-youth</string>
-  <string name="disableNetwork">desactivarlaRed</string>
   <string name="disable_data_string">Desactivar la conexión de datos</string>
   <string name="disable_overlays">Inhabilitar superposiciones HW</string>
   <string name="disable_overlays_summary">Usar siempre la GPU para combinar pantallas</string>

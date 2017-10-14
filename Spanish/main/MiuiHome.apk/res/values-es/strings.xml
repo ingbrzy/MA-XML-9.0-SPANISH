@@ -269,14 +269,13 @@
   <string name="widget_gadget_player">Música</string>
   <string name="widget_global_search">Buscar</string>
   <string name="widget_quick_function">Atajos rápidos</string>
-  <string name="no_space_toast">No hay espacio suficiente</string>
+  <string name="no_space_toast">No hay espacio</string>
   <string name="default_folder_title_recommend">Más Aplicaciones</string>
   <string name="default_folder_title_microsoft">Microsoft</string>
   <string name="default_folder_title_game">Juegos</string>
   <string name="default_folder_title_security">Sistema</string>
   <string name="default_folder_title_telcel">Telcel</string>
   <string name="default_folder_title_claro">Claro</string>
-  <string name="default_shortcut_title_10086">10086.cn</string>
   <string name="delete_wallpaper_message">¿Eliminar %1$d fondo de pantalla?</string>
   <string name="recommend_apps_default_title">Vacío</string>
 </resources>

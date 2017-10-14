@@ -453,8 +453,8 @@
   <string name="wallpaper_decoded_error">No se puede cargar el fondo de pantalla</string>
   <string name="wallpaper_scroll_type_tips">Fondo de pantalla de desplazamiento</string>
   <string name="wallpaper_set_as_both">Establecer ambos</string>
-  <string name="wallpaper_set_as_destop">Establecer como Fondo de pantalla</string>
-  <string name="wallpaper_set_as_lockscreen">Establecer como fondo del Pantalla de bloqueo</string>
+  <string name="wallpaper_set_as_destop">Establecer como fondo de pantalla</string>
+  <string name="wallpaper_set_as_lockscreen">Establecer como fondo de la pantalla de bloqueo</string>
   <string name="wallpaper_settings">Configuración del fondo de pantalla</string>
   <string name="wallpaper_settings_loading_text">Cargando</string>
   <string name="wallpaper_settings_no_history">Sin historial</string>

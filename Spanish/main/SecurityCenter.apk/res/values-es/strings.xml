@@ -21,8 +21,8 @@
   <string name="access_control_need_password">"%s añadido exitosamente
 "</string>
   <string name="access_control_need_to_unlock">"Escanee su huella dactilar
-o introduzca la contraseña de bloqueo de Aplicación"</string>
-  <string name="access_control_need_to_unlock_nofingerprint">Introduzca contraseña de bloqueo de Aplicación</string>
+o introduzca la contraseña de Aplicaciones bloquedas"</string>
+  <string name="access_control_need_to_unlock_nofingerprint">Introduzca contraseña de Aplicaciones bloquedas</string>
   <string name="action_button_text_100">Optimizar</string>
   <string name="action_button_text_60">Optimizar</string>
   <string name="action_button_text_60_80">Optimizar</string>
@@ -31,7 +31,7 @@ o introduzca la contraseña de bloqueo de Aplicación"</string>
   <string name="activate_fingerprint_dialog_message">"Esta huella digital no está activa. Ingrese su contraseña para activar esta huella digital."</string>
   <string name="activate_fingerprint_dialog_title">Introducir contraseña</string>
   <string name="activity_title_antispam">Lista de bloqueo</string>
-  <string name="activity_title_antivirus">Escaneo de seguridad</string>
+  <string name="activity_title_antivirus">Escanear</string>
   <string name="activity_title_apps_manager">Aplicaciones</string>
   <string name="activity_title_auto_start_manager">Inicio automático</string>
   <string name="activity_title_create_shortcut">Gestionar accesos directos</string>
@@ -127,7 +127,7 @@ o introduzca la contraseña de bloqueo de Aplicación"</string>
   <string name="app_manager_app_info_label">Información de aplicación</string>
   <string name="app_manager_app_info_name">Nombre de aplicación</string>
   <string name="app_manager_app_info_pkg">Nombre de APK</string>
-  <string name="app_manager_app_lock">Bloqueo de aplicación</string>
+  <string name="app_manager_app_lock">Aplicaciones bloqueadas</string>
   <string name="app_manager_app_power">"Uso de la batería: "</string>
   <string name="app_manager_app_storage">"Almacenamiento: "</string>
   <string name="app_manager_app_traffic">"Datos usados: "</string>
@@ -148,10 +148,16 @@ o introduzca la contraseña de bloqueo de Aplicación"</string>
   <string name="app_manager_default_open_title">Borrar los valores predeterminados</string>
   <string name="app_manager_details_electric_title">Batería</string>
   <string name="app_manager_details_storage_title">Almacenamiento</string>
-  <string name="app_manager_details_traffic_title">Datos usados este mes</string>
+  <string name="app_manager_details_traffic_title">Datos usados(mes)</string>
   <string name="app_manager_disable">"No permitir"</string>
+  <string name="app_manager_disable_dlg_text">Si desactivas esta aplicación, es posible que otras aplicaciones no funcionen correctamente.</string>
+  <string name="app_manager_disable_dlg_title">¿Desea desactivar una aplicación del sistema?</string>
+  <string name="app_manager_disable_text">Desactivar</string>
+  <string name="app_manager_disabled">Desactivada</string>
   <string name="app_manager_dlg_cancel">Cancelar</string>
   <string name="app_manager_dlg_ok">Aceptar</string>
+  <string name="app_manager_enable_text">Activar</string>
+  <string name="app_manager_enabled">Activada</string>
   <string name="app_manager_factory_reset">Desinstalar actualizaciones</string>
   <string name="app_manager_factory_reset_dlg_msg">Todas las actualizaciones de esta aplicación se desinstalarán del sistema Android .</string>
   <string name="app_manager_factory_reset_dlg_title">¿Desinstalar actualizaciones?</string>
@@ -202,7 +208,7 @@ o introduzca la contraseña de bloqueo de Aplicación"</string>
   <string name="app_manager_stop_wp_dialog_cancel">Cancelar</string>
   <string name="app_manager_stop_wp_dialog_uninstall">Desinstalar</string>
   <string name="app_manager_system_mobile_disable">Desactivar datos</string>
-  <string name="app_manager_title">Administrar aplicaciones</string>
+  <string name="app_manager_title">Admin. aplicaciones</string>
   <string name="app_manager_uninstall_with_xspace_app_dlg_msg">Las aplicaciones dobles correspondientes se eliminarán junto con los datos de la aplicación.</string>
   <string name="app_manager_uninstall_xspace_app_dlg_msg">La desinstalación de la aplicación doble eliminará todos los datos de la aplicación.</string>
   <string name="app_manager_uninstall_xspace_app_dlg_title">¿Desinstalar la aplicación doble?</string>
@@ -276,8 +282,6 @@ o introduzca la contraseña de bloqueo de Aplicación"</string>
   <string name="auto_task_edit_condition_title">Añadir condición</string>
   <string name="auto_task_edit_my_custom_task">Nombre</string>
   <string name="auto_task_edit_operation_summary">Por ejemplo, \"Encender el Modo Avión\"</string>
-  <string name="auto_task_edit_step1">1.</string>
-  <string name="auto_task_edit_step2">2.</string>
   <string name="auto_task_edit_task_name">Nombre</string>
   <string name="auto_task_main_title">Tareas programadas</string>
   <string name="auto_task_mamange_activity_title">Ajustes</string>
@@ -413,7 +417,6 @@ o introduzca la contraseña de bloqueo de Aplicación"</string>
   <string name="button_text_reject">Rechazar</string>
   <string name="button_text_update_now">Actualizar</string>
   <string name="button_to_setting">Ajustes</string>
-  <string name="byteShort">B</string>
   <string name="call_address">Zona lista negra</string>
   <string name="call_and_contact">Llamadas y contactos</string>
   <string name="call_blacklist">Lista de bloqueo de llamadas</string>
@@ -439,7 +442,7 @@ o introduzca la contraseña de bloqueo de Aplicación"</string>
   <string name="card_main_deepclean_wechat_action">Limpiar</string>
   <string name="card_main_deepclean_wechat_summary">Borrar el caché de WeChat para liberar espacio de almacenamiento</string>
   <string name="card_main_deepclean_wechat_title">Caché de WeChat</string>
-  <string name="card_main_gamebooster_title">Aumen. veloci. juego</string>
+  <string name="card_main_gamebooster_title">Mejorar. vel. juego</string>
   <string name="card_main_hbassistant_summary">Utilice esta herramienta para acelerar los juegos más rápido</string>
   <string name="card_main_hbassistant_title">Asistente para los juegos</string>
   <string name="card_main_monthreport_action">Ver</string>
@@ -448,7 +451,7 @@ o introduzca la contraseña de bloqueo de Aplicación"</string>
   <string name="card_main_netcheck_title">Probar red</string>
   <string name="card_main_optimize_manage_action">Aumentar ahora</string>
   <string name="card_main_optimize_manage_summary">Borrar caché para acelerar el dispositivo</string>
-  <string name="card_main_optimize_manage_title">Aumento de velocidad</string>
+  <string name="card_main_optimize_manage_title">Mejorar velocidad</string>
   <string name="card_main_overscroll_tips">Seguridad en su mejor momento</string>
   <string name="card_main_private_space_action">Crear</string>
   <string name="card_main_private_space_summary">Usar el segundo espacio es como tener 2 dispositivos</string>
@@ -561,15 +564,15 @@ o introduzca la contraseña de bloqueo de Aplicación"</string>
   <string name="dialog_title_stop_virus_scan">Detener la exploración de seguridad</string>
   <string name="disable_air_mode">Primero desactive el modo avión</string>
   <string name="dlg_add_blacklist">¿Bloquear este número?</string>
-  <string name="dlg_add_blacklist_title">Añadir a lista de bloqueo</string>
+  <string name="dlg_add_blacklist_title">Añadir a lista negra</string>
   <string name="dlg_add_keyword">Añadir palabras clave</string>
   <string name="dlg_antispam_mode_delete_message">No puede recuperar reglas después de que hayan sido borradas.</string>
   <string name="dlg_antispam_mode_delete_title">¿Borrar reglas?</string>
-  <string name="dlg_antispam_using_mode_delete_message">"¿Eliminar las reglas que está utilizando actualmente y volver a las reglas predeterminadas de la lista de bloqueo?"</string>
-  <string name="dlg_antispam_using_mode_international_delete_message">"¿Eliminar las reglas que está utilizando actualmente y volver a las reglas predeterminadas de la lista de bloqueo?"</string>
-  <string name="dlg_black_address_antispam_message">¿Añadir esta ubicación a la lista de bloqueo?</string>
-  <string name="dlg_black_antispam_hint">Lista de bloqueo</string>
-  <string name="dlg_black_antispam_message">¿Añadir este número a la lista de bloqueo?</string>
+  <string name="dlg_antispam_using_mode_delete_message">"¿Eliminar las reglas que está utilizando actualmente y volver a las reglas predeterminadas de la lista negra?"</string>
+  <string name="dlg_antispam_using_mode_international_delete_message">"¿Eliminar las reglas que está utilizando actualmente y volver a las reglas predeterminadas de la lista negra?"</string>
+  <string name="dlg_black_address_antispam_message">¿Añadir esta ubicación a la lista negra?</string>
+  <string name="dlg_black_antispam_hint">Lista de negra</string>
+  <string name="dlg_black_antispam_message">¿Añadir este número a la lista negra?</string>
   <string name="dlg_clear_all_call">¿Limpiar las llamadas bloqueadas?</string>
   <string name="dlg_clear_all_ok">Limpiar todo</string>
   <string name="dlg_clear_all_sms">¿Borrar SMS bloqueados?</string>
@@ -586,7 +589,7 @@ o introduzca la contraseña de bloqueo de Aplicación"</string>
   <string name="dlg_no_block_ok">Desbloquear</string>
   <string name="dlg_remove_address_blacklist">¿Eliminar esta ubicación de la lista de bloqueo?</string>
   <string name="dlg_remove_address_whitelist">¿Eliminar esta ubicación de las excepciones?</string>
-  <string name="dlg_remove_blacklist">¿Eliminar estos números de la lista de bloqueo?</string>
+  <string name="dlg_remove_blacklist">¿Eliminar estos números de la lista negra?</string>
   <string name="dlg_remove_blacklist_ing">Eliminando…</string>
   <string name="dlg_remove_blacklist_title">Eliminar</string>
   <string name="dlg_remove_ok">Eliminar</string>
@@ -672,7 +675,7 @@ o introduzca la contraseña de bloqueo de Aplicación"</string>
   <string name="free_time_traffic_title">Ingrese el límite de datos pasado el máximo</string>
   <string name="free_traffic_settings">Ajustes del uso de datos fuera de hora punta</string>
   <string name="function_close">Apagar</string>
-  <string name="fw_blocked">Lista de bloqueo</string>
+  <string name="fw_blocked">Lista negra</string>
   <string name="fw_blocked_count">"Bloqueado "</string>
   <string name="fw_blocked_join">" y "</string>
   <string name="game_booster">Acelerador de velocidad de Juegos</string>
@@ -708,7 +711,7 @@ o introduzca la contraseña de bloqueo de Aplicación"</string>
   <string name="gs_game_performance">Rendimiento</string>
   <string name="gs_game_shortcut">Disfrute de una experiencia más fluida jugando</string>
   <string name="gs_only_self_start_for_list">Restringir procesos en segundo plano para ahorrar batería para jugar</string>
-  <string name="gs_open_game_booster">Aumente la velocidad</string>
+  <string name="gs_open_game_booster">Mejorar velocidad</string>
   <string name="gs_performance_mode">Modo rendimiento</string>
   <string name="gs_performance_mode_detail">Incremente el uso de la CPU para asegurar un rendimiento sin interrupciones</string>
   <string name="guide_get_operator_error">"&lt;font color='#33b4ff'&gt;&lt;U&gt;¿Operadora incorrecta?&lt;/U&gt;&lt;/font&gt;"</string>
@@ -921,9 +924,9 @@ responda</string>
   <string name="megabyteShort">MB</string>
   <string name="megabyte_per_second">Mb/s</string>
   <string name="memory_check_content">Se han liberado %s</string>
-  <string name="memory_clean_btn_click_text">Aumentar velocidad</string>
+  <string name="memory_clean_btn_click_text">Mejorar velocidad</string>
   <string name="memory_clean_cleaning_title">Borrando cache</string>
-  <string name="memory_clean_click_tip">Aumentar velocidad</string>
+  <string name="memory_clean_click_tip">Mejorar velocidad</string>
   <string name="memory_clean_memory_size_tip">Cache</string>
   <string name="memory_clean_no_need_clean">Parece que todo está bien</string>
   <string name="memory_clean_no_running_process">No hay tareas que borrar</string>
@@ -974,7 +977,7 @@ responda</string>
   <string name="menu_text_networkassistants_unit_gb">GB</string>
   <string name="menu_text_networkassistants_unit_kb">KB</string>
   <string name="menu_text_networkassistants_unit_mb">MB</string>
-  <string name="menu_text_optimize_manage">Aumento de velocidad</string>
+  <string name="menu_text_optimize_manage">Mejorar velocidad</string>
   <string name="menu_text_power_manager">Uso de batería</string>
   <string name="menu_text_power_percent">%s</string>
   <string name="menu_text_power_percent_title">Batería %s</string>
@@ -1205,10 +1208,6 @@ Esta actividad acorta la duración de la batería."</string>
   <string name="pc_install_manager">Instalar vía USB</string>
   <string name="pc_to_phone_install">Instalación bloqueada de %s vía USB</string>
   <string name="per_month_pkg_traffic_settings">Establecer límite de datos</string>
-  <string name="percent_formatted_text">%s%%</string>
-  <string name="percent_symbol">%</string>
-  <string name="percent_text_formatted">%s%%</string>
-  <string name="percentage">%d%%</string>
   <string name="permission_action_accept">Aceptar</string>
   <string name="permission_action_prompt">Notificar</string>
   <string name="permission_action_reject">Denegar</string>
@@ -1241,7 +1240,6 @@ Esta actividad acorta la duración de la batería."</string>
   <string name="power_cell">Antena activada</string>
   <string name="power_center_auto_shutdown">Programar encendido/apagado</string>
   <string name="power_center_charge_time">%1$s para terminar</string>
-  <string name="power_center_main_percent_formatted">%s%%</string>
   <string name="power_center_ontime_boot">Programar encendido</string>
   <string name="power_center_ontime_shutdown">Programar apagado</string>
   <string name="power_center_repeat">Repetir</string>
@@ -1687,7 +1685,7 @@ Mientras se calibra, MIUI le enviará un mensaje de texto a su operadora para re
   <string name="summary_flow_notification">Mostrar la estadísticas de uso de datos mensuales en el panel de notificación</string>
   <string name="summary_flow_purchase">"Parece que ya no tiene suficientes datos. Compre más datos para seguir conectado."</string>
   <string name="summary_flow_verify_failed">Ajuste automático de uso de datos para evitar cargos adicionales</string>
-  <string name="summary_garbage_clean">Borrar caché para liberar espacio</string>
+  <string name="summary_garbage_clean">Borre la caché para liberar espacio</string>
   <string name="summary_garbage_lib">Usar las últimas definiciones para eliminar spyware, adware y otra basura no deseada</string>
   <string name="summary_install_virus">Comprueba si tus aplicaciones tienen virus antes de instalarlas</string>
   <string name="summary_mifi_insurance">Obtener un reemplazo de 1 año que funciona para los casos de daño de hardware</string>
@@ -1827,7 +1825,7 @@ Si no ha modificado MIUI en modo alguno, asegúrese de saber de dónde viene est
   <string name="title_cmcc_app_check">Verificación incompleta</string>
   <string name="title_consume_power_rank">Uso de la batería</string>
   <string name="title_data_flow">Establecer alerta de uso de datos</string>
-  <string name="title_dev_model_off">Opciones de desarrollador desactivadas</string>
+  <string name="title_dev_model_off">Op. de desarrollador desactivadas</string>
   <string name="title_dev_no">Opciones de desarrollo activadas</string>
   <string name="title_dev_yes">Opciones de desarrollo desactivadas</string>
   <string name="title_device_not_root">"No se concedió acceso root"</string>
@@ -1837,7 +1835,7 @@ Si no ha modificado MIUI en modo alguno, asegúrese de saber de dónde viene est
   <string name="title_flow_rank">Uso de datos móviles</string>
   <string name="title_flow_verify">Comparar contabilidad</string>
   <string name="title_flow_verify_failed">"No se pudo ajustar durante 5 días seguidos"</string>
-  <string name="title_garbage_clean">La caché de aplicaciones alcanzó %s</string>
+  <string name="title_garbage_clean">La caché alcanzó %s</string>
   <string name="title_garbage_less">La caché de la aplicación es pequeña</string>
   <string name="title_garbage_lib">Actualizar definiciones</string>
   <string name="title_install_virus_no">Monitor de instalación apagado</string>
