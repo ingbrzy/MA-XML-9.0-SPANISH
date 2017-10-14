@@ -376,7 +376,7 @@ Puede que tu operador te cobre por volver a activar datos."</string>
   <string name="pointer_location_summary">Superposición de pantalla que muestra los datos de toque actuales</string>
   <string name="power_charging">%1$s - %2$s</string>
   <string name="power_charging_duration">%1$s - %2$s hasta que se llene</string>
-  <string name="power_charging_duration_ac">%1$s - %2$s hasta que se llene a través de  AC</string>
+  <string name="power_charging_duration_ac">%1$s - %2$s hasta que se llene a través de AC</string>
   <string name="power_charging_duration_ac_short">%1$s - %2$s</string>
   <string name="power_charging_duration_short">%1$s - %2$s</string>
   <string name="power_charging_duration_usb">%1$s - %2$s hasta que se llene a través de USB</string>

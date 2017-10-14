@@ -25,7 +25,7 @@
   <string name="download_fail_desc">MD5 no coincide…</string>
   <string name="downloading">Descargando:</string>
   <string name="downloading_desc">Descarga en progreso, puede comprobar el progreso en la barra de notificaciones.</string>
-  <string name="install_desc">El dispositivo se va a reiniciar y instalar el siguiente archivo: &lt;b&gt;%1$s&lt;/b&gt;"
+  <string name="install_desc">El dispositivo se reiniciará al modo Recovery y a instalar el archivo elegido: &lt;b&gt;%1$s&lt;/b&gt;"
 Los datos no serán borrados."</string>
   <string name="install_title">¿Está seguro de querer continuar?</string>
   <string name="menu_title_current_version_log">¿Qué hay nuevo?</string>

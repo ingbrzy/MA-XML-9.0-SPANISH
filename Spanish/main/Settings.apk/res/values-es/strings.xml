@@ -1690,11 +1690,12 @@ Es posible que algunas aplicaciones no funcionen hasta que los desarrolladores l
   <string name="fingerprint_last_delete_message">No podrá utilizar sus huellas dactilares para desbloquear el teléfono, autorizar compras o iniciar sesión en las aplicaciones.</string>
   <string name="fingerprint_last_delete_message_profile_challenge">"No podrá usar sus huellas dactilares para desbloquear su perfil de trabajo, autorizar comprar o identificarse en las aplicaciones del trabajo."</string>
   <string name="fingerprint_last_delete_title">¿Eliminar todas las huellas?</string>
-  <string name="fingerprint_list_title">Huella</string>
+  <string name="fingerprint_list_title">Huella dactilar</string>
   <string name="fingerprint_lock_first">Desbloquear primer espacio</string>
   <string name="fingerprint_lock_second">Desbloquear segundo espacio</string>
   <string name="fingerprint_manage">Administrar huellas dactilares</string>
   <string name="fingerprint_manage_category_title">Administrar huellas dactilares</string>
+  <string name="fingerprint_manage_tittle">Huella dactilar</string>
   <string name="fingerprint_not_identified_msg">No se puede leer la huella dactilar. Introduzca su contraseña</string>
   <string name="fingerprint_not_recognized">No reconocido</string>
   <string name="fingerprint_removal_failed">No se pudo eliminar la huella, vuelva a intentarlo más tarde</string>
