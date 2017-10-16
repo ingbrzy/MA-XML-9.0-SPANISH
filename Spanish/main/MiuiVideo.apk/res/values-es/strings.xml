@@ -711,9 +711,10 @@ Duración: %s
   <string name="vp_video_plugin_installation">Instalando plugin %1$s para una mejor calidad de imagen…</string>
   <string name="waiting_to_download">Esperando</string>
   <string name="wasu">Wasu</string>
+  <string name="wrapper_footer_text">Llegó a la parte inferior de la página</string>
   <string name="write_comment">Añadir comentario</string>
   <string name="xiaomi_account_type_unsupported">"La Cuenta Mi no está soportada"</string>
   <string name="xiaomi_user">Usuario</string>
   <string name="yinyuetai">YinYueTai</string>
   <string name="youku">Youku</string>
-</resources>
+  </resources>
