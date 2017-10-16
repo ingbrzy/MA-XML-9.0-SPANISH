@@ -175,7 +175,7 @@
   <string name="refresh">Actualizar</string>
   <string name="remote_receive">Recibir</string>
   <string name="restore">Restaurar</string>
-  <string name="restore_backup">Restore</string>
+  <string name="restore_backup">Restaurar</string>
   <string name="restore_contact">Restaurar contactos</string>
   <string name="restore_contact_content">La restauración puede crear contactos duplicados.</string>
   <string name="restore_contacts_hit">Necesitará identificarse para visualizar los datos restaurados.</string>
