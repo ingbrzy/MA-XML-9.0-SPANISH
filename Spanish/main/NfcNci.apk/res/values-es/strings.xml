@@ -23,11 +23,11 @@
   <string name="could_not_use_app">No se puede usar %1$s.</string>
   <string name="default_pay_app_removed">Tu servicio preferido de pago fue eliminado. ¿Deseas seleccionar otro?</string>
   <string name="disconnected_peripheral">Desconectado %1$s</string>
-  <string name="disconnecting_peripheral">Desconectadonse %1$s</string>
+  <string name="disconnecting_peripheral">Desconectandose %1$s</string>
   <string name="failed_to_enable_bt">No se pudo activar el Bluetooth</string>
   <string name="inbound_me_profile_text">Toque para guardar esta persona como contacto.</string>
   <string name="inbound_me_profile_title">Contacto recibido por NFC</string>
-  <string name="nfc_enabled_dialog">"Nfc está desactivado. 
+  <string name="nfc_enabled_dialog">"NFC está desactivado. 
 ¿Desea habilitarlo para el servicio NFC?"</string>
   <string name="no">NO</string>
   <string name="ok">ACEPTAR</string>
@@ -39,7 +39,7 @@
   <string name="pairing_peripheral_failed">No se pudo emparejar %1$s</string>
   <string name="pay_with">Pagar con</string>
   <string name="permdesc_nfcReceiveEvent">Permite que la aplicación reciba información sobre la transacción NFC realizada.</string>
-  <string name="permlab_nfcReceiveEvent">NFC Transaction awareness</string>
+  <string name="permlab_nfcReceiveEvent">Conocimiento de la transacción NFC</string>
   <string name="prompt_connect_to_network">¿Conectarse a %1$s?</string>
   <string name="status_unable_to_connect">No se pudo conectar a la red</string>
   <string name="status_wifi_connected">Conectado</string>
