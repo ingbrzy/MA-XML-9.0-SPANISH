@@ -1,5 +1,23 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+  <string name="abc_action_bar_home_description">Naveigar al inicio</string>
+  <string name="abc_action_bar_up_description">Navegar hacia arriba</string>
+  <string name="abc_action_menu_overflow_description">Más opciones</string>
+  <string name="abc_action_mode_done">Listo</string>
+  <string name="abc_activity_chooser_view_see_all">Ver todo</string>
+  <string name="abc_activitychooserview_choose_application">Elige una aplicación</string>
+  <string name="abc_capital_off">APAGADO</string>
+  <string name="abc_capital_on">ENCENDIDP</string>
+  <string name="abc_search_hint">Buscar...</string>
+  <string name="abc_searchview_description_clear">Limpiar consulta</string>
+  <string name="abc_searchview_description_query">Consulta de búsqueda</string>
+  <string name="abc_searchview_description_search">Buscar</string>
+  <string name="abc_searchview_description_submit">Enviar consulta</string>
+  <string name="abc_searchview_description_voice">Búsqueda de voz</string>
+  <string name="abc_shareactionprovider_share_with">Compartir con</string>
+  <string name="abc_shareactionprovider_share_with_application">Compartir con %s</string>
+  <string name="abc_toolbar_collapse_description">Colapsar</string>
+  
   <string name="about_app_name">Reproductor de Vídeo</string>
   <string name="about_title">Acerca de</string>
   <string name="about_version">1.0.1</string>
@@ -27,6 +45,7 @@
   <string name="airkan_tips">Toca para emitir vídeo en TV.</string>
   <string name="airkan_video_playing">reproduciendo</string>
   <string name="airkan_video_playing_in">El vídeo es</string>
+  <string name="albums">Álbumes</string>
   <string name="alert_dialog_download_btn_hide">Ocultar</string>
   <string name="alert_dialog_download_dup_task">Descarga en progreso, por favor espere...</string>
   <string name="alert_dialog_download_error">Error de descarga</string>
@@ -35,6 +54,14 @@
   <string name="all">todo</string>
   <string name="all_ep">Todos ep</string>
   <string name="all_episode">Todos los episodios</string>
+  <string name="allow_draw_overlays_title">Permitir mostrar la ventana del reproductor sobre otras apps</string>
+  <string name="allow_sdraw_overlays_description">El reproductor necesita que conceda este permiso para mostrar el video en una ventan sobre otras aplicaciones.</string>
+  <string name="allow_settings_access_brightness_description">El reproductor necesita este permiso para cambiar sus ajustes de brillo.</string>
+  <string name="allow_settings_access_brightness_title">Permitir al reproductor modificar los ajustes de brillo</string>
+  <string name="allow_settings_access_ringtone_description">El reproductor necesita que conceda este permiso para establecer esta canción como su tono de llamada.</string>
+  <string name="allow_settings_access_ringtone_title">Permitir al reproductor establecer el tono de llamada</string>
+  <string name="allow_storage_access_description">El reproductor necesita que conceda este permiso para acceder a los archivos de medios en este dispositivo.</string>
+  <string name="allow_storage_access_title">Permitir al reproductor acceder a los archivos de video y audio</string>
   <string name="already_buy_vip">ya ha comprado vip</string>
   <string name="app_charging_wifi_mode">Cargando para actualizar la aplicación</string>
   <string name="app_charging_wifi_mode_summary">Actualizar automáticamente cuando esté conectado a Wi-Fi y cargándose</string>
@@ -48,6 +75,7 @@
   <string name="app_version">Versión de la aplicación</string>
   <string name="app_wifi_mode">Actualizar automáticamente</string>
   <string name="app_wifi_mode_summary">Actualizar automáticamente al iniciar aplicación y con conexión Wi-Fi</string>
+  <string name="artists">Artistas</string>
   <string name="audio">Audio</string>
   <string name="audio_delay">Retardo de audio</string>
   <string name="authenticated_failed">"No se pudo iniciar sesión"</string>
@@ -55,10 +83,12 @@
   <string name="authenticating_manually">"Imposible autentificar"</string>
   <string name="average_score">Puntuación media</string>
   <string name="avg_score">%.1f</string>
+  <string name="back_quit_lock">Presione otra vez atrás para salir del video</string>
   <string name="bestv">BesTv</string>
   <string name="birthday">Cumpleaños</string>
   <string name="bmp_quality_mode">Mejorar calidad de vídeo</string>
   <string name="bmp_quality_mode_desc">Mejorar calidad de imagen del vídeo</string>
+  <string name="brightness">Brillo</string>
   <string name="buffering">Cargando búfer…</string>
   <string name="buffering_video_netplay_label_v5">Cargando búfer…</string>
   <string name="buy_vip">compra vip</string>
@@ -85,6 +115,7 @@
   <string name="comment_count_much_tip">"El comentario no puede exceder de %1$s caracteres"</string>
   <string name="comment_edit_et_hint">300 caracteres como máximo</string>
   <string name="comment_edit_start_hint">Toca las estrellas para calificar</string>
+  <string name="common_google_play_services_unknown_issue">%1$s está teniendo problemas con Servicios de Google Play. Si el problema persiste, contacte al desarrollador para recibir ayuda.</string>
   <string name="connect_error">Error de conexión</string>
   <string name="connecting">Conectando…</string>
   <string name="count_comment">%d calificaciones</string>
@@ -105,6 +136,7 @@
   <string name="day">Día</string>
   <string name="debug_mode">Modo depuración</string>
   <string name="debug_mode_desc">Arranca en modo depuración y muestra la ID del vídeo en la parte superior izquierda</string>
+  <string name="default_text">Por defecto</string>
   <string name="declaration">Términos de uso</string>
   <string name="declaration_allow">Acepto</string>
   <string name="declaration_content">"1. Mediante el uso de esta aplicación incluyendo Sohu vídeo, iQIYI y el servicio a otros proveedores de contenido, usted acepta el "<a href="http://www.miui.com/res/doc/eula.html">Acuerdo del Usuario</a> y la <a href="http://www.miui.com/res/doc/privacy.html">Política de Privacidad</a>."
@@ -116,9 +148,12 @@
   <string name="delete_action_text">Borrar (%d)</string>
   <string name="delete_addon">Eliminar</string>
   <string name="delete_addon_content">¿Eliminar este elemento?</string>
+  <string name="delete_file_tips">¿Eliminar este archivo?</string>
   <string name="delete_with">Borrar (%d)</string>
   <string name="detail">Detalle</string>
   <string name="detail_comment_empty">Vacío</string>
+  <string name="details">Detalles</string>
+  <string name="dselect_all">Deseleccionar todo</string>
   <string name="develop_version">Aplicación de desarrollo</string>
   <string name="development_setting">Opciones de desarrollo</string>
   <string name="device_empty_hint">Vacío</string>
@@ -154,13 +189,19 @@
   <string name="empty_data">Error al cargar</string>
   <string name="empty_keyword_hint">La palabra clave no puede estar vacía</string>
   <string name="empty_tv_exiting">Saliendo…</string>
+  <string name="encountered_error_message">"El reproductor encontró un error con este medio.
+Por favor intente actualizar la biblioteca de medios."</string>
+  <string name="encountered_error_title">Error en la reproducción</string>
   <string name="enter_detail">Más información</string>
   <string name="episode_name_format">Ep. %1$s</string>
   <string name="episode_suffix">"Ep. %d "</string>
+
   <string name="error_empty_epg">No hay información EPG</string>
   <string name="error_empty_filter_title">No hay resultados</string>
   <string name="error_empty_live_favor">Sin lista de canales de televisión</string>
   <string name="error_empty_title">Algo salió mal</string>
+  <string name="error_text_invalid_progressive_playback">"Este tipo de archivo no está soportado."</string>
+  <string name="exit_app">Cerrar el reproductor</string>
   <string name="expire_time">tiempo de expiración</string>
   <string name="expired_buy_vip">vip ya ha expirado</string>
   <string name="favorite">Favorito</string>
@@ -184,17 +225,28 @@ Ubicación: %s
   <string name="forecasts">EPG</string>
   <string name="fullscreen">Pantalla completa</string>
   <string name="funshion">Fundir</string>
+  <string name="genres">Géneros</string>
   <string name="go_to_cinema">ir al cine</string>
   <string name="gong_count_dlna">%d DLNA</string>
   <string name="gong_count_ge">%d total</string>
   <string name="gong_count_ji">%d Ep. total</string>
   <string name="gong_count_xiang">%d elementos</string>
   <string name="good">Aceptar</string>
+  <string name="hide">Ocultar</string>
+  <string name="hide_file_tips">¿Ocultar este archivo?</string>
+  <string name="hide_files_tips">Ocultar archivos</string>
+  <string name="hide_filter_folder_tips">Ocultar carpeta de filtros</string>
   <string name="hint_apk_download">Instalar esta aplicación</string>
   <string name="hint_apk_download_format">Instalar aplicación \"%1$s\"</string>
   <string name="hint_apk_install">Descargar aplicación</string>
   <string name="hint_apk_text_update">Nueva versión de la aplicación %1$s disponible, ¿quiere actualizar?</string>
   <string name="hint_apk_title_update">Nueva versión %1$s</string>
+  <string name="history">Historial</string>
+  <string name="home_tab_featured">Destacados</string>
+  <string name="home_tab_hot">De moda</string>
+  <string name="home_tab_local_video">Local</string>
+  <string name="illegal_input_tips">Entrada no válida</string>
+  <string name="invalid_location">La ubicación %1$s no pudo reproducirse.</string>
   <string name="i_will_write_comments">Escriba sus comentarios aquí</string>
   <string name="icntv">iCNTV</string>
   <string name="info_video_loading">Cargando…</string>
@@ -205,10 +257,13 @@ Ubicación: %s
   <string name="introduce">Resumen</string>
   <string name="language_default">Idioma Predeterminado</string>
   <string name="key_back_down_toast">Para salir, pulse Atrás de nuevo</string>
+  <string name="language_default">Idioma predeterminado</string>
   <string name="lastrefresh">Actualización reciente:</string>
+  <string name="last_added_media">Último agregado</string>
   <string name="lekan">Lekan</string>
   <string name="letv">Letv</string>
   <string name="live">Directo</string>
+  <string name="load_more_and_more">agrega más...</string>
   <string name="loading"><CDATA>Cargando</CDATA></string>
   <string name="loading_video_netplay_label">Cargando…</string>
   <string name="loading_video_netplay_label_v5">Cargando…</string>
@@ -216,6 +271,7 @@ Ubicación: %s
   <string name="local_media_empty_sub_title">Descargar y ver vídeos fuera de línea</string>
   <string name="local_media_empty_title">No hay vídeos</string>
   <string name="local_video">Local</string>
+  <string name="locked">Bloqueado</string>
   <string name="login_tip_content">Inicia sesión con tu Cuenta Mi para sincronizar y actualizar las series que estés siguiendo.</string>
   <string name="login_tip_title">Iniciar sesión</string>
   <string name="more">Más</string>
@@ -244,6 +300,10 @@ Duración: %s
   <string name="mycamera">Mis vídeos</string>
   <string name="myfavorite">Mis favoritos</string>
   <string name="myfavorite_onlylocal">Favoritos</string>
+  <string name="more">Más</string>
+  <string name="more_file_details" formatted="false">"Tamaño: %s
+
+Duración: %s 
   <string name="need_upgrade_button">Actualizar</string>
   <string name="need_upgrade_summary">Actualizar para usar esta funcionalidad.</string>
   <string name="need_upgrade_title">Actualización disponible</string>
@@ -291,6 +351,7 @@ Duración: %s
   <string name="offline_status_waiting">Esperando</string>
   <string name="offline_with">Fuera de línea (%d)</string>
   <string name="ok">Aceptar</string>
+  <string name="online">En línea</string>
   <string name="online_video">En línea</string>
   <string name="online_video_oneweek">Durante la última semana</string>
   <string name="online_video_oneweek_ago">Hace una semana</string>
@@ -300,8 +361,10 @@ Duración: %s
   <string name="operator_test">Configuración del operador</string>
   <string name="operator_test_summary">Arrancar en modo operador test</string>
   <string name="original_price">precio original</string>
+  <string name="other">Otros</string>
   <string name="other_info">Otro</string>
   <string name="other_setting">Otros</string>
+  <string name="over_load_more">push more</string>
   <string name="passport_access_denied">Acceso denegado</string>
   <string name="passport_account_hint_text">Dirección de correo electrónico o ID de la Cuenta Mi</string>
   <string name="passport_account_identity_title">Verifica su identidad</string>
@@ -503,9 +566,12 @@ Duración: %s
   <string name="reload_title_ep">No se pueden obtener las series completas</string>
   <string name="replay">Repetir</string>
   <string name="retry">Reintentar</string>
+  <string name="ringtone_error">Ocurrió un error al establecer el tono de llamada.</string>
+  <string name="ringtone_set">"Se estableció el archivo '%1$s' como tono de llamada."</string>
   <string name="router">Remoto local</string>
   <string name="router_download_task_with">%d tareas</string>
   <string name="router_update">Actualizar aplicación Mi Router ahora.</string>
+  <string name="sdcard_text">Tarjeta SD</string>
   <string name="score">"Puntuación  "</string>
   <string name="score_by">Puntuación: %s</string>
   <string name="score_douban">Puntuación Douban %1$s</string>
@@ -513,6 +579,8 @@ Duración: %s
   <string name="search">Buscar</string>
   <string name="search_develop_settings">Ajustes de Desarrollo;seleccionar Versión;Elegir versión;actualizar Vídeo;Versión;Foro;modo de Rendimiento;Calidad de imagen;Plugins del reproductor</string>
   <string name="search_hint">Buscar vídeo en línea</string>
+  <string name="search_history">Buscar en el historial</string>
+  <string name="search_null_text">Por favor escriba una palabra clave</string>
   <string name="search_result_empty_text">"No se ha encontrado nada"</string>
   <string name="search_settings">Ajustes de Vídeo;Red Móvil;Wifi;reproducir Vídeo;Push;Notificación;Caché;Ajustes de desarrollo</string>
   <string name="search_snack_more">Más Información</string>
@@ -530,11 +598,16 @@ Duración: %s
   <string name="setting">Ajustes</string>
   <string name="share">Compartir</string>
   <string name="share_device">Dispositivo compartido</string>
+  <string name="show_all_files_tips">Mostrar todos los archivos</string>
+  <string name="show_all_folder_tips">Mostrar todas las carpetas</string>
   <string name="similar">Película similar</string>
   <string name="sina">Sina</string>
   <string name="single_pay">pago único</string>
   <string name="sniff">Fuente</string>
+  <string name="songs">Canciones</string>
   <string name="souhu">Souhu</string>
+  <string name="sound_off">Apagar sonido</string>
+  <string name="sound_on">Encender sonido</string>
   <string name="source_error">No se ha podido conseguir la fuente</string>
   <string name="star1">1 estrella</string>
   <string name="star2">2 estrellas</string>
@@ -550,6 +623,7 @@ Duración: %s
   <string name="subtitle_font_tips">Tamaño de fuente del subtítulo</string>
   <string name="subtitles">Subtítulos</string>
   <string name="suffix_countdown">s</string>
+  <string name="synchronization">Sincronización</string>
   <string name="system_setting">Ajustes de sistema</string>
   <string name="tab_loading"><CDATA>...</CDATA></string>
   <string name="temp_play_history_button_label">Historial</string>
@@ -573,13 +647,22 @@ Duración: %s
   <string name="top_status_offline_media">Fuera de línea</string>
   <string name="top_status_online_media">En línea</string>
   <string name="total_episode">%1$s Episodios</string>
+  <string name="track_audio">Pista de audio</string>
+  <string name="track_text">Pista de subtítulos</string>
+  <string name="track_unknown">Pista desconocida</string>
+  <string name="track_video">Pista de video</string>
   <string name="tudou">Tudou</string>
   <string name="tv_channel_empty_hint">No hay canales.</string>
   <string name="tv_cp_info_format">Soportado por %1$s</string>
   <string name="ui_style">Estilo de interfaz</string>
   <string name="ui_style_summary">Elige el estilo de la interfaz</string>
   <string name="unfavorite">Desmarcar de favoritos</string>
+  <string name="unknown_album">Álbum Desconocido</string>
+  <string name="unknown_artist">Artista Desconocido</string>
+  <string name="unknown_genre">Género Desconocido</string>
   <string name="unknown_source">Fuente desconocida</string>
+  <string name="unlocked">Desbloqueado</string>
+  <string name="unseekable_stream">Flujo no buscable</string>
   <string name="update">Actualizado</string>
   <string name="update_to_count_ji">Actualizado a EP. %1$s</string>
   <string name="update_to_count_qi">Actualizado a %s</string>
@@ -592,6 +675,8 @@ Duración: %s
   <string name="use_cellular_play_summary">Cerrar para ahorrar datos.</string>
   <string name="use_cellular_play_title">Usar datos móviles para ver vídeo</string>
   <string name="user_tab">Mi aplicación</string>
+  <string name="v7_preference_off">APAGADO</string>
+  <string name="v7_preference_on">ENCENDIDO</string>
   <string name="version_select">Seleccionar versión</string>
   <string name="version_select_summary">Selecciona versión alfa, desarrollo o estable</string>
   <string name="vertical_line"><CDATA> | </CDATA></string>
@@ -600,6 +685,10 @@ Duración: %s
   <string name="video_bbs">Únete al foro</string>
   <string name="video_bbs_url">Únete a nosotros y ayuda a desarrollar esta aplicación de vídeo</string>
   <string name="video_count">%d vídeos</string>
+  <string name="video_error_network_not_available">"No se pudo conectar a la red"</string>
+  <string name="video_error_text_unknown">Ocurrió un error desconocido.</string>
+  <string name="video_error_title">Error desconocido</string>
+  <string name="video_file_details" formatted="false">%d Videos | %s</string>
   <string name="video_info_audio_bitrate_label">Tasa de bits de audio:</string>
   <string name="video_info_audio_coding_label">Formato de codificación de audio:</string>
   <string name="video_info_audio_null">Ninguno</string>
@@ -612,8 +701,10 @@ Duración: %s
   <string name="video_plugin_prepare">Preparando plugin de vídeo, por favor espere.</string>
   <string name="video_pre_play_tip">Puede reproducir una vista previa gratuita de %1$d minutos，jugar completo por favor &lt;Datos&gt;&amp;lt;font color=#04b4fd&amp;gt;compra inmediata &amp;gt;&amp;lt;/font&amp;gt;&lt;/Data&gt;</string>
   <string name="video_vip">vip</string>
-  <string name="vip_package">paquete vip</string>
+  <string name="videos">Videos</string>
+    <string name="vip_package">paquete vip</string>
   <string name="vip_rights">Derechos Vip e intereses</string>
+  <string name="volume">Volumen</string>
   <string name="vp_VideoView_error_button">Aceptar</string>
   <string name="vp_VideoView_error_network_not_available">"No se puede conectar a la red"</string>
   <string name="vp_VideoView_error_text_invalid_progressive_playback">"Este tipo de archivo no es compatible."</string>
@@ -711,10 +802,10 @@ Duración: %s
   <string name="vp_video_plugin_installation">Instalando plugin %1$s para una mejor calidad de imagen…</string>
   <string name="waiting_to_download">Esperando</string>
   <string name="wasu">Wasu</string>
-  <string name="wrapper_footer_text">Llegó a la parte inferior de la página</string>
+  <string name="wrapper_footer_text">Se alcanzó el final de la página</string>
   <string name="write_comment">Añadir comentario</string>
   <string name="xiaomi_account_type_unsupported">"La Cuenta Mi no está soportada"</string>
   <string name="xiaomi_user">Usuario</string>
   <string name="yinyuetai">YinYueTai</string>
   <string name="youku">Youku</string>
-  </resources>
+</resources>
