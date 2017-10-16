@@ -299,7 +299,7 @@ o introduzca la contraseña de Aplicaciones bloquedas"</string>
   <string name="auto_task_notify_task_canceled_title">Se cancela la acción</string>
   <string name="auto_task_notify_task_continue_do">Iniciar acciones</string>
   <string name="auto_task_notify_task_count_down">La acción programada será cancelada en 5 segundos</string>
-  <string name="auto_task_notify_task_exit_task">Tarea de salida</string>
+  <string name="auto_task_notify_task_exit_task">Cancelar tarea</string>
   <string name="auto_task_operation_airplane_mode">Modo avión</string>
   <string name="auto_task_operation_auto_brightness">Brillo automático</string>
   <string name="auto_task_operation_bluetooth">Bluetooth</string>
