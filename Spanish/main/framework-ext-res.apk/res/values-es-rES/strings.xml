@@ -83,6 +83,7 @@
   <string name="package_delete_confirm_step_2">Al eliminar esta aplicación, el sistema puede volverse inestable.</string>
   <string name="package_delete_confirm_step_3">"No podrás abrir esta aplicación después de eliminarla."</string>
   <string name="paste">Pegar</string>
+  <string name="paste_as_plain_text">Pegar como texto plano</string>
   <string name="perm_send_push_dspt">Permitir mensajes de envío Mi</string>
   <string name="perm_send_push_lab">Enviar mensaje de envío</string>
   <string name="permdesc_manageLocationPolicy">Permite que la aplicación gestione las políticas de ubicación y defina reglas específicas de la aplicación.</string>
