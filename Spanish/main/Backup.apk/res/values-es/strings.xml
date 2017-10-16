@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?>
+<?xml version="1.0" encoding="UTF-8"?>
 <resources>
   <string name="abort_backup_confirm">"La copia de seguridad no ha terminado aún. ¿Deseas detener el proceso?"</string>
   <string name="abort_restore_confirm">"No se ha terminado de restaurar aún. ¿Deseas detener el proceso?"</string>
@@ -41,8 +41,11 @@
   <string name="backup_new">Nuevo:</string>
   <string name="backup_progress">Respaldando…</string>
   <string name="backup_report">Ver detalles de la copia de seguridad</string>
+  <string name="backup_security_tips_message">Algunas aplicaciones pueden no ser capaces de respaldarse o restaurarse.</string>
+  <string name="backup_security_tips_title">Las copias de seguridad puede que no funcionen</string>
   <string name="backup_update">Actualizar</string>
   <string name="batch_delete_backup_confirm">¿Borrar las copias de seguridad seleccionadas?</string>
+  <string name="btn_got_it">Lo tengo</string>
   <string name="button_backup">Copia de seguridad</string>
   <string name="button_cancel">Cancelar</string>
   <string name="button_continue">Continuar</string>
@@ -108,8 +111,8 @@
   <string name="exchange_account">Cambiar cuentas</string>
   <string name="fail">Falló</string>
   <string name="feature_title_account">Cuenta Mi</string>
-  <string name="feature_title_call_log">Historial de llamadas</string>
   <string name="feature_title_antispam">Lista de bloqueos</string>
+  <string name="feature_title_call_log">Historial de llamadas</string>
   <string name="feature_title_mms">MMS</string>
   <string name="file_uploading">Subiendo…</string>
   <string name="files_backup_info">Todos los archivos en la tarjeta SD (incluyendo fotos, canciones, vídeos, datos de aplicaciones, etc.)</string>
@@ -160,6 +163,7 @@
   <string name="notif_trans_receiving_failed">No se pudieron recibir los datos</string>
   <string name="notif_trans_sending_completed">Datos enviados con éxito</string>
   <string name="notif_trans_sending_failed">No se pudieron enviar los datos</string>
+  <string name="notif_trans_wait_for_reconnecting">La conexión fue interrumpida. Conecte otra vez.</string>
   <string name="page_loading">Un momento…</string>
   <string name="progress_backup_hint">Haciendo copia de seguridad…</string>
   <string name="progress_restore_hint">Restaurando…</string>
@@ -167,6 +171,7 @@
   <string name="prompt_sending">Cargando…</string>
   <string name="prompt_writing">Guardando…</string>
   <string name="read_encrypt_fail">No se puede leer la copia de seguridad cifrada</string>
+  <string name="reconnect">Conecte otra vez</string>
   <string name="refresh">Actualizar</string>
   <string name="remote_receive">Recibir</string>
   <string name="restore">Restaurar</string>
@@ -257,17 +262,46 @@
   <string name="trans_calculating_base_size">Calculando tamaño de la base de aplicaciones</string>
   <string name="trans_cancel_confirm">Transferencia en progreso, ¿cancelar ahora?</string>
   <string name="trans_cancelling">Cancelando</string>
+  <string name="trans_connect_failed_device_incompatible">El dispositivo no es compatible. Cancele la transferencia e inténtelo otra vez.</string>
   <string name="trans_connect_failed_message">La conexión falló, intente de nuevo o reinicie. En el otro dispositivo vaya a Ajustes &gt; Ajustes adicionales &gt; Transferencia, toque [Soy un emisor], o vuelva a abrir la aplicación después del reinicio</string>
   <string name="trans_connect_failed_title">La conexión falló</string>
   <string name="trans_connect_failed_toast">No se pudo conectar</string>
   <string name="trans_connecting_toast">Conectando…</string>
-  <string name="trans_connection_failed">Dispositivo desconectado</string>
+  <string name="trans_connection_failed">La conexión fue interrumpida</string>
   <string name="trans_detail_category_account">Cuentas y contactos</string>
   <string name="trans_detail_category_files">Archivos</string>
   <string name="trans_detail_category_sysdata">Datos del sistema</string>
   <string name="trans_detail_category_userdata">Aplicaciones</string>
-  <string name="trans_device_disconnected">Dispositivo desconectado</string>
+  <string name="trans_device_disconnected">La conexión fue interrumpida</string>
+  <string name="trans_device_wait_for_reconnecting">La conexión fue interrumpida. Conecte otra vez para continuar.</string>
   <string name="trans_generate_qr_code_failed">No se pudo crear el código QR</string>
+  <string name="trans_intro_desc_2">Cancele la transferencia, salga de Mi Mover, y empieze de nuevo. Los archivos duplicados se sobrescribirán durante la nueva transferencia.</string>
+  <string name="trans_intro_desc_3">Mi Mover usa Wi-Fi para transferir archivos. Esa es la razón por lo que no puede conectarse a internet usando Wi-Fi ni en ninguno de los dispositivos durante la transferencia. Puede incluso usar los datos móviles. Sin embargo, algunos dispositivos nuevos (por ejemplo, Mi 6) son capaces de conectarse a internet using Wi-Fi durante las transferencias.</string>
+  <string name="trans_intro_desc_4">El espacio de almacenamiento en los dispositivos viejos es usado para crear paquetes de transferencia. Asegúrese de tener al menos 500MB - 1GB libres de almacenamiento en su viejo dispositivo antes de que comienze una transferencia.</string>
+  <string name="trans_intro_desc_5">Hay varias razones por las que esto puede ocurrir: problemas de compatibilidad de las versiones de sistema y aplicación, problemas de red, problemas de compatibilidad específicos de un dispositivo particular, etc.</string>
+  <string name="trans_intro_desc_6">Algunos perfiles de aplicación (e-banking, finanzas, etc.) están asociados con un dispositivo específico debido a razones de seguridad. Intene limpiar los datos de la aplicación o reinstale la aplicación en un nuevo dispositivo.</string>
+  <string name="trans_intro_desc_7">Es posible que los datos de la aplicación WeChat y el historial de chats no se transfieran completamente usando Mi Mover. Vaya a los ajustes de WeChat y salga de la sesión para tener más oportunidades de una transferencia exitosa.</string>
+  <string name="trans_intro_desc_account">Tiene que iniciar sesión otra vez en sus cuentas (p.ej., Cuenta Mi, Exchange, Google, etc.) en un nuevo dispositivo debido a razones de seguridad.</string>
+  <string name="trans_intro_desc_multiapp">Mi Mover no transfiere datos de las aplicaciones Duplicadas para evitar conflictos entre archivos.</string>
+  <string name="trans_intro_desc_multiuser">Mi Mover no puede acceder a los elementos del Segundo espacio. Mueva los elementos al Primer espacio y lance Mi Mover allí.</string>
+  <string name="trans_intro_desc_new">Toque \"Soy un receptor\". Se generará un código QR.</string>
+  <string name="trans_intro_desc_old">Toque \"Soy un emisor\". Escanee el código QR en el teléfono nuevo, espere hasta que Mi Mover resuelva qué archivos enviar, y toque \"Enviar\".</string>
+  <string name="trans_intro_desc_private">Mi Mover no puede acceder a las fotos en los álbumes ocultos porque están cifrados. Puede restaurar estas fotos desde Mi Cloud en un nuevo dispositivo.</string>
+  <string name="trans_intro_question_1">1. ¿Cómo uso Mi Mover?</string>
+  <string name="trans_intro_question_2">2. ¿Qué debería hacer si Mi Mover se queda atascado on un cierto paso?</string>
+  <string name="trans_intro_question_3">3. ¿Por qué no puedo usar Wi-Fi durante las transferencias?</string>
+  <string name="trans_intro_question_4">4. ¿Por qué Mi Mover me dice que no hay suficiente espacion de almacenamiento en mi viejo teléfono?</string>
+  <string name="trans_intro_question_5">5. ¿Por qué algunas aplicaciones no son transferidas exitosamente?</string>
+  <string name="trans_intro_question_6">6. ¿Por qué algunas aplicaciones no se iniciarán en el nuevo dispositivo?</string>
+  <string name="trans_intro_question_7">7. ¿Por qué el historial de WeChat no es trasferido completamente?"</string>
+  <string name="trans_intro_question_8">8. ¿Qué elementos no pueden ser transferidos?</string>
+  <string name="trans_intro_title">FAQ</string>
+  <string name="trans_intro_title_account">Cuentas y contraseñas:</string>
+  <string name="trans_intro_title_multiapp">Datos de aplicaciones duplicadas:</string>
+  <string name="trans_intro_title_multiuser">Datos Segundo espacio:</string>
+  <string name="trans_intro_title_new">En un teléfono nuevo:</string>
+  <string name="trans_intro_title_old">En un teléfono viejo:</string>
+  <string name="trans_intro_title_private">Álbum oculto:</string>
   <string name="trans_main_tutor">Transferir contactos, historial de llamadas, mensajes, disposición de la pantalla de inicio, aplicaciones, ajustes, etc. a un nuevo dispositivo</string>
   <string name="trans_my_device">Mi dispositivo</string>
   <string name="trans_native_no_space">"El dispositivo no tiene suficiente espacio
@@ -281,6 +315,10 @@ Toque [Soy un receptor] para crear el código QR"</string>
 2. Abre la aplicación y seleccione [Soy un emisor]
 3. Escanee el código QR con su dispositivo antiguo"</string>
   <string name="trans_operate_old_phone_tips2">Vaya a Ajustes &gt; Ajustes adicionales &gt; Transferencia, Toque [Soy un emisor]</string>
+  <string name="trans_operate_reconnect_new_tips">"Espere hasta que el nuevo teléfono muestre \"La conexión fue interrumpida\".
+Entonces toque \"Conectar otra vez\" para crea un código QR."</string>
+  <string name="trans_operate_reconnect_old_tips">"Espere hasta que el viejo teléfono muestre \"La conexión fue interrumpida\".
+Entonces toque \"Conectar otra vez\" para escanear el código QR."</string>
   <string name="trans_please_waiting">Por favor, espere…</string>
   <string name="trans_progress_subdescript_br_receiver">Recibiendo %s</string>
   <string name="trans_progress_subdescript_br_sender">Copiando %s</string>
@@ -302,7 +340,9 @@ Mantén los dispositivos cerca."</string>
   <string name="trans_restoring_no_items">Sincronizando elementos</string>
   <string name="trans_retry">Reintentar</string>
   <string name="trans_scan_invalid_qrcode">Código QR inválido</string>
-  <string name="trans_scan_qr_code_tips">Escanea el código QR usando el nuevo dispositivo</string>
+  <string name="trans_scan_qr_code_tips">Escanea el código QR en el nuevo dispositivo</string>
+  <string name="trans_security_tips_message">Algunas aplicaciones no soportan Mi Mover.</string>
+  <string name="trans_security_tips_title">Compatibilidad Mi Mover</string>
   <string name="trans_select_data">Selecciona lo que vas a enviar</string>
   <string name="trans_select_data_no_space">"%s disponibles en el nuevo dispositivo
 Selecciona archivos otra vez o haga una limpieza antes"</string>
