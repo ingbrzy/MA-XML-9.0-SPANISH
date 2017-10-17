@@ -219,6 +219,8 @@ Puede que tu operador te cobre por volver a activar datos."</string>
   <string name="debug_view_attributes">Activar inspección de atributos de vista</string>
   <string name="description_direction_left">Desliza a la izquierda para %s.</string>
   <string name="description_direction_up">Deslizar arriba para %s.</string>
+  <string name="description_image_button_answer">Responder</string>
+  <string name="description_image_button_reject">Cancelar</string>
   <string name="description_target_search">Buscar</string>
   <string name="dev_settings_warning_message">Estos ajustes están diseñados para uso exclusivo del desarrollo. Pueden hacer que su dispositivo y las aplicaciones en él se rompan o se comporten mal.</string>
   <string name="dev_settings_warning_title">¿Permitir configuración de desarrollo?</string>
