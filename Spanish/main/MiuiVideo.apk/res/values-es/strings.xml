@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-  <string name="abc_action_bar_home_description">Naveigar al inicio</string>
+  <string name="abc_action_bar_home_description">Navegar al inicio</string>
   <string name="abc_action_bar_up_description">Navegar hacia arriba</string>
   <string name="abc_action_menu_overflow_description">Más opciones</string>
   <string name="abc_action_mode_done">Listo</string>
   <string name="abc_activity_chooser_view_see_all">Ver todo</string>
   <string name="abc_activitychooserview_choose_application">Elige una aplicación</string>
   <string name="abc_capital_off">APAGADO</string>
-  <string name="abc_capital_on">ENCENDIDP</string>
-  <string name="abc_search_hint">Buscar...</string>
+  <string name="abc_capital_on">ENCENDIDO</string>
+  <string name="abc_search_hint">Buscar…</string>
   <string name="abc_searchview_description_clear">Limpiar consulta</string>
   <string name="abc_searchview_description_query">Consulta de búsqueda</string>
   <string name="abc_searchview_description_search">Buscar</string>
@@ -17,10 +17,8 @@
   <string name="abc_shareactionprovider_share_with">Compartir con</string>
   <string name="abc_shareactionprovider_share_with_application">Compartir con %s</string>
   <string name="abc_toolbar_collapse_description">Colapsar</string>
-  
   <string name="about_app_name">Reproductor de Vídeo</string>
   <string name="about_title">Acerca de</string>
-  <string name="about_version">1.0.1</string>
   <string name="about_version_label">Código de versión</string>
   <string name="account_auth_fail">fallo autenticación de la cuenta</string>
   <string name="actor">Actor</string>
@@ -55,7 +53,7 @@
   <string name="all_ep">Todos ep</string>
   <string name="all_episode">Todos los episodios</string>
   <string name="allow_draw_overlays_title">Permitir mostrar la ventana del reproductor sobre otras apps</string>
-  <string name="allow_sdraw_overlays_description">El reproductor necesita que conceda este permiso para mostrar el video en una ventan sobre otras aplicaciones.</string>
+  <string name="allow_sdraw_overlays_description">El reproductor necesita que conceda este permiso para mostrar el video en una ventana sobre otras aplicaciones.</string>
   <string name="allow_settings_access_brightness_description">El reproductor necesita este permiso para cambiar sus ajustes de brillo.</string>
   <string name="allow_settings_access_brightness_title">Permitir al reproductor modificar los ajustes de brillo</string>
   <string name="allow_settings_access_ringtone_description">El reproductor necesita que conceda este permiso para establecer esta canción como su tono de llamada.</string>
@@ -255,7 +253,6 @@ Ubicación: %s
   <string name="install_comfirm">Toca para instalar</string>
   <string name="install_plugin">Instalar plugin</string>
   <string name="introduce">Resumen</string>
-  <string name="language_default">Idioma Predeterminado</string>
   <string name="key_back_down_toast">Para salir, pulse Atrás de nuevo</string>
   <string name="language_default">Idioma predeterminado</string>
   <string name="lastrefresh">Actualización reciente:</string>
@@ -300,10 +297,6 @@ Duración: %s
   <string name="mycamera">Mis vídeos</string>
   <string name="myfavorite">Mis favoritos</string>
   <string name="myfavorite_onlylocal">Favoritos</string>
-  <string name="more">Más</string>
-  <string name="more_file_details" formatted="false">"Tamaño: %s
-
-Duración: %s 
   <string name="need_upgrade_button">Actualizar</string>
   <string name="need_upgrade_summary">Actualizar para usar esta funcionalidad.</string>
   <string name="need_upgrade_title">Actualización disponible</string>
@@ -364,7 +357,7 @@ Duración: %s
   <string name="other">Otros</string>
   <string name="other_info">Otro</string>
   <string name="other_setting">Otros</string>
-  <string name="over_load_more">push more</string>
+  <string name="over_load_more">agrega más</string>
   <string name="passport_access_denied">Acceso denegado</string>
   <string name="passport_account_hint_text">Dirección de correo electrónico o ID de la Cuenta Mi</string>
   <string name="passport_account_identity_title">Verifica su identidad</string>
@@ -639,10 +632,6 @@ Duración: %s
   <string name="toast_screen_text_scaling">Escala</string>
   <string name="toast_screen_text_stream">Haga clic en el botón de secuencia</string>
   <string name="toast_screen_text_vertical">Escala vertical</string>
-  <string name="track_audio">Pista de audio</string>
-  <string name="track_text">Pista de subtítulos</string>
-  <string name="track_unknown">Pista desconocida</string>
-  <string name="track_video">Pista de video</string>
   <string name="top_status_local_media">Local</string>
   <string name="top_status_offline_media">Fuera de línea</string>
   <string name="top_status_online_media">En línea</string>
@@ -801,7 +790,6 @@ Duración: %s
   <string name="vp_video_loading"><CDATA>Cargando…</CDATA></string>
   <string name="vp_video_plugin_installation">Instalando plugin %1$s para una mejor calidad de imagen…</string>
   <string name="waiting_to_download">Esperando</string>
-  <string name="wasu">Wasu</string>
   <string name="wrapper_footer_text">Se alcanzó el final de la página</string>
   <string name="write_comment">Añadir comentario</string>
   <string name="xiaomi_account_type_unsupported">"La Cuenta Mi no está soportada"</string>
