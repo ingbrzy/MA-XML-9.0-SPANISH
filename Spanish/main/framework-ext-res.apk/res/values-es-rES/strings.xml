@@ -127,8 +127,8 @@
   <string name="softap_notifif_summary">%d conectado</string>
   <string name="softap_notifif_title">Punto de acceso \" %s \" está activo</string>
   <string name="standard">Silencio</string>
-  <string name="standard_description">[Silencio] Silencio para llamadas entrantes y de notificación</string>
-  <string name="standard_title">Silenciando..</string>
+  <string name="standard_description">Silenciar timbres para llamadas y notificaciones entrantes</string>
+  <string name="standard_title">Silencio</string>
   <string name="start_security_permission_verify_text">Compruebe los permisos con su Cuenta Mi</string>
   <string name="status_bar_toggle_auto_brightness">Brillo A.</string>
   <string name="status_bar_toggle_battery_saver">Ahorro batería</string>
