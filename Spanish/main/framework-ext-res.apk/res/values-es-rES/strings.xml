@@ -34,7 +34,7 @@
   <string name="copy">Copiar</string>
   <string name="cut">Cortar</string>
   <string name="default_name">Por defecto</string>
-  <string name="description_title">Modo silencioso</string>
+  <string name="description_title">Modo silencio</string>
   <string name="eighthours">8 horas</string>
   <string name="enable_livetalk_summary">Ahorre hasta un 70% en sus llamadas</string>
   <string name="enable_livetalk_title">Volver al paquete de recarga</string>
@@ -121,7 +121,7 @@
   <string name="set_password_title">Establecer contraseña</string>
   <string name="shutdown_confirm_title">¿Apagar el dispositivo ahora?</string>
   <string name="shutdown_progress">Apagando…</string>
-  <string name="silence_mode">Modo silencioso</string>
+  <string name="silence_mode">Modo silencio</string>
   <string name="sim_added_reboot_confirm">Reiniciar</string>
   <string name="sim_added_reboot_title">La SIM se activará después de que reinicies tu dispositivo.</string>
   <string name="softap_notifif_summary">%d conectado</string>
