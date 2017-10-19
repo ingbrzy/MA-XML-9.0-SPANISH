@@ -94,7 +94,6 @@
   <string name="app_rate">Cualificación: %1$s</string>
   <string name="app_search_hint">Por favor escriba en nombre de la aplicación</string>
   <string name="app_search_title_mishop">Encontradas %d aplicaciones en Mi Store</string>
-  <string name="app_search_title_thirdpatry">Encontradas %d aplicaciones a terceros</string>
   <string name="app_size">Tamaño: %1$s</string>
   <string name="app_sort">Ordenar</string>
   <string name="app_uninstall">Desinstalar</string>
@@ -1035,9 +1034,7 @@ link enviado a su correo electrónico.</string>
   <string name="updated_at">Última actualización: hace %1$s</string>
   <string name="updated_just_now">Actualizado ahora mismo</string>
   <string name="upgrade_already_latest">No hay actualizaciones disponibles</string>
-  <string name="upgrade_current_version">Versión actual %1$s</string>
   <string name="upgrade_download">Descargar aplicación</string>
-  <string name="upgrade_found_new_version">Actualización disponible (%1$s)</string>
   <string name="upgrade_later">Más tarde</string>
   <string name="upgrade_loading">Descargando…</string>
   <string name="upgrade_log">Qué novedades hay</string>

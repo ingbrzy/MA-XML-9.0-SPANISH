@@ -67,7 +67,6 @@
   <string name="gift_present_dlg_anonymous">Regalo anónimo</string>
   <string name="gift_present_dlg_input_hint">ID Cuenta Mi/Teléfono</string>
   <string name="gift_present_dlg_no_fee">No será cobrado por su operador por enviar regalos</string>
-  <string name="gift_present_dlg_present_max_limit">El tema no puede ser regalado más de %$1s veces.</string>
   <string name="gift_present_dlg_share">Crear código y compartir regalo</string>
   <string name="gift_present_fail_dlg_content">"No se pudo enviar este regalo. "</string>
   <string name="gift_present_fail_dlg_title">No se pudo enviar el regalo</string>

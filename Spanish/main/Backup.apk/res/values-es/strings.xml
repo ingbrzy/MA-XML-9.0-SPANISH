@@ -320,14 +320,6 @@ Entonces toque \"Conectar otra vez\" para crea un código QR."</string>
   <string name="trans_operate_reconnect_old_tips">"Espere hasta que el viejo teléfono muestre \"La conexión fue interrumpida\".
 Entonces toque \"Conectar otra vez\" para escanear el código QR."</string>
   <string name="trans_please_waiting">Por favor, espere…</string>
-  <string name="trans_progress_subdescript_br_receiver">Recibiendo %s</string>
-  <string name="trans_progress_subdescript_br_sender">Copiando %s</string>
-  <string name="trans_progress_subdescript_br_sender_finish">Respaldado %s, esperando para enviar…</string>
-  <string name="trans_progress_subdescript_transing_receiver">Recibiendo %s</string>
-  <string name="trans_progress_subdescript_transing_receiver_finish">Recibido %s, esperando para restablecer…</string>
-  <string name="trans_progress_subdescript_transing_sender">Enviando %s</string>
-  <string name="trans_progress_subdescript_transingsd_receiver">Recibiendo archivos…</string>
-  <string name="trans_progress_subdescript_transingsd_sender">Enviando archivos…</string>
   <string name="trans_progress_subdescript_transingsddata_receiver">Recibiendo datos de tarjeta SD de %1$s, %2$s completados</string>
   <string name="trans_progress_subdescript_transingsddata_sender">Enviando datos de tarjeta SD de %1$s, %2$s completados</string>
   <string name="trans_progress_subdescript_waiting">Esperando a recibir %s</string>

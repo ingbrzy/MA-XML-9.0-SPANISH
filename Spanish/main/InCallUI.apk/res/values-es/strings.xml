@@ -187,7 +187,6 @@
   <string name="non_ivr_menu_view_menu">Ver menú</string>
   <string name="not_activate_sim_card_content">Verifica tu número para comenzar a usar un paquete de recarga. Todavía puedes seguir haciendo llamadas con el operador para el que recargues.</string>
   <string name="not_activate_sim_card_content_title">Número de teléfono sin verificar</string>
-  <string name="not_activate_sim_card_content_with_operator">Verifica la SIM %1$ (%2$s) para hacer llamadas con un bono de recarga. Todavía puedes seguir haciendo llamadas con el operador para el que recargues</string>
   <string name="not_support_message">El paquete de recarga no soporta estos números. Puedes hacer una llamada normal en su lugar.</string>
   <string name="not_support_title">Número no soportado</string>
   <string name="notification_action_accept">Aceptar</string>

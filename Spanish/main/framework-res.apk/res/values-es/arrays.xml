@@ -4,13 +4,6 @@
         <item>Intentando habilitar Wi-Fi</item>
         <item>Intentando activar BT</item>
     </string-array>
-    <string-array name="config_globalActionsList">
-        <item>energía</item>
-        <item>perfil</item>
-        <item>reiniciar</item>
-        <item>avión</item>
-        <item>silencio</item>
-    </string-array>
     <string-array name="emailAddressTypes">
         <item>Casa</item>
         <item>Trabajo</item>

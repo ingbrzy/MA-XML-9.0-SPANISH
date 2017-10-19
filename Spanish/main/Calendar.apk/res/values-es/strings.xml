@@ -301,7 +301,6 @@
   <string name="monthly">Mensual</string>
   <string name="monthly_on_day">Mensual (el mismo día)</string>
   <string name="monthly_on_day_count">Mensual (%1$s %2$s)</string>
-  <string name="more_string">+%1$d</string>
   <string name="network_not_available">No se pudo conectar con la red</string>
   <string name="new_event_description">nuevo</string>
   <string name="new_event_dialog_label">Nuevo evento</string>

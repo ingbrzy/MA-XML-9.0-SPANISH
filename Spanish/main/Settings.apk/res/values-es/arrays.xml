@@ -300,12 +300,6 @@
         <item>IPv6</item>
         <item>IPv4/IPv6</item>
     </string-array>
-    <string-array name="mvno_type_entries">
-        <item>Ninguno</item>
-        <item>SPN</item>
-        <item>IMSI</item>
-        <item>GID</item>
-    </string-array>
     <string-array name="app_install_location_entries">
         <item>Dispositivo de almacenamiento interno</item>
         <item>Tarjeta SD desmontable</item>
@@ -806,13 +800,6 @@
         <item>4,0 pulgadas</item>
         <item>3,5 pulgadas</item>
     </string-array>
-    <string-array name="lock_screen_secure_after_timeout_entries">
-        <item>Después de 30 segundos</item>
-        <item>Después de 1 minuto</item>
-        <item>Después de 2 minutos</item>
-        <item>Después de 5 minutos</item>
-        <item>Nunca</item>
-    </string-array>
     <string-array name="screen_resolution_entries">
         <item>Ultra alta (2K)</item>
         <item>Normal (720p)</item>
@@ -838,13 +825,6 @@
     <string-array name="screen_key_position_action">
         <item>Botón de menú a la izquierda, botón de volver a la derecha</item>
         <item>Botón de volver a la izquierda, botón de menú a la derecha</item>
-    </string-array>
-    <string-array name="privacy_password_function_specfication_names">
-        <item>Mensajes</item>
-        <item>Fotos</item>
-        <item>Archivos</item>
-        <item>Notas</item>
-        <item>Modo niño</item>
     </string-array>
     <string-array name="max_number_titles">
         <item>6</item>
