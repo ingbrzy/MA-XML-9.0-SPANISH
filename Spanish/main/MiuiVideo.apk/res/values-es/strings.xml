@@ -111,7 +111,7 @@ Duración: %s
   <string name="search_history">Buscar en el historial</string>
   <string name="search_null_text">Por favor escriba una palabra clave</string>
   <string name="select_all">Seleccionar todo</string>
-  <string name="send">Confirmar</string>
+  <string name="send">Compartir</string>
   <string name="settings">Ajustes</string>
   <string name="show_all_files_tips">Mostrar todos los archivos</string>
   <string name="show_all_folder_tips">Mostrar todas las carpetas</string>
