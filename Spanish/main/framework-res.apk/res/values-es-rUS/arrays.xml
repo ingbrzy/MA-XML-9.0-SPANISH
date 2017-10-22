@@ -3,13 +3,13 @@
     <string-array name="emailAddressTypes">
         <item>Casa</item>
         <item>Trabajo</item>
-        <item>Otra</item>
-        <item>Personalizar</item>
+        <item>Otros</item>
+        <item>Personalización</item>
     </string-array>
     <string-array name="imProtocols">
         <item>AIM</item>
         <item>Windows Live</item>
-        <item>Yahoo!</item>
+        <item>Yahoo</item>
         <item>Skype</item>
         <item>QQ</item>
         <item>Google Talk</item>
@@ -18,41 +18,41 @@
     </string-array>
     <string-array name="organizationTypes">
         <item>Trabajo</item>
-        <item>Otra</item>
-        <item>Personalizar</item>
+        <item>Otros</item>
+        <item>Personalización</item>
     </string-array>
     <string-array name="phoneTypes">
         <item>Casa</item>
         <item>Móvil</item>
         <item>Trabajo</item>
-        <item>Fax del trabajo</item>
-        <item>Fax de casa</item>
-        <item>Busca</item>
-        <item>Otro</item>
-        <item>Personalizar</item>
+        <item>Fax laboral</item>
+        <item>Fax residencial</item>
+        <item>Localizador</item>
+        <item>Otros</item>
+        <item>Personalización</item>
     </string-array>
     <string-array name="postalAddressTypes">
         <item>Casa</item>
         <item>Trabajo</item>
-        <item>Otra</item>
-        <item>Personalizar</item>
+        <item>Otros</item>
+        <item>Personalización</item>
     </string-array>
     <string-array name="wfcOperatorErrorAlertMessages">
-        <item>Para hacer llamadas y enviar mensajes por Wi-Fi, debes pedir antes a tu operador que configure este servicio. Una vez hecho esto, vuelva a activar las llamadas Wi-Fi en Ajustes.</item>
+        <item>Para realizar llamadas o enviar mensajes por Wi-Fi, primero solicítale al proveedor que instale el servicio. Luego, vuelve a activar las llamadas por Wi-Fi desde Configuración.</item>
     </string-array>
     <string-array name="wfcOperatorErrorNotificationMessages">
-        <item>Regístrate con tu operador</item>
+        <item>Regístrate con tu proveedor.</item>
     </string-array>
     <string-array name="wfcSpnFormats">
         <item>%s</item>
-        <item>Llamada Wi-Fi de %s</item>
+        <item>Llamada por Wi-Fi de %s</item>
     </string-array>
     <array name="fingerprint_acquired_vendor" />
     <array name="fingerprint_error_vendor" />
     <string-array name="imAddressTypes">
         <item>Casa</item>
         <item>Trabajo</item>
-        <item>Otro</item>
-        <item>Personalizar</item>
+        <item>Otros</item>
+        <item>Personalización</item>
     </string-array>
 </resources>

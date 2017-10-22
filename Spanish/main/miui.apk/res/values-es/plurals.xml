@@ -6,11 +6,11 @@
     </plurals>
     <plurals name="abbrev_less_than_one_minute_ago">
         <item quantity="other">Ahora</item>
-        <item quantity="one">Ahora</item>
+        <item quantity="one">Ahora mismo</item>
     </plurals>
     <plurals name="less_than_one_minute_ago">
         <item quantity="other">Ahora</item>
-        <item quantity="one">Ahora</item>
+        <item quantity="one">Ahora mismo</item>
     </plurals>
     <plurals name="abbrev_in_less_than_one_minute">
         <item quantity="other">Inmediatamente</item>
@@ -21,7 +21,7 @@
         <item quantity="one">Inmediatamente</item>
     </plurals>
     <plurals name="abbrev_a_hour_ago">
-        <item quantity="other">Hace %d horas</item>
+        <item quantity="other">Hace 1 hora</item>
         <item quantity="one">Hace 1 hora</item>
     </plurals>
     <plurals name="abbrev_half_hour_ago">
@@ -29,7 +29,7 @@
         <item quantity="one">Hace media hora</item>
     </plurals>
     <plurals name="a_hour_ago">
-        <item quantity="other">Hace %d horas</item>
+        <item quantity="other">Hace 1 hora</item>
         <item quantity="one">Hace 1 hora</item>
     </plurals>
     <plurals name="half_hour_ago">
@@ -37,7 +37,7 @@
         <item quantity="one">Hace media hora</item>
     </plurals>
     <plurals name="abbrev_in_a_hour">
-        <item quantity="other">En %d horas</item>
+        <item quantity="other">En 1 hora</item>
         <item quantity="one">En 1 hora</item>
     </plurals>
     <plurals name="abbrev_in_half_hour">
@@ -45,7 +45,7 @@
         <item quantity="one">En media hora</item>
     </plurals>
     <plurals name="in_a_hour">
-        <item quantity="other">En %d horas</item>
+        <item quantity="other">En 1 hora</item>
         <item quantity="one">En 1 hora</item>
     </plurals>
     <plurals name="in_half_hour">
