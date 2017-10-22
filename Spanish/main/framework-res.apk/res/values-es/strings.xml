@@ -591,7 +591,7 @@ Para no fijar, pulse y mantenga presionado el botón Inicio y el botón Encendid
   <string name="lockscreen_failed_attempts_almost_at_wipe">Intentaste desbloquear el dispositivo %1$d veces, pero no lo lograste. Puedes intentarlo %2$d veces más antes de que se restablezcan los valores predeterminados de fábrica del dispositivo y se pierdan todos los datos de usuario.</string>
   <string name="lockscreen_failed_attempts_almost_glogin">"Has establecido incorrectamente tu patrón de desbloqueo %1$d veces. Luego de %2$d intentos incorrectos, se te solicitará que desbloquees tu dispositivo mediante el uso de tu información de acceso de Google.
 
- Vuelve a intentarlo en 3$d segundos."</string>
+ Vuelve a intentarlo en %3$d segundos."</string>
   <string name="lockscreen_failed_attempts_now_wiping">Intentaste desbloquear el dispositivo %d veces, pero no lo lograste. Se restablecerán los valores predeterminados de fábrica del dispositivo.</string>
   <string name="lockscreen_forgot_pattern_button_text">¿Has olvidado el patrón?</string>
   <string name="lockscreen_glogin_account_recovery_hint">"\"¿Olvidaste tu nombre de usuario o contraseña?
