@@ -795,6 +795,12 @@
         <item>TEMPLADO</item>
         <item>FRÍO</item>
     </string-array>
+    <string-array name="vip_mode_text">
+        <item>De cualquier persona</item>
+        <item>Solo de contactos</item>
+        <item>Solo de contactos destacados</item>
+        <item>Ninguna</item>
+    </string-array>
     <string-array name="handy_mode_size_text_entries">
         <item>4,5 pulgadas</item>
         <item>4,0 pulgadas</item>
