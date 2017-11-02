@@ -3291,17 +3291,17 @@ Esto también dará a la aplicación la capacidad de activar y desactivar No Mol
   <string name="repeat_call_info">En el modo silencioso, si la misma persona tiene dos llamadas en 15 minutos, permitirá recordatorios</string>
   <string name="repeat_title">Repetir</string>
   <string name="reset_aaid">Restablecer el identificador de publicidad</string>
-  <string name="reset_app_preferences">Restablecer preferencias</string>
+  <string name="reset_app_preferences">Restablecer preferencias de las aplicaciones</string>
   <string name="reset_app_preferences_button">Restablecer aplicaciones</string>
-  <string name="reset_app_preferences_desc">"Esto restablecerá todas las preferencias de:
+  <string name="reset_app_preferences_desc">"Esto restablecerá todas las preferencias para:
 
- "<li>Aplicaciones inhabilitadas</li>"
- "<li>Notificaciones de aplicaciones inhabilitadas</li>"
- "<li>Aplicaciones predeterminadas</li>"
- "<li>Restricciones de datos de aplicaciones</li>"
- "<li>Restricciones de permisos</li>"
+ "&lt;li&gt;Aplicaciones deshabilitadas&lt;/li&gt;"
+ "&lt;li&gt;Notificaciones de aplicaciones deshabilitadas&lt;/li&gt;"
+ "&lt;li&gt;Aplicaciones predeterminadas para acciones&lt;/li&gt;"
+ "&lt;li&gt;Restricciones de datos en segundo plano para aplicaciones&lt;/li&gt;"
+ "&lt;li&gt;Cualquier restricción de permiso&lt;/li&gt;"
 
- No se perderán los datos de las aplicaciones."</string>
+ No perderá ningún dato de la aplicación."</string>
   <string name="reset_app_preferences_title">¿Restablecer preferencias de las aplicaciones?</string>
   <string name="reset_legacy_password_settings_preface_text">Es necesario restablecer la contraseña de bloqueo de pantalla.</string>
   <string name="reset_network_button_text">Restablecer ajustes</string>
