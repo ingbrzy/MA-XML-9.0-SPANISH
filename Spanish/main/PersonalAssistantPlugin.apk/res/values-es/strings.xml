@@ -1,8 +1,8 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
-  <string name="Clock_main">Alarm</string>
-  <string name="Clock_parent">Clock</string>
-  <string name="MiDrop_main">Send</string>
+  <string name="Clock_main">Alarma</string>
+  <string name="Clock_parent">Reloj</string>
+  <string name="MiDrop_main">Enviar</string>
   <string name="MiDrop_parent">Mi Drop</string>
   <string name="Paytm_main">Scan</string>
   <string name="Paytm_parent">Paytm</string>
