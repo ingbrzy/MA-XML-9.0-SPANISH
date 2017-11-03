@@ -9,6 +9,8 @@
   <string name="Settings_title_garbage_cleanup">Configuración del limpiador</string>
   <string name="Settings_title_network_assistants">Configuración de uso de datos</string>
   <string name="Settings_title_power_center">Ajustes de la batería</string>
+  <string name="ac_mask_all_apps">Ocultar para todas las aplicaciones</string>
+  <string name="ac_unmask_all_apps">Mostrar para todas las aplicaciones</string>
   <string name="about_autostart">Acerca del autoencendido</string>
   <string name="ac_enter_applock">Introduzca bloqueo de Aplicaciones</string>
   <string name="ac_firstUseApplock_subTitle">Usar herramientas mejoradas de seguridad</string>
@@ -1058,6 +1060,8 @@ responda</string>
   <string name="notification_item">Protege las aplicaciones seleccionadas con el bloqueo de Aplicaciones</string>
   <string name="notification_mask_summary">"No mostrar contenido para notificaciones en la pantalla Bloquear y en la pantalla Notificación"</string>
   <string name="notification_mask_title">Ocultar contenido</string>
+  <string name="notification_masked_item">Ocultar notificaciones</string>
+  <string name="notification_masked_subtitle">Ocultar notificaciones de aplicaciones protegidas con Bloqueo de aplicaciones</string>
   <string name="notification_subtitle">Toca para activar</string>
   <string name="notification_summary_cmcc_app_check">Pulsa para ver detalles.</string>
   <string name="notification_sysapp_cracked_text">La versión actual de MIUI ha sido modificada</string>
@@ -1066,6 +1070,7 @@ responda</string>
   <string name="notify_daily_limit_body">Toque para establecer el límite de datos.</string>
   <string name="notify_daily_limit_title">Usado %s hoy</string>
   <string name="notify_daily_limit_title_for_slotnum">%1$s usado %2$s hoy</string>
+  
   <string name="notify_month_traffic_body">Establecer un límite de uso de datos para evitar pasarse de su plan de datos mensual.</string>
   <string name="notify_month_traffic_title">Usado %s este mes</string>
   <string name="notify_month_traffic_title_for_slotnum">%1$s usado %2$s este mes</string>
