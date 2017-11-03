@@ -52,6 +52,42 @@
         <item quantity="other">%d fotos</item>
         <item quantity="one">%d foto</item>
   </plurals>
+  <plurals name="delete_photo_from_local">
+        <item quantity="other">¿Eliminar %d fotos?</item>
+        <item quantity="one">¿Borra esta foto?</item>
+   </plurals>
+   <plurals name="delete_photo_from_all_devices_and_cloud_msg">
+        <item quantity="other">¿Eliminar %d fotos de todos los dispositivos y Mi Cloud?</item>
+        <item quantity="one">¿Eliminar esta foto de todos los dispositivos y Mi Cloud?</item>
+   </plurals>
+   <plurals name="delete_photo_from_this_album_and_cloud_msg">
+        <item quantity="other">¿Eliminar %d fotos de este álbum y Mi Cloud?</item>
+        <item quantity="one">¿Eliminar esta foto de este álbum y Mi Cloud?</item>
+   </plurals>
+   <plurals name="delete_video_from_local">
+        <item quantity="other">¿Eliminar %d videos?</item>
+        <item quantity="one">¿Eliminar este video?</item>
+   </plurals>
+   <plurals name="delete_video_from_all_devices_and_cloud_msg">
+        <item quantity="other">¿Eliminar %d videos de todos los dispositivos y Mi Cloud?</item>
+        <item quantity="one">¿Eliminar este video de todos los dispositivos y Mi Cloud?</item>
+   </plurals>
+   <plurals name="delete_video_from_this_album_and_cloud_msg">
+        <item quantity="other">¿Eliminar %d videos de este álbum y Mi Cloud?</item>
+        <item quantity="one">¿Eliminar este video de este álbum y Mi Cloud?</item>
+   </plurals>
+   <plurals name="delete_media_from_local">
+        <item quantity="other">¿Eliminar %d elementos?</item>
+        <item quantity="one">¿Eliminar %d elemento?</item>
+   </plurals>
+   <plurals name="delete_media_from_all_devices_and_cloud_msg">
+        <item quantity="other">¿Eliminar %d elementos de todos los dispositivos y Mi Cloud?</item>
+        <item quantity="one">¿Eliminar %d elemento de todos los dispositivos y Mi Cloud?</item>
+   </plurals>
+   <plurals name="delete_media_from_this_album_and_cloud_msg">
+        <item quantity="other">¿Eliminar %d elementos de este álbum y Mi Cloud?</item>
+        <item quantity="one">¿Eliminar %d elemento de este álbum y Mi Cloud?</item>
+  </plurals>
   <plurals name="download_retry_message">
         <item quantity="other">"No se pudo descargar %1$d archivos, compruebe la conexión y inténtelo de nuevo"</item>
         <item quantity="one">"No se pudo descargar %1$d archivo, compruebe la conexión y inténtelo de nuevo"</item>
