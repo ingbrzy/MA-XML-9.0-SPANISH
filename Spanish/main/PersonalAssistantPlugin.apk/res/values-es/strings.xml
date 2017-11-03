@@ -23,15 +23,13 @@
   <string name="agenda_assistant_payment_day">Payment day</string>
   <string name="agenda_assistant_repayment_day">Payment day</string>
   <string name="agenda_assistant_tail_num">Number</string>
-  <string name="agenda_no_title">（无标题）</string>
   <string name="alipay_scan">Scanner</string>
   <string name="already">Completed:</string>
   <string name="app_label">Smart assistant</string>
   <string name="apps_label">Apps</string>
   <string name="arrive">Landing</string>
   <string name="assistant_day_deadline">Last day</string>
-  <string name="assistant_day_suffix">后</string>
-  <string name="assistant_format_MMdd">MM/dd</string>
+  <string name="assistant_format_MMdd">dd/MM</string>
   <string name="authorize_button">Allow</string>
   <string name="authorize_fav_tip">Add favorites from other apps here.</string>
   <string name="ball_CricketMatch_title">Cricket</string>
@@ -53,7 +51,6 @@
   <string name="ball_football_recent_end">Finished</string>
   <string name="ball_football_recent_end_tip">Results</string>
   <string name="ball_football_recent_ing">In progress</string>
-  <string name="ball_football_recent_middle">:</string>
   <string name="ball_football_recent_text_show">Text commentary</string>
   <string name="ball_football_title">Football</string>
   <string name="ball_football_total_rank">Rankings</string>
@@ -164,7 +161,6 @@
   <string name="greeting_schedule_desc">Scheduled events for today: %1$d</string>
   <string name="greeting_title_morning">Good morning!</string>
   <string name="greeting_title_night">Good evening!</string>
-  <string name="greeting_weather_desc">%1$s %2$s %3$s %4$s</string>
   <string name="greeting_weather_desc_from_to">%1$s to %2$s</string>
   <string name="greeting_weather_prefix_moring">Today</string>
   <string name="greeting_weather_prefix_night">Tomorrow</string>
@@ -202,15 +198,11 @@
   <string name="map_title">Traffic</string>
   <string name="map_title_around">Nearby</string>
   <string name="map_title_home">Home</string>
-  <string name="map_title_hours">小时</string>
-  <string name="map_title_middle">需要</string>
-  <string name="map_title_minutes">分钟</string>
   <string name="map_title_no_route_found">No route found</string>
   <string name="map_title_office">Work</string>
-  <string name="map_title_prve">到</string>
   <string name="mi_wallet">Mi Wallet</string>
-  <string name="month_day_format">MM/dd</string>
-  <string name="month_day_hour_minute_format_en">MM/dd HH:mm</string>
+  <string name="month_day_format">dd/MM</string>
+  <string name="month_day_hour_minute_format_en">dd/MM HH:mm</string>
   <string name="month_format_en">MM/dd</string>
   <string name="music_card_error_str">An error occured, open the Music app to play</string>
   <string name="no_install">Not installed</string>
@@ -314,7 +306,7 @@
   <string name="wx_scan">Scanner</string>
   <string name="wx_timeline">Moments</string>
   <string name="xiaomi_search_label">Search</string>
-  <string name="year_month_day_all_format_en">MM/dd/yyyy HH:mm:ss</string>
-  <string name="year_month_day_format">MM/dd/yyyy</string>
+  <string name="year_month_day_all_format_en">dd/MM/yyyy HH:mm:ss</string>
+  <string name="year_month_day_format">dd/MM/yyyy</string>
   <string name="yesterday">Yesterday</string>
 </resources>
