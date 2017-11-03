@@ -210,6 +210,14 @@ Si vuelve a activar los datos móviles, su operador puede cobrarle por datos adi
         <item quantity="other">%d aplicaciones no bloqueadas</item>
         <item quantity="one">%d aplicación no bloqueada</item>
     </plurals>
+        <plurals name="number_masked_text">
+        <item quantity="other">Se ocultaron %d notificaciones</item>
+        <item quantity="one">Se oculto %d notificación</item>
+    </plurals>
+    <plurals name="number_to_mask_text">
+        <item quantity="other">%d notificaciones son visibles</item>
+        <item quantity="one">%d notificación es visible</item>
+    </plurals>
     <plurals name="find_applications">
         <item quantity="other">Buscar entre %d aplicaciones</item>
         <item quantity="one">Buscar entre %d aplicación</item>
