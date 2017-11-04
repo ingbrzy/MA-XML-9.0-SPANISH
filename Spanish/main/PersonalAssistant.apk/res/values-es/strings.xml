@@ -33,7 +33,7 @@
   <string name="alipay_sdk_payed_show_paycode">Ver código</string>
   <string name="alipay_sdk_payed_success">Pago completado</string>
   <string name="alipay_sdk_tiemout">Acceso directo del pago (no requiere app)</string>
-  <string name="app_label">Tarjeta rápida/string>
+  <string name="app_label">Tarjeta rápida</string>
   <string name="apps">Sugerencias de aplicaciones</string>
   <string name="apps_label">Apps</string>
   <string name="assistant_place">Reconocer lugares frecuentes</string>
