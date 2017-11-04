@@ -202,6 +202,10 @@ Si vuelve a activar los datos móviles, su operador puede cobrarle por datos adi
         <item quantity="other">"Espere %d segundos e inténtelo de nuevo. "</item>
         <item quantity="one">"Espere %d segundo e inténtelo de nuevo. "</item>
     </plurals>
+    <plurals name="number_masked">
+        <item quantity="other">%d aplicaciones</item>
+        <item quantity="one">%d aplicación</item>
+    </plurals>
     <plurals name="number_locked">
         <item quantity="other">%d aplicaciones bloqueadas</item>
         <item quantity="one">%d aplicación bloqueada</item>
@@ -212,7 +216,7 @@ Si vuelve a activar los datos móviles, su operador puede cobrarle por datos adi
     </plurals>
         <plurals name="number_masked_text">
         <item quantity="other">Se ocultaron %d notificaciones</item>
-        <item quantity="one">Se oculto %d notificación</item>
+        <item quantity="one">Se ocultó %d notificación</item>
     </plurals>
     <plurals name="number_to_mask_text">
         <item quantity="other">%d notificaciones son visibles</item>
