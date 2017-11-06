@@ -1979,7 +1979,7 @@ Al activar la copia de seguridad automática, los datos del dispositivo y de las
   <string name="keywords_color_temperature">color temperatura D65 D73 blanco amarillo azul cálido frío</string>
   <string name="keywords_date_and_time">reloj, militar</string>
   <string name="keywords_display">pantalla, táctil</string>
-  <string name="keywords_do_not_disturb">DND:Modo DND;No molestar;Dormir;Noche;Ocupado</string>
+  <string name="keywords_do_not_disturb">MNM:Modo MNM;No molestar;Dormir;Noche;Ocupado</string>
   <string name="keywords_display_auto_brightness">atenuar, pantalla, pantalla táctil, batería</string>
   <string name="keywords_display_brightness_level">atenuar, pantalla, pantalla táctil, batería</string>
   <string name="keywords_display_cast_screen">proyectar, enviar</string>
@@ -3579,8 +3579,8 @@ Para ello:
   <string name="search_display_settings">Pantalla;Pantalla;Luz ambiental;Bolsillo;Llamada en el bolsillo;Temperatura del color;Color;Colores;Saturación;Auto-rotar;Auto rotar;Auto rotar;Rotar pantalla;Brillo;Fuente;Fuentes;Tamaño de fuente</string>
   <string name="search_dndm_alarm_content">Excepciones</string>
   <string name="search_dndm_auto_button_title">Establecer hora</string>
-  <string name="search_dndm_auto_time_setting">Establecer hora;DND</string>
-  <string name="search_dndm_open">No molestar; DND; Activar DND</string>
+  <string name="search_dndm_auto_time_setting">Establecer hora;MNM</string>
+  <string name="search_dndm_open">No molestar; MNM; Activar MNM</string>
   <string name="search_dndm_repeated_call_setting_title">Repetir llamadas;Llamadas repetidas</string>
   <string name="search_dndm_vip_call_setting_title">VIP;Excepciones;Lista de aprobadas;Lista de aprobadas</string>
   <string name="search_dndm_wristband">Activar con Mi Band;Mi Band</string>
