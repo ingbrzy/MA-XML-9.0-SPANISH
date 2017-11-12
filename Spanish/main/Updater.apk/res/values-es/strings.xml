@@ -3,9 +3,9 @@
   <string name="app_name">Actualizador</string>
   <string name="battery_islow">Conecte su cargador</string>
   <string name="battery_islow_desc">El nivel de la batería es demasiado bajo para instalar el archivo zip de forma segura, conecte el cargador y vuelva a intentarlo más tarde.</string>
-  <string name="btn_changelog">Historial de cambios</string>
+  <string name="btn_changelog">Registro de cambios</string>
   <string name="btn_download">Descargar (%1$s)</string>
-  <string name="btn_error">Ha ocurrido un error, ¿intentar otra vez?</string>
+  <string name="btn_error">Ha ocurrido un error, ¿Desea intentarlo otra vez?</string>
   <string name="btn_install">Instalar</string>
   <string name="btn_no">Cancelar</string>
   <string name="btn_ok">Aceptar</string>
@@ -14,18 +14,18 @@
   <string name="btn_stop">Parar</string>
   <string name="btn_yes">Sí</string>
   <string name="check_new_version">Comprobar</string>
-  <string name="dialog_3g_desc">Tenga en cuenta que el uso de datos móviles para descargar ROMs puede suponer un gasto de datos importante</string>
+  <string name="dialog_3g_desc">Tenga en cuenta que el uso de datos móviles para descargar actualizaciones puede suponer un gasto de datos importante</string>
   <string name="dialog_3g_title">¡Advertencia!</string>
   <string name="dialog_btn_3g">Continuar de todos modos</string>
   <string name="dialog_btn_wifi">Cambiar a Wi-Fi</string>
-  <string name="dialog_stop_desc">¿Seguro que  quiere detener una descarga en ejecución? Todo el progreso se perderá, no se podrá reanudar. El siguiente intento de descarga comenzará desde el principio.</string>
+  <string name="dialog_stop_desc">¿Seguro que quiere detener una descarga en ejecución? Todo el progreso se perderá y no se podrá reanudar. El siguiente intento de descarga comenzará desde el principio.</string>
   <string name="dialog_stop_title">¿Detener la descarga?</string>
   <string name="download_done">¡Descarga exitosa!</string>
   <string name="download_fail">¡Error mientras se descargaba!</string>
   <string name="download_fail_desc">MD5 no coincide…</string>
   <string name="downloading">Descargando:</string>
   <string name="downloading_desc">Descarga en progreso, puede comprobar el progreso en la barra de notificaciones.</string>
-  <string name="install_desc">El dispositivo se reiniciará al modo Recovery y a instalar el archivo elegido: %1$s"
+  <string name="install_desc">El dispositivo se reiniciará al modo Recovery e instalará el archivo: %1$s"
 Los datos no serán borrados."</string>
   <string name="install_title">¿Está seguro de querer continuar?</string>
   <string name="menu_title_current_version_log">¿Qué hay nuevo?</string>
@@ -37,8 +37,8 @@ Los datos no serán borrados."</string>
   <string name="no_info">No hay información disponible</string>
   <string name="no_network">No hay acceso a la red.</string>
   <string name="no_update">No hay actualizaciones</string>
-  <string name="no_xioamieu">"No estás utilizando ROM de MIUI creada por el equipo de Xiaomi.eu!
-Las actualizaciones no están disponibles para usted!"</string>
+  <string name="no_xioamieu">¡No estás utilizando la ROM de MIUI creada por el equipo de Xiaomi.eu.
+Las actualizaciones no están disponibles para usted!</string>
   <string name="notif_cancel">Cancelar</string>
   <string name="notif_install">Instalar</string>
   <string name="notif_new_summary">Pulse para obtener detalles</string>
@@ -46,15 +46,15 @@ Las actualizaciones no están disponibles para usted!"</string>
   <string name="notifications_switch">Mostrar notificaciones</string>
   <string name="permdesc_cache_filesystem">Permite a esta aplicación a escribir en /cache.</string>
   <string name="permdesc_reboot">Permitir a esta aplicación reiniciar el dispositivo.</string>
-  <string name="permlab_cache_filesystem">Aceso a caché</string>
+  <string name="permlab_cache_filesystem">Acceso a caché</string>
   <string name="permlab_reboot">Reiniciar el acceso</string>
-  <string name="pick_not_found">No se encontró ningún Administrador de archivos adecuado.</string>
-  <string name="pick_title">Selecionar usando</string>
-  <string name="recovery_desc">El dispositivo se reiniciará en el modo Recovery, si no está familiarizado con el modo, cancele acciones futuras. ¿Continuar?</string>
+  <string name="pick_not_found">No se encontró ningún Administrador de Archivos adecuado.</string>
+  <string name="pick_title">Seleccionar usando</string>
+  <string name="recovery_desc">El dispositivo se reiniciará al modo Recovery, si no está familiarizado con este modo cancele su acción. ¿Desea continuar?</string>
   <string name="server_error">El servidor no responde, puede que la aplicación no funcione correctamente</string>
   <string name="share_title">Compartir con</string>
   <string name="stable">estable</string>
   <string name="version">Instalada actualmente:</string>
   <string name="weekly">semanal</string>
-  <string name="wifi_recommended">No hay conexión Wi-Fi para comenzar la descarga de forma segura!</string>
+  <string name="wifi_recommended">¡No hay conexión Wi-Fi para comenzar la descarga de forma segura!</string>
 </resources>
