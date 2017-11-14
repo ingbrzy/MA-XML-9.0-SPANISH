@@ -53,6 +53,7 @@
   <string name="account_settings_param">Configuración de cuenta</string>
   <string name="account_settings_policies">Políticas de seguridad</string>
   <string name="account_settings_preference_add_account">Añadir una cuenta de correo</string>
+  <string name="account_settings_preference_att_save_path">Ubicación predeterminada para archivos adjuntos</string>
   <string name="account_settings_preference_head_icon">Mostrar foto de contacto/perfil</string>
   <string name="account_settings_preference_notify">Aviso</string>
   <string name="account_settings_retry_label">Intentar sincronización</string>
@@ -453,6 +454,7 @@
   <string name="feedback_user_edit_tag">De MIUI</string>
   <string name="fetch_bank_sender_list_failure">"No se pudo obtener informacion"</string>
   <string name="fetching_attachment">Obteniendo adjunto</string>
+  <string name="file_defailt_save_path">Los archivos adjuntos se guardan en la carpeta %s de forma predeterminada. Puedes cambiar la carpeta en Ajustes.</string>
   <string name="file_deleted_success">Archivo eliminado</string>
   <string name="file_not_found">No se pudo encontrar el archivo</string>
   <string name="file_not_found_redownload">No se pudo encontrar el archivo</string>
