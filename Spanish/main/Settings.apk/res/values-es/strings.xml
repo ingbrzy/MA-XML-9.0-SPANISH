@@ -798,6 +798,7 @@ Las emisiones utilizan señales de Bluetooth de baja energía."</string>
   <string name="bssid_label">BSSID:</string>
   <string name="bt_hci_snoop_log">Registro snoop de Bluetooth HCI</string>
   <string name="bt_hci_snoop_log_summary">Capturar todos los paquetes Bluetooth HCI en un archivo</string>
+  <string name="bt_rarely_used_device_title">Dispositivos raramente usados (%d)</string>
   <string name="bt_trace_log">Registro de seguimiento de Bluetooth</string>
   <string name="bt_trace_log_summary">Registro de seguimiento de Bluetooth</string>
   <string name="bugreport_in_power">Atajo a informe de errores</string>
