@@ -5,7 +5,6 @@
   <string name="SMTP_username_text">Nombre de usuario</string>
   <string name="accessibility_guide_first">En la siguiente pantalla, seleccione \"Servicios\" para activar el ajuste automático del buzón 139</string>
   <string name="accessibility_guide_second">Luego haga clic en el interruptor en la esquina superior derecha, haga clic en \"Confirmar\" y continuar.</string>
-  <string name="account_cache_provider">Proveedor de Caché de Cuenta</string>
   <string name="account_duplicate_dlg_message_fmt">"Ya está usando este nombre de usuario para la cuenta \"%s\"."</string>
   <string name="account_duplicate_dlg_title">Cuenta duplicada</string>
   <string name="account_failure">Sesión caducada</string>
@@ -340,7 +339,6 @@
   <string name="contextmenu_send_mail">Enviar correo</string>
   <string name="contextmenu_sharelink">Compartir enlace</string>
   <string name="contextmenu_sms_dot">SMS…</string>
-  <string name="conversation_content_provider">Proveedor de Contenido de Conversación</string>
   <string name="conversation_detail_hide">Ocultar</string>
   <string name="conversation_detail_show">Detalles</string>
   <string name="conversation_folder_moved">Movido a %1$s</string>
@@ -596,14 +594,6 @@
   <string name="mailbox_name_display_starred">Destacados</string>
   <string name="mailbox_name_display_trash">Papelera</string>
   <string name="mailbox_name_display_unread">No leídos</string>
-  <string name="mailbox_name_server_all_unread">No leídos</string>
-  <string name="mailbox_name_server_drafts">Borradores</string>
-  <string name="mailbox_name_server_inbox">Bandeja de entrada</string>
-  <string name="mailbox_name_server_junk">Correo no deseado</string>
-  <string name="mailbox_name_server_outbox">Bandeja de salida</string>
-  <string name="mailbox_name_server_sent">Enviados</string>
-  <string name="mailbox_name_server_starred">Destacados</string>
-  <string name="mailbox_name_server_trash">Papelera</string>
   <string name="mailbox_settings_activity_title">Ajustes de sincronización</string>
   <string name="mailbox_settings_activity_title_with_mailbox">Ajustes de sincronización (%s)</string>
   <string name="mailbox_settings_mailbox_sync_window_label">Sincronizar email de</string>
@@ -975,10 +965,6 @@ para recibir recordatorios sobre pagos y viajes"</string>
   <string name="reply_all">Responder a todos</string>
   <string formatted="false" name="reply_attribution">El %s, %s escribió:</string>
   <string name="report_phishing">Notificar phishing</string>
-  <string name="report_rendering_improvement">Se ve bien</string>
-  <string name="report_rendering_improvement_desc">Este mensaje se ve bien.</string>
-  <string name="report_rendering_problem">Se ve mal</string>
-  <string name="report_rendering_problem_desc">Este mensaje se ve mal.</string>
   <string name="report_spam">Notificar spam</string>
   <string name="request_entity_large">El archivo es demasiado grande</string>
   <string name="request_permission_activity">Solicitud de permiso</string>
