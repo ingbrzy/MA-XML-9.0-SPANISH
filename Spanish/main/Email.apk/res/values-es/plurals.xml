@@ -17,7 +17,8 @@
         <item quantity="one">Esta conversación contiene elementos fusionados. ¿Eliminar de todos modos?</item>
     </plurals>
     <plurals name="confirm_delete_draft">
-      <item quantity="other">¿Borrar %1$d borradores？</item>
+      <item quantity="other">¿Borrar %1$d borradores?</item>
+      <item quantity="one">¿Borrar %1$d borrador?</item>
     </plurals>
     <plurals name="contact_num_selected">
         <item quantity="other">%d seleccionados</item>
@@ -36,8 +37,8 @@
         <item quantity="one">Carpeta cambiada.</item>
     </plurals>
     <plurals name="conversation_msg_header_count">
-        <item quantity="other">… %1$d personas</item>
-        <item quantity="one">… %1$d persona</item>
+        <item quantity="other">+%1$d personas</item>
+        <item quantity="one">+%1$d persona</item>
     </plurals>
     <plurals name="conversation_muted">
         <item quantity="other">%1$d silenciadas.</item>
