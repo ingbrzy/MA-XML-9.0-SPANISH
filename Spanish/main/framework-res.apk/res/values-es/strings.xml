@@ -569,13 +569,13 @@ Contacta a tu proveedor de servicios inalámbricos para obtener otra tarjeta SIM
     <string name="lockscreen_sim_puk_locked_instructions">Consulta la guía del usuario o ponte en contacto con el servicio de atención al cliente.</string>
     <string name="lockscreen_sim_locked_message">Introduce el código PIN.</string>
     <string name="lockscreen_sim_unlock_progress_dialog_message">Desbloqueando tarjeta SIM...</string>
-    <string name="lockscreen_too_many_failed_attempts_dialog_message">"Has realizado %1$d intentos fallidos de creación de un patrón de desbloqueo. 
+    <string name="lockscreen_too_many_failed_attempts_dialog_message">"Has realizado %1$d intentos fallidos de creación de un patrón de desbloqueo.
 
 Inténtalo de nuevo dentro de %2$d segundos."</string>
-    <string name="lockscreen_too_many_failed_password_attempts_dialog_message">"Has introducido una contraseña incorrecta %1$d veces. 
+    <string name="lockscreen_too_many_failed_password_attempts_dialog_message">"Has introducido una contraseña incorrecta %1$d veces.
 
 Inténtalo de nuevo dentro de %2$d segundos."</string>
-    <string name="lockscreen_too_many_failed_pin_attempts_dialog_message">"Has introducido un código PIN incorrecto %1$d veces. 
+    <string name="lockscreen_too_many_failed_pin_attempts_dialog_message">"Has introducido un código PIN incorrecto %1$d veces.
 
 Inténtalo de nuevo dentro de %2$d segundos."</string>
     <string name="lockscreen_failed_attempts_almost_glogin">"Has fallado %1$d veces al dibujar el patrón de desbloqueo. Si fallas otras %2$d veces, deberás usar tus credenciales de acceso de Google para desbloquear el teléfono.
@@ -1006,8 +1006,11 @@ para la cuenta %s"</string>
     <string name="submit">Enviar</string>
     <string name="car_mode_disable_notification_title">Se ha habilitado el modo coche</string>
     <string name="car_mode_disable_notification_message">Toca para salir del modo coche.</string>
-    <string name="tethered_notification_title">Compartir Internet/Zona Wi-Fi activado</string>
     <string name="tethered_notification_message">Toca para configurar.</string>
+    <string name="tethered_notification_multi_device_message">%1$s dispositivos conectados</string>
+    <string name="tethered_notification_no_device_message">Ningún dispositivo conectado</string>
+    <string name="tethered_notification_one_device_message">%1$s dispositivo conectado</string>
+    <string name="tethered_notification_title">Compartir Internet/Zona Wi-Fi activado</string>
     <string name="back_button_label">Atrás</string>
     <string name="next_button_label">Siguiente</string>
     <string name="skip_button_label">Saltar</string>
@@ -1165,13 +1168,13 @@ para la cuenta %s"</string>
     <string name="kg_login_account_recovery_hint">"Si has olvidado tu nombre de usuario o tu contraseña,
 accede a la página "<b>google.com/accounts/recovery</b>.</string>
     <string name="kg_login_checking_password">Comprobando cuenta…</string>
-    <string name="kg_too_many_failed_pin_attempts_dialog_message">"Has introducido un código PIN incorrecto %1$d veces. 
+    <string name="kg_too_many_failed_pin_attempts_dialog_message">"Has introducido un código PIN incorrecto %1$d veces.
 
 Inténtalo de nuevo en %2$d segundos."</string>
-    <string name="kg_too_many_failed_password_attempts_dialog_message">"Has introducido una contraseña incorrecta %1$d veces. 
+    <string name="kg_too_many_failed_password_attempts_dialog_message">"Has introducido una contraseña incorrecta %1$d veces.
 
 Inténtalo de nuevo en %2$d segundos."</string>
-    <string name="kg_too_many_failed_pattern_attempts_dialog_message">"Has fallado %1$d veces al dibujar tu patrón de desbloqueo. 
+    <string name="kg_too_many_failed_pattern_attempts_dialog_message">"Has fallado %1$d veces al dibujar tu patrón de desbloqueo.
 
 Inténtalo de nuevo en %2$d segundos."</string>
     <string name="kg_failed_attempts_almost_at_wipe">Has intentado desbloquear el teléfono %1$d veces, pero no lo has conseguido. Si fallas otras %2$d veces, se restablecerán los datos de fábrica y se perderán todos los datos del usuario.</string>
