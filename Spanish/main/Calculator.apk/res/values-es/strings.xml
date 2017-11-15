@@ -24,7 +24,7 @@
   <string name="convertion_unit_time">Conversor de tiempo</string>
   <string name="convertion_unit_velocity">Conversor de velocidades</string>
   <string name="convertion_unit_volume">Conversor de volúmenes</string>
-  <string name="convertion_unit_weight">Conversor de pesos</string>
+  <string name="convertion_unit_weight">Conversor de masas</string>
   <string name="cos">cos</string>
   <string name="cosDesc">coseno</string>
   <string name="currency_update_time_format">Los tipos de cambio son proporcionados por Webull (%s)</string>
