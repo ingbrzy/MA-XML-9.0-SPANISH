@@ -15,8 +15,8 @@
   <string name="add_slide">Agregar diapositiva (después)</string>
   <string name="add_slide_before">Agregar diapositiva de introducción</string>
   <string name="add_slide_hint">Toque para crear una nueva diapositiva</string>
-  <string name="add_smiley">Emoticono</string>
-  <string name="add_timing">Temporizado</string>
+  <string name="add_smiley">Emoticón</string>
+  <string name="add_timing">Programado</string>
   <string name="add_to_browser_favorite_failed">No se pudo añadir</string>
   <string name="add_to_browser_favorite_success">Agregado con éxito</string>
   <string name="add_video">Añadir vídeo</string>
