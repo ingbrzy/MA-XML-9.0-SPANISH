@@ -580,7 +580,7 @@
   <string name="mail">Correo</string>
   <string name="mail_body_turncated">Este correo es demasiado grande para cargar, sólo se mostrará parte del mensaje. Acceda más tarde a través de un PC</string>
   <string name="mail_description_content">Mail es un cliente de correo que puede administrar múltiples buzones, enviar y recibir correo electrónico, así como sincronizar información del calendario y contactos. Asegúrese de que puede hacerlo sin estas características antes de desinstalar la aplicación. Sus contactos de Exchange e información de calendario serán borradas también.</string>
-  <string name="mail_description_title">Acerca de Mail/string>
+  <string name="mail_description_title">Acerca de Mail</string>
   <string name="mail_header_network_not_available">No tiene conexión de red.</string>
   <string name="mailbox_list_account_selector_combined_view">Cuenta combinada</string>
   <string name="mailbox_name_display_ad">Anuncios y notificaciones</string>
