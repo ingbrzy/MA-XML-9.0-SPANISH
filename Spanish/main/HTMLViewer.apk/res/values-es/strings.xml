@@ -2,8 +2,9 @@
 <resources>
   <string name="ad_service">Servicio de anuncios</string>
   <string name="app_label">Visor HTML</string>
-  <string name="app_name_which_call">Aplicación:%s</string>
-  <string name="app_version_which_call">Versión aplicación:%s</string>
+  <string name="app_name_which_call">Aplicación: %s</string>
+  <string name="app_version_which_call">Versión aplicación: %s</string>
+  <string name="autoconnect">Conectar automáticamente</string>
   <string name="ime_privacy_policy">Elija teclado</string>
   <string name="license_host_unreachable">"No se puede conectar a la red. Para ver esta información,
 ve a %s"</string>
