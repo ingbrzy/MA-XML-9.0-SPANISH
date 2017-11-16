@@ -1,5 +1,13 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+    <plurals name="payment_record_menu_select_num">
+        <item quantity="other">Seleccionado %s elementos</item>
+        <item quantity="one">Seleccionado %s elemento</item>
+    </plurals>
+    <plurals name="payment_record_dialog_delete_message">
+        <item quantity="other">¿Eliminar %s elementos de los pagos?</item>
+        <item quantity="one">¿Eliminar %s elemento de los pagos?</item>
+    </plurals>
     <plurals name="time_minute_ago">
         <item quantity="other">Hace %d minutos</item>
         <item quantity="one">Hace %d minuto</item>
@@ -28,6 +36,10 @@
         <item quantity="other">En %d horas</item>
         <item quantity="one">En %d hora</item>
     </plurals>
+	<plurals name="sms_day_suffix">
+        <item quantity="other">En %d días</item>
+        <item quantity="one">En %d día</item>
+    </plurals>
     <plurals name="sms_title_hours">
         <item quantity="other">%d horas</item>
         <item quantity="one">%d hora</item>
@@ -35,5 +47,23 @@
     <plurals name="sms_title_minutes">
         <item quantity="other">%d minutos</item>
         <item quantity="one">%d minuto</item>
+    </plurals>
+	<plurals name="mins_ago">
+        <item quantity="other">Hace %1$dmin</item>
+    </plurals>
+    <plurals name="hours_ago">
+        <item quantity="other">Hace %1$dhr</item>
+    </plurals>
+    <plurals name="days_ago">
+        <item quantity="other">Hace %1$dd</item>
+    </plurals>
+	<plurals name="steps">
+        <item quantity="other">%d|pasos</item>
+        <item quantity="zero">%d|paso</item>
+        <item quantity="one">%d|pasos</item>
+    </plurals>
+    <plurals name="assistant_day">
+        <item quantity="other">En %d días</item>
+        <item quantity="one">En %d día</item>
     </plurals>
 </resources>
