@@ -2,12 +2,12 @@
 <resources>
     <string name="status_bar_toggle_bluetooth">Bluetooth</string>
     <string name="status_bar_toggle_auto_brightness">Brillo</string>
-    <string name="status_bar_toggle_data">Datos móviles</string>
+    <string name="status_bar_toggle_data">Datos</string>
     <string name="status_bar_toggle_flight_mode">Modo avión</string>
     <string name="status_bar_toggle_gps">GPS</string>
     <string name="status_bar_toggle_lock">Bloquear</string>
-    <string name="status_bar_toggle_mute">Silencio</string>
-    <string name="status_bar_toggle_rotate">Rotación apagada</string>
+    <string name="status_bar_toggle_mute">Silenciar</string>
+    <string name="status_bar_toggle_rotate">No rotar</string>
     <string name="status_bar_toggle_screen_button">Apagar botones</string>
     <string name="status_bar_toggle_screenshot">Captura de pantalla</string>
     <string name="status_bar_toggle_sync">Sincronizar</string>
@@ -55,7 +55,7 @@
     <string name="reboot_info_auto_boot">El dispositivo está programado para encenderse a las %s</string>
     <string name="reboot_info_shutdown_alarm">Siguiente alarma: %s</string>
     <string name="key_btn_space">Espacio</string>
-    <string name="key_btn_ok">OK</string>
+    <string name="key_btn_ok">Aceptar</string>
     <string name="lockscreen_access_pattern_start">Patrón iniciado</string>
     <string name="lockscreen_access_pattern_cleared">Patrón borrado</string>
     <string name="lockscreen_access_pattern_cell_added">Celda añadida</string>
@@ -145,12 +145,12 @@
     <string name="package_delete_confirm_step_1">¿Desinstalar %s?</string>
     <string name="package_delete_confirm_step_2">Desinstalar esta aplicación podría hacer el sistema inestable.</string>
     <string name="package_delete_confirm_step_3">No podrás abrir esta aplicación después de desinstalarla.</string>
-    <string name="silence_mode">Modo silencioso</string>
+    <string name="silence_mode">Modo silencio</string>
     <string name="standard">Silenciar</string>
     <string name="total">No molestar</string>
     <string name="standard_title">Silenciar</string>
     <string name="total_title">No molestar</string>
-    <string name="description_title">Modo silencioso</string>
+    <string name="description_title">Modo silencio</string>
     <string name="standard_description">Silenciar tonos para llamadas entrantes y notificaciones</string>
     <string name="total_description">Silenciar sonidos y apagar vibración para todos los elementos excepto la alarma</string>
     <string name="close">Desactivado</string>

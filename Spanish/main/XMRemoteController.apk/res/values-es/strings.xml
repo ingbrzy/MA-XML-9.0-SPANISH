@@ -299,7 +299,7 @@ Intente lo siguiente para solucionar el problema:
   <string name="epg_not_booked_program_time_left">Programado (Tiempo restante %1$s)</string>
   <string name="epg_program_comment">Escribir un comentario</string>
   <string name="epg_program_detail_more_time_events">Más eventos</string>
-  <string name="epg_program_share">Share %1$s</string>
+  <string name="epg_program_share">Compartir %1$s</string>
   <string name="epg_program_share_drama">Ver %3$s %1$s canal, tiempo de emisión:.%2$s comentarios, predicen el desarrollo del episodio, en Mi Remote</string>
   <string name="epg_program_share_game">Ver: %3$s Canal: %1$s, A las:%2$s.</string>
   <string name="epg_program_updated_to">Programa establecido a: %1$d</string>
