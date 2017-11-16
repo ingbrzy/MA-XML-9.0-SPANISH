@@ -488,8 +488,6 @@ Check your tracking number."<!--- Added line --></string>
   <string name="kakalib_bar_qr_code">条形码·二维码<!--- Added line --></string>
   <string name="kakalib_ok">确定<!--- Added line --></string>
   <string name="keyboard_alipay">支付宝安全键盘<!--- Added line --></string>
-  <string name="keyboard_more_abc">\#+=<!--- Added line --></string>
-  <string name="keyboard_more_num">123<!--- Added line --></string>
   <string name="keyboard_ok">完成<!--- Added line --></string>
   <string name="keyboard_space">空格<!--- Added line --></string>
   <string name="keyword_recommend">推荐您<!--- Added line --></string>
@@ -811,7 +809,6 @@ Check your tracking number."<!--- Added line --></string>
   <string name="steps_vip_des">Cuente los pasos sin instalar aplicaciones de terceros.</string>
   <string name="stock_card_add">Add companies<!--- Added line --></string>
   <string name="stock_card_title">Stocks<!--- Added line --></string>
-  <string name="stock_change_rate_format">%.2f%%<!--- Added line --></string>
   <string name="stock_color_schema">Esquema de colores</string>
   <string name="stock_list_empty_text">No estás siguiendo ninguna empresa.</string>
   <string name="stock_search_empty">No se pudieron encontrar resultados</string>
