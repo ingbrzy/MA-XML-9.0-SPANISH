@@ -735,7 +735,6 @@ Check your tracking number."<!--- Added line --></string>
   <string name="setting_football_fav_null">No estás siguiendo a ningún equipo</string>
   <string name="setting_football_hupu">Sportskeeda</string>
   <string name="setting_football_loading">Espera un momento…</string>
-  <string name="setting_football_select_title">Selecciona los equipos a seguir（%d/%d）</string>
   <string name="setting_football_toast_max">Puedes seleccionar hasta 4 equipos</string>
   <string name="setting_home_label">Agregar domicilio</string>
   <string name="setting_launch_all_added">No puedes añadir más artículos</string>
