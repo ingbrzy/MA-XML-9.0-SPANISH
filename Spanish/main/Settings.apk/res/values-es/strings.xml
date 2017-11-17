@@ -2815,7 +2815,7 @@ Esto también dará a la aplicación la capacidad de activar y desactivar No Mol
   <string name="open_personal_assistant_dialog_btn_confirm">Cerrar</string>
   <string name="open_personal_assistant_dialog_desc">"Usted no va a utilizar el asistente inteligente y no recibirá actualizaciones. ¿Desactivar ahora?"</string>
   <string name="open_personal_assistant_dialog_title">Desactivar el asistente inteligente</string>
-  <string name="open_personal_assistant_title">Activar el asistente asistente inteligente</string>
+  <string name="open_personal_assistant_title">Activar el asistente inteligente</string>
   <string name="open_sdcard_optimization_title">abrir optimizador del emulador de la sdcard</string>
   <string name="open_sdcard_optimization_warning_message">El dispositivo se reiniciará para aplicar este cambio..</string>
   <string name="open_wifi_connect_summary">Pulse para ver los detalles.</string>
