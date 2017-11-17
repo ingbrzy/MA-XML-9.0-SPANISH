@@ -116,14 +116,13 @@ Inicie sesión en i.mi.com, vaya a "Buscar dispositivo", seleccione el dispositi
   <string name="input_password_handle_sdcard_fs">Desactiva \"Optimización de la tarjeta SD emulada\" antes de entrar en el Segundo espacio.</string>
   <string name="phone_locked_foget_password_method_content"><Data>Tiene que <font color="#a5220e">borrar todos los datos </font> de su dispositivo, incluyendo fotos y contactos, y establecer un nuevo bloqueo de pantalla.</Data></string>
   <string name="phone_locked_forget_password_suggesstion_one_content"><Data>Apaga tu dispositivo, mantén pulsado el <font color="#a5220e">Botón de encendido </font> y el <font color="#a5220e">Botón de subir volumen </font>simultaneamente hasta que vea el logo de Xiaomi.</Data></string>
-  <string name="phone_locked_forget_password_suggesstion_two_content"><Data>Selecione <font color="#a5220e">"Wipe &amp; Reset"</font> y espere a que el dispositivo se reincie.</Data></string>
-  <!--Sin traduicir-->
+  <string name="phone_locked_forget_password_suggesstion_two_content"><Data>Selecione <font color="#a5220e">"Wipe y Reset"</font> y espere a que el dispositivo se reinicie.</Data></string>
   <string name="face_data_input_title">Añadir datos faciales</string>
   <string name="face_data_introduction_title">Reconocimiento facial</string>
   <string name="face_data_introduction_msg">Los datos faciales se pueden usar para desbloquear su dispositivo o verificar su identidad. Agregue la contraseña de la pantalla de bloqueo antes de agregar sus datos faciales.</string>
   <string name="face_data_introduction_next">Siguiente</string>
   <string name="face_data_suggesstion_first">Desbloquear su dispositivo usando sus datos faciales es menos seguro que usar una contraseña de la pantalla de bloqueo. Su dispositivo podría ser desbloqueado por personas que se parezcan a usted.</string>
-  <string name="face_data_suggesstion_second">Asegúrese de que todas las partes de su cara no estén cubiertas por objetos y que sean claramente visibles. Tu rostro debe estar bien iluminado también.</string>
+  <string name="face_data_suggesstion_second">Asegúrese de que todas las partes de su cara no estén cubiertas por objetos y que sean claramente visibles. Su rostro debe estar bien iluminado también.</string>
   <string name="face_data_input_camera_fail">No se pudo cargar la cámara</string>
   <string name="face_data_input_camera_ok">Cargando cámara\u2026</string>
   <string name="face_data_input_msg">Coloque su cara dentro del marco</string>
@@ -140,29 +139,29 @@ Inicie sesión en i.mi.com, vaya a "Buscar dispositivo", seleccione el dispositi
   <string name="face_data_manage_delete_sure">No podrá desbloquear el dispositivo utilizando sus datos faciales después de eliminarlo.</string>
   <string name="face_unlock_by_notification_screen_on_title">Permitir desbloqueo facial cuando la pantalla se ilumina</string>
   <string name="face_unlock_by_notification_screen_on_msg">Puede desbloquear el dispositivo usando datos faciales siempre que la pantalla se encienda para las notificaciones entrantes. Esto puede descargar la batería más rápido.</string>
-  <string name="face_unlock_not_found">No te reconocí</string>
+  <string name="face_unlock_not_found">No le reconocí</string>
   <string name="face_unlock_adjust_distance">Asegúrese de que la distancia entre su cara y el dispositivo sea óptima.</string>
-  <string name="face_unlock_close_screen">Acércate a la pantalla</string>
+  <string name="face_unlock_close_screen">Acérquese a la pantalla</string>
   <string name="face_unlock_stay_away_screen">Manténgase de 25 a 40 cm de la pantalla</string>
   <string name="face_unlock_be_on_the_screen">Mantenga el dispositivo frente a su cara</string>
   <string name="face_unlock_identify_error">Se produjo un error de reconocimiento</string>
-  <string name="face_unlock_open_eye">Abre los ojos un poco más</string>
-  <string name="face_unlock_reveal_eye">Tus ojos deben estar visibles</string>
-  <string name="face_unlock_reveal_mouth">Tus labios deben estar visibles</string>
-  <string name="face_unlock_check_failed">No te reconocí</string>
-  <string name="btn_camera">Ingresa tu cara</string>
-  <string name="face_unlock_passwork_and_fingerprint">Usa contraseña o reconocimiento facial</string>
+  <string name="face_unlock_open_eye">Abra los ojos un poco más</string>
+  <string name="face_unlock_reveal_eye">Sus ojos deben estar visibles</string>
+  <string name="face_unlock_reveal_mouth">Sus labios deben estar visibles</string>
+  <string name="face_unlock_check_failed">No le reconocí</string>
+  <string name="btn_camera">Ingrese tu cara</string>
+  <string name="face_unlock_passwork_and_fingerprint">Use contraseña o reconocimiento facial</string>
   <string name="face_unlock_passwork">Usar contraseña</string>
   <string name="unlock_failed">Error interno</string>
   <string name="unlock_failed_face_not_found">Detectando</string>
   <string name="unlock_camera_steady">Por favor manténgase</string>
-  <string name="face_unlock_offset_left">Muévete a la derecha</string>
-  <string name="face_unlock_offset_top">Levanta tu teléfono un poco</string>
-  <string name="face_unlock_offset_right">Muévete a la izquierda</string>
-  <string name="face_unlock_offset_bottom">Baja un poco tu teléfono</string>
-  <string name="face_unlock_rotated_left">Gira la cabeza hacia la derecha</string>
+  <string name="face_unlock_offset_left">Muévase a la derecha</string>
+  <string name="face_unlock_offset_top">Levante tu teléfono un poco</string>
+  <string name="face_unlock_offset_right">Muévase a la izquierda</string>
+  <string name="face_unlock_offset_bottom">Baje un poco su teléfono</string>
+  <string name="face_unlock_rotated_left">Gire su cabeza hacia la derecha</string>
   <string name="face_unlock_rotated_right">Gire su cabeza hacia la izquierda</string>
-  <string name="face_unlock_rise">Baja tu cabeza</string>
-  <string name="face_unlock_down">Levanta tu cabeza</string>
-  <string name="face_unlock_quality">No pudo ver tu cara claramente</string>
+  <string name="face_unlock_rise">Baje tu cabeza</string>
+  <string name="face_unlock_down">Levante su cabeza</string>
+  <string name="face_unlock_quality">No pudo ver su cara claramente</string>
 </resources>
