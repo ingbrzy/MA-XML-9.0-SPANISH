@@ -161,7 +161,7 @@ Inicie sesión en i.mi.com, vaya a "Buscar dispositivo", seleccione el dispositi
   <string name="face_unlock_offset_bottom">Baje un poco su teléfono</string>
   <string name="face_unlock_rotated_left">Gire su cabeza hacia la derecha</string>
   <string name="face_unlock_rotated_right">Gire su cabeza hacia la izquierda</string>
-  <string name="face_unlock_rise">Baje tu cabeza</string>
+  <string name="face_unlock_rise">Baje su cabeza</string>
   <string name="face_unlock_down">Levante su cabeza</string>
   <string name="face_unlock_quality">No pudo ver su cara claramente</string>
 </resources>
