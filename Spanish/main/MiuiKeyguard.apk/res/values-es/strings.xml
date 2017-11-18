@@ -156,7 +156,7 @@ Inicie sesión en i.mi.com, vaya a "Buscar dispositivo", seleccione el dispositi
   <string name="unlock_failed_face_not_found">Detectando</string>
   <string name="unlock_camera_steady">Por favor manténgase</string>
   <string name="face_unlock_offset_left">Muévase a la derecha</string>
-  <string name="face_unlock_offset_top">Levante tu teléfono un poco</string>
+  <string name="face_unlock_offset_top">Levante su teléfono un poco</string>
   <string name="face_unlock_offset_right">Muévase a la izquierda</string>
   <string name="face_unlock_offset_bottom">Baje un poco su teléfono</string>
   <string name="face_unlock_rotated_left">Gire su cabeza hacia la derecha</string>
