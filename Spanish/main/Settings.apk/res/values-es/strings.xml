@@ -140,6 +140,7 @@ Si hay varios usuarios en el dispositivo, usar este acceso directo en la pantall
   <string name="add_auto_startup_application">Añadir aplicaciones de inicio automático</string>
   <string name="add_device_admin">Activar este administrador de dispositivo</string>
   <string name="add_device_admin_msg">¿Activar administrador de dispositivos?</string>
+  <string name="add_facerecoginition_text">Agregar datos faciales</string>
   <string name="add_fingerprint_done_msg">Ahora podrá desbloquear el dispositivo con su huella.</string>
   <string name="add_fingerprint_done_title">¿Listo para disfrutar?</string>
   <string name="add_fingerprint_failed_retry_text">No se pudo añadir la huella dactilar, vuelva a intentarlo</string>
@@ -1682,7 +1683,8 @@ Es posible que algunas aplicaciones no funcionen hasta que los desarrolladores l
   <string name="fingerprint_enable_keyguard_toggle_title">bloqueo de pantalla</string>
   <string name="fingerprint_enroll_button_add">Añadir otra</string>
   <string name="fingerprint_enroll_button_next">Siguiente</string>
-  <string name="fingerprint_first_open_screen_password_tittle">Huella dactilar (establecer contraseña de bloqueo antes de usarla)</string>
+  <string name="fingerprint_first_open_screen_password_face_tittle">Cara (establecer la Contraseña de la pantalla de bloqueo primero)</string>
+  <string name="fingerprint_first_open_screen_password_tittle">Huella dactilar (establecer la Contraseña de la pantalla de bloqueo primero)</string>
   <string name="fingerprint_for_keyguard_disabled">Se desactivó la huella dactilar por razones de seguridad.</string>
   <string name="fingerprint_identify_input_password_msg">Introduzca contraseña</string>
   <string name="fingerprint_identify_msg">Escaneando huella…</string>
@@ -2295,6 +2297,8 @@ Puede configurar un nuevo bloqueo de pantalla común para su dispositivo y su pe
   <string name="lockscreen_glogin_checking_password">Comprobando…</string>
   <string name="lockscreen_glogin_password_hint">Contraseña</string>
   <string name="lockscreen_glogin_submit_button">Iniciar sesión</string>
+  <string name="lockscreen_magazine">Carrusel de Fondos de pantalla</string>
+  <string name="lockscreen_magazine_title">Carrusel de Fondos de pantalla</string>
   <string name="lockscreen_remote_input">Si el dispositivo está bloqueado, impedir que se tecleen respuestas u otros textos en las notificaciones</string>
   <string name="login_account_dialog_message">Inicie sesión con su Cuenta Mi y active la sincronización con Mi Cloud.</string>
   <string name="login_account_dialog_title">Iniciar sesión con una Cuenta Mi</string>
