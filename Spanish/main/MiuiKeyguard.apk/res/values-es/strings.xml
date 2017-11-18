@@ -124,7 +124,7 @@ Inicie sesión en i.mi.com, vaya a "Buscar dispositivo", seleccione el dispositi
   <string name="face_data_suggesstion_first">Desbloquear su dispositivo usando sus datos faciales es menos seguro que usar una contraseña de la pantalla de bloqueo. Su dispositivo podría ser desbloqueado por personas que se parezcan a usted.</string>
   <string name="face_data_suggesstion_second">Asegúrese de que todas las partes de su cara no estén cubiertas por objetos y que sean claramente visibles. Su rostro debe estar bien iluminado también.</string>
   <string name="face_data_input_camera_fail">No se pudo cargar la cámara</string>
-  <string name="face_data_input_camera_ok">Cargando cámara\u2026</string>
+  <string name="face_data_input_camera_ok">Cargando cámara…</string>
   <string name="face_data_input_msg">Coloque su cara dentro del marco</string>
   <string name="face_data_input_ok_title">Agregada exitosamente</string>
   <string name="face_data_input_ok_msg">Encienda la pantalla para desbloquear el dispositivo usando sus datos faciales.</string>
