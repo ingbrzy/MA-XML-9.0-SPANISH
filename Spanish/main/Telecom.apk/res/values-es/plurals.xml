@@ -2,6 +2,6 @@
 <resources>
     <plurals name="notification_missedCallTitle">
         <item quantity="other">Llamadas perdidas</item>
-        <item quantity="one">Llamadas perdida</item>
+        <item quantity="one">Llamada perdida</item>
     </plurals>
 </resources>
