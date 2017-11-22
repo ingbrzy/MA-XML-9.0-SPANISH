@@ -321,7 +321,7 @@
   <string name="edit_baby_info">Ver información del bebé</string>
   <string name="edited_photo_bucket_name">Editado</string>
   <string name="effect">Filtros</string>
-  <string name="email_picker_title">Add shared Email</string>
+  <string name="email_picker_title">Añadir correo electrónico compartido</string>
   <string name="empty_query_text_msg">"No sé qué buscar…"</string>
   <string name="empty_recommend_back">Atrás</string>
   <string name="empty_recommend_face_page_view">No más recomendaciones</string>
