@@ -54,7 +54,7 @@
   </plurals>
   <plurals name="delete_photo_from_local">
         <item quantity="other">¿Eliminar %d fotos?</item>
-        <item quantity="one">¿Borra esta foto?</item>
+        <item quantity="one">¿Borrar esta foto?</item>
    </plurals>
    <plurals name="delete_photo_from_all_devices_and_cloud_msg">
         <item quantity="other">¿Eliminar %d fotos de todos los dispositivos y Mi Cloud?</item>
@@ -89,8 +89,8 @@
         <item quantity="one">¿Eliminar %d elemento de este álbum y Mi Cloud?</item>
   </plurals>
   <plurals name="download_retry_message">
-        <item quantity="other">"No se pudo descargar %1$d archivos, compruebe la conexión y inténtelo de nuevo"</item>
-        <item quantity="one">"No se pudo descargar %1$d archivo, compruebe la conexión y inténtelo de nuevo"</item>
+        <item quantity="other">"No se pudo descargar %1$d archivos, compruebe la conexión e inténtelo de nuevo"</item>
+        <item quantity="one">"No se pudo descargar %1$d archivo, compruebe la conexión e inténtelo de nuevo"</item>
   </plurals>
   <plurals name="custom_select_title_items_selected">
         <item quantity="other">%d elementos seleccionados</item>
