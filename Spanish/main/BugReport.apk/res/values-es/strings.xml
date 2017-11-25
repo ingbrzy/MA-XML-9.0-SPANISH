@@ -59,6 +59,7 @@
   <string name="feedback_continue">Continuar con el feedback</string>
   <string name="feedback_description">Descripción</string>
   <string name="feedback_description_bugreport_hint">En algunos casos (…) mi teléfono tiene fallos (…).</string>
+  <string name="feedback_description_hint">"Describe el problema que has encontrado"</string>
   <string name="feedback_description_label">Descripción</string>
   <string name="feedback_description_suggest_hint">Me gustaría añadir una nueva función () porque necesito ().</string>
   <string name="feedback_detail_tile">Progreso</string>
