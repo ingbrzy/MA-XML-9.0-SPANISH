@@ -1012,6 +1012,7 @@ Su tarjeta SIM podría eliminarse después del último intento fallido."</string
   <string name="respond_via_sms_cannot_empty">Rechazar mensajes no puede estar vacío</string>
   <string name="respond_via_sms_confirmation_format">Mensaje enviado a %s.</string>
   <string name="respond_via_sms_edittext_dialog_title">Respuesta rápida</string>
+  <string name="respond_via_sms_menu_reset_default_activity">Restaurar valores predeterminados</string>
   <string name="respond_via_sms_setting_summary">Editar respuestas de texto predeterminadas</string>
   <string name="respond_via_sms_setting_title">Respuestas rápidas</string>
   <string name="response_error">Respuesta inesperada de la red.</string>
