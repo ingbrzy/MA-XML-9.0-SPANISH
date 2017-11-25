@@ -122,8 +122,8 @@
         <item quantity="one">¿Desbloquear %1$d número?</item>
     </plurals>
     <plurals name="callNoAnswerTimeFormat">
-        <item quantity="other">Sonó %d veces</item>
-        <item quantity="one">Sonó %d vez</item>
+        <item quantity="other">Sonó %1$d veces</item>
+        <item quantity="one">Sonó %1$d vez</item>
     </plurals>
     <plurals name="contacts_count">
         <item quantity="other">%1$d contactos</item>
