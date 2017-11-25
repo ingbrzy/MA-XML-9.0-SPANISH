@@ -1646,6 +1646,8 @@ Es posible que algunas aplicaciones no funcionen hasta que los desarrolladores l
   <string name="external_storage_turn_on">El almacenamiento externo ha sido activado</string>
   <string name="extreme_threats_summary">Recibe alertas de amenazas graves contra la vida y propiedad</string>
   <string name="extreme_threats_title">Amenazas graves</string>
+  <string name="face_unlock_disable">Desbloqueo facial está desactivado</string>
+  <string name="face_unlock_enable">Desbloqueo facial está activado</string>
   <string name="factory_reset_summary">Borrar todos los datos de la memoria interna de su teléfono</string>
   <string name="failed_to_check_find_device_status_content">No se pudo comprobar el estado de localizar el dispositivo. Espere un minuto o dos y vuelva a intentarlo.</string>
   <string name="failed_to_check_find_device_status_title">No se pudo comprobar el estado</string>
@@ -2321,6 +2323,8 @@ Puede configurar un nuevo bloqueo de pantalla común para su dispositivo y su pe
   <string name="manage_condition_providers_summary_zero">Ninguna aplicación proporciona condiciones</string>
   <string name="manage_device_admin">Administradores de dispositivos</string>
   <string name="manage_device_admin_summary">Ver o desactivar administradores de dispositivo</string>
+  <string name="manage_facerecoginition_text">Administrar datos de la cara</string>
+  <string name="manage_fakecell_settings">Protección contra estaciones base falsas</string>
   <string name="manage_fingerprint_text">Gestionar huellas</string>
   <string name="manage_mobile_plan_title">Plan móvil</string>
   <string name="manage_notification_access_summary_zero">Las aplicaciones no pueden leer notificaciones</string>
