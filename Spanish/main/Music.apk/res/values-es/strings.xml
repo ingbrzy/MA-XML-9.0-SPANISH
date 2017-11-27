@@ -31,7 +31,7 @@
   <string name="add_music">Añadir canciones</string>
   <string name="add_to_last_of_playlist">Añadir al final de la lista de reproducción.</string>
   <string name="add_to_playlist_successful">Añadida correctamente</string>
-  <string name="alaka_required">Usted debe pagar por esta canción para poder escucharla</string>
+  <string name="alaka_required"Debe pagar por esta canción para poder escucharla</string>
   <string name="album_name">Álbum</string>
   <string name="album_search_title">Álbum</string>
   <string name="all_artist">Todos los artistas</string>
@@ -43,7 +43,7 @@
   <string name="already_download">Descargando…</string>
   <string name="already_download_btn">Descargando…</string>
   <string name="already_favorited">Ya está en Favoritos</string>
-  <string name="android_sdk_too_low">Para la versión android está por debajo de lo establecido y la aplicación no puede actualizarse. Actualiza tu sistema android antes.</string>
+  <string name="android_sdk_too_low">La versión de Android está por debajo de lo establecido y la aplicación no puede actualizarse. Actualice su sistema Android primero.</string>
   <string name="apk_filter">APK</string>
   <string name="app_downloads">%s descargas</string>
   <string name="app_label">Descargas</string>
@@ -66,25 +66,25 @@
   <string name="artist_search_title">Artista</string>
   <string name="artist_view">Artista</string>
   <string name="asset_sync_alert_not_now">Ahora no</string>
-  <string name="asset_sync_network_data_alert_message">Copia de seguridad de las canciones mediante datos móviles puede generar cargos de datos móviles adicionales. ¿Quiere realizar de todos modos una copia de seguridad?</string>
+  <string name="asset_sync_network_data_alert_message">Copia de seguridad de las canciones mediante datos móviles puede generar cargos adicionales. ¿Desea realizar de todos modos una copia de seguridad?</string>
   <string name="asset_sync_network_data_alert_title">"Estás usando datos móviles"</string>
   <string name="asset_sync_network_unavailable_alert_message">No se puede conectar a internet para hacer una copia de seguridad de las canciones.</string>
   <string name="asset_sync_network_unavailable_alert_title">"No se pudo conectar a al red"</string>
-  <string name="asset_sync_power_alert_message">Conecta el cargador para hacer una copia de seguridad de las canciones.</string>
+  <string name="asset_sync_power_alert_message">Conecte el cargador para hacer una copia de seguridad de las canciones.</string>
   <string name="asset_sync_power_alert_title">Batería baja</string>
   <string name="atmd_music">Último</string>
-  <string name="audio_picker_title">Elige una canción</string>
+  <string name="audio_picker_title">Elija una canción</string>
   <string name="auth_activity_title">"Cuenta Xunlei "</string>
   <string name="auto_download_in_wifi">Descargar canciones favoritas usando Wi-Fi</string>
   <string name="auto_payment">Renovar automáticamente</string>
   <string name="auto_payment_date">Próximo pago: %s</string>
-  <string name="auto_restart_under_wifi">El archivo se descargará cuando el dispositivo esté conectado a WI-FI</string>
+  <string name="auto_restart_under_wifi">El archivo se descargará cuando el dispositivo esté conectado a Wi-Fi</string>
   <string name="auto_upgrade">Actualizar automáticamente</string>
   <string name="avail_services">Servicios disponibles</string>
   <string name="available_playlist_name_format">Nueva lista de reproducción %d</string>
   <string name="avoid_to_use_traffic_summary">No usar datos móviles para escuchar música por streaming</string>
   <string name="avoid_to_use_traffic_title">Preguntar cuando se usen datos móviles para reproducir canciones</string>
-  <string name="back_confirm">Toca otra vez para salir</string>
+  <string name="back_confirm">Pulse otra vez para salir</string>
   <string name="backup_complete">Se hará una copia de seguridad de todas las canciones en Mi Cloud</string>
   <string name="backup_empty_button">No se han seleccionado canciones</string>
   <string name="backup_immediate">Copia de seguridad</string>
@@ -106,7 +106,7 @@
   <string name="buy_traffic">Compra Unicom</string>
   <string name="can_not_find_resource">No se encuentra el recurso</string>
   <string name="cancel">Cancelar</string>
-  <string name="cancel_running_download">Cancel</string>
+  <string name="cancel_running_download">Cancelar</string>
   <string name="change_download_quality">Cambiar la calidad de la descarga</string>
   <string name="channel_list_fragment_title">Radio</string>
   <string name="chinese_female">Artistas femeninas (China)</string>
@@ -114,8 +114,8 @@
   <string name="chinese_male">Artistas masculinos (China)</string>
   <string name="choose_download_quality">Elegir calidad de descarga</string>
   <string name="choose_stream_quality">Elegir calidad de streaming</string>
-  <string name="click_modify">Toque para editar la letra.</string>
-  <string name="click_to_shuffle">Toque para mezclar</string>
+  <string name="click_modify">Pulse para editar la letra.</string>
+  <string name="click_to_shuffle">Pulse para reproducir</string>
   <string name="close_music_time">"Tiempo restante: "</string>
   <string name="cloud_empty_local_empty_button">No hay canciones en este dispositivo</string>
   <string name="cloud_empty_message">No hay canciones en Mi Cloud</string>
@@ -127,7 +127,7 @@
   <string name="cloud_space_full">Sin espacio de almacenamiento</string>
   <string name="cloud_space_full_message">No hay suficiente espacio en su nube de Mi para agregar más canciones. Para obtener más espacio, actualiza la Cuenta Mi</string>
   <string name="cloud_state_cloud_space_full">No hay suficiente espacio en Mi Cloud, respaldo detenido</string>
-  <string name="cloud_state_low_power">Conecta el cargador para continuar la copia</string>
+  <string name="cloud_state_low_power">Conecte el cargador para continuar la copia</string>
   <string name="cloud_state_network_data">"No se pudo encontrar redes Wi-Fi, respaldo detenido"</string>
   <string name="cloud_state_network_unavailable">"No se pudo conectar con la red, copia de seguridad detenida"</string>
   <string name="cloud_state_storage_full">No hay suficiente almacenamiento en el teléfono, copia de seguridad detenida</string>
@@ -206,7 +206,7 @@ es proporcionado principalmente por Ultimate Inc."</string>
   <string name="disable_auto_payment_fail">No se pudo desactivar</string>
   <string name="disable_auto_payment_fail_message">No se pudo desactivar la renovación automática</string>
   <string name="disable_auto_payment_success">Desactivar</string>
-  <string name="disable_auto_payment_success_message">Se desactivó la renovación automática. Después de que finalice tu suscripción actual, tendrás que volver a suscribirte para descargar canciones.</string>
+  <string name="disable_auto_payment_success_message">Se desactivó la renovación automática. Después de que finalice su suscripción actual, tendrá que volver a suscribirse para descargar canciones.</string>
   <string name="disallow_add_to_fm">No se pueden agregar canciones a la radio FM</string>
   <string name="disallow_add_to_personal_radio">Radio personal es sólo de lectura</string>
   <string name="do_not_remind_again">No mostrar de nuevo</string>
@@ -227,7 +227,7 @@ es proporcionado principalmente por Ultimate Inc."</string>
   <string name="download_auto_when_all_network">Usar datos móviles y Wi-Fi</string>
   <string name="download_auto_when_free_network">Usar sólo Wi-Fi</string>
   <string name="download_auto_when_free_network_summary">Ajustes adicionales para canciones favoritas</string>
-  <string name="download_cloud_error_not_auth">Inicie sesión en tu Cuenta Mi e inténtelo de nuevo</string>
+  <string name="download_cloud_error_not_auth">Inicie sesión en su Cuenta Mi e inténtelo de nuevo</string>
   <string name="download_cloud_error_retryable">Servidor Mi Cloud tuvo un error. Inténtelo mas tarde</string>
   <string name="download_cloud_error_unknow">No se pudo conectar con Mi Cloud</string>
   <string name="download_complete">Descarga completada</string>
@@ -235,7 +235,7 @@ es proporcionado principalmente por Ultimate Inc."</string>
   <string name="download_complete_start_install">Instalando…</string>
   <string name="download_completed">Descargado</string>
   <string name="download_confirm_button_text">Instalar</string>
-  <string name="download_confirm_text">Mi Music se descargara y se instalara %s</string>
+  <string name="download_confirm_text">Mi Music se descargará y se instalará %s</string>
   <string name="download_done_btn">Descargado</string>
   <string name="download_error">Error</string>
   <string name="download_error_insufficient_space">Sin espacio</string>
@@ -244,7 +244,7 @@ es proporcionado principalmente por Ultimate Inc."</string>
   <string name="download_in_process">DESCARGANDO</string>
   <string name="download_info_start_deleted_tasks">Eliminar las descargas</string>
   <string name="download_list_get_free_vip">prueba Xunlei</string>
-  <string name="download_list_get_hightspeed_flow_auto_open">Xunlei acelerador de descargas esta encendido</string>
+  <string name="download_list_get_hightspeed_flow_auto_open">Xunlei acelerador de descargas está encendido</string>
   <string name="download_list_get_hightspeed_flow_pay_ok">Pago completado</string>
   <string name="download_list_get_hightspeed_flow_sucess_head">Sesión de prueba Xunlei creada</string>
   <string name="download_list_get_hightspeed_flow_sucess_tail">Disfrutar de velocidades de descarga más rápidas by Xunlei</string>
@@ -253,7 +253,7 @@ es proporcionado principalmente por Ultimate Inc."</string>
   <string name="download_method">Descargar</string>
   <string name="download_no_application_title">No se puede abrir el archivo</string>
   <string name="download_paused">Descarga pausada</string>
-  <string name="download_paused_in_power_save_mode">Las descargas se pusieron en pausa cuando se activo el ahorro de batería</string>
+  <string name="download_paused_in_power_save_mode">Las descargas se pusieron en pausa cuando se activó el ahorro de batería</string>
   <string name="download_pending">Descarga pendiente</string>
   <string name="download_percent">%d%%</string>
   <string name="download_processing">Descargando…</string>
@@ -274,8 +274,8 @@ es proporcionado principalmente por Ultimate Inc."</string>
   <string name="download_traffic_dialog_buy_package">Comprar plan Música</string>
   <string name="download_traffic_dialog_msg">Tiene %s de datos móviles. ¿Utilizar datos móviles para descargar canciones?</string>
   <string name="download_traffic_dialog_msg_beyond">"Ya ha superado su límite de datos móviles %s. ¿Utilizar datos móviles para descargar canciones?"</string>
-  <string name="download_traffic_dialog_msg_serious">Solo tienes %s de datos móviles. ¿Utilizar datos móviles para descargar canciones?</string>
-  <string name="download_traffic_dialog_msg_without_data">"Estás utilizando datos móviles para descargar canciones. ¿Descargar de todos modos?"</string>
+  <string name="download_traffic_dialog_msg_serious">Solo tiene %s de datos móviles. ¿Utilizar datos móviles para descargar canciones?</string>
+  <string name="download_traffic_dialog_msg_without_data">"Está utilizando datos móviles para descargar canciones. ¿Descargar de todos modos?"</string>
   <string name="download_traffic_dialog_negative_button">Esperando por Wi-Fi</string>
   <string name="download_traffic_dialog_position_button">Descargar</string>
   <string name="download_traffic_dialog_position_button_serious">Todavía en descarga</string>
@@ -326,7 +326,7 @@ es proporcionado principalmente por Ultimate Inc."</string>
   <string name="eq_preset_format">Ajuste predeterminado de usuario %d</string>
   <string name="eq_preset_hint">Nombre efecto</string>
   <string name="eq_preset_rename">Renombrar</string>
-  <string name="eq_preset_select">Elige un ajuste predeterminado</string>
+  <string name="eq_preset_select">Elija un ajuste predeterminado</string>
   <string name="eq_rock">Rock</string>
   <string name="equalizer">Ecualizador</string>
   <string name="error_forbidden">La sincronización ha sido desactivada debido a problemas con su cuenta.</string>
@@ -411,7 +411,7 @@ es proporcionado principalmente por Ultimate Inc."</string>
   <string name="home_tab_online">Descubrir</string>
   <string name="i_know">Aceptar</string>
   <string name="i_know_it">Aceptar</string>
-  <string name="impunity_declaration_content1">"Tocando aceptar, acepta los términos expuestos en nuestros "</string>
+  <string name="impunity_declaration_content1">"Pulsando en aceptar, aceptará los términos expuestos en nuestros "</string>
   <string name="impunity_declaration_content2">Acuerdo de Usuario</string>
   <string name="impunity_declaration_content3">" y "</string>
   <string name="impunity_declaration_content4">Política de Privacidad</string>
@@ -449,7 +449,7 @@ es proporcionado principalmente por Ultimate Inc."</string>
   <string name="local_music_is_not_available">La música local no está disponible</string>
   <string name="local_page_artist">Seguir artistas</string>
   <string name="local_page_custom_subtitle">Nuevas canciones todos los días</string>
-  <string name="local_page_custom_title">Para ti</string>
+  <string name="local_page_custom_title">Para usted</string>
   <string name="local_page_playlist">Listas de reproducción</string>
   <string name="local_page_song_all">Todas las canciones</string>
   <string name="local_page_song_download">Canciones locales</string>
@@ -506,7 +506,7 @@ es proporcionado principalmente por Ultimate Inc."</string>
   <string name="miuishare_title_share">Compartir</string>
   <string name="miuishare_wechat_timeline_title">Momentos WeChat</string>
   <string name="miuishare_weibo_title">Weibo</string>
-  <string name="mobile_recommended_title">Mobile data usage</string>
+  <string name="mobile_recommended_title">Uso de datos móviles</string>
   <string name="modify_lyric">Editar letra</string>
   <string name="modify_progress">Cambiar velocidad de desplazamiento de la letra</string>
   <string name="modify_progress_helper">Deslice arriba o abajo para ajustar el avance de la letra.</string>
@@ -674,7 +674,7 @@ es proporcionado principalmente por Ultimate Inc."</string>
   <string name="pulluprefreshrecyclerview_loading_finished">Cargado correctamente</string>
   <string name="pulluprefreshrecyclerview_loading_running">Cargando…</string>
   <string name="radar">ACRCloud</string>
-  <string name="radar_click_to_retry">Toca para reintentar</string>
+  <string name="radar_click_to_retry">Pulse para reintentar</string>
   <string name="radar_fail">No hay resultados</string>
   <string name="radar_fail_by_noise">Puede ser demasiado ruidoso</string>
   <string name="radar_listening_state">El reconocimiento está en proceso</string>
@@ -686,8 +686,8 @@ es proporcionado principalmente por Ultimate Inc."</string>
   <string name="recently_played">Recientes</string>
   <string name="recently_played_songs">Recientes</string>
   <string name="recommend_fragment_title">Destacado</string>
-  <string name="recommended_file_size_download_in_mobile">Usar %s datos móviles para descargar este archivo?</string>
-  <string name="recommended_no_file_size_download_in_mobile">Usa datos móviles para descargar este archivo??</string>
+  <string name="recommended_file_size_download_in_mobile">¿Usar %s datos móviles para descargar este archivo?</string>
+  <string name="recommended_no_file_size_download_in_mobile">¿Usar datos móviles para descargar este archivo?</string>
   <string name="remaining">Restante este mes:</string>
   <string name="remove">Borrar</string>
   <string name="remove_download">Retirar</string>
@@ -781,7 +781,7 @@ es proporcionado principalmente por Ultimate Inc."</string>
   <string name="sleep_mode_canceled">Temporizador desactivado</string>
   <string name="sleep_mode_summary">Parar el reproductor tras cierto tiempo transcurrido</string>
   <string name="sleep_mode_title">Temporizador</string>
-  <string name="song_exist_in_playlist">Operación fallida. Canción ya está en la lista de reproducción existente.</string>
+  <string name="song_exist_in_playlist">Operación fallida. La canción ya está en la lista de reproducción existente.</string>
   <string name="song_is_empty">El nombre de la canción no puede estar vacío.</string>
   <string name="song_name">Canción</string>
   <string name="song_not_find">La canción no está disponible.</string>
@@ -872,7 +872,7 @@ es proporcionado principalmente por Ultimate Inc."</string>
   <string name="track_view">Canción</string>
   <string name="traffic_free_to_play">Utilizar el plan de datos de música</string>
   <string name="traffic_network_alert">Mi Music data plan</string>
-  <string name="traffic_network_alert_message">Estás usando Música Mi con un plan de datos de China Unicom. Debe conectarse a una red que no sea de datos para escuchar canciones en línea sin tener que gastar los datos móviles. Asegúrese de verificar la configuración de la red antes de escuchar música en línea.</string>
+  <string name="traffic_network_alert_message">Está usando Música Mi con un plan de datos de China Unicom. Debe conectarse a una red que no sea de datos para escuchar canciones en línea sin tener que gastar los datos móviles. Asegúrese de verificar la configuración de la red antes de escuchar música en línea.</string>
   <string name="trigger_to_scan_media_library_finish">Actualización completada</string>
   <string name="trigger_to_scan_media_library_processing">Todavía actualizando…</string>
   <string name="trigger_to_scan_media_library_start">Actualizando…</string>
@@ -882,7 +882,7 @@ es proporcionado principalmente por Ultimate Inc."</string>
   <string name="unknown_artist_name">Artista desconocido</string>
   <string name="update_now">Actualizar ahora</string>
   <string name="upgrade">Actualizar:</string>
-  <string name="upgrade_force">Dejamos de dar servicio a nuestro servicio de streaming actual por problemas de copyright. Actualiza a la última versión de nuestra aplicación de Música para escuchar música de alta calidad.</string>
+  <string name="upgrade_force">Dejamos de dar servicio a nuestro servicio de streaming actual por problemas de copyright. Actualice a la última versión de nuestra aplicación de Música para escuchar música de alta calidad.</string>
   <string name="upgrade_immediate">Actualizar ahora</string>
   <string name="upgrade_membership">Obtener mas espacio</string>
   <string name="upgrade_music">Actualizar música</string>
@@ -897,21 +897,21 @@ es proporcionado principalmente por Ultimate Inc."</string>
   <string name="version_info">Versión</string>
   <string name="vip_after_tomorrow_auto_renew_message">Su suscripción de Música se renovará automáticamente la noche del día después de mañana. Asegúrese de tener suficientes Mi Credits en su cuenta para completar este pago.</string>
   <string name="vip_after_tomorrow_renew_message">"No será capaz de escuchar música en streaming de alta calidad, pero algunas canciones estarán disponibles en calidad regular."</string>
-  <string name="vip_auto_renew_message">Tu suscripción de Música será renovada automáticamente esta noche. Asegúrate de tener suficientes Créditos Mi en tu cuenta para completar el pago.</string>
+  <string name="vip_auto_renew_message">Su suscripción de Música será renovada automáticamente esta noche. Asegúrese de tener suficientes Créditos Mi en su cuenta para completar el pago.</string>
   <string name="vip_auto_renew_title">Renovación de suscripción</string>
-  <string name="vip_renew_message">No podrás escuchar música en streaming de alta calidad, pero algunas canciones estarán disponibles en calidad normal.</string>
+  <string name="vip_renew_message">No podrá escuchar música en streaming de alta calidad, pero algunas canciones estarán disponibles en calidad normal.</string>
   <string name="vip_renew_title">Suscripción expirada</string>
   <string name="vip_required">Obtenga Paquete de Canciones Premium para reproducir esta canción. Se saltó la canción por ahora.</string>
   <string name="vip_required_with_song">Obtenga Paquete de Canciones Premium para escuchar “%s”. Se saltó la canción por ahora.</string>
   <string name="vip_tomorrow_auto_renew_message">Su suscripción de Música se renovará automáticamente mañana por la noche. Asegúrese de tener suficientes Mi Credits en su cuenta para completar este pago.</string>
   <string name="vip_tomorrow_renew_message">"No será capaz de escuchar música en streaming de alta calidad, pero algunas canciones estarán disponibles en calidad regular."</string>
   <string name="warning_tip_cancel">Descargar</string>
-  <string name="warning_tip_content">Ya no tienes conexión mediante red Wi-Fi. Using your mobile data connection to complete this download will increase your data usage. If you go over your plan’s data limit, your carrier could charge you additional fees.</string>
+  <string name="warning_tip_content">Ya no tiene conexión mediante red Wi-Fi. Usar su conexión de datos móviles para completar esta descarga aumentará su uso de datos. Si rebasa el límite de datos de su plan, su proveedor podría cobrarle tarifas adicionales.</string>
   <string name="warning_tip_ok">Pausar</string>
   <string name="warning_tip_title">Advertencia de uso de datos</string>
   <string name="welcome_to_new_music">Bienvenido a la nueva version Mi Music</string>
-  <string name="wifi_required_body" formatted="false">"\"Deberías usar una red WI-FI para completar ésta %s descarga.
+  <string name="wifi_required_body" formatted="false">"\"Debería usar una red Wi-Fi para completar ésta %s descarga.
 
-Toca %s para iniciar la descarga la próxima vez que tengas una conexión tipo WI-FI."</string>
-  <string name="wifi_required_title">Debe conectarse a WI-FI para descargar este archivo</string>
+Pulse %s para iniciar la descarga la próxima vez que tenga una conexión Wi-Fi."</string>
+  <string name="wifi_required_title">Debe conectarse a una red Wi-Fi para descargar este archivo</string>
 </resources>
