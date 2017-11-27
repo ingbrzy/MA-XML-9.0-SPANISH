@@ -253,7 +253,6 @@
   <string name="express_company_phone_prefix">"Contact: "<!--- Added line --></string>
   <string name="express_company_pricing_details">Pricing details<!--- Added line --></string>
   <string name="express_complete">Accepted<!--- Added line --></string>
-  <string name="express_complete_flag">3<!--- Added line --></string>
   <string name="express_contact_address">Enter address<!--- Added line --></string>
   <string name="express_contact_address_finding">Locating…<!--- Added line --></string>
   <string name="express_contact_label">Info for pickup service<!--- Added line --></string>
@@ -264,7 +263,6 @@
   <string name="express_copy_number">Copy<!--- Added line --></string>
   <string name="express_delete_order">Delete<!--- Added line --></string>
   <string name="express_delivery">Delivering<!--- Added line --></string>
-  <string name="express_delivery_flag">5<!--- Added line --></string>
   <string name="express_dest_city_label">Destination<!--- Added line --></string>
   <string name="express_detailed_address">Address<!--- Added line --></string>
   <string name="express_field_empty">Empty<!--- Added line --></string>

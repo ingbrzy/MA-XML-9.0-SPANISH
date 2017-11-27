@@ -84,8 +84,6 @@ Para obtener más espacio de almacenamiento, visite mi.com/micloud."</string>
   <string name="find_device_disabling">Desactivando…</string>
   <string name="find_device_dspt">Localizar, bloquear o reiniciar el dispositivo remotamente</string>
   <string name="find_device_dspt_provision">"Si usted pierde su dispositivo, puede ir a %s para localizarlo, bloquearlo o restablecerlo. Puede activar o desactivar esta función en cualquier momento en Ajustes."</string>
-  <string name="find_device_dspt_provision_2">i.mi.com</string>
-  <string name="find_device_dspt_provision_2_int">www.mi.com/micloud</string>
   <string name="find_device_dspt_provision_3">. Puede activar o desactivar esta función en cualquier momento en Ajustes.</string>
   <string name="find_device_dspt_provision_4">Si cambia de tarjeta SIM, se enviará automáticamente un SMS para reactivar esta función.</string>
   <string name="find_device_enabling">Activando…</string>
@@ -94,7 +92,6 @@ Para obtener más espacio de almacenamiento, visite mi.com/micloud."</string>
   <string name="find_device_error_server">Error de servidor</string>
   <string name="find_device_error_unknown">Error desconocido.</string>
   <string name="find_device_notice_p1">Acceda a</string>
-  <string name="find_device_notice_p2">i.mi.com</string>
   <string name="find_device_notice_p3">"para localizar, bloquear o restaurar su teléfono.
 Si cambia de tarjeta SIM, se le enviará automáticamente otro SMS para reactivar esta función."</string>
   <string name="find_device_reading_status">Cargando estado…</string>
@@ -224,8 +221,6 @@ su Cuenta Mi para reactivar Mi Cloud."</string>
   <string name="micloud_find_device_open_fail">No se pudo activar la función Encontrar dispositivo</string>
   <string name="micloud_find_device_opened">Encontrar dispositivo activado</string>
   <string name="micloud_find_device_opened_content">Regístrese en %s para encontrar su dispositivo</string>
-  <string name="micloud_find_device_opened_content_url">i.mi.com</string>
-  <string name="micloud_find_device_opened_content_url_int">www.mi.com/micloud</string>
   <string name="micloud_full_influence_dspt">"Se guardará una copia de seguridad en la nube de todas sus fotos, vídeos, notas y aplicaciones.
 
 De esta forma, si pierde o se daña su dispositivo, sus datos seguirán a salvo.
@@ -471,8 +466,6 @@ Esta característica cifra y envía tu ID de dispositivo a los servidores de Mi.
   <string name="sync_dspt_entrance_provision_confirm_title">¿No utiliza Mi Cloud?</string>
   <string name="sync_dspt_entrance_provision_skip">Omitir este paso</string>
   <string name="sync_dspt_provision">"Sincronice sus fotos, contactos, notas, y mucho más de todos los dispositivos o tener acceso a ellos en "</string>
-  <string name="sync_dspt_provision2">i.mi.com</string>
-  <string name="sync_dspt_provision2_int">www.mi.com/micloud</string>
   <string name="sync_dspt_provision3">". Puede activar o desactivar esta función en cualquier momento desde los Ajustes.
 "</string>
   <string name="sync_dspt_provision_header">Sincronizar</string>

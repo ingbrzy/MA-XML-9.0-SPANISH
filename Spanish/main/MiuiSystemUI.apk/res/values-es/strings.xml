@@ -376,15 +376,10 @@ Puede que tu operador te cobre por volver a activar datos."</string>
   <string name="picture_color_mode_desc">Utilizar sRGB</string>
   <string name="pointer_location">Posición del puntero</string>
   <string name="pointer_location_summary">Superposición de pantalla que muestra los datos de toque actuales</string>
-  <string name="power_charging">%1$s - %2$s</string>
   <string name="power_charging_duration">%1$s - %2$s hasta que se llene</string>
   <string name="power_charging_duration_ac">%1$s - %2$s hasta que se llene a través de AC</string>
-  <string name="power_charging_duration_ac_short">%1$s - %2$s</string>
-  <string name="power_charging_duration_short">%1$s - %2$s</string>
   <string name="power_charging_duration_usb">%1$s - %2$s hasta que se llene a través de USB</string>
-  <string name="power_charging_duration_usb_short">%1$s - %2$s</string>
   <string name="power_charging_duration_wireless">%1$s - %2$s hasta que se llene a través de inalámbrico</string>
-  <string name="power_charging_duration_wireless_short">%1$s - %2$s</string>
   <string name="power_discharging_duration">%1$s - aprox. %2$s restante</string>
   <string name="power_discharging_duration_short">%1$s - %2$s restante</string>
   <string name="power_remaining_duration_only">Aprox. %1$s restante</string>
@@ -478,7 +473,6 @@ Puede que tu operador te cobre por volver a activar datos."</string>
  d \'de\' MMMM"</string>
   <string name="status_bar_date_format_12">"EEEE
  d \'de\' MMMM"</string>
-  <string name="status_bar_date_formatter">%2$s</string>
   <string name="status_bar_network_flow_content">"Hoy: %1$s   Restante: %2$s"</string>
   <string name="status_bar_network_flow_exceed_content">Hoy: %1$s&amp;nbsp;&amp;nbsp;&amp;nbsp;Excedido: &lt;font color=%2$s&gt;%3$s&lt;/font&gt;</string>
   <string name="status_bar_network_flow_limit">"   Límite mensual: %1$s   "</string>
@@ -499,7 +493,6 @@ Desliza hacia abajo para bloquear"</string>
   <string name="status_bar_safepay_scanning">Comprobación de entorno de pago…</string>
   <string name="status_bar_safepay_unknown">"No se pudo comprobar entorno de pago"</string>
   <string name="status_bar_settings_airplane">Modo avión</string>
-  <string name="status_bar_settings_battery_meter_format">%d%%</string>
   <string name="status_bar_settings_signal_meter_disconnected">Sin conexión a Internet</string>
   <string name="status_bar_settings_signal_meter_wifi_nossid">Wi-Fi conectado</string>
   <string name="status_bar_style_settings">Notificaciones</string>

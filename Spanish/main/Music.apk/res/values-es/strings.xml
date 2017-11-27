@@ -255,7 +255,6 @@ es proporcionado principalmente por Ultimate Inc."</string>
   <string name="download_paused">Descarga pausada</string>
   <string name="download_paused_in_power_save_mode">Las descargas se pusieron en pausa cuando se activó el ahorro de batería</string>
   <string name="download_pending">Descarga pendiente</string>
-  <string name="download_percent">%d%%</string>
   <string name="download_processing">Descargando…</string>
   <string name="download_quality">Calidad de descarga</string>
   <string name="download_quality_summary">Ajustes adicionales para descarga de canciones</string>
@@ -291,9 +290,6 @@ es proporcionado principalmente por Ultimate Inc."</string>
   <string name="downloaded_empty">Vacío</string>
   <string name="downloading_empty">Vacío</string>
   <string name="downloads_operating">Trabajando</string>
-  <string name="durationformatlong">%1$d:%3$02d:%5$02d</string>
-  <string name="durationformatshort">%2$d:%5$02d</string>
-  <string name="durationformatshort_padding_with_0">%2$02d:%5$02d</string>
   <string name="editmode_menu_delete">Eliminado</string>
   <string name="editmode_menu_share">Compartir</string>
   <string name="empty_page_no_album">No hay álbumes.</string>

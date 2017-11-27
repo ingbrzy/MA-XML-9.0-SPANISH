@@ -164,7 +164,6 @@
   <string name="dialog_type_image">Imágenes</string>
   <string name="dialog_type_text">Documentos</string>
   <string name="dialog_type_video">Vídeos</string>
-  <string name="directory_info_divider">"  |  "</string>
   <string name="disk_available">Disponible: </string>
   <string name="disk_total">Total: </string>
   <string name="dislike_toast">"Este tipo de vídeos no serán recomendados para usted."</string>
@@ -315,11 +314,9 @@
   <string name="message_comment_prefix">"Comentario: "</string>
   <string name="message_my_received_notification">Nuevo mensaje</string>
   <string name="message_my_received_praise">Me gusta</string>
-  <string name="message_my_received_praise_count">+%1$s</string>
   <string name="message_praise_comment">" le ha gustado este comentario"</string>
   <string name="message_praise_video">" le ha gustado este vídeo"</string>
   <string name="message_reply_prefix">Responder</string>
-  <string name="message_reply_suffix">": "</string>
   <string name="mi_router_label">Mi Router</string>
   <string name="midrop_msg_1">Encender Mi Drop en el otro dispositivo</string>
   <string name="midrop_msg_2">Cuando Mi Drop esté activo, puedes buscar dispositivos cercanos y enviar archivos</string>
