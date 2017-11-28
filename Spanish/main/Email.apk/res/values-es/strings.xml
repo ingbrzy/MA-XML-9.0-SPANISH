@@ -556,7 +556,6 @@
   <string name="invalid_recipient">La dirección %s no es válida.</string>
   <string name="invalid_recipient_title">Error de destinatario</string>
   <string name="kilobytes">%s KB</string>
-  <string formatted="false" name="label_notification_ticker">%s: %s</string>
   <string name="load_from_remote">Buscar bandeja de entrada en el servidor</string>
   <string name="load_more">Cargar más</string>
   <string name="loading_conversation">Cargando…</string>
