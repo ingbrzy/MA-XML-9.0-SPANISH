@@ -20,7 +20,7 @@
         <item quantity="other">Despejado</item>
         <item quantity="one">Despejado</item>
     </plurals>
-        <plurals name="total_voted_num_text">
+    <plurals name="total_voted_num_text">
         <item quantity="other">"&lt;font color='#20a7ff'>%1$s&lt;/font> muchas personas lo han votado"</item>
         <item quantity="one">"&lt;font color='#20a7ff'>%1$s&lt;/font> una persona lo ha votado"</item>
     </plurals>
