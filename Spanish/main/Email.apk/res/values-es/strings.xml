@@ -339,7 +339,7 @@
   <string name="conversation_item_mark_read">Leído</string>
   <string name="conversation_item_mark_unread">No leído</string>
   <string name="conversation_msg_header_collapsed_sent_to">"Enviado a "</string>
-  <string name="conversation_photo_welcome_text">Pulse en la imagen de un remitente para seleccionar la conversación.</string>
+  <string name="conversation_photo_welcome_text">Toque en la imagen de un remitente para seleccionar la conversación.</string>
   <string name="conversation_pull_ad_content">Administre sus correos electrónicos sin esfuerzo</string>
   <string name="conversation_quick_button_approve">Aceptar</string>
   <string name="conversation_quick_button_disapprove">Cancelar</string>
@@ -568,8 +568,8 @@
   <string name="login_failed_ticker">Fallo al iniciar sesión en %s.</string>
   <string name="login_failed_title">No es posible iniciar sesión</string>
   <string name="login_support_tip_text">Admite todas las principales cuentas de correo electrónico</string>
-  <string name="long_press_to_select_tip">Pulse y mantenga pulsado para seleccionar una conversación; a continuación, pulse para seleccionar más.</string>
-  <string name="long_string">looooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooong</string>
+  <string name="long_press_to_select_tip">Toque y mantenga pulsado para seleccionar una conversación; a continuación, pulse para seleccionar más.</string>
+  <string name="long_string">laaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaargo</string>
   <string name="mail">Correo</string>
   <string name="mail_body_turncated">Este correo es demasiado grande para cargar, sólo se mostrará parte del mensaje. Acceda más tarde a través de un PC</string>
   <string name="mail_description_content">Mail es un cliente de correo que puede administrar múltiples buzones, enviar y recibir correo electrónico, así como sincronizar información del calendario y contactos. Asegúrese de que puede hacerlo sin estas características antes de desinstalar la aplicación. Sus contactos de Exchange e información de calendario serán borradas también.</string>
