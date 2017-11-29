@@ -47,7 +47,7 @@ Para obtener más espacio de almacenamiento, visite mi.com/micloud."</string>
   <string name="cloud_backup_dialog_title">Realizar copia de seguridad con Mi Cloud</string>
   <string name="cloud_find_device">Encontrar dispositivo</string>
   <string name="cloud_restore_title">Restaurar desde copia de seguridad</string>
-  <string name="cloud_space_upgrade_message">Pulse para añadir %sGB a su nube.</string>
+  <string name="cloud_space_upgrade_message">Toque para añadir %sGB a su nube.</string>
   <string name="cloud_space_upgrade_no_quota_info">No se puedo obtener información sobre almacenamiento</string>
   <string name="cloud_space_upgrade_title">Más espacio para Mi Cloud</string>
   <string name="cloud_storage_full">El almacenamiento en la nube está lleno</string>
