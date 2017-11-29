@@ -216,7 +216,7 @@ y luego creara una escena en la que todo el mundo se verá mejor".</string>
   <string name="pref_camera_long_press_shutter_feature_title">Presionar y mantener el obturador</string>
   <string name="pref_camera_long_pressing_burst_shooting_entry_burst">Disparo en ráfaga</string>
   <string name="pref_camera_long_pressing_burst_shooting_entry_focus">Enfocar</string>
-  <string name="pref_camera_long_pressing_shutter_title">Pulse y mantenga el obturador para fijar AE/AF/AWB</string>
+  <string name="pref_camera_long_pressing_shutter_title">Toque y mantenga el obturador para fijar AE/AF/AWB</string>
   <string name="pref_camera_magic_mirror_title">Espejo mágico</string>
   <string name="pref_camera_manual_mode_title">Manual</string>
   <string name="pref_camera_mono_mode_title">B y N</string>
