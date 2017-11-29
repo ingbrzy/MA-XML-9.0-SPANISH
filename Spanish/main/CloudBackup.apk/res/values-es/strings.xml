@@ -155,5 +155,4 @@ Nota: Los datos de las aplicaciones instaladas no se copiarán en Mi Cloud."</st
   <string name="total_space">Espacio total: %s</string>
   <string name="try_again">Pulse para volver a intentarlo</string>
   <string name="wait_icon_download">Descargando iconos de aplicaciones</string>
-  <string name="xiaomi_account_type">com.xiaomi</string>
 </resources>
