@@ -1379,7 +1379,6 @@ La función de ahorro de energía se desactiva automáticamente cuando el dispos
     <string name="pin_target">Fijar</string>
     <string name="unpin_target">No fijar</string>
     <string name="app_info">Información de la aplicación</string>
-    <string name="negative_duration">−%1$s</string>
     <string name="audit_safemode_notification">Restablece los datos de fábrica para usar este dispositivo sin restricciones</string>
     <string name="audit_safemode_notification_details">Toca para obtener más información.</string>
     <string name="suspended_widget_accessibility">%1$s inhabilitado</string>
