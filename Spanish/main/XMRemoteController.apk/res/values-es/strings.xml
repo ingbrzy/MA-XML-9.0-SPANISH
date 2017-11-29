@@ -357,7 +357,7 @@ Intente lo siguiente para solucionar el problema:
   <string name="gamepad_rule">No se puede utilizar la orientación horizontal en el modo Gamepad</string>
   <string name="gesture_pad_first_line_tips">Utilice los botones de volumen en el dispositivo para ajustar el volumen</string>
   <string name="gesture_pad_orietaion_tips">Deslice para moverse en cualquier dirección. Toque para confirmar.</string>
-  <string name="gesture_pad_sencond_line_tips">· Pulse y mantenga pulsada el área central de la pantalla para ver el menú. Deslice hacia arriba o hacia abajo para ajustar el volumen.</string>
+  <string name="gesture_pad_sencond_line_tips">· Toque y mantenga pulsada el área central de la pantalla para ver el menú. Deslice hacia arriba o hacia abajo para ajustar el volumen.</string>
   <string name="gesture_pad_vol_tips">Utilice los botones de volumen del teléfono para ajustar el volumen en el dispositivo conectado</string>
   <string name="get_backup_failed">No se pudo arreglar,inténtelo de nuevo</string>
   <string name="get_backup_succeed">Restaurado con éxito. Total: %1$d | Actual: %2$d| Restaurados: %3$d</string>
@@ -486,9 +486,9 @@ Vuelva atrás para continuar"</string>
   <string name="match_guide_sub_frame">Emparejados %1$d botones</string>
   <string name="match_intro_power">Suelte cuando el dispositivo se encienda</string>
   <string name="match_is_respond">¿Responde el dispositivo?</string>
-  <string name="match_main_tip_frame">"Apunte el control remoto a %1$s y pulse el botón
+  <string name="match_main_tip_frame">"Apunte el control remoto a %1$s y toque el botón
 Suelte el botón cuando %1$s responda"</string>
-  <string name="match_main_tip_frame_click">Apunte el control remoto hacia %1$s y pulse el botón.
+  <string name="match_main_tip_frame_click">Apunte el control remoto hacia %1$s y toque el botón.
 Asegúrese que %1$s responde</string>
   <string name="match_mibox_first">     Mi TV encontrada</string>
   <string name="match_mibox_sencond">   · Controle su Mi TV con este dispositivo.</string>

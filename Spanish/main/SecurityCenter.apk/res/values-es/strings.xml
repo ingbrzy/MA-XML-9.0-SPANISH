@@ -1139,7 +1139,7 @@ Intente usar otro cable Ethernet para conectar el router. Si sospecha que hay un
   <string name="notification_sysapp_cracked_text">La versión actual de MIUI ha sido modificada</string>
   <string name="notification_sysapp_cracked_title">Se ha detectado un riesgo en la seguridad</string>
   <string name="notify_daily_data_usage_body">Para limitar el uso de datos de forma automática, configure su plan de datos mensual.</string>
-  <string name="notify_daily_limit_body">Pulse para establecer el límite de datos.</string>
+  <string name="notify_daily_limit_body">Toque para establecer el límite de datos.</string>
   <string name="notify_daily_limit_title">Usado %s hoy</string>
   <string name="notify_daily_limit_title_for_slotnum">%1$s usado %2$s hoy</string>
   <string name="notify_month_traffic_body">Establecer un límite de uso de datos para evitar pasarse de su plan de datos mensual.</string>
@@ -1177,7 +1177,7 @@ tu dispositivo"</string>
   <string name="om_ill_proc_type_wifiscan_title">La aplicación busca frecuentemente redes Wi-Fi y consume la batería</string>
   <string name="om_lock_app_locked_app">Bloqueado</string>
   <string name="om_lock_app_locked_app_occupy_memory">"Bloquear demasiadas aplicaciones puede disminuir el rendimiento"</string>
-  <string name="om_lock_app_tip_msg">Pulse para bloquear</string>
+  <string name="om_lock_app_tip_msg">Toque para bloquear</string>
   <string name="om_lock_app_unlocked_app">Desbloquear</string>
   <string name="om_media_scan_time_warn_title">"El servidor multimedia funciona en segundo plano.
 Esta actividad acorta la duración de la batería."</string>

@@ -908,6 +908,6 @@ es proporcionado principalmente por Ultimate Inc."</string>
   <string name="welcome_to_new_music">Bienvenido a la nueva version Mi Music</string>
   <string name="wifi_required_body" formatted="false">"\"Debería usar una red Wi-Fi para completar ésta %s descarga.
 
-Pulse %s para iniciar la descarga la próxima vez que tenga una conexión Wi-Fi."</string>
+Toque %s para iniciar la descarga la próxima vez que tenga una conexión Wi-Fi."</string>
   <string name="wifi_required_title">Debe conectarse a una red Wi-Fi para descargar este archivo</string>
 </resources>
