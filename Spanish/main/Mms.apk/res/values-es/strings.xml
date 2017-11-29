@@ -520,7 +520,7 @@
   <string name="send_message_dlg_check_hint">No mostrar de nuevo</string>
   <string name="send_message_dlg_mgs">Notificación de CMCC: Necesitamos registrar su dispositivo en nuestra plataforma de administración de dispositivos para proporcionar servicios y soporte de atención al cliente gratuitos. Esta plataforma CMCC gestiona los dispositivos móviles y le permite cambiar los ajustes y actualizar el software de forma remota. Se enviará un mensaje de texto gratuito con la información acerca de su dispositivo para su registro. El mensaje sólo se enviará una vez y no contendrá sus datos personales. Este mensaje no puede ser enviado por clientes de Hong Kong, Macao, Taiwán y en el extranjero. Seleccione \ "Aceptar \" para aceptar y registrar su dispositivo. Seleccione \ "Cancelar" si no está de acuerdo con los términos. Los servicios no se le proporcionarán en este caso.</string>
   <string name="send_message_dlg_title">Administración de dispositivos</string>
-  <string name="send_message_notification_msg">Pulse para ver detalles.</string>
+  <string name="send_message_notification_msg">Toque para ver detalles.</string>
   <string name="send_message_notification_tickerText">Solicitando permiso</string>
   <string name="send_message_notification_title">Permiso solicitado</string>
   <string name="send_signature_confirm_dialog_message">No hay contenido. Enviar solo su firma?</string>
