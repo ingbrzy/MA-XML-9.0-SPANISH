@@ -1383,8 +1383,8 @@ El ahorro de batería se desactiva de forma automática cuando el dispositivo se
     <string name="lock_to_app_toast_accessible">Para no fijar esta pantalla, toque y mantenga presionado el botón Inicio y el botón Encendido/Apagado al mismo tiempo.</string>
     <string name="lock_to_app_description">"Fijación de pantalla bloquea para mostrar en una sola vista.
 
-Para no fijar, pulse y mantenga presionado el botón Inicio y el botón Encendido/Apagado al mismo tiempo."</string>
+Para no fijar, toque y mantenga presionado el botón Inicio y el botón Encendido/Apagado al mismo tiempo."</string>
     <string name="lock_to_app_description_accessible">"Fijación de pantalla bloquea para mostrar en una sola vista.
 
-Para no fijar, pulse y mantenga presionado el botón Inicio y el botón Encendido/Apagado al mismo tiempo."</string>
+Para no fijar, toque y mantenga presionado el botón Inicio y el botón Encendido/Apagado al mismo tiempo."</string>
 </resources>
