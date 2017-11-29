@@ -141,7 +141,7 @@
   <string name="convert_to_fbe_warning">"Convertir partición de datos a basada en ficheros cifrados.
  ¡¡Advertencia!! Esto borrará todos sus datos.
  Esta característica es alpha, y puede que no funcione correctamente.
- Pulse 'Limpiar y convertir…' para continuar."</string>
+ Toque 'Limpiar y convertir…' para continuar."</string>
   <string name="convert_to_file_encryption">Convertir a fichero cifrado</string>
   <string name="convert_to_file_encryption_done">Fichero ya cifrado</string>
   <string name="convert_to_file_encryption_enabled">Convertir…</string>

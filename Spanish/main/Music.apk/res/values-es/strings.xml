@@ -84,7 +84,7 @@
   <string name="available_playlist_name_format">Nueva lista de reproducción %d</string>
   <string name="avoid_to_use_traffic_summary">No usar datos móviles para escuchar música por streaming</string>
   <string name="avoid_to_use_traffic_title">Preguntar cuando se usen datos móviles para reproducir canciones</string>
-  <string name="back_confirm">Pulse otra vez para salir</string>
+  <string name="back_confirm">Toque otra vez para salir</string>
   <string name="backup_complete">Se hará una copia de seguridad de todas las canciones en Mi Cloud</string>
   <string name="backup_empty_button">No se han seleccionado canciones</string>
   <string name="backup_immediate">Copia de seguridad</string>
@@ -114,8 +114,8 @@
   <string name="chinese_male">Artistas masculinos (China)</string>
   <string name="choose_download_quality">Elegir calidad de descarga</string>
   <string name="choose_stream_quality">Elegir calidad de streaming</string>
-  <string name="click_modify">Pulse para editar la letra.</string>
-  <string name="click_to_shuffle">Pulse para reproducir</string>
+  <string name="click_modify">Toque para editar la letra.</string>
+  <string name="click_to_shuffle">Toque para reproducir</string>
   <string name="close_music_time">"Tiempo restante: "</string>
   <string name="cloud_empty_local_empty_button">No hay canciones en este dispositivo</string>
   <string name="cloud_empty_message">No hay canciones en Mi Cloud</string>

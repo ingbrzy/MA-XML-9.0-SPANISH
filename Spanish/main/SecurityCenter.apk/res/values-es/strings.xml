@@ -503,7 +503,7 @@ o introduzca la contraseña de Aplicaciones bloqueadas"</string>
  2. Se requiere una petición de plantilla de red cuando calibra por primera vez. Conecte a la red e inténtelo otra vez.
  3. Su operadora no soporta el envío de mensajes de texto con datos restantes y saldo del teléfono. Contacte con su operadora para aprender más.
  4. Podría haber un error en los datos de la operadora. Intente diagnósticos de la operadora para resolver esto.
- 5. ¿Nada parece ayudar? Pulse \"Informar vía SMS\" para enviar tus comentarios a Xiaomi en un mensaje de texto.</string>
+ 5. ¿Nada parece ayudar? Toque \"Informar vía SMS\" para enviar tus comentarios a Xiaomi en un mensaje de texto.</string>
   <string name="celcius_symbol">℃</string>
   <string name="charging_text_battery_full_time">"Última carga "</string>
   <string name="charging_text_battery_nearly_full">Casi totalmente cargada</string>
@@ -553,7 +553,7 @@ o introduzca la contraseña de Aplicaciones bloqueadas"</string>
   <string name="customize_limit_pkg">%s (a medida)</string>
   <string name="customizer_mode_user_define_name">Mis reglas</string>
   <string name="daily_limit_and_lock_screen">Límite de datos y notificaciones</string>
-  <string name="daily_limit_network_available_body">Pulse para ver las estadísticas de uso de datos.</string>
+  <string name="daily_limit_network_available_body">Toque para ver las estadísticas de uso de datos.</string>
   <string name="daily_limit_over_message">" Ha superado el límite diario de datos."</string>
   <string name="daily_pkg_traffic">Límite de datos máximo</string>
   <string name="data_booster_desc">Desactivar otras SIM para mantener la conexión estable</string>

@@ -12,7 +12,7 @@
   <string name="beam_outgoing">Transmitiendo...</string>
   <string name="beam_progress">Transmisión entrante...</string>
   <string name="beam_requires_nfc_enabled">Android Beam necesita que el NFC esté activado. ¿Quiere activarlo?</string>
-  <string name="beam_touch_to_view">Pulse para ver</string>
+  <string name="beam_touch_to_view">Toque para ver</string>
   <string name="beam_try_again">Aproxima los dispositivos de nuevo</string>
   <string name="cancel">Cancelar</string>
   <string name="complete_with">Completar con</string>

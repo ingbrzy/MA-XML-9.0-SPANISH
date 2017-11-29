@@ -28,7 +28,7 @@ Póngase en contacto con su agente de ventas para obtener más detalles. "</stri
   <string name="find_device_notice_p1">Acceda a</string>
   <string name="find_device_notice_p3">"para localizar, bloquear o restaurar su teléfono.
 Si cambia de tarjeta SIM, se le enviará automáticamente otro SMS para reactivar esta función."</string>
-  <string name="find_device_stop_noise">Pulse OK para silenciar</string>
+  <string name="find_device_stop_noise">Toque OK para silenciar</string>
   <string name="find_device_storage_corrupted">El almacenamiento de Localizar el dispositivo se encuentra dañado. Actualmente su dispositivo no es seguro.</string>
   <string name="find_device_success_title">Encontrar dispositivo</string>
   <string name="find_device_telephony_fault">Encontrar Dispositivo: Fallo de telefonía (%s).</string>
