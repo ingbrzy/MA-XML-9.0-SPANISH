@@ -201,7 +201,7 @@
     <string name="headset_audio_fail">Sonido fallo</string>
     <string name="gsensor_calibrate_title">Calibrar Gsensor</string>
     <string name="calibrate_button">Calibrar</string>
-    <string name="calibrate_message_z">Por favor, mantenga su teléfono en el plano horizontal. Pulse el botón de calibración!0</string>
+    <string name="calibrate_message_z">Por favor, mantenga su teléfono en el plano horizontal. Toque el botón de calibración!0</string>
     <string name="calibrate_title_allover">Gsensor Calibrado bien</string>
     <string name="calibrate_error">Gsensor Error de Calibración</string>
     <string name="no_gsensor_calibrate">sin Calibración</string>
