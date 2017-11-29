@@ -338,7 +338,7 @@ es proporcionado principalmente por Ultimate Inc."</string>
   <string name="favorite_succeed">Añadida a favoritas</string>
   <string name="favorite_tracks">Favoritas</string>
   <string name="favorites">Favoritos</string>
-  <string name="favourite_music_left_half">Para añadir canciones a esta lista de reproducción, pulse el</string>
+  <string name="favourite_music_left_half">Para añadir canciones a esta lista de reproducción, toque el</string>
   <string name="favourite_music_right_half">Icono de favorito a la derecha del título de la canción</string>
   <string name="female_artist">Artistas femeninas</string>
   <string name="file_not_found">El archivo no existe</string>
@@ -541,7 +541,7 @@ es proporcionado principalmente por Ultimate Inc."</string>
   <string name="nav_online_billboard">Listas</string>
   <string name="nav_online_fm">Radio</string>
   <string name="nav_online_playlist">Listas de reproducción</string>
-  <string name="network_error_and_retry">"No se pudo conectar, pulse para volver intentarlo"</string>
+  <string name="network_error_and_retry">"No se pudo conectar, toque para volver intentarlo"</string>
   <string name="network_failure">Compruebe su conexión e inténtelo de nuevo.</string>
   <string name="network_request_error">No se puede conectar a la red</string>
   <string name="network_settings_error">No se puede conectar a la red</string>

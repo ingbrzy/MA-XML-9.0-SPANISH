@@ -108,7 +108,7 @@ Coja el teléfono como si estuviera respondiendo una llamada, hable al micrófon
   <string name="cit_button_light_on">Luz de los botones encendida</string>
   <string name="cit_calibration_fail">Error de calibración</string>
   <string name="cit_calibration_pass">Calibración realizada</string>
-  <string name="cit_camera_calibration_summary">Instrucciones de la prueba: 1 Pulse el botón de calibración abajo para cámara interfaz 2 Oprima atrás el botón enter para salir de la cámara interfaz 3 habrá una etiqueta de paso calibrado para indicar que la OEI ha sido calibrada</string>
+  <string name="cit_camera_calibration_summary">Instrucciones de la prueba: 1 Toque el botón de calibración abajo para cámara interfaz 2 Oprima atrás el botón enter para salir de la cámara interfaz 3 habrá una etiqueta de paso calibrado para indicar que la OEI ha sido calibrada</string>
   <string name="cit_camera_sdcard_error">No se puede tomar fotografía. La tarjeta SD está llena.</string>
   <string name="cit_charger_plugin_check_summary">Cuando se conecta el cargador USB el texto \"carga vía USB/AC\" debería mostrarse más abajo.</string>
   <string name="cit_charger_plugin_check_title">Cargador (conectar)</string>
@@ -158,7 +158,7 @@ Coja el teléfono como si estuviera respondiendo una llamada, hable al micrófon
   <string name="cit_gps_satellite_snr">SNR: %s</string>
   <string name="cit_gyroscope_sensor_check_summary">Los valores para X，Y，Z, coordenadas deben aparecer debajo de</string>
   <string name="cit_gyroscope_sensor_check_title">Giroscopio</string>
-  <string name="cit_headset_button_check_summary">Cuando los auriculares están conectados, pulse los botones en los auriculares remotos (a menudo ubicados en el cable). El texto correspondiente en la pantalla debe girar verde.</string>
+  <string name="cit_headset_button_check_summary">Cuando los auriculares están conectados, toque los botones en los auriculares remotos (a menudo ubicados en el cable). El texto correspondiente en la pantalla debe girar verde.</string>
   <string name="cit_headset_button_check_title">Botones de auriculares</string>
   <string name="cit_headset_button_click">Presiona los botones en los auriculares</string>
   <string name="cit_headset_button_current">Botón actual: %s</string>

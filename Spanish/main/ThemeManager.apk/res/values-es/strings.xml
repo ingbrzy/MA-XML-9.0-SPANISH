@@ -322,7 +322,7 @@
   <string name="resource_share_text">He pensado que podría gustarte este tema: %1$s! Enlace: %2$s</string>
   <string name="resource_share_title">Compartir</string>
   <string name="resource_system_title">Recursos del sistema</string>
-  <string name="resource_tab_to_view">Pulse para ver.</string>
+  <string name="resource_tab_to_view">Toque para ver.</string>
   <string name="resource_tip_select_none">Ninguno seleccionado</string>
   <string name="resource_title">Detalles</string>
   <string name="resource_title_category">Categorías</string>

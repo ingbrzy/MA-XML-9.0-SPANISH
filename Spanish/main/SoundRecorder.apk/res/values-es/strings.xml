@@ -89,7 +89,7 @@
   <string name="recognition_error_stopped">El reconocimiento se detuvo</string>
   <string name="recognition_status_downloading">Descargando</string>
   <string name="record">Grabar</string>
-  <string name="record_back_pressed_hint">Para detener la grabación, pulse Atrás de nuevo</string>
+  <string name="record_back_pressed_hint">Para detener la grabación, toque Atrás de nuevo</string>
   <string name="record_download">Descargar desde Mi Cloud</string>
   <string name="record_download_complete">Descargada</string>
   <string name="record_download_msg">Las grabaciones sólo pueden reproducirse tras finalizar su descarga.</string>

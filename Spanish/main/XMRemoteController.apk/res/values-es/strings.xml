@@ -23,7 +23,7 @@
   <string name="ac_mode_dry">Deshumidificar</string>
   <string name="ac_mode_fan">Dirección</string>
   <string name="ac_mode_hot">Calefacción</string>
-  <string name="ac_set_timer_title_text">Seleccione la hora y pulse el botón de temporización en el Aire Acondicionado</string>
+  <string name="ac_set_timer_title_text">Seleccione la hora y toque el botón de temporización en el Aire Acondicionado</string>
   <string name="activity_stb_list_title">Elegir decodificador</string>
   <string name="actor_intro_title_text">Emitir</string>
   <string name="add">Añadir</string>
@@ -167,7 +167,7 @@ Intente lo siguiente para solucionar el problema:
   <string name="check_upgrade">Comprobar actualizaciones</string>
   <string name="choose_ac">Elegir control remoto</string>
   <string name="choose_address_title">Seleccionar ubicación</string>
-  <string name="choose_key_to_fix">Pulse la tecla a reparar</string>
+  <string name="choose_key_to_fix">Toque la tecla a reparar</string>
   <string name="circlepad_slide_tips">Utilice la rueda táctil para ajustar el volumen</string>
   <string name="click_to_expend">Expandir</string>
   <string name="click_to_login">Identifíquese</string>

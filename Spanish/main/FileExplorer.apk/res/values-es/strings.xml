@@ -87,9 +87,9 @@
   <string name="clean_hint">Tocar para liberar espacio</string>
   <string name="clear_record">Borrar historial</string>
   <string name="click_login_str">Registrarse</string>
-  <string name="click_to_refresh">Pulse aquí para recargar</string>
-  <string name="click_to_switch_volume">Pulse para cambiar entre el almacenamiento interno y la tarjeta SD</string>
-  <string name="click_to_switch_volume_pad">Pulse para cambiar entre el almacenamiento interno y la tarjeta SD</string>
+  <string name="click_to_refresh">Toque aquí para recargar</string>
+  <string name="click_to_switch_volume">Toque para cambiar entre el almacenamiento interno y la tarjeta SD</string>
+  <string name="click_to_switch_volume_pad">Toque para cambiar entre el almacenamiento interno y la tarjeta SD</string>
   <string name="clock_in">Registrándose…</string>
   <string name="clockin_failed">"No se pudo registrar, vuelva a intentarlo"</string>
   <string name="clockin_success">Se registró correctamente</string>

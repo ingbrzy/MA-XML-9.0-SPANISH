@@ -183,7 +183,7 @@
   <string name="convert_to_fbe_warning">"Convertir la partición de datos en cifrado basado en archivos.
  ¡¡Advertencia!! Esto borrará todos sus datos.
  Esta función es alfa y puede no funcionar correctamente.
- Pulse 'Limpiar y convertir…' para continuar."</string>
+ Toque 'Limpiar y convertir…' para continuar."</string>
   <string name="convert_to_file_encryption">Convertir en cifrado de archivos</string>
   <string name="convert_to_file_encryption_done">Ya está encriptado</string>
   <string name="convert_to_file_encryption_enabled">Convertir…</string>
@@ -310,7 +310,7 @@ Puede que tu operador te cobre por volver a activar datos."</string>
   <string name="long_screenshot_processing">Procesando…</string>
   <string name="long_screenshot_stop">Ok</string>
   <string name="long_screenshot_top_msg">Creando captura de pantalla…</string>
-  <string name="long_screenshot_top_msg_manual">Recortar la captura de pantalla y pulse el botón para terminar</string>
+  <string name="long_screenshot_top_msg_manual">Recortar la captura de pantalla y toque el botón para terminar</string>
   <string name="managed_profile_foreground_toast">Estás usando el perfil de trabajo</string>
   <string name="managed_user_title">Todas las aplicaciones de trabajo</string>
   <string name="mdb_entering">Iniciando…</string>

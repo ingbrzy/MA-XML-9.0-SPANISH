@@ -188,7 +188,7 @@
   <string name="choose_people">Elija un álbum de persona</string>
   <string name="choose_some_people">Elija álbum con %s</string>
   <string name="click_download_gif">Toque para descargar el GIF</string>
-  <string name="click_top_right">Pulse en este icono</string>
+  <string name="click_top_right">Toque en este icono</string>
   <string name="cloud_camera_display_name">Fotos de la cámara</string>
   <string name="cloud_guide_auto_backup_title">Selecciona álbumes para respaldar</string>
   <string name="cloud_guide_login_title">Respalda fotos y vídeos automáticamente</string>
@@ -405,7 +405,7 @@
 ¡Haz más fotos de tus amigos!"</string>
   <string name="face_album_empty_syncing">Sincronizando datos, vuelve en un rato</string>
   <string name="face_album_empty_syncing_when_connect_wifi">Conéctate a Wi-Fi para sincronizar</string>
-  <string name="face_album_long_tap_tip">Para seleccionar a varias personas o cambiar los ajustes de grupo, pulse y mantenga una foto de perfil</string>
+  <string name="face_album_long_tap_tip">Para seleccionar a varias personas o cambiar los ajustes de grupo, toque y mantenga una foto de perfil</string>
   <string name="face_album_new_name_hint">Nuevo nombre</string>
   <string name="face_album_not_named">Sin nombre</string>
   <string name="face_album_pending_enable_tip">Las fotos se ordenarán cuando el dispositivo esté conectado por conexión Wi-Fi</string>

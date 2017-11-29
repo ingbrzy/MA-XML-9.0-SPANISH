@@ -126,7 +126,7 @@ El economizador de batería tratará de forma selectiva las aplicaciones importa
   <string name="power_config_mode_title">Modos de ahorro de energía</string>
   <string name="power_config_phone_charging_title">Cargando</string>
   <string name="power_config_phone_idle_title">Inactivo</string>
-  <string name="power_config_select_apps_empty">Pulse para seleccionar aplicaciones</string>
+  <string name="power_config_select_apps_empty">Toque para seleccionar aplicaciones</string>
   <string name="power_config_select_apps_title">Aplicaciones</string>
   <string name="power_config_title">Ajustes</string>
   <string name="power_config_ultimate_description">MIUI congelará todas las aplicaciones en segundo plano</string>

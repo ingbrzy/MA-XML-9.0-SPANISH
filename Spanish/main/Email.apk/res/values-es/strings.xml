@@ -59,7 +59,7 @@
   <string name="account_settings_preference_head_icon">Fotos de perfil</string>
   <string name="account_settings_preference_notify">Notificar</string>
   <string name="account_settings_retry_label">Intentar sincronización</string>
-  <string name="account_settings_retry_summary">Pulse para sincronizar la cuenta</string>
+  <string name="account_settings_retry_summary">Toque para sincronizar la cuenta</string>
   <string name="account_settings_ringtone">Sonido de notificación</string>
   <string name="account_settings_servers">Configuración del servidor</string>
   <string name="account_settings_summary">Frecuencia de sincronización, notificaciones, etc.</string>
@@ -272,7 +272,7 @@
   <string name="clear_display_images_whitelist_dialog_message">Dejar de mostrar imágenes de remitentes que haya autorizado previamente.</string>
   <string name="clear_display_images_whitelist_dialog_title">¿Limpiar aprobaciones de fotos?</string>
   <string name="clear_display_images_whitelist_title">Limpiar aprobaciones de fotos</string>
-  <string name="click_download_all_content">[ Pulse para descargar contenido ]</string>
+  <string name="click_download_all_content">[ Toque para descargar contenido ]</string>
   <string name="click_to_reload">Toque la pantalla para actualizar</string>
   <string name="close">Apagar</string>
   <string name="collapse_recipient_details">Contraer detalles del destinatario</string>

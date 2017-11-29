@@ -194,5 +194,5 @@
  - Sincronizar con Mi Cloud
  - Establecer recordatorios"</string>
   <string name="widget_content_loading">Un segundo…</string>
-  <string name="widget_havenot_content">Pulse para crear una nota. Mantenga presionado el widget para cambiar el tamaño.</string>
+  <string name="widget_havenot_content">Toque para crear una nota. Mantenga presionado el widget para cambiar el tamaño.</string>
 </resources>

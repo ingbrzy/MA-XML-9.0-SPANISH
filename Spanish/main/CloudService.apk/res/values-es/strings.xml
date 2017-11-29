@@ -33,9 +33,9 @@ Para obtener más espacio de almacenamiento, visite mi.com/micloud."</string>
   <string name="buy_space_sulotion_renew_title">Renovar suscripción</string>
   <string name="buy_space_sulotion_title">Comprar espacio de almacenamiento</string>
   <string name="calendar_sync">Calendario</string>
-  <string name="click_to_enabled">Pulse para sincronizar</string>
+  <string name="click_to_enabled">Toque para sincronizar</string>
   <string name="cloud_back_up_button_ok">Forzar cierre</string>
-  <string name="cloud_back_up_close_info">Pulse para hacer la copia de seguridad.</string>
+  <string name="cloud_back_up_close_info">Toque para hacer la copia de seguridad.</string>
   <string name="cloud_back_up_dialog_content">¿Detener una copia de seguridad en curso? Si detiene ahora, usted no será capaz de utilizar esta copia de seguridad para restaurar aplicaciones.</string>
   <string name="cloud_back_up_network_unavailable">No se pudo eliminar. Conéctese a Wi-Fi y vuelva a intentarlo.</string>
   <string name="cloud_back_up_open_info">"Copia de seguridad cuando se conecta a Wi-Fi una vez cada %1$s
