@@ -341,7 +341,7 @@ Intente lo siguiente para solucionar el problema:
   <string name="feedback_desc_hint">Describa el problema</string>
   <string name="feedback_error">Notificar error</string>
   <string name="feedback_error_success_tip">Enviado con éxito</string>
-  <string name="feedback_error_tips">Hay problemas con este control remoto, pulse para notificar un problema</string>
+  <string name="feedback_error_tips">Hay problemas con este control remoto, toque para notificar un problema</string>
   <string name="feedback_input_desc">Describa el problema aquí.</string>
   <string name="feedback_issue_desc">Describa el problema</string>
   <string name="feedback_keys">Comentarios</string>
@@ -356,7 +356,7 @@ Intente lo siguiente para solucionar el problema:
   <string name="gamepad">Teclado para jugar</string>
   <string name="gamepad_rule">No se puede utilizar la orientación horizontal en el modo Gamepad</string>
   <string name="gesture_pad_first_line_tips">Utilice los botones de volumen en el dispositivo para ajustar el volumen</string>
-  <string name="gesture_pad_orietaion_tips">Deslice para moverse en cualquier dirección. Pulse para confirmar.</string>
+  <string name="gesture_pad_orietaion_tips">Deslice para moverse en cualquier dirección. Toque para confirmar.</string>
   <string name="gesture_pad_sencond_line_tips">· Pulse y mantenga pulsada el área central de la pantalla para ver el menú. Deslice hacia arriba o hacia abajo para ajustar el volumen.</string>
   <string name="gesture_pad_vol_tips">Utilice los botones de volumen del teléfono para ajustar el volumen en el dispositivo conectado</string>
   <string name="get_backup_failed">No se pudo arreglar,inténtelo de nuevo</string>
