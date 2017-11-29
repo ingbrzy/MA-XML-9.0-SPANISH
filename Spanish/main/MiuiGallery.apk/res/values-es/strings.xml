@@ -571,7 +571,7 @@
   <string name="local_space_full_button_text">Limpiar el espacio</string>
   <string name="login_and_enable_service">Iniciar sesión con Cuenta Mi</string>
   <string name="lomoish">Efecto lomo</string>
-  <string name="long_press_to_refocus">Pulse y mantenga para reenfocar</string>
+  <string name="long_press_to_refocus">Toque y mantenga para reenfocar</string>
   <string name="main_discard_confirm_message">Hay cambios sin guardar</string>
   <string name="main_discard_negative_btn">Descartar</string>
   <string name="main_discard_positive_btn">Guardar y Salir</string>
@@ -737,7 +737,7 @@
   <string name="projection_slide_exit">Detener la presentación</string>
   <string name="projection_slide_fail_cause_loading">Reiniciar la presentación después de que la ultima foto se haya cargado</string>
   <string name="projection_slide_playing">La presentación de diapositivas se está reproduciendo en %s</string>
-  <string name="projection_video_quit">Pulse para salir</string>
+  <string name="projection_video_quit">Toque para salir</string>
   <string name="public_url_descript">Cualquiera puede visitar su álbum con esta URL</string>
   <string name="publish_failed">Fallo al publicar</string>
   <string name="publish_succeeded">Álbum publicado</string>
