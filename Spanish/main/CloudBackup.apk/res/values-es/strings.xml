@@ -153,6 +153,6 @@ Nota: Los datos de las aplicaciones instaladas no se copiarán en Mi Cloud."</st
   <string name="start_recover">Recuperar %s</string>
   <string name="success_open_cloudbackup">Copias de aplicaciones de pantalla de inicio encendidas</string>
   <string name="total_space">Espacio total: %s</string>
-  <string name="try_again">Pulse para volver a intentarlo</string>
+  <string name="try_again">Toque para volver a intentarlo</string>
   <string name="wait_icon_download">Descargando iconos de aplicaciones</string>
 </resources>
