@@ -501,7 +501,7 @@
   <string name="home_page_empty">Vacía</string>
   <string name="home_page_empty_action">Hacer una foto</string>
   <string name="home_page_label">Fotos</string>
-  <string name="how_to_set_relation">Pulse y mantenga pulsado un álbum para crear un grupo</string>
+  <string name="how_to_set_relation">Toque y mantenga pulsado un álbum para crear un grupo</string>
   <string name="hybrid_check_network">Ajustes de red</string>
   <string name="hybrid_data_error">Ha ocurrido un error</string>
   <string name="hybrid_locating_fail">No se pudo encontrar su ubicación</string>
@@ -547,7 +547,7 @@
   <string name="limit_height">La altura debe ser &gt; 0</string>
   <string name="limit_width">El ancho debe ser &gt; 0</string>
   <string name="load_complete">No hay más elementos aquí</string>
-  <string name="load_failed">"No se pudo cargar información, pulse para intentarlo de nuevo."</string>
+  <string name="load_failed">"No se pudo cargar información, toque para intentarlo de nuevo."</string>
   <string name="load_relations">Un momento…</string>
   <string name="loading">Un momento</string>
   <string name="loading_dots">Un momento…</string>
