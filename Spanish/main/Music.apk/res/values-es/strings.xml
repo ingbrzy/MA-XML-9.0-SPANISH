@@ -641,7 +641,7 @@ es proporcionado principalmente por Ultimate Inc."</string>
   <string name="playlist_type_fm">FM</string>
   <string name="playlist_type_my">Mi lista de reproducción</string>
   <string name="playlist_type_recommend">Lista destacada</string>
-  <string name="playlist_unavailable">Lo siento, la lista de reproducción no está disponible. Para borrarla, pulse y mantenga, después elija borrar.</string>
+  <string name="playlist_unavailable">Lo siento, la lista de reproducción no está disponible. Para borrarla, toque y mantenga, después elija borrar.</string>
   <string name="please_download_first">Es necesario descargar la canción antes de poder ponerla como tono de llamada</string>
   <string name="please_search_or_select">Buscar o seleccionar un campo</string>
   <string name="please_select_song">Seleccione una canción primero</string>
@@ -670,7 +670,7 @@ es proporcionado principalmente por Ultimate Inc."</string>
   <string name="pulluprefreshrecyclerview_loading_finished">Cargado correctamente</string>
   <string name="pulluprefreshrecyclerview_loading_running">Cargando…</string>
   <string name="radar">ACRCloud</string>
-  <string name="radar_click_to_retry">Pulse para reintentar</string>
+  <string name="radar_click_to_retry">Toque para reintentar</string>
   <string name="radar_fail">No hay resultados</string>
   <string name="radar_fail_by_noise">Puede ser demasiado ruidoso</string>
   <string name="radar_listening_state">El reconocimiento está en proceso</string>
