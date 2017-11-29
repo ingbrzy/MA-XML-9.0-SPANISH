@@ -13,7 +13,7 @@
   <string name="company_controls_device">Su organización controlará este dispositivo y lo mantendrá seguro.</string>
   <string name="company_controls_workspace">Su organización controla este perfil y lo mantiene seguro. Usted controla todo lo demás de su dispositivo.</string>
   <string name="contact_your_admin_for_more_info">"Póngase en contacto con su administrador para obtener más información, incluidas las políticas de privacidad de su organización."</string>
-  <string name="continue_provisioning_notify_text">Pulse para continuar configurando su perfil de trabajo</string>
+  <string name="continue_provisioning_notify_text">Toque para continuar configurando su perfil de trabajo</string>
   <string name="continue_provisioning_notify_title">Cifrado completo</string>
   <string name="copying_certs">Configurando certificados CA</string>
   <string name="delete_profile">Eliminar</string>
