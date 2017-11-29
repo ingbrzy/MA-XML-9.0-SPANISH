@@ -83,7 +83,7 @@
   <string name="life_post_wake_up_item_time_title">Hora de despertar</string>
   <string name="life_post_wake_up_percentage_title">Mi Fans detrás de usted</string>
   <string name="life_post_wake_up_time_title">Hora de despertar</string>
-  <string name="life_post_weather_invalid">No se pudo conseguir información del tiempo, toque para intentarlo otra vez</string>
+  <string name="life_post_weather_invalid">No se pudo conseguir la información del tiempo, pulse para intentarlo de nuevo</string>
   <string name="loading_ringtone">Cargando tono…</string>
   <string name="menu_add_worldclock">Añadir reloj</string>
   <string name="menu_desk_clock">Reloj de escritorio</string>
