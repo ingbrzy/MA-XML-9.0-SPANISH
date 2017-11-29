@@ -1306,7 +1306,7 @@ Escuchar a un alto volumen durante largos períodos puede dañar tu audición."<
     <string name="select_year">Seleccionar año</string>
     <string name="deleted_key">%1$s borrado</string>
     <string name="managed_profile_label_badge">%1$s de trabajo</string>
-    <string name="lock_to_app_toast">Para no fijar esta pantalla, pulse y mantenga presionado el botón Inicio y el botón Encendido/Apagado al mismo tiempo.</string>
+    <string name="lock_to_app_toast">Para no fijar esta pantalla, toque y mantenga presionado el botón Inicio y el botón Encendido/Apagado al mismo tiempo.</string>
     <string name="lock_to_app_toast_locked">La aplicación está fijada, no se puede anular la fijación en este dispositivo.</string>
     <string name="lock_to_app_start">Pantalla fija</string>
     <string name="lock_to_app_exit">Pantalla no fija</string>
@@ -1380,7 +1380,7 @@ El ahorro de batería se desactiva de forma automática cuando el dispositivo se
     <string name="audit_safemode_notification">Restablece la configuración de fábrica para usar este dispositivo sin restricciones</string>
     <string name="audit_safemode_notification_details">Toca para obtener más información.</string>
     <string name="suspended_widget_accessibility">Se inhabilitó %1$s</string>
-    <string name="lock_to_app_toast_accessible">Para no fijar esta pantalla, pulse y mantenga presionado el botón Inicio y el botón Encendido/Apagado al mismo tiempo.</string>
+    <string name="lock_to_app_toast_accessible">Para no fijar esta pantalla, toque y mantenga presionado el botón Inicio y el botón Encendido/Apagado al mismo tiempo.</string>
     <string name="lock_to_app_description">"Fijación de pantalla bloquea para mostrar en una sola vista.
 
 Para no fijar, pulse y mantenga presionado el botón Inicio y el botón Encendido/Apagado al mismo tiempo."</string>
