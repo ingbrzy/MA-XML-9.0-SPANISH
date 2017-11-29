@@ -62,7 +62,7 @@
   <string name="dialog_insufficient_space_on_cache">No se puede finalizar la descarga. No hay suficiente espacio en el almacenamiento interno de descarga.</string>
   <string name="dialog_insufficient_space_on_external">No se puede finalizar la descarga. No hay suficiente espacio en el almacenamiento externo.</string>
   <string name="dialog_media_not_found">No se puede descargar. El almacenamiento externo no está disponible.</string>
-  <string name="dialog_msg_disabled_net">%1$s descargas restringidas en la red actual. Pulse ajustes de red para ir a la aplicación de seguridad.</string>
+  <string name="dialog_msg_disabled_net">%1$s descargas restringidas en la red actual. Toque ajustes de red para ir a la aplicación de seguridad.</string>
   <string name="dialog_msg_recommend">"Usted no será capaz de ver las fuentes recomendadas después de apagar. Puede elegir \"Cargar cuando esté conectado a Wi-Fi\" para guardar los datos móviles."</string>
   <string name="dialog_queued_body">Este archivo se pone en cola para descargar más tarde</string>
   <string name="dialog_title_disabled_net">Acceso a Internet</string>
@@ -310,7 +310,7 @@
   <string name="sniff_associate_text">Popular</string>
   <string name="sniff_bt_text">Fichero torrent</string>
   <string name="sniff_btn_text">Fuente</string>
-  <string name="sniff_cannot_use">No se puede utilizar la búsqueda global, pulse en el enlace para descargar</string>
+  <string name="sniff_cannot_use">No se puede utilizar la búsqueda global, toque en el enlace para descargar</string>
   <string name="sniff_connect_error_page_tips">"No se pudo abrir la URL"</string>
   <string name="sniff_connect_error_refresh">Recargar</string>
   <string name="sniff_copyright_text">"No se pueden mostrar los resultados debido a cuestiones de copyright"</string>
