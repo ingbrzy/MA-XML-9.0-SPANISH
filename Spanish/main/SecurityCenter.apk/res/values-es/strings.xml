@@ -562,9 +562,9 @@ o introduzca la contraseña de Aplicaciones bloqueadas"</string>
   <string name="data_usage_correction_timeout_title">Tiempo agotado de sincronización de uso de datos</string>
   <string name="data_usage_disabled_dialog">"Ha alcanzado el límite de uso de datos de su plan. Si supera su límite, su compañia puede cobrarle cargos adicionales".</string>
   <string name="data_usage_disabled_dialog_enable">Activar datos</string>
-  <string name="data_usage_leisure_warning_body">Pulse para ver los detalles de uso de datos.</string>
+  <string name="data_usage_leisure_warning_body">Toque para ver los detalles de uso de datos.</string>
   <string name="data_usage_leisure_warning_title">Límite de uso de datos fuera de pico</string>
-  <string name="data_usage_limit_body">Pulse para activar los datos móviles.</string>
+  <string name="data_usage_limit_body">Toque para activar los datos móviles.</string>
   <string name="data_usage_mobile_limit_title">" Límite de datos móviles alcanzado"</string>
   <string name="data_usage_no_total_package_body">Pulse para establecer el límite de datos</string>
   <string name="data_usage_no_total_package_body_dual">Sin límite de datos establecido para %s</string>
