@@ -4041,6 +4041,7 @@ Es posible que el PIN no sea correcto."</string>
   <string name="spellchecker_quick_settings">Ajustes</string>
   <string name="spellchecker_security_warning">Este corrector ortográfico puede registrar todo lo que escribas, incluidos datos personales, como las contraseñas y los números de las tarjetas de crédito. Procede de la aplicación %1$s. ¿Quieres usar este corrector ortográfico?</string>
   <string name="spellcheckers_settings_title">Corrector ortográfico</string>
+  <string name="split_screen">Introduzca pantalla dividida</string>
   <string name="ssid_label">SSID:</string>
   <string name="ssl_ca_cert_dialog_title">Supervisión de red</string>
   <string name="ssl_ca_cert_info_message">"Este dispositivo está administrado por:
