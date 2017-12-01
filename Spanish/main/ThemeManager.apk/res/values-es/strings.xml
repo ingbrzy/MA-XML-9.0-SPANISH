@@ -59,7 +59,6 @@
   <string name="favorite_list_format">Favorito %1$s</string>
   <string name="find_more_theme">Encontrar más</string>
   <string name="find_more_wallpapers">Encontrar más</string>
-  <string name="find_more_wallpapers">Encontrar más</string>
   <string name="gift_anonymous">Anónimo</string>
   <string name="gift_operation_fail_dlg_abandon">Cancelar</string>
   <string name="gift_operation_fail_dlg_retry">Intentar de nuevo</string>
@@ -147,7 +146,6 @@
   <string name="present_local_themes">Mis recursos</string>
   <string name="present_online_themes">Consigue más temas online</string>
   <string name="provision_default_theme_title">Por defecto</string>
-  <string name="provision_default_theme_title">Predeterminado</string>
   <string name="provision_loading_tips">Un momento…</string>
   <string name="provision_second_title">Seleccione uno de los varios temas por defecto</string>
   <string name="provision_title">Elija un tema</string>
