@@ -286,7 +286,7 @@
   <string name="no_network_btn">Volver a intentarlo</string>
   <string name="notification_summary_after_auto_cleanup">%s limpiado.</string>
   <string name="notification_summary_of_garbage_cleanup">Toca para liberar espacio.</string>
-  <string name="notification_title_of_garbage_cleanup">Tamaño de la papelera</string>
+  <string name="notification_title_of_garbage_cleanup">%s de archivos basura</string>
   <string name="notify_when">Notificar cuando la papelera alcance 100MB de tamaño</string>
   <string name="ok">Aceptar</string>
   <string name="open">Activar</string>
@@ -419,7 +419,7 @@
   <string name="total_clean">Total eliminado: %s</string>
   <string name="total_clean_text">Limpiar</string>
   <string name="update_date_format">dd/MM/yyyy</string>
-  <string name="virus_scan">Análisis de virus</string>
+  <string name="virus_scan">Escaneo de seguridad</string>
   <string name="wechat_cache_files">Caché de WeChat</string>
   <string name="wechat_chat_clean_done">Todo se ve bien</string>
   <string name="wechat_chat_data_type_cache">Caché de WeChat</string>
