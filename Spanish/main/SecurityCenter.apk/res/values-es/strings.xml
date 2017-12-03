@@ -458,6 +458,7 @@ o introduzca la contraseña de Aplicaciones bloqueadas"</string>
   <string name="call_contact_block">Bloquear contactos</string>
   <string name="call_delete_hint">¿Borrar todas las llamadas bloqueadas de este número?</string>
   <string name="call_delete_title">Eliminar historial de llamadas</string>
+  <string name="call_oversea_block">Bloquear llamadas desde el extranjero</string>
   <string name="call_prefix">Prefijo lista negra</string>
   <string name="call_private">Llamada privada</string>
   <string name="call_stranger_block">Llamadas de extraños</string>
@@ -724,6 +725,8 @@ o introduzca la contraseña de Aplicaciones bloqueadas"</string>
   <string name="fw_blocked">Lista negra</string>
   <string name="fw_blocked_count">"Bloqueado "</string>
   <string name="fw_blocked_join">" y "</string>
+  <string name="fw_oversea">Bloquear llamadas desde el extranjero</string>
+  <string name="fw_oversea_content">Bloquear llamadas entrantes desde números de teléfono extranjeros</string>
   <string name="game_ad_recommendation">Todo el mundo está jugando</string>
   <string name="game_anti_disturb_msg">No Molestar Juegos</string>
   <string name="game_booster">Acelerador de velocidad de Juegos</string>

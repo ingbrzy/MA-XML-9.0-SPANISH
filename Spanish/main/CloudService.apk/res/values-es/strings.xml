@@ -208,7 +208,7 @@ su Cuenta Mi para reactivar Mi Cloud."</string>
   <string name="micloud_find_device_guide_fail_sub_timeout">La conexión superó el tiempo de espera. Vuelva a intentarlo más tarde.</string>
   <string name="micloud_find_device_guide_micloud">Activar la sincronización con Mi Cloud</string>
   <string name="micloud_find_device_guide_micloud_sub_content">Sincronizar contactos, fotos, notas y más con Mi Cloud</string>
-  <string name="micloud_find_device_guide_noti_content">Proteja sus datos incluso cuando se pierda el dispositivo</string>
+  <string name="micloud_find_device_guide_noti_content">Proteja sus datos incluso cuando su dispositivo se pierda</string>
   <string name="micloud_find_device_guide_noti_content_by_app_change_qq">Sus datos de QQ estarán seguros incluso si pierde su dispositivo</string>
   <string name="micloud_find_device_guide_noti_content_by_app_change_wx">Sus datos de WeChat estarán seguros incluso si pierde su dispositivo</string>
   <string name="micloud_find_device_guide_noti_content_by_app_change_zfb">Sus datos en Alipay estarán seguros incluso si pierde su dispositivo</string>
