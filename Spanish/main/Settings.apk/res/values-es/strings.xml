@@ -138,6 +138,7 @@ Si hay varios usuarios en el dispositivo, usar este acceso directo en la pantall
   <string name="add_a_language">Añadir un idioma</string>
   <string name="add_account_label">Añadir cuenta</string>
   <string name="add_auto_startup_application">Añadir aplicaciones de inicio automático</string>
+  <string name="add_back_fingerprint_instruction_msg">Coloque su dedo sobre el sensor</string>
   <string name="add_device_admin">Activar este administrador de dispositivo</string>
   <string name="add_device_admin_msg">¿Activar administrador de dispositivos?</string>
   <string name="add_facerecoginition_text">Agregar datos faciales</string>
