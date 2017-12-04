@@ -902,7 +902,6 @@ Las emisiones utilizan señales de Bluetooth de baja energía."</string>
   <string name="change_storage">Cambiar almacenamiento</string>
   <string name="charge_length_format">hace %1$s</string>
   <string name="charging_sounds_title">Sonidos de carga de batería</string>
-  
   <string name="check_find_device_status_failure_confirm">Aceptar</string>
   <string name="check_importance">¿Marcar como importante?</string>
   <string name="check_update">Comprobar actualizaciones</string>
