@@ -473,7 +473,7 @@
   <string name="remove_video">Quitar vídeo</string>
   <string name="replace">Cambiar</string>
   <string name="replace_image">Cambiar imagen</string>
-  <string name="reply_button_msg">Reply</string>
+  <string name="reply_button_msg">Responder</string>
   <string name="resent_message">Reenviar</string>
   <string name="resize_image_error_information">Esta foto es demasiado grande para enviar, incluso al cambiar de tamaño.</string>
   <string name="resource_price_free">Gratis</string>
