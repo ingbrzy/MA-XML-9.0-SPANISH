@@ -232,7 +232,7 @@ Toque la pantalla para añadir o reposicionar manualmente la ciudad</string>
   <string name="unit">Unidades</string>
   <string name="unit_temperature">Unidades para la temperatura</string>
   <string name="unit_wind">Unidades de velocidad del viento</string>
-  <string name="update_night_setting_summary_text">Actualizar información del tiempo entre las 23:00 y las 07:00</string>
+  <string name="update_night_setting_summary_text">Actualizar el tiempo entre las 23:00 y las 07:00</string>
   <string name="update_night_setting_title_text">Actualizar automáticamente por la noche</string>
   <string name="update_setting_title_text">Actualización de información del tiempo</string>
   <string name="updated_a_moment_ago">Actualizado hace un momento</string>
