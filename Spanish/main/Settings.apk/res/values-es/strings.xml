@@ -4159,6 +4159,7 @@ Esto es posible por una credencial de confianza instalada en tu dispositivo."</s
   <string name="status_wifi_mac_address">Dirección MAC de Wi-Fi</string>
   <string name="status_wimax_mac_address">Dirección MAC 4G</string>
   <string name="status_write_success">Operación realizada correctamente</string>
+  <string name="statusbar_permission_desc">Los siguientes permisos solo son válidos para notificaciones importantes.</string>
   <string name="storage_detail_apps">Aplicaciones</string>
   <string name="storage_detail_audio">Audio</string>
   <string name="storage_detail_cached">Datos almacenados en caché</string>
