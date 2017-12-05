@@ -118,6 +118,11 @@
         <item>Importante</item>
         <item>Sin importancia</item>
     </string-array>
+    <string-array name="check_importance_summary">
+        <item>MIUI decidirá qué notificaciones deberían aparecer directamente</item>
+        <item>Las notificaciones aparecerán en el panel de notificación</item>
+        <item>Las notificaciones aparecerán en una carpeta separada</item>
+    </string-array>
     <string-array name="entries_font_size">
         <item>Pequeña</item>
         <item>Predeterminado</item>
