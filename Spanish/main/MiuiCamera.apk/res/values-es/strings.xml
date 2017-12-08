@@ -91,6 +91,14 @@ y luego creara una escena en la que todo el mundo se verá mejor".</string>
   <string name="height">Altura</string>
   <string name="image_file_name_format">"'IMG'_ddMMyyyy_HHmmss"</string>
   <string name="message_snap_double_confirm">Con una presión prolongada del botón de volumen provoca que se active el NFC. ¿Reemplazar esta función?</string>
+  <string name="module_name_beauty">Belleza</string>
+  <string name="module_name_capture">Foto</string>
+  <string name="module_name_fun">Video corto</string>
+  <string name="module_name_manual">Manual</string>
+  <string name="module_name_panorama">Panorama</string>
+  <string name="module_name_portrait">Retrato</string>
+  <string name="module_name_square">Cuadro</string>
+  <string name="module_name_video">Vídeo</string>
   <string name="location">Lugar</string>
   <string name="model">Modelo</string>
   <string name="no_storage">Inserte la tarjeta SD antes de usar cámara</string>
