@@ -109,9 +109,9 @@
         <item>Separar</item>
     </string-array>
     <string-array name="status_bar_show_carrier_entries">
-        <item>Sólo mostrarlo en la Pantalla de bloqueo y en el área de Notificaciones</item>
-        <item>Mostrar siempre el nombre del operador</item>
-        <item>Nunca mostar el nombre del operador</item>
+        <item>Mostrar solo en la pantalla de bloqueo</item>
+        <item>Mostrar solo en la barra de estado</item>
+        <item>Nunca mostrar el nombre del operador</item>
     </string-array>
     <string-array name="check_importance_entries">
         <item>Recomendado</item>
