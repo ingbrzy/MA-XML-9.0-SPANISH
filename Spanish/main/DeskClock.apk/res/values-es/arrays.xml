@@ -71,6 +71,16 @@
         <item>Muy pobre</item>
         <item>Severo</item>
     </string-array>
+    <string-array name="weather_tips_value">
+        <item>Reduce las actividades al aire libre</item>
+        <item>Las carreteras están resbaladizas</item>
+        <item>Parece que puede haber tormenta, ¡ten cuidado!</item>
+        <item>El aire está contaminado, ¡ponte una máscara!</item>
+        <item>Coge un paraguas si vas a salir</item>
+        <item>Ten cuidado en la carretera</item>
+        <item>¡Viene una tormenta de arena, usa una máscara!</item>
+        <item>¡Ten un buen día!</item>
+    </string-array>
     <string-array name="volume_button_setting_entries">
         <item>No hacer nada</item>
         <item>Repetir</item>
