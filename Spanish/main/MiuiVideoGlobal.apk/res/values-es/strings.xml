@@ -6,8 +6,8 @@
   <string name="abc_action_mode_done">Hecho</string>
   <string name="abc_activity_chooser_view_see_all">Ver todo</string>
   <string name="abc_activitychooserview_choose_application">Elegir una aplicación</string>
-  <string name="abc_capital_off">OFF</string>
-  <string name="abc_capital_on">ON</string>
+  <string name="abc_capital_off">APAGADO</string>
+  <string name="abc_capital_on">ENCENDIDO</string>
   <string name="abc_search_hint">Buscar…</string>
   <string name="abc_searchview_description_clear">Limpiar consulta</string>
   <string name="abc_searchview_description_query">Buscar consulta</string>
@@ -49,7 +49,6 @@
   <string name="screenrecord_slience">El video grabado no tiene sonido porque la versión actual de MIUI no soporta la grabación de pistas de audio.</string>
   <string name="screenrecord_success">Grabado exitosamente. Puede compartir el video ahora.</string>
   <string name="share_tips">Hecha captura de pantalla exitosamente. Toque para compartir.</string>
-  <string name="status_bar_notification_info_overflow">999+</string>
   <string name="storage_external_sdcard">Almacenamiento externo</string>
   <string name="storage_internal_sdcard">Almacenamiento interno</string>
   <string name="storage_root_dir">Ya está en la carpeta raíz</string>
@@ -66,16 +65,16 @@
   <string name="subtitle_onlinesub_language">Lenguaje: %s</string>
   <string name="subtitle_onlinesub_loading">Cargando subtítulos…</string>
   <string name="subtitle_onlinesub_loading_wait">Cargando subtítulos…</string>
-  <string name="subtitle_onlinesub_right_declare">Disclaimer</string>
-  <string name="subtitle_onlinesub_right_declare_content">Get subtitles &lt;br/&gt;&lt;br/&gt;from &lt;a href=http://www.opensubtitles.org&gt;opensubtitles.org&lt;/a&gt;. &lt;br/&gt;&lt;br/&gt;All online subtitles are provided by &lt;a href=http://www.opensubtitles.org&gt;opensubtitles.org&lt;/a&gt;.</string>
-  <string name="subtitle_onlinesub_save_failed">"Couldn't add subtitles"</string>
-  <string name="subtitle_onlinesub_save_success">Added subtitles successfully</string>
-  <string name="subtitle_onlinesub_search_keyword">Enter keywords</string>
-  <string name="subtitle_onlinesub_search_notfound">"Couldn't find subtitles"</string>
+  <string name="subtitle_onlinesub_right_declare">Renuncia</string>
+  <string name="subtitle_onlinesub_right_declare_content">Obtener subtítulos &lt;br/&gt;&lt;br/&gt;from &lt;a href=http://www.opensubtitles.org&gt;opensubtitles.org&lt;/a&gt;. &lt;br/&gt;&lt;br/&gt;Todos los subtítulos en línea son provistos por &lt;a href=http://www.opensubtitles.org&gt;opensubtitles.org&lt;/a&gt;.</string>
+  <string name="subtitle_onlinesub_save_failed">"No se pudieron agregar subtítulos"</string>
+  <string name="subtitle_onlinesub_save_success">Se agregaron los subtítulos con éxito</string>
+  <string name="subtitle_onlinesub_search_keyword">Ingrese palabras claves</string>
+  <string name="subtitle_onlinesub_search_notfound">"No pude encontrar los subtítulos"</string>
   <string name="subtitle_onlinesub_size_string_b">Tamaño %sB</string>
-  <string name="subtitle_onlinesub_title">Online subtitles</string>
-  <string name="subtitle_open_subtitle_file_title">Find subtitles</string>
-  <string name="subtitle_padding_default_hint">Adjusting subtitles…</string>
+  <string name="subtitle_onlinesub_title">Subtítulos en línea</string>
+  <string name="subtitle_open_subtitle_file_title">Buscar subtítulos</string>
+  <string name="subtitle_padding_default_hint">Ajustando los subtítulos…</string>
   <string name="subtitle_preoffset_max">"Can't move further than 5s"</string>
   <string name="subtitle_subonline_non_network">"Couldn't connect to the network. Connect and try again."</string>
   <string name="subtitle_synchronization_title">Sync</string>
