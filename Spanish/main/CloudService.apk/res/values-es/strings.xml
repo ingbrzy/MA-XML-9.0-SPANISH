@@ -94,6 +94,12 @@ Para obtener más espacio de almacenamiento, visite mi.com/micloud."</string>
   <string name="find_device_notice_p1">Acceda a</string>
   <string name="find_device_notice_p3">"para localizar, bloquear o restaurar su teléfono.
 Si cambia de tarjeta SIM, se le enviará automáticamente otro SMS para reactivar esta función."</string>
+  <string name="find_device_operation_failure_rpc">"No se pudo realizar la operación debido a un error de RPC."</string>
+  <string name="find_device_pref_alert_content">"Encontrar su dispositivo está asociado a su Cuenta Mi. Debe establecer una contraseña o ingresar la contraseña que estableció. Asegúrese de recordar siempre su ID y contraseña en su Cuenta Mi. Es posible que se requiera un SMS saliente para activar este servicio. Su proveedor le cobrará por este mensaje. Cuando cambie las tarjetas SIM, se enviará un mensaje automáticamente para reactivar esta función."</string>
+  <string name="find_device_pref_alert_negtive">No, gracias</string>
+  <string name="find_device_pref_alert_positive">Aceptar</string>
+  <string name="find_device_pref_alert_title">Recuerde su ID y contraseña en su Cuenta Mi</string>
+  <string name="find_device_pref_initializing">Inicializando…</string>
   <string name="find_device_reading_status">Cargando estado…</string>
   <string name="find_device_reading_status_failure">No se pudo cargar el estado.</string>
   <string name="find_device_send_sms_alert">Si cambia de tarjeta SIM, se enviará automáticamente una otra SMS para reactivar esta función.</string>
@@ -453,7 +459,7 @@ Esta característica cifra y envía tu ID de dispositivo a los servidores de Mi.
   <string name="storage">Almacenamiento</string>
   <string name="sub_alert_notif_content">Activar Micloud</string>
   <string name="sub_alert_notif_dspt_no">Sincronizado</string>
-  <string name="sub_alert_notif_title">Sincronización con Mi Cloud</string>
+  <string name="sub_alert_notif_title">Sincronización con Mi Nube</string>
   <string name="sub_sync_item_sms_summary">Solo sincronizar mensajes que contengan fotos, audio u otros archivos multimedia cuando esté conectado a una red Wi-Fi</string>
   <string name="sub_sync_item_sms_title_wifi_only">Solo sincronizar MMS por Wi-Fi</string>
   <string name="success_upgraded_space">%s añadido</string>
@@ -469,7 +475,7 @@ Esta característica cifra y envía tu ID de dispositivo a los servidores de Mi.
   <string name="sync_dspt_provision3">". Puede activar o desactivar esta función en cualquier momento desde los Ajustes.
 "</string>
   <string name="sync_dspt_provision_header">Sincronizar</string>
-  <string name="sync_dspt_provision_title">Mi Cloud</string>
+  <string name="sync_dspt_provision_title">Mi Nube</string>
   <string name="sync_item_calllog_summary">Sincronizar grabaciones de llamadas hechas y recibidas con este dispositivo</string>
   <string name="sync_item_calllog_title">Sincronizar historial de llamadas</string>
   <string name="sync_item_sms_summary">Sincronizar SMS enviados y recibidos en este teléfono</string>
@@ -493,16 +499,16 @@ Esta característica cifra y envía tu ID de dispositivo a los servidores de Mi.
   <string name="upgrade_space">Añadir espacio</string>
   <string name="upgrade_space_gb">GB</string>
   <string name="upgrade_space_mibipreyear">%s Mi Credits por año</string>
-  <string name="upgrade_space_successful">%sGB añadidos</string>
-  <string name="upgrade_space_successful_total">%sGB disponibles</string>
+  <string name="upgrade_space_successful">%s GB añadidos</string>
+  <string name="upgrade_space_successful_total">%s GB disponibles</string>
   <string name="upgrade_space_tb">TB</string>
   <string name="user_agreement">Acuerdos del Usuario</string>
   <string name="user_agreement_p5">"
 "</string>
   <string name="user_agreement_p6">"El uso de este servicio supone la aceptación de los "</string>
-  <string name="user_agreement_p7">Términos de Servicio de Mi Cloud</string>
+  <string name="user_agreement_p7">Términos de Servicio de Mi Nube</string>
   <string name="user_agreement_p8">.</string>
-  <string name="user_agreement_title">Términos de Servicio de Mi Cloud</string>
+  <string name="user_agreement_title">Términos de Servicio de Mi Nube</string>
   <string name="vcode">Código de verificación</string>
   <string name="verify">Verificar</string>
   <string name="view_storage_title">Espacio de almacenamiento</string>
@@ -513,6 +519,7 @@ Esta característica cifra y envía tu ID de dispositivo a los servidores de Mi.
   <string name="wipe_data_dialog_msg_and_on">, y algunos otros elementos</string>
   <string name="wipe_data_dialog_msg_separator">, </string>
   <string name="wipe_data_dialog_title">"Algunos elementos no se han sincronizado"</string>
-  <string name="xiaomi_cloud_service">Mi Cloud</string>
+  <string name="xiaomi_cloud_service_subtitle">Todos los elementos importantes en un solo lugar</string>
+  <string name="xiaomi_cloud_service">Mi Nube</string>
   <string name="xiaomi_cloud_service_subtitle">Todos los elementos importantes en un solo lugar</string>
 </resources>
