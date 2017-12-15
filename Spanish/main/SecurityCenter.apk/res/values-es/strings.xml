@@ -688,7 +688,7 @@ o introduzca la contraseña de Aplicaciones bloqueadas"</string>
   <string name="firewall_applist">Aplicaciones</string>
   <string name="firewall_fragment_nonesys_listempty">No hay archivos</string>
   <string name="firewall_fragment_sys_listempty">No hay archivos</string>
-  <string name="firewall_mobile">Datos móviles</string
+  <string name="firewall_mobile">Datos móviles</string>
   <string name="firewall_mobile_dialog_message">"La aplicación instalada no podrá conectarse a Internet mediante datos móviles si está desactivado."</string>
   <string name="firewall_network_allow">%1$s tiene permiso para usar la conexión %2$s</string>
   <string name="firewall_network_restrict_notify_message">Toque para cambiar los ajustes.</string>
