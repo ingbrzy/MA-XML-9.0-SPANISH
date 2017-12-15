@@ -76,6 +76,10 @@
         <item>Uso de Datos</item>
         <item>Saldo del teléfono</item>
     </string-array>
+        <string-array name="tether_limit_warn_type">
+        <item>Desactivar y notificar</item>
+        <item>Solo notificar</item>
+    </string-array>
     <string-array name="alarm_repeat_type">
         <item>Una vez</item>
         <item>Todos los días</item>
