@@ -688,8 +688,7 @@ o introduzca la contraseña de Aplicaciones bloqueadas"</string>
   <string name="firewall_applist">Aplicaciones</string>
   <string name="firewall_fragment_nonesys_listempty">No hay archivos</string>
   <string name="firewall_fragment_sys_listempty">No hay archivos</string>
-  <string name="firewall_fragment_tab_title_nonsys">Instalados</string>
-  <string name="firewall_fragment_tab_title_sys">Sistema</string>
+  <string name="firewall_mobile">Datos móviles</string
   <string name="firewall_mobile_dialog_message">"La aplicación instalada no podrá conectarse a Internet mediante datos móviles si está desactivado."</string>
   <string name="firewall_network_allow">%1$s tiene permiso para usar la conexión %2$s</string>
   <string name="firewall_network_restrict_notify_message">Toque para cambiar los ajustes.</string>
@@ -701,9 +700,9 @@ o introduzca la contraseña de Aplicaciones bloqueadas"</string>
   <string name="firewall_restrict_data">Restringir el uso de datos móviles</string>
   <string name="firewall_restrict_notify_title">"%s no puede utilizar la red"</string>
   <string name="firewall_restrict_wlan">Restringir el uso de la conexión Wi-Fi</string>
-  <string name="firewall_rule_group_title_mobile">Móvil</string>
   <string name="firewall_rule_group_title_roaming">Roaming en el extranjero</string>
-  <string name="firewall_rule_group_title_wifi">Wi-Fi</string>
+  <string name="firewall_system_title">Uso de datos para aplicaciones del sistema</string>
+  <string name="firewall_wifi">Wi-Fi</string>
   <string name="firewall_wifi_dialog_message">"La aplicación instalada no podrá conectarse a Internet mediante Wi-Fi si está desactivado.​"</string>
   <string name="five_percent_total_pkg">%s (5%% de los datos mensuales)</string>
   <string name="forbid_autobright_summary">El brillo de la pantalla permanecerá igual cuando esté jugando a juegos</string>
@@ -1061,6 +1060,7 @@ responda</string>
   <string name="monitor_requests_from_pc">Administrar la instalación de las aplicaciones vía USB</string>
   <string name="more_game">Más juegos</string>
   <string name="more_lock">Más</string>
+  <string name="more_settings">Más</string>
   <string name="name">Nombre</string>
   <string name="net_booster">Acelerador de velociadad de Red</string>
   <string name="net_booster_expire_notification">La sesión del acelerador de velociadad de Red está a punto de acabar</string>
@@ -1409,6 +1409,8 @@ Esta actividad acorta la duración de la batería."</string>
   <string name="pref_key_half_year_package_start">Día de comienzo</string>
   <string name="pref_key_half_year_package_switch">Paquete de datos de medio año</string>
   <string name="pref_key_half_year_package_value">Tamaño de paquete</string>
+  <string name="pref_key_tethering_setting">Límite de datos de una sola vez</string>
+  <string name="pref_key_tethering_title">Límite de datos de una sola vez</string>
   <string name="pref_manual_adjust">Establecer las estadísticas de uso de datos de forma manual</string>
   <string name="pref_mi_sim_settings">Ajustes SIM Mi</string>
   <string name="pref_more_settings">Ajustes adicionales</string>
@@ -1898,6 +1900,14 @@ Si no ha modificado MIUI en modo alguno, asegúrese de saber de dónde viene est
   <string name="tc_sms_report_upload_success">SMS de informe de uso de datos enviado. ¡Vamos a trabajar en ello!</string>
   <string name="tc_sms_report_upload_when_net">¡Gracias por sus comentarios!</string>
   <string name="ten_percent_total_pkg">%s (10%% de los datos mensuales)</string>
+  <string name="tether_custom_dialog_title">Límite de datos móviles</string>
+  <string name="tether_limit_dialog_title">Límite de datos móviles</string>
+  <string name="tether_limit_value_custom">Personalizado</string>
+  <string name="tether_over_limit_dialog_cancle_btn">Restablecer punto de acceso</string>
+  <string name="tether_over_limit_dialog_message">Has alcanzado el límite de datos del punto de acceso portátil.</string>
+  <string name="tether_over_limit_dialog_title">Advertencia de uso de datos</string>
+  <string name="tether_over_limit_warning_notify_message">Desactivar el punto de acceso portátil.</string>
+  <string name="tether_over_limit_warning_notify_title">Límite de datos del punto de acceso alcanzado</string>
   <string name="text_button">Ok</string>
   <string name="text_cycle_day">%s</string>
   <string name="thermal_tips_message">Jugar a juegos en el modo Rendimiento puede provocar problemas de sobrecalentamiento.</string>
