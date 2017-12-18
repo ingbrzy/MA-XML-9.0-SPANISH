@@ -25,6 +25,8 @@
   <string name="audio_changed">Nueva pista de audio</string>
   <string name="audio_title">Pista de audio</string>
   <string name="audio_track">Pista de audio</string>
+  <string name="com_permission_desc">"Mi video no puede acceder a los videos en su dispositivo. Permitir acceso a ajustes."</string>
+  <string name="com_permission_title">Permisos requeridos</string>
   <string name="do_not_show_this_again">No mostrar otra vez</string>
   <string name="lp_advance_sound">Mejora de sonido</string>
   <string name="lp_brightness">Brillo</string>
