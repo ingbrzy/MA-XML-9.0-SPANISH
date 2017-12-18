@@ -17,11 +17,12 @@
   <string name="account_and_calendar">Cuentas</string>
   <string name="account_and_calendar_to_display">Eventos en el calendario</string>
   <string name="accounts">Cuentas y sincronización</string>
-  <string name="acct_not_synced">Esta cuenta no se ha sincronizado por lo que puede que sus calendarios no estén al día.</string>
+  <string name="acct_not_synced">Esta cuenta no está siendo sincronizada. Su calendario puede no estar actualizado.</string>
   <string name="acessibility_cal_notification">Notificación de calendario</string>
   <string name="acessibility_selected_marker_description">Evento seleccionado</string>
   <string name="acessibility_snooze_notification">Notificación de repetición</string>
-  <string name="action_bar_more_menu_view_description">más</string>
+  <string name="action_bar_more_menu_view_description">Más</string>
+  <string name="action_bar_return">Volver</string>
   <string name="action_label">Regresar</string>
   <string name="action_text_card_manager">Canal</string>
   <string name="action_text_online">Suscribirse</string>
@@ -105,9 +106,9 @@
   <string name="countdown_today">Hoy</string>
   <string name="create_an_account_desc">"El calendario funciona mejor con una Cuenta Mi.
 
-• Acceso desde cualquier navegador
-• Copia de seguridad de tus eventos"</string>
-  <string name="creating_event">Evento creado</string>
+• Acceso desde cualquier navegador.
+• Copia de seguridad de tus eventos."</string>
+  <string name="creating_event">Enviando invitaciones…</string>
   <string name="creating_event_with_guest">Se van a enviar las invitaciones</string>
   <string name="credit">Tarjeta de crédito</string>
   <string name="credit_card_date_label">Fecha de vencimiento：</string>
@@ -124,6 +125,7 @@
   <string name="date_calculate_days">Introduzca el número de días</string>
   <string name="date_calculate_description">Aprenda qué fecha es antes o después de un cierto día</string>
   <string name="date_calculate_direction">Dirección</string>
+  <string name="date_calculate_direction_content_description">Dirección, actual es %1s</string>
   <string name="date_calculate_result">Resultado</string>
   <string name="date_calculate_tab">Calcular fecha</string>
   <string name="date_calculate_today">0 días</string>
@@ -193,10 +195,10 @@
   <string name="edit_event_to_label">Hasta</string>
   <string name="edit_label">Editar</string>
   <string name="email_guests_label">Enviar email a los invitados</string>
-  <string name="email_install_hint">Email ha sido desinstalado. Reinstalándolo, puede restaurar los datos del calendario de la cuenta o añadir una nueva cuenta.</string>
+  <string name="email_install_hint">El correo ha sido desinstalado. Instale Mail nuevamente para restaurar cuentas de calendario o agregar una nueva.</string>
   <string name="email_picker_label">Enviar email con</string>
   <string name="email_subject_prefix">"Re: "</string>
-  <string name="empty_event">Evento vacío no creado</string>
+  <string name="empty_event">"No se pueden crear eventos vacíos"</string>
   <string name="english_premium_league">English Premiere League</string>
   <string name="event_account">Cuenta</string>
   <string name="event_action_delete">Eliminar</string>
@@ -260,9 +262,9 @@
   <string name="insert_event_dialog_title">Aviso</string>
   <string name="insert_event_toast_add_failed">No se pudo añadir</string>
   <string name="insert_event_toast_add_success">Evento creado</string>
-  <string name="install_email_app">Instalar Email</string>
-  <string name="install_email_finished">Email instalado</string>
-  <string name="installing_email">Instalando...</string>
+  <string name="install_email_app">Instalar Mail</string>
+  <string name="install_email_finished">Mail instalado</string>
+  <string name="installing_email">Instalando…</string>
   <string name="item_num_selected">%1$d seleccionado</string>
   <string name="joke_card_icon_text">%1$s las personas ríen</string>
   <string name="jump_date_full">Ir a fecha</string>
@@ -311,9 +313,9 @@
 Compruebe la configuración de la red y vuelva a intentarlo."</string>
   <string name="no_network_btn">Try again</string>
   <string name="no_title_label">(Sin título)</string>
-  <string name="no_visiable_calendar_message">Es necesario seleccionar una cuenta de calendario. Toque Seleccionar cuenta para continuar.</string>
-  <string name="no_visiable_calendar_select_account">Seleccione cuenta</string>
-  <string name="no_visiable_calendar_title">Seleccione una cuenta de calendario</string>
+  <string name="no_visiable_calendar_message">Necesita agregar una cuenta de calendario. Toca Añadir cuenta para continuar.</string>
+  <string name="no_visiable_calendar_select_account">Añadir cuenta</string>
+  <string name="no_visiable_calendar_title">Añadir calendario</string>
   <string name="not_synced">no sincronizado</string>
   <string name="olympic_vs">VS</string>
   <string name="online_reminder_header_text">Recordar</string>
@@ -400,7 +402,7 @@ Compruebe la configuración de la red y vuelva a intentarlo."</string>
   <string name="response_yes">Sí</string>
   <string name="rest_day_indication">: )</string>
   <string name="save_label">Hecho</string>
-  <string name="saving_event">Evento guardado</string>
+  <string name="saving_event">Enviando actualizaciones…</string>
   <string name="saving_event_with_guest">Las actualizaciones serán enviadas</string>
   <string name="search">Búsqueda</string>
   <string name="search_calendar">"Fecha;Almanaque;Fortuna;Agenda;Cita;Recordatorio;Vacación;Festivo;Cumpleaños;2016;2017;Año nuevo"</string>
@@ -452,6 +454,7 @@ Compruebe la configuración de la red y vuelva a intentarlo."</string>
   <string name="subscribe_channel_title">Canal</string>
   <string name="subscribing_card">Suscribirse</string>
   <string name="synced">sincronizado</string>
+  <string name="talk_back_read_date">La fecha actual es %1$s,%2$s,</string>
   <string name="taishen">taishen</string>
   <string name="template_announce_item_index">Evento %1$s de %2$s.</string>
   <string name="template_week_num">Semana %1$s</string>
