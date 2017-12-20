@@ -67,7 +67,7 @@
   <string name="artist_view">Artista</string>
   <string name="asset_sync_alert_not_now">Ahora no</string>
   <string name="asset_sync_network_data_alert_message">Copia de seguridad de las canciones mediante datos móviles puede generar cargos adicionales. ¿Desea realizar de todos modos una copia de seguridad?</string>
-  <string name="asset_sync_network_data_alert_title">"Estás usando datos móviles"</string>
+  <string name="asset_sync_network_data_alert_title">"Está usando datos móviles"</string>
   <string name="asset_sync_network_unavailable_alert_message">No se puede conectar a internet para hacer una copia de seguridad de las canciones.</string>
   <string name="asset_sync_network_unavailable_alert_title">"No se pudo conectar a al red"</string>
   <string name="asset_sync_power_alert_message">Conecte el cargador para hacer una copia de seguridad de las canciones.</string>
