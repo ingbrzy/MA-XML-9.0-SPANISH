@@ -483,7 +483,7 @@ Check your tracking number."<!--- Added line --></string>
   <string name="hour24_format_en">HH:mm</string>
   <string name="http_stock_error">No se pudo cargar la información</string>
   <string name="immediate_recommendation">Recomendaciones</string>
-  <string name="item_type_custom">Personalizado</string>
+  <string name="item_type_custom">Personalizar</string>
   <string name="item_type_suggestion">Sugerencias</string>
   <string name="just_now">Ahora mismo</string>
   <string name="launch_app">Recomendaciones</string>
