@@ -17,7 +17,7 @@
   <string name="alter_message_switch_mode_message">Al cambiar los modos, la configuración anterior ya no se aplicará a esta aplicación.</string>
   <string name="app_invisible_title">AppInvisible</string>
   <string name="app_list_title">Seleccionar aplicaciones</string>
-  <string name="app_name">Ahorro de batería</string>
+  <string name="app_name">Batería y rendimiento</string>
   <string name="background">Aplicación ejecutándose en segundo plano</string>
   <string name="config_description">MIUI puede identificar aplicaciones especificas con procesos en segundo plano (p. ej. aplicaciones de mensajería y navegación, reproductores multimedia), y aplicar el ahorro de batería de una manera que no influya de forma importante en la actividad que se ejecute en segundo plano.</string>
   <string name="config_mode_title">Configuraciones de segundo plano</string>
@@ -39,6 +39,9 @@ El economizador de batería tratará de forma selectiva las aplicaciones importa
   <string name="empty_title_apps_container_list">Sin aplicaciones</string>
   <string name="enable_hide_mode">Habilitar el Ahorrador de Batería MIUI</string>
   <string name="error_filename_too_long">Nombre de archivo demasiado largo.</string>
+  <string name="extreme_power_config_mode_category">Modo extremo</string>
+  <string name="extreme_power_config_mode_desc">Cambie al modo extremo para desactivar la sincronización, Bluetooth, GPS, NFC, doble toque, las luces de los botones, la pantalla de bloqueo de las notificaciones, así como las luces de notificación. MIUI se enfocará en ahorrar batería.</string>
+  <string name="extreme_power_config_mode_title">Modo extremo</string>
   <string name="foreground_change">Aplicación ejecutándose en primer plano</string>
   <string name="fragment_nonesys_listempty">No hay aplicaciones instaladas</string>
   <string name="fragment_tab_title_nonsys">Aplicaciones instaladas</string>
