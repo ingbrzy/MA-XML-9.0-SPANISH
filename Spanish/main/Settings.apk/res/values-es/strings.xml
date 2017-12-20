@@ -397,7 +397,8 @@ El administrador podrá controlar y administrar los ajustes, el acceso, las apli
   <string name="average_used">Uso medio (%)</string>
   <string name="avoid_ui">Evitar UI</string>
   <string name="awake">Tiempo de actividad del dispositivo</string>
-  <string name="back_key">Volver</string>
+  <string name="back_button">Atrás</string>
+  <string name="back_key">Atrás</string>
   <string name="background_check_pref">Comprobación en segundo plano</string>
   <string name="background_check_title">Acceso completo en segundo plano</string>
   <string name="background_data">Conexiones automáticas</string>
