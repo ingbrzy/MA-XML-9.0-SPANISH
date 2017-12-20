@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <plurals name="noti_caption_unsuccessful">
-        <item quantity="other">%1$d ha fallado.</item>
-        <item quantity="one">%1$d ha fallado.</item>
+        <item quantity="other">%1$d han fallado.</item>
+        <item quantity="one">%1$d han fallado.</item>
     </plurals>
     <plurals name="noti_caption_success">
         <item quantity="other">%1$d terminó con éxito, %2$s</item>
