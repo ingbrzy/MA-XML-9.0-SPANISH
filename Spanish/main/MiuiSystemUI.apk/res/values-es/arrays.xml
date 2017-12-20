@@ -2,7 +2,7 @@
 <resources>
         <string-array name="wifi_status">
         <item></item>
-        <item>Escaneado…</item>
+        <item>Escaneando…</item>
         <item>Conectando…</item>
         <item>Autenticando…</item>
         <item>Obteniendo dirección IP…</item>
