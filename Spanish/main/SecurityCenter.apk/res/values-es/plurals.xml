@@ -280,7 +280,7 @@ Si vuelve a activar los datos móviles, su operador puede cobrarle por datos adi
         <item quantity="one">Añadido %d juego</item>
     </plurals>
     <plurals name="uninstall_game_count_title">
-        <item quantity="other">"No has añadido %d juegos"</item>
-        <item quantity="one">"No has añadido %d juego"</item>
+        <item quantity="other">"No ha añadido %d juegos"</item>
+        <item quantity="one">"No ha añadido %d juego"</item>
     </plurals>
 </resources>
