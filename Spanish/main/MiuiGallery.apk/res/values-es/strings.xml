@@ -711,12 +711,12 @@
   <string name="photoeditor_name">Editor de fotos</string>
   <string name="photomovie_audio_custom">Local</string>
   <string name="photomovie_audio_none">Ninguno</string>
-  <string name="photomovie_audio_unsupport">No es compatible con este tipo de audio</string>
-  <string name="photomovie_cancel_download">Cancelar descarga</string>
+  <string name="photomovie_audio_unsupport">"Este audio no es compatible".</string>
+  <string name="photomovie_cancel_download">Cancelar</string>
   <string name="photomovie_delete_disable">Necesitas al menos 3 fotos para crear un cortometraje.</string>
   <string name="photomovie_download">Descargar</string>
   <string name="photomovie_download_failed">"No se pudo descargar"</string>
-  <string name="photomovie_download_failed_for_notwork">"No se pudo descargar. Verifique su conexión de red."</string>
+  <string name="photomovie_download_failed_for_notwork">"No se pudo descargar. Conéctese a la red y vuelva a intentarlo".</string>
   <string name="photomovie_download_without_wifi_msg">"Usar la conexión de datos móviles para descargar archivos aumentará el uso de datos. Si rebasa el límite de datos de su plan, su proveedor podría cobrarle tarifas adicionales."</string>
   <string name="photomovie_download_without_wifi_title">Advertencia de uso de datos</string>
   <string name="photomovie_item_name">Cortometraje</string>
