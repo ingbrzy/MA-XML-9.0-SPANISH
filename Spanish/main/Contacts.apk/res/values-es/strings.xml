@@ -1254,8 +1254,8 @@ Para agregar un contacto a la lista de favoritos:
   <string name="type_voicemail">Mensaje de voz</string>
   <string name="unable_get_device_id">No se puede obtener el IMEI</string>
   <string name="unfold_all">desplegar todo</string>
-  <string name="unknow_phone_number_call_failed">No se puede llamar a un número desconocido</string>
-  <string name="unknow_phone_number_mms_failed">No se puede enviar un mensaje a un número desconocido</string>
+  <string name="unknow_phone_number_call_failed">"No se puede llamar a números desconocidos"</string>
+  <string name="unknow_phone_number_mms_failed">"No se pueden enviar mensajes a números desconocidos"</string>
   <string name="unknown">Desconocido</string>
   <string name="unknown_contact_name">Contacto desconocido</string>
   <string name="unknown_details_add_to_contact">Existente</string>
