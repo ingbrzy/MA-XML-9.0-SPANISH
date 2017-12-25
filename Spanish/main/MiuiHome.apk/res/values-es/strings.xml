@@ -66,7 +66,12 @@
   <string name="disable_wallpaper_scroll">Desactivar desplazamiento entre pantallas</string>
   <string name="download_action">Descargar</string>
   <string name="edit_folder_title">Editar nombre de carpeta</string>
-  <string name="editing_add_widget_tips">Widgets</string>
+  <string name="edit_mode_group">Grupo</string>
+  <string name="edit_mode_group_error_full">No hay espacio suficiente</string>
+  <string name="edit_mode_group_error_in_folder">Cierre la carpeta antes de agrupar los iconos</string>
+  <string name="edit_mode_group_error_one_folder">"No se puede duplicar una carpeta con iconos seleccionados"</string>
+  <string name="edit_mode_uninstall">Desinstalar</string>
+  <string name="editing_add_widget_tips">Editar widgets</string>
   <string name="editing_mode_enter_tip_text">Pellizca para editar la pantalla de inicio</string>
   <string name="editing_mode_title_empty">0 seleccionados</string>
   <string name="editing_set_screen_layout_cells">Elija efectos de diseño de pantalla</string>
@@ -151,6 +156,8 @@
   <string name="lock_screen_failed_message">No se pudo aplicar a la pantalla de bloqueo</string>
   <string name="lock_screen_success_message">Aplicado a la pantalla de bloqueo</string>
   <string name="lock_screen_wallpaper">Fondo de pantalla de bloqueo</string>
+  <string name="memory_clear_nothing_result">Nada que borrar en la memoria caché</string>
+  <string name="memory_clear_result">%1$sB limpiado</string>
   <string name="menu_add">Añadir</string>
   <string name="menu_auto_fill">Rellenar celdas vacías</string>
   <string name="menu_back_desktop">Volver al escritorio</string>
