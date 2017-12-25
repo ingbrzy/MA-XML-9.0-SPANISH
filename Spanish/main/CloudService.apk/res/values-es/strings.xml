@@ -139,7 +139,7 @@ Si cambia de tarjeta SIM, se le enviará automáticamente otro SMS para reactiva
   <string name="micloud_all_sub_2_sms">Se enviarán 2 SMS estándares para activar su tarjeta SIM. Su operador le cobrará.</string>
   <string name="micloud_all_sub_resend_sms">"Al activar 'Localizar el dispositivo', un SMS de activación puede ser enviado después de cambiar las tarjetas SIM."</string>
   <string name="micloud_buy_member">Compre afiliación a Mi Nube</string>
-  <string name="micloud_buy_member_safe">Extender membresía Mi Nube</string>
+  <string name="micloud_buy_member_safe">Extienda el almacenamiento de MiCloud</string>
   <string name="micloud_check_sim_notify_text">"Parece que ha cambiado de tarjeta SIM. Inicie sesión
 con su Cuenta Mi para reactivar Mi Nube."</string>
   <string name="micloud_check_sim_notify_title">Reactivar Mi Nube</string>
@@ -278,8 +278,6 @@ Utilice una cuenta diferente."</string>
   <string name="micloud_main_sync_on_wifi">Esperando conexión Wi-Fi</string>
   <string name="micloud_main_sync_pause">Sincronización pausada</string>
   <string name="micloud_main_sync_pending">Esperando para sincronizar</string>
-  <string name="micloud_footer_international_url">mi.com/micloud</string>
-  <string name="micloud_footer_normal_url">i.mi.com</string>
   <string name="micloud_main_sync_setting">Ajustes de sincronización</string>
   <string name="micloud_main_sync_stop">Sincronización interrumpida</string>
   <string name="micloud_main_syncing">Sincronizando…</string>
