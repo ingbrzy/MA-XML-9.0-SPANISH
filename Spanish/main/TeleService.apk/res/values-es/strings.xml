@@ -307,7 +307,9 @@
   <string name="dial_related_setting_catory">Marcador</string>
   <string name="dialerKeyboardHintText">Use el teclado para marcar</string>
   <string name="dialog_alert_title">Atención</string>
+  <string name="dialog_cancel">Cancelar</string>
   <string name="dialog_network_priority_title">Red de prioridad</string>
+  <string name="dialog_report">Informar</string>
   <string name="dialog_purchase">Recargar</string>
   <string name="dialpad_0_letters">+</string>
   <string name="dialpad_0_number">0</string>
@@ -614,6 +616,11 @@ Ponte en contacto con tu operador si el problema persiste."</string>
   <string name="mmiStarted">Se ha iniciado el código MMI</string>
   <string name="mobile_network_settings_not_available">La configuración de las redes móviles no se encuentra disponible para este usuario</string>
   <string name="mobile_networks">Configuración de red móvil</string>
+  <string name="mock_location_app">Seleccione la aplicación de ubicación simulada</string>
+  <string name="mock_location_app_not_set">No se estableció ninguna aplicación de ubicación simulada</string>
+  <string name="mock_location_app_set">Aplicación de ubicación simulada: %1$s</string>
+  <string name="modem_dialog_body">La red móvil es inestable, causando interrupciones o problemas de red. ¿Enviar informe de errores a Mi para su análisis? Este informe puede contener información de identificación personal. Su informe se utilizará para ayudar a solucionar este error y nunca se compartirá en ningún contexto comercial.</string>
+  <string name="modem_dialog_title">La red móvil es inestable</string>
   <string name="msim_apn_not_set">No configurado</string>
   <string name="msim_default_setting">Ajustes predeterminados</string>
   <string name="msim_disable_sim_card_btn_text">Aceptar</string>
