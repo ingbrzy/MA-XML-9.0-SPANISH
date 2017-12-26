@@ -284,6 +284,8 @@ o introduzca la contraseña de Aplicaciones bloqueadas"</string>
   <string name="apps_list_header_title_sms_access">Restringir el acceso a los códigos de verificación</string>
   <string name="auto_atsk_condition_battery_level_text_down">Cuando la batería alcance el %s</string>
   <string name="auto_atsk_condition_battery_level_text_up">Cuando la batería se carga hasta el %s</string>
+  <string name="auto_back_booster">Detener acelerador de velocidad</string>
+  <string name="auto_booster_suc">Acelerador de velocidad mejorado exitosamente</string>
   <string name="auto_clean_close">Las limpiezas automáticas están apagadas</string>
   <string name="auto_handle_title">GENERAL</string>
   <string name="auto_import_games">Ponga todos sus juegos en un solo lugar</string>
@@ -553,7 +555,7 @@ o introduzca la contraseña de Aplicaciones bloqueadas"</string>
   <string name="current_network_state_not_need_diagnose">La conexión a Internet es normal.</string>
   <string name="customize_limit_pkg">%s (a medida)</string>
   <string name="customizer_mode_user_define_name">Mis reglas</string>
-  <string name="daily_limit_and_lock_screen">Límite de datos y notificaciones</string>
+  <string name="daily_limit_and_lock_screen">Advertencia de uso de datos</string>
   <string name="daily_limit_network_available_body">Toque para ver las estadísticas de uso de datos.</string>
   <string name="daily_limit_over_message">" Ha superado el límite diario de datos."</string>
   <string name="daily_pkg_traffic">Límite de datos máximo</string>
@@ -751,6 +753,9 @@ o introduzca la contraseña de Aplicaciones bloqueadas"</string>
   <string name="gateway_exception_summary">Compruebe el router y vuelva a intentarlo.</string>
   <string name="gateway_exception_summary2">No es posible conectarse al servidor</string>
   <string name="gateway_exception_title">Probar el router</string>
+  <string name="gb_description_image_button_answer">Responder</string>
+  <string name="gb_description_image_button_reject">Declinar</string>
+  <string name="gb_description_image_button_video_answer">Videollamada</string>
   <string name="get_sys_info">Obteniendo información…</string>
   <string name="gigabyteShort">GB</string>
   <string name="go_to">Proceder</string>
@@ -760,6 +765,9 @@ o introduzca la contraseña de Aplicaciones bloqueadas"</string>
   <string name="gs_app_back_self_start">Ahorrador de batería</string>
   <string name="gs_auto_clean_memory">Limpiar caché</string>
   <string name="gs_auto_clean_memory_detail">Limpiar caché automáticamente para optimizar los juegos</string>
+  <string name="gs_autobooster">Aumento de velocidad automático</string>
+  <string name="gs_autobooster_detail">Aumente la velocidad de los juegos seleccionados automáticamente</string>
+  <string name="gs_autobooster_dialog_message">"Si usa aumento de velocidad de Xunyou, abra juegos en la página designada."</string>
   <string name="gs_call_handsfree">Contestar llamadas con manos libres</string>
   <string name="gs_call_handsfree_mute">Modo Silencioso</string>
   <string name="gs_dialog_confirm_close_msg">El acceso directo se eliminará de su pantalla de Inicio. Vaya a Seguridad &gt; Ajustes para restaurarlo.</string>
@@ -1415,11 +1423,11 @@ Esta actividad acorta la duración de la batería."</string>
   <string name="pref_mi_sim_settings">Ajustes SIM Mi</string>
   <string name="pref_more_settings">Ajustes adicionales</string>
   <string name="pref_new_installed_preconfig_title">Pre-configuración de aplicaciones</string>
-  <string name="pref_normal_traffic_limit">Cuando el plan de datos diario está agotado</string>
+  <string name="pref_normal_traffic_limit">Cuando el plan de datos se agota</string>
   <string name="pref_open_adjust_traffic">Actualice el uso de datos todos los días usando las estadísticas de su compañía</string>
   <string name="pref_operator_not_set">Operadora no establecida</string>
   <string name="pref_over_traffic_limit">Cuando supera su plan de datos</string>
-  <string name="pref_package_traffic_settings">Límite de datos móviles</string>
+  <string name="pref_package_traffic_settings">Plan de datos</string>
   <string name="pref_pkg_begin_date">Fecha de reinicio de uso</string>
   <string name="pref_roaming_daily_limit_setting">Límite de datos diario para roaming</string>
   <string name="pref_roaming_daily_limit_setting_cat_title">Límite de datos diarios</string>
