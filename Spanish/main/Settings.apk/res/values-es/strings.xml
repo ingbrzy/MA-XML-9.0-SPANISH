@@ -5581,9 +5581,8 @@ Asistente de Wi‑Fi"</string>
   <string name="zone_auto_summaryOn">Usar zona horaria proporcionada por la red</string>
   <string name="zone_list_menu_sort_alphabetically">Ordenar alfabéticamente</string>
   <string name="zone_list_menu_sort_by_timezone">Ordenar por zona horaria</string>
-   <string name="bluetooth_device_misc_title">Dispositivos Bluetooth raramente usados</string>
+  <string name="bluetooth_device_misc_title">Dispositivos Bluetooth raramente usados</string>
   <string name="bug_report_settings">Opiniones</string>
-  <string name="close_app">Cerrar la aplicación actual</string>
   <string name="demo_mode_summary">Mostrar iconos de barra de estado específicos para la demostración</string>
   <string name="double_click_power_key">Doble pulsación en el botón de encendido</string>
   <string name="force_immersive_compatibility_dont_hide">No ocultar</string>
