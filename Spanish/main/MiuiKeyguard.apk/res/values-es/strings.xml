@@ -128,12 +128,17 @@ Inicie sesión en i.mi.com, vaya a "Buscar dispositivo", seleccione el dispositi
   <string name="face_data_input_msg">Coloque su cara dentro del marco</string>
   <string name="face_data_input_ok_title">Agregada exitosamente</string>
   <string name="face_data_input_ok_msg">Encienda la pantalla para desbloquear el dispositivo usando sus datos faciales.</string>
+  <string name="face_data_input_ok_msg_angle">"Desbloquee el dispositivo con su cara cuando la pantalla esté encendida.
+(Grabe sus datos de rostro incluyendo todos los ángulos requeridos.)"</string>
   <string name="face_data_input_cancel">Cancelar</string>
   <string name="face_data_input_cancel_msg">No se pudieron agregar datos faciales</string>
   <string name="face_data_input_ok">Hecho</string>
   <string name="face_data_manage_delete_title">Datos faciales</string>
   <string name="face_data_manage_delete_msg">Eliminar datos faciales</string>
   <string name="face_data_manage_unlock_title">Desbloquear usando datos faciales</string>
+  <string name="face_data_siggesstion_next">Siguiente</string>
+  <string name="face_data_siggesstion_next_time">Siguiente(%ds)</string>
+  <string name="face_data_suggesstion_first">Problemas de seguridad: El desbloqueo facial es menos seguro que un PIN, contraseña o patrón. Su dispositivo podría ser desbloqueado con su foto, así como por personas u objetos con apariencia similar.</string>
   <string name="face_data_manage_unlock_msg">Desbloquee el dispositivo usando sus datos faciales</string>
   <string name="face_data_manage_delete">¿Eliminar datos faciales?</string>
   <string name="face_data_manage_delete_sure">No podrá desbloquear el dispositivo utilizando sus datos faciales después de eliminarlo.</string>
@@ -150,8 +155,12 @@ Inicie sesión en i.mi.com, vaya a "Buscar dispositivo", seleccione el dispositi
   <string name="face_unlock_reveal_mouth">Sus labios deben estar visibles</string>
   <string name="face_unlock_check_failed">No lo reconozco</string>
   <string name="btn_camera">Ingrese tu cara</string>
-  <string name="face_unlock_passwork_and_fingerprint">Use contraseña o reconocimiento facial</string>
   <string name="face_unlock_passwork">Usar contraseña</string>
+  <string name="face_unlock_passwork_and_fingerprint">Use contraseña o reconocimiento facial</string>
+  <string name="face_unlock_quality">"No se pudo ver claramente su cara"</string>
+  <string name="face_unlock_reenter_content">El algoritmo de desbloqueo facial se está actualizando. Toque para grabar datos faciales de nuevo.</string>
+  <string name="face_unlock_reenter_title">Registre sus datos de la cara otra vez.</string>
+  <string name="face_unlock_rise">Baje su cabeza/string>
   <string name="unlock_failed">Error interno</string>
   <string name="unlock_failed_face_not_found">Detectando</string>
   <string name="unlock_camera_steady">Por favor manténgase</string>
