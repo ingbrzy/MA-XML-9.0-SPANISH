@@ -176,6 +176,7 @@
   <string name="chooseUsbActivity">Elige una aplicación para el dispositivo USB</string>
   <string name="choose_profile">Elegir perfil</string>
   <string name="clear_adb_keys">Revocar las autorizaciones de depuración USB</string>
+  <string name="click_expand">Toca para expandir</string>
   <string name="confirm_enable_oem_unlock_text">ADVERTENCIA: Las funciones de protección del dispositivo no funcionarán en este dispositivo mientras este ajuste esté activado.</string>
   <string name="confirm_enable_oem_unlock_title">¿Permitir el desbloqueo de OEM?</string>
   <string name="connected_via_passpoint">Conectado a través de %1$s</string>
@@ -274,7 +275,19 @@ Puede que tu operador te cobre por volver a activar datos."</string>
   <string name="force_resizable_activities">Forzar las actividades a ser redimensionables</string>
   <string name="force_resizable_activities_summary">Hacer todas las actividades redimensionables para multi-ventana, independientemente de los valores de manifiesto.</string>
   <string name="force_rtl_layout_all_locales">Forzar la dirección de disposición RTL</string>
-  <string name="force_rtl_layout_all_locales_summary">Forzar dirección de diseño de pantalla a RTL para todos los locales</string>
+  <string name="force_rtl_layout_all_locales_summary">Forzar dirección de diseño de pantalla a RTL para todos los locales</string>   <string name="fs_gesture_back_home_summary">Deslice desde abajo rápidamente</string>
+  <string name="fs_gesture_back_ready_title">¿Cómo regresar la última página?</string>
+  <string name="fs_gesture_final_over">Terminar</string>
+  <string name="fs_gesture_final_restart">Estudiar de nuevo</string>
+  <string name="fs_gesture_final_summary">Puede establecer en [Ajustes-Pantalla completa]</string>
+  <string name="fs_gesture_final_title">Finalizar el estudio</string>
+  <string name="fs_gesture_finish">¡Perfecto!</string>
+  <string name="fs_gesture_left_back_ready_summary">Deslice hacia la izquierda en la pantalla</string>
+  <string name="fs_gesture_right_back_ready_summary">Deslice hacia la derecha en la pantalla</string>
+  <string name="fs_gesture_skip">Atrás</string>
+  <string name="fs_gesture_switch_recents_summary">Deslice desde abajo y espera un segundo</string>
+  <string name="fsg_demo_back">Atrás</string>
+  <string name="fsg_demo_go_on">Seguir</string>
   <string name="gps_notification_found_text">La ubicación se estableció por GPS</string>
   <string name="gps_notification_searching_text">Buscando GPS</string>
   <string name="hdcp_checking_dialog_title">Establecer el comportamiento de comprobación de HDCP</string>
@@ -282,6 +295,9 @@ Puede que tu operador te cobre por volver a activar datos."</string>
   <string name="help_feedback_label">Ayuda y comentarios</string>
   <string name="home">Ajustes de inicio</string>
   <string name="hour_minute_time_format">HH:mm</string>
+  <string name="how_to_back_home">Cómo regresar a inicio</string>
+  <string name="how_to_switch_recents">Cómo cambiar a recientes</string>
+  <string name="how_to_use_fsg">¿Cómo usar el gesto de pantalla completa?</string>
   <string name="immediately_destroy_activities">No guarde actividades</string>
   <string name="immediately_destroy_activities_summary">Destruye todas las actividades tan pronto como el usuario la abandona</string>
   <string name="important_desc">Todas las notificaciones importantes aparecerán directamente en la pantalla de Notificación.</string>
@@ -441,6 +457,7 @@ Puede que tu operador te cobre por volver a activar datos."</string>
   <string name="screenshot_saving_ticker">Guardando captura de pantalla</string>
   <string name="screenshot_saving_title">Guardando la captura de pantalla...</string>
   <string name="screenshot_send">Enviar</string>
+  <string name="screenshot_toalbum_txt">Continuar</string>
   <string name="select_application">Seleccionar aplicación</string>
   <string name="select_logd_size_dialog_title">Seleccione Tamaños de registro por búfer de registro</string>
   <string name="select_logd_size_title">Tamaños del búfer del registrador</string>
