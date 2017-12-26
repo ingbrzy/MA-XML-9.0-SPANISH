@@ -121,7 +121,6 @@ Inicie sesión en i.mi.com, vaya a "Buscar dispositivo", seleccione el dispositi
   <string name="face_data_introduction_title">Reconocimiento facial</string>
   <string name="face_data_introduction_msg">Los datos faciales se pueden usar para desbloquear su dispositivo o verificar su identidad. Agregue la contraseña de la pantalla de bloqueo antes de agregar sus datos faciales.</string>
   <string name="face_data_introduction_next">Siguiente</string>
-  <string name="face_data_suggesstion_first">Desbloquear su dispositivo usando sus datos faciales es menos seguro que usar una contraseña de la pantalla de bloqueo. Su dispositivo podría ser desbloqueado por personas que se parezcan a usted.</string>
   <string name="face_data_suggesstion_second">Asegúrese de que todas las partes de su cara no estén cubiertas por objetos y que sean claramente visibles. Su rostro debe estar bien iluminado también.</string>
   <string name="face_data_input_camera_fail">No se pudo cargar la cámara</string>
   <string name="face_data_input_camera_ok">Cargando cámara…</string>
@@ -170,7 +169,5 @@ Inicie sesión en i.mi.com, vaya a "Buscar dispositivo", seleccione el dispositi
   <string name="face_unlock_offset_bottom">Baje un poco su teléfono</string>
   <string name="face_unlock_rotated_left">Gire su cabeza hacia la derecha</string>
   <string name="face_unlock_rotated_right">Gire su cabeza hacia la izquierda</string>
-  <string name="face_unlock_rise">Baje su cabeza</string>
   <string name="face_unlock_down">Levante su cabeza</string>
-  <string name="face_unlock_quality">No puedo ver su cara claramente</string>
 </resources>
