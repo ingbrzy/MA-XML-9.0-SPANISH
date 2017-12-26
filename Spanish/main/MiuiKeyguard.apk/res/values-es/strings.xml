@@ -159,7 +159,7 @@ Inicie sesión en i.mi.com, vaya a "Buscar dispositivo", seleccione el dispositi
   <string name="face_unlock_quality">"No se pudo ver claramente su cara"</string>
   <string name="face_unlock_reenter_content">El algoritmo de desbloqueo facial se está actualizando. Toque para grabar datos faciales de nuevo.</string>
   <string name="face_unlock_reenter_title">Registre sus datos de la cara otra vez.</string>
-  <string name="face_unlock_rise">Baje su cabeza/string>
+  <string name="face_unlock_rise">Baje su cabeza</string>
   <string name="unlock_failed">Error interno</string>
   <string name="unlock_failed_face_not_found">Detectando</string>
   <string name="unlock_camera_steady">Por favor manténgase</string>
