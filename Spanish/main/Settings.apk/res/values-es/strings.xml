@@ -933,6 +933,8 @@ Las emisiones utilizan señales de Bluetooth de baja energía."</string>
   <string name="clear_failed_dlg_title">Borrar datos</string>
   <string name="clear_uri_btn_text">Despejar acceso</string>
   <string name="clear_user_data_text">Borrar datos</string>
+  <string name="close_app">Cerrar la aplicación actual</string>
+  <string name="close_demo_mode">Cancelar</string>
   <string name="close_dialog">Aceptar</string>
   <string name="close_gesture">Cerrar usando gesto</string>
   <string name="close_miui_optimization_title">Desactivar optimización MIUI</string>
@@ -2836,6 +2838,8 @@ Esto también dará a la aplicación la capacidad de activar y desactivar No Mol
   <string name="online_resource_entry">Recursos online</string>
   <string name="only_one_home_message">Los ajustes de la pantalla de inicio se ocultarán hasta que instale otra aplicación de pantalla de inicio.</string>
   <string name="onscreen_keyboard_settings_summary">Ajustes de teclado en pantalla</string>
+  <string name="open_demo_mode">Abrir</string>
+  <string name="open_demo_mode_warning_message">Cuando el modo Demo está activado, el reloj en la barra de estado se detendrá, los íconos de batería y señal se mostrarán como llenos. Puede apagar el modo Demo o reiniciar el dispositivo para cambiar esto.</string>
   <string name="open_miui_optimization_title">Activar optimización MIUI</string>
   <string name="open_miui_optimization_warning_message">Su dispositivo se reiniciará para aplicar este cambio.</string>
   <string name="open_personal_assistant_dialog_btn_cancel">Cancelar</string>
