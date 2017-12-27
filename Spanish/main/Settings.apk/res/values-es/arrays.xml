@@ -834,11 +834,13 @@
     <string-array name="alarm_repeat_type">
         <item>Todos los días</item>
         <item>Entre semana</item>
+	<item>Fin de semana</item>
         <item>Personalizar</item>
     </string-array>
     <string-array name="alarm_repeat_type_no_workdays">
         <item>Todos los días</item>
         <item>Entre semana</item>
+	<item>Fin de semana</item>
         <item>Personalizar</item>
     </string-array>
     <string-array name="screen_key_position_action">
