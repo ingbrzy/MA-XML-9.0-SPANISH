@@ -119,6 +119,7 @@ o introduzca la contraseña de Aplicaciones bloqueadas"</string>
   <string name="antivirus_update_btn_update">Actualizar</string>
   <string name="apn_exception_summary">Probar las configuraciones del nombre de punto de acceso del operador</string>
   <string name="apn_exception_title">Comprobar configuraciones APN</string>
+  <string name="app_bg_restrict_dialog_message">Restringir la conexión de red en segundo plano puede evitar que la aplicación funcione normalmente. Por ejemplo, es posible que ya no pueda recibir mensajes ni actualizar contenido. ¿Restringir de todos modos?</string>
   <string name="app_check_no_issue">Parece que no hay problemas con la batería. ¡Guay!</string>
   <string name="app_detail">Detalles</string>
   <string name="app_error_tip_for_launcher">"Los componentes de hardware de su dispositivo o la versión del sistema Android pueden causar problemas de compatibilidad y hacer que algunas aplicaciones se comporten mal, se bloqueen o se detengan con fuerza. Si tiene problemas, comparta sus comentarios con los desarrolladores de aplicaciones."</string>
@@ -190,6 +191,7 @@ o introduzca la contraseña de Aplicaciones bloqueadas"</string>
   <string name="app_manager_notify_bar">Insignias</string>
   <string name="app_manager_notify_floating">Notificaciones flotantes</string>
   <string name="app_manager_notify_keyguard">Bloquear pantalla</string>
+  <string name="app_manager_open_show_all_apps_immediate">Mostrar todos los resultados</string>
   <string name="app_manager_perm">Permisos</string>
   <string name="app_manager_permission_manager_title">Permisos</string>
   <string name="app_manager_permission_notify_title">Notificaciones</string>
@@ -218,7 +220,9 @@ o introduzca la contraseña de Aplicaciones bloqueadas"</string>
 
  No perderá ningún dato de las aplicaciones."</string>
   <string name="app_manager_reset_app_preferences_title">¿Reiniciar preferencias de aplicaciones?</string>
+  <string name="app_manager_search_prompt">"¿No pudo encontrar los resultados? Intenta mostrar resultados de todas las aplicaciones."</string>
   <string name="app_manager_show_all_apps">Mostrar todas las aplicaciones</string>
+  <string name="app_manager_show_all_apps_opened">Mostrando resultados de todas las aplicaciones…</string>
   <string name="app_manager_show_detail_infos">Ver todo</string>
   <string name="app_manager_sort">Ordenar por</string>
   <string name="app_manager_start_by">Comenzado por %s</string>
@@ -352,6 +356,10 @@ o introduzca la contraseña de Aplicaciones bloqueadas"</string>
   <string name="auto_task_operation_wifi">Wi-Fi</string>
   <string name="back_app_name">Volver a bloqueo de aplicación</string>
   <string name="back_modifypassword">Volver a cambiar contraseña</string>
+  <string name="back_sound_data">Requiere red móvil celular, ¡por favor, intente de nuevo!</string>
+  <string name="back_sound_fail">¡Ha fallado!</string>
+  <string name="back_sound_success">¡Éxito!</string>
+  <string name="back_sound_support">"¡Los operadores de red actuales no lo admiten!"</string>
   <string name="background_restrict_app_dialog_message">Restringiendo el acceso en segundo plano a la red para esta aplicación podría hacer que sea imposible que la aplicación funcione normalmente, recibir mensajes, descargar contenido, etc. ¿Restringir de todos modos?</string>
   <string name="background_traffic">Segundo plano %s</string>
   <string name="backsound_set_hint">¿Establecer su respuesta automática a %s?</string>
@@ -392,6 +400,7 @@ o introduzca la contraseña de Aplicaciones bloqueadas"</string>
   <string name="battery_temperature_title">Temperatura</string>
   <string name="begin_date">Fecha de reinicio de uso</string>
   <string name="best_booster_status">La velocidad de juego es la mejor disponible ahora.</string>
+  <string name="bg_network_exception_title">Conexión en segundo plano restringida</string>
   <string name="bind_xiaomi_account_cancel">Cancelar</string>
   <string name="bind_xiaomi_account_confirm">Añadir</string>
   <string name="bind_xiaomi_account_dialog_summery">"Estás a punto de añadir Cuenta Mi %s. Si olvida su contraseña, puede utilizar esta cuenta para restablecerla. La cuenta se elimina automáticamente si sales."</string>
@@ -607,6 +616,7 @@ o introduzca la contraseña de Aplicaciones bloqueadas"</string>
   <string name="dlg_add_blacklist">¿Bloquear este número?</string>
   <string name="dlg_add_blacklist_title">Añadir a lista negra</string>
   <string name="dlg_add_keyword">Añadir palabras clave</string>
+  <string name="dlg_add_white">"Las nuevas llamadas y mensajes de los números agregados a las excepciones se mostrarán en el historial de llamadas y en la bandeja de entrada de Mensajes. Sin embargo, los elementos previamente bloqueados no aparecerán allí. ¿Agregar números seleccionados a las excepciones?"</string>
   <string name="dlg_antispam_mode_delete_message">No puede recuperar reglas después de que hayan sido borradas.</string>
   <string name="dlg_antispam_mode_delete_title">¿Borrar reglas?</string>
   <string name="dlg_antispam_using_mode_delete_message">"¿Eliminar las reglas que está utilizando actualmente y volver a las reglas predeterminadas de la lista negra?"</string>
@@ -626,8 +636,12 @@ o introduzca la contraseña de Aplicaciones bloqueadas"</string>
   <string name="dlg_import_whitelist">Añadiendo…</string>
   <string name="dlg_keyword_ok">Guardar</string>
   <string name="dlg_message_not_open_stranger_identify">Para encender esta característica, vaya a Ajustes &gt; Teléfono.</string>
-  <string name="dlg_no_block">¿Desbloquear este número y restaurar las llamadas de este número al histórico de llamadas?</string>
+  <string name="dlg_move_to_white">Agregar a excepciones</string>
+  <string name="dlg_no_block">"¿Desbloquear este número de teléfono?
+Se agregará a las excepciones, pero los elementos bloqueados anteriormente no aparecerán en el historial de llamadas."</string>
   <string name="dlg_no_block_ok">Desbloquear</string>
+  <string name="dlg_not_block_call">"¿Desbloquear los números seleccionados? Se agregarán a las excepciones, pero los elementos previamente bloqueados no aparecerán en el historial de llamadas."</string>
+  <string name="dlg_not_block_sms">"¿Desbloquear los números seleccionados? Se agregarán a las excepciones, pero los elementos bloqueados anteriormente no aparecerán en la bandeja de entrada de Mensajes."</string>
   <string name="dlg_remove_address_blacklist">¿Eliminar esta ubicación de la lista de bloqueo?</string>
   <string name="dlg_remove_address_whitelist">¿Eliminar esta ubicación de las excepciones?</string>
   <string name="dlg_remove_blacklist">¿Eliminar estos números de la lista negra?</string>
@@ -758,6 +772,8 @@ o introduzca la contraseña de Aplicaciones bloqueadas"</string>
   <string name="gb_description_image_button_video_answer">Videollamada</string>
   <string name="get_sys_info">Obteniendo información…</string>
   <string name="gigabyteShort">GB</string>
+  <string name="gmscore_support_remind">Active esta función si tiene problemas con el uso de Gmail, Google Maps y otras aplicaciones de Google. Reducirá ligeramente la duración de la batería.</string>
+  <string name="gmscore_support_service">Servicios de Google</string>
   <string name="go_to">Proceder</string>
   <string name="go_to_setting_fingerprint">Ajustes</string>
   <string name="google_base_app_install_choice">\"%s\" requiere del Framework de Servicios de Google para trabajar normalmente, ¿descargarlo e instalarlo?</string>
@@ -1301,8 +1317,7 @@ Esta actividad acorta la duración de la batería."</string>
   <string name="permission_action_reject">Denegar</string>
   <string name="permission_close_permission_control_dialog_msg">Cuando el administrador de permisos esté desactivado, las aplicaciones no te pedirán permiso antes de leer tus contactos, ver tu historial de llamadas, cambiar los ajustes del sistema o acceder a la cámara y otros recursos del dispositivo.</string>
   <string name="permission_close_permission_control_dialog_title">¿Desactivar?</string>
-  <string name="permission_exception_summary">Algunas aplicaciones no tienen permiso para conectarse a Internet</string>
-  <string name="permission_exception_title">Ver permisos de red</string>
+  <string name="permission_exception_title">Conexión restringida para las aplicaciones</string>
   <string name="permission_permission_control_closed_desc_dialog_msg">Las aplicaciones no te pedirán permiso antes de leer tus contactos, ver tu historial de llamadas, cambiar ajustes del sistema o acceder a la cámara y otros recursos del dispositivo. Puedes activar esta función en Ajustes de permisos.</string>
   <string name="permission_permission_control_closed_desc_dialog_title">Administrador de permisos</string>
   <string name="permission_with_SMS_and_MMS">Permisos relacionados con SMS y MMS</string>
@@ -1392,6 +1407,7 @@ Esta actividad acorta la duración de la batería."</string>
   <string name="pref_auto_adjust_traffic">Ajuste automático de las estadísticas de uso de datos</string>
   <string name="pref_automatic_adjust">Sincronización del uso de datos del operador</string>
   <string name="pref_avaible_traffic">Plan de datos</string>
+  <string name="pref_bg_network_title">Conexión en segundo plano</string>
   <string name="pref_category_daily_package_tile">Plan de datos diario</string>
   <string name="pref_category_extra_package_tile">Paquete de recarga</string>
   <string name="pref_category_half_year_package_tile">Paquete de datos de medio año</string>
