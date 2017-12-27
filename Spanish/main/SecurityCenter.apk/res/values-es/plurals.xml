@@ -32,6 +32,14 @@
         <item quantity="other">%d aplicaciones</item>
         <item quantity="one">%d aplicación</item>
     </plurals>
+    <plurals name="bg_network_allow_count">
+        <item quantity="other">%d aplicaciones se pueden conectar a la red en segundo plano</item>
+        <item quantity="one">%d aplicación se puede conectar a la red en segundo plano</item>
+    </plurals>
+    <plurals name="bg_network_restrict_count">
+        <item quantity="other">"%d aplicaciones no se pueden conectar a la red en segundo plano"</item>
+        <item quantity="one">"%d aplicación no se puede conectar a la red en segundo plano"</item>
+    </plurals>
     <plurals name="daily_sim_over_limit_notify_title">
         <item quantity="other">"Ya ha usado los límites de datos diarios de %s."</item>
         <item quantity="one">"Ya ha usado el límite de datos diarios de %s."</item>
@@ -59,6 +67,10 @@ Si vuelve a activar los datos móviles, su operador puede cobrarle por datos adi
     <plurals name="hints_roaming_found_app_count_title">
         <item quantity="other">%d aplicaciones encontradas</item>
         <item quantity="one">%d aplicación encontrada</item>
+    </plurals>
+    <plurals name="network_restrict_count">
+        <item quantity="other">"El acceso a la red está restringido para &lt;font color='#ff0000'>%d:&lt;/font> aplicaciones"</item>
+        <item quantity="one">"El acceso a la red está restringido para &lt;font color='#ff0000'>%d&lt;/font> aplicación"</item>
     </plurals>
     <plurals name="om_ill_proc_multi_app_title">
         <item quantity="other">"%d aplicaciones no funcionan correctamente y drenan la batería"</item>
