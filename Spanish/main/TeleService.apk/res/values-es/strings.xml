@@ -100,8 +100,13 @@
   <string name="callFailed_data_limit_reached">Límite de datos alcanzado. Llamada terminada.</string>
   <string name="callFailed_data_limit_reached_description">La llamada terminó porque ha sido alcanzado el límite de los datos móviles.</string>
   <string name="callFailed_dialToDial">El requerimiento del DIAL de marcación fue modificado por un número diferente.</string>
+  <string name="callFailed_dialToDialVideo">Solicitud DIAL modificada a Video DIAL.</string>
   <string name="callFailed_dialToSs">DIAL modificado por requerimiento SS.</string>
-  <string name="callFailed_dialToUssd">DIAL request modified to USSD request.</string>
+  <string name="callFailed_dialToUssd">Solicitud de DIAL modificada para solicitud de USSD.</string>
+  <string name="callFailed_dialVideoToDial">Solicitud de DIAL de video modificada a DIAL.</string>
+  <string name="callFailed_dialVideoToDialVideo">Solicitud de DIAL de video modificada a Video DIAL con un número diferente.</string>
+  <string name="callFailed_dialVideoToSs">Solicitud de DIAL de video modificada para solicitud de SS.</string>
+  <string name="callFailed_dialVideoToUssd">Solicitud de DIAL de video modificada para solicitud de USSD.</string>
   <string name="callFailed_dsac_restricted">Todas las llamadas están restringidas por control de acceso.</string>
   <string name="callFailed_dsac_restricted_emergency">Las llamadas de emergencia están restringidas por control de acceso.</string>
   <string name="callFailed_dsac_restricted_normal">Las llamadas normales están restringidas por control de acceso.</string>
