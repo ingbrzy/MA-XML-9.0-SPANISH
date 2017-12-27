@@ -101,6 +101,8 @@
   <string name="call_work">Llamar al trabajo</string>
   <string name="call_work_mobile">Llamada de trabajo móvil</string>
   <string name="call_work_pager">Localizador de trabajo llamada</string>
+  <string name="calllog_call_note_menu">Notas de llamada</string>
+  <string name="calllog_call_record_menu">Llamadas grabadas</string>
   <string name="calllog_menu_blacklist">Bloquear</string>
   <string name="calllog_menu_edit_before_call">Editar</string>
   <string name="calllog_menu_send_sms">Enviar un mensaje</string>
