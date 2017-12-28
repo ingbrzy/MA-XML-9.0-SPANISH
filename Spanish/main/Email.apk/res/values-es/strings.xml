@@ -1073,7 +1073,6 @@ para recibir recordatorios sobre pagos y viajes"</string>
   <string name="tablet">tablet</string>
   <string name="tap_to_configure">Pulse para configurar.</string>
   <string name="tap_to_enable_sync">Pulse para activarla.</string>
-  <string name="to">Para</string>
   <string name="to_heading">"Para: "</string>
   <string name="toast_bar_fail_synchronization">No se puede conectar a la red</string>
   <string name="toast_bar_insufficient_memory_space">No se pueden recibir correos electrónicos. No hay suficiente espacio de almacenamiento</string>
