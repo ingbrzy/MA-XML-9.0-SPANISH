@@ -6,7 +6,7 @@
   <string name="Setting_lock">Ajustes</string>
   <string name="Settings_title_anti_spam">Ajustes de la lista de bloqueo</string>
   <string name="Settings_title_anti_virus">Ajustes de escaneo de seguridad</string>
-  <string name="Settings_title_garbage_cleanup">Configuración del limpiador</string>
+  <string name="Settings_title_garbage_cleanup">Ajustes del limpiador</string>
   <string name="Settings_title_network_assistants">Configuración de uso de datos</string>
   <string name="Settings_title_power_center">Ajustes de la batería</string>
   <string name="about_autostart">Acerca del autoencendido</string>
