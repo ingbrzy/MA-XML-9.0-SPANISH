@@ -99,6 +99,7 @@
   <string name="battery_low_title">Conecte el cargador.</string>
   <string name="battery_profiles">Usar perfiles de batería</string>
   <string name="block_notification_content_text">"Las notificaciones de %1$s no se mostrarán de nuevo. Puede cambiar esto en Ajustes."</string>
+  <string name="block_notification_desc">"Las notificaciones de la aplicación no se mostrarán de nuevo. Puede cambiar esto en Ajustes."</string>
   <string name="block_notification_text">Ocultar</string>
   <string name="block_record_notification_text">Ocultando notificaciones de %1$s.</string>
   <string name="block_record_notification_title">Notificaciones ocultas</string>
