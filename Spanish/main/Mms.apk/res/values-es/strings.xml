@@ -159,7 +159,7 @@
   <string name="ex_type_mx">Mensajes Mi</string>
   <string name="ex_type_sms">SMS/MMS</string>
   <string name="exceed_message_size_limitation">Tamaño máximo de mensaje alcanzado.</string>
-  <string name="exceed_message_size_limitation_add_slide">Message size is not enough to add a slide</string>
+  <string name="exceed_message_size_limitation_add_slide">El tamaño del mensaje no es suficiente para agregar una diapositiva</string>
   <string name="exceed_message_text_limitation">Tamaño máximo de texto de mensaje alcanzado.</string>
   <string name="expire_on">Caduca: %s</string>
   <string name="exporting_progress_private_message">Exportando mensajes…</string>
@@ -186,8 +186,8 @@
   <string name="found_old_messages">¿Cargar mensajes %1$s a %2$s?</string>
   <string name="found_old_messages_title">¿Cargar mensajes de tus otras tarjetas SIM?</string>
   <string name="found_wild_messages_guide_cloud_desc">Para sincronizar los mensajes desde Mi Cloud, entre en su Cuenta Mi y active la sincronización de SMS.</string>
-  <string name="found_wild_messages_guide_settings_desc">Sync messages from Mi Cloud in Messaging Settings.</string>
-  <string name="found_wild_messages_guide_sync_not_started">Sync not started yet</string>
+  <string name="found_wild_messages_guide_settings_desc">Sincronizar mensajes de Mi Cloud en la configuración de mensajería.</string>
+  <string name="found_wild_messages_guide_sync_not_started">Sincronización aún no iniciada</string>
   <string name="found_wild_messages_title">Descargar mensajes</string>
   <string name="from_label">"De: "</string>
   <string name="from_pkg_name">Desde la aplicación:</string>
@@ -253,7 +253,7 @@
   <string name="message_failed_body">Toque para revisar el mensaje e inténtelo de nuevo.</string>
   <string name="message_number">Número de teléfono:</string>
   <string name="message_pending">Enviando</string>
-  <string name="message_queued">Ahora no puedes enviar tu mensaje. Se enviará cuando servicio este disponible.</string>
+  <string name="message_queued">Ahora no puede enviarse tu mensaje. Se enviará cuando el servicio esté disponible.</string>
   <string name="message_queued_second_space">"No puedo enviar su mensaje ahora mismo. Abra la red de datos."</string>
   <string name="message_readed">Leer</string>
   <string name="message_received">Recibido</string>
@@ -325,7 +325,7 @@
   <string name="mx_enable">Mensajes Mi</string>
   <string name="mx_enable_ex">Mensajes Mi y Voz Mi</string>
   <string name="mx_enable_popup_msg">Envía mensajes a otros usuarios de MIUI gratis.</string>
-  <string name="mx_filter_message_from_stranger">Bloquear Mensajes Mis de números desconocidos</string>
+  <string name="mx_filter_message_from_stranger">Bloquear Mensajes Mi de números desconocidos</string>
   <string name="mx_filter_message_from_stranger_dialog_desc">Seguirás recibiendo SMS de números desconocidos. Puedes activar o desactivar esta funcionalidad en Mensajes &gt; Ajustes.</string>
   <string name="mx_filter_message_from_stranger_dialog_title">Bloquear Mensajes Mis de números desconocidos</string>
   <string name="mx_filter_message_from_stranger_summary">Seguirás recibiendo SMS de números desconocidos</string>
@@ -502,7 +502,7 @@
   <string name="second_mms_switch">Cambiar</string>
   <string name="secs">segs</string>
   <string name="security_alert_desc">El remitente no está en tus contactos. <u><font color="red">Reportar este número</font></u></string>
-  <string name="security_alert_desc_highlight">Report this number</string>
+  <string name="security_alert_desc_highlight">Reportar este número</string>
   <string name="security_alert_dialog_desc">Reportar este número (%s) y mensaje enviándolo a Xiaomi para que lo revise.</string>
   <string name="security_alert_dialog_title">Reportar</string>
   <string name="select_audio">Seleccione audio</string>
@@ -512,7 +512,7 @@
   <string name="select_link_title">Elegir acción</string>
   <string name="select_local_audio">Seleccione audio</string>
   <string name="select_local_video">Seleccionar vídeo</string>
-  <string name="select_message_send_sim">Choose SIM card</string>
+  <string name="select_message_send_sim">Elija la tarjeta SIM</string>
   <string name="select_recipient">Seleccionar destinatarios</string>
   <string name="select_sim">Seleccionar tarjeta SIM</string>
   <string name="select_top_text">Texto en la parte superior</string>
