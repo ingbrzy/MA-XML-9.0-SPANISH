@@ -677,7 +677,7 @@
   <string name="paint_highlight">Garabato</string>
   <string name="paint_highlight_cancel_context">¿Guardar garabato?</string>
   <string name="paint_highlight_cancel_title">Descartar cambios</string>
-  <string name="people_album_empty_title">Photos can be sorted by people in them</string>
+  <string name="people_album_empty_title">Las fotos pueden ser ordenadas por personas en ellas</string>
   <string name="people_jump_failed">Espere hasta que las fotos con la gente se sincronicen con Mi Cloud y vuelva a intentarlo</string>
   <string name="people_mark_mode_title">Seleccionar \"%s\"</string>
   <string name="people_mark_mode_title_no_mark_name">Seleccionar una persona</string>
@@ -720,10 +720,10 @@
   <string name="photomovie_download_without_wifi_msg">"Usar la conexión de datos móviles para descargar archivos aumentará el uso de datos. Si rebasa el límite de datos de su plan, su proveedor podría cobrarle tarifas adicionales."</string>
   <string name="photomovie_download_without_wifi_title">Advertencia de uso de datos</string>
   <string name="photomovie_item_name">Cortometraje</string>
-  <string name="photomovie_return">Atras</string>
-  <string name="photomovie_save">Salvar</string>
+  <string name="photomovie_return">Atrás</string>
+  <string name="photomovie_save">Guardar</string>
   <string name="photomovie_save_failed">"No se pudo guardar"</string>
-  <string name="photomovie_save_successfully">Saved successfully</string>
+  <string name="photomovie_save_successfully">Guardado exitosamente</string>
   <string name="photomovie_saving">Creando cortometraje…</string>
   <string name="photomovie_tab_edit">Editar</string>
   <string name="photomovie_tab_music">Música</string>
