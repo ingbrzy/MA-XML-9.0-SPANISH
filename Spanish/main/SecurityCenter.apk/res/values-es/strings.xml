@@ -1579,6 +1579,7 @@ Mientras se calibra, MIUI le enviará un mensaje de texto a su operadora para re
   <string name="sc_allow_network_dialog_message">Esta aplicación necesita conectarse a Internet para funcionar con normalidad.</string>
   <string name="sc_allow_network_dialog_tiltle">No se puede utilizar esta función</string>
   <string name="sc_system_risk_fix_info_xspace">El riesgo no puede ser arreglado en xspace, por favor, cambie al espacio del propietario para arreglarlo.</string>
+  <string name="sc_warning_updater_not_found">La aplicación para actualizar no se encontró. ¡No se puede actualizar!</string>
   <string name="scan_installed_games">Chequeando juegos instalados…</string>
   <string name="scan_status_risk">Peligroso</string>
   <string name="scan_status_safe">Seguro</string>
