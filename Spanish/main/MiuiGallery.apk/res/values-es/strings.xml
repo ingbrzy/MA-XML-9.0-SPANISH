@@ -33,8 +33,11 @@
   <string name="album_already_exists_msg">El álbum \"%s\" ya existe</string>
   <string name="album_already_forced_top">Ya se encuentra arriba</string>
   <string name="album_camera_name">Cámara</string>
+  <string name="album_creative">Mis fotos editadas</string>
   <string name="album_detail_page_empty">Sin fotos o vídeos</string>
+  <string name="album_download">Descargas</string>
   <string name="album_faces_name">Personas</string>
+  <string name="album_favorites_name">Favoritos</string>
   <string name="album_from_format">Desde %s</string>
   <string name="album_jump_failed">Espere hasta que los álbumes se sincronicen con Mi Cloud e inténtelo de nuevo</string>
   <string name="album_member">Miembros de este álbum %s</string>
@@ -50,6 +53,8 @@
   <string name="album_page_label">Álbumes</string>
   <string name="album_pano_name">Panorámicas</string>
   <string name="album_quota_fulfiled">Demasiados álbumes. Borre algún álbum y vuelva a intentarlo.</string>
+  <string name="album_scanner">Escáner</string>
+  <string name="album_screen_recorder">Grabador de pantalla</string>
   <string name="album_screenshot_name">Capturas</string>
   <string name="album_share_exit_confirm">¿Abandonar el álbum?</string>
   <string name="album_share_kicked">%1$s está cerrado</string>
@@ -68,6 +73,7 @@
   <string name="album_type_share">Álbumes compartidos</string>
   <string name="album_type_system">Álbumes del sistema</string>
   <string name="album_videos_name">Vídeos</string>
+  <string name="album_wallpaper">Fondos de pantalla</string>
   <string name="alert_secret_album_enter">Continuar</string>
   <string name="alert_secret_album_message">Desliza el dedo hacia abajo mientras estás en la pestaña Álbumes para ver el álbum oculto.</string>
   <string name="alert_secret_album_message_lower_case"> deslice el dedo hacia abajo en Álbumes para ver</string>
@@ -143,6 +149,7 @@
   <string name="backup_no_wifi_title">Toque para conectarse a Wi-Fi</string>
   <string name="backup_only_in_wifi">Realizar copias de seguridad de las fotos y vídeos solo a través de Wi-Fi</string>
   <string name="backup_only_in_wifi_summary">Nunca usar datos móviles para realizar copias de seguridad de las fotos o vídeos</string>
+  <string name="backup_only_wifi_dialog_message">¿Utilizar datos móviles para hacer copias de seguridad de las fotos y videos?</string>
   <string name="backup_pause">Pausar copia de seguridad</string>
   <string name="backup_pause_title">Copia de seguiridad en %s</string>
   <string name="backup_pending">Se hará una copia de seguridad automáticamente</string>
@@ -183,6 +190,8 @@
   <string name="cannot_remove_creator">No es posible eliminar al Administrador</string>
   <string name="cannot_send_message">No se puede enviar el mensaje</string>
   <string name="cannot_send_message_reason">Su mensaje no tiene destinatario(s) válido(s)</string>
+  <string name="cast_devices_unavailable_desc">Asegúrese de que tanto este dispositivo como el proyector estén conectados a la misma red Wi-Fi</string>
+  <string name="cast_devices_unavailable_title">"No se pudo encontrar el proyector"</string>
   <string name="change_to_face_mode">Mostrar sólo la cara</string>
   <string name="change_to_photo_mode">Mostrar visualizaciones completas</string>
   <string name="change_to_visible">¿Restaurar a esta persona?</string>
@@ -630,6 +639,8 @@
   <string name="operation_add_picture">Añadir elementos</string>
   <string name="operation_add_secret">Ocultar</string>
   <string name="operation_back">Atrás</string>
+  <string name="operation_cast_connected_format">Emitir - %s</string>
+  <string name="operation_cast_connecting_format">Conectado a %s</string>
   <string name="operation_delete">Eliminar</string>
   <string name="operation_detail">Detalles</string>
   <string name="operation_disable_auto_upload">Desactivar la sincronización con Mi Cloud</string>
