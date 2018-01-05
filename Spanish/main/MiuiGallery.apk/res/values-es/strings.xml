@@ -510,6 +510,7 @@
   <string name="home_menu_cleaner">Liberar espacio</string>
   <string name="home_menu_collage">Collage</string>
   <string name="home_menu_photo_movie">Cortometraje</string>
+  <string name="home_menu_print">Imprimir fotos</string>
   <string name="home_page_empty">Vacía</string>
   <string name="home_page_empty_action">Hacer una foto</string>
   <string name="home_page_label">Fotos</string>
@@ -721,6 +722,9 @@
   <string name="photo_editor_text">Texto</string>
   <string name="photo_page_save_uri_image_fail">No se pudo guardar en la Galería</string>
   <string name="photo_page_save_uri_image_ok">Foto guardada en la Galería</string>
+  <string name="photo_print_menu_loading">Cargando el complemento…</string>
+  <string name="photo_print_package_finish">Cargado exitosamente</string>
+  <string name="photo_print_package_installing">Cargando el complemento…</string>
   <string name="photo_save_succeed">Guardada correctamente</string>
   <string name="photoeditor_name">Editor de fotos</string>
   <string name="photomovie_audio_custom">Local</string>
