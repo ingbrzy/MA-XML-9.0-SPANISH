@@ -2,7 +2,7 @@
 <resources>
   <string name="abandon">Cancelar</string>
   <string name="accept">Aceptar</string>
-  <string name="accept_or_deny">%1$s álbumes compartidos%2$s contigo.</string>
+  <string name="accept_or_deny">%1$s álbumes compartidos %2$s contigo.</string>
   <string name="add_automatically_alert_msg">¿Añadir fotos de \"%1$s\" a este álbum automáticamente?</string>
   <string name="add_automatically_alert_title">Añadir fotos automáticamente</string>
   <string name="add_sharer">Añadir colaborador</string>
