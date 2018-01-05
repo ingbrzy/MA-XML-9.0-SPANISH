@@ -89,6 +89,7 @@
   <string name="apply">Aplicar</string>
   <string name="associate_face_album">Seleccionar un álbum</string>
   <string name="auto_backup_introduce">Respalde fotos y vídeos automáticamente (será necesaria una Cuenta Mi)</string>
+  <string name="auto_download_media_title">Descarga fotos de Mi Cloud automáticamente</string>
   <string name="auto_update_face">Añadir fotos automáticamente</string>
   <string name="auto_update_face_summary">Localizar y añadir fotos automáticamente al álbum del bebé</string>
   <string name="auto_update_off">Desactivado</string>
@@ -326,6 +327,11 @@
   <string name="download_retry_title">No se pudo descargar los archivos</string>
   <string name="download_tip">Descargas</string>
   <string name="download_title">Preparando archivos…</string>
+  <string name="download_type_origin">Archivos originales</string>
+  <string name="download_type_origin_desc">Archivos originales</string>
+  <string name="download_type_thumbnail">Alta calidad</string>
+  <string name="download_type_thumbnail_desc">Alta calidad</string>
+  <string name="download_type_title">Descargar calidad</string>
   <string name="download_without_wifi_msg">"El uso de la conexión de datos móviles para descargar archivos aumentará el uso de datos. Si supera el límite de datos de su plan, su compañía podría cobrarle cargos adicionales."</string>
   <string name="download_without_wifi_title">Aviso de uso de datos</string>
   <string name="duotone">Bitono</string>
