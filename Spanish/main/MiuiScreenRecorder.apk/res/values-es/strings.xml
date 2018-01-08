@@ -32,7 +32,7 @@
   <string name="low_battery">Cargue su teléfono antes de comenzar a grabar</string>
   <string name="low_battery_title">Batería baja</string>
   <string name="low_battery_warning">Batería muy baja. Se paró la grabación y se guardó el video.</string>
-  <string name="low_memory">Tiene menos de 200MB disponibles. Puedes grabar hasta 5 minutos desde ahora.</string>
+  <string name="low_memory">Tienes menos de 1 GB de almacenamiento disponible. Puede grabar hasta 20 minutos.</string>
   <string name="low_memory_dior">Tiene menos de 500 MB de almacenamiento disponible. Puede grabar hasta 12 minutos.</string>
   <string name="low_memory_title">Sin espacio suficiente</string>
   <string name="low_momery_warning">Sin espacio suficiente. Se paró la grabación y se guardó el video.</string>
