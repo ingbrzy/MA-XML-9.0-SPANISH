@@ -43,6 +43,10 @@
   <string name="auto_clean_switch_off">Apagado</string>
   <string name="auto_clean_switch_on">Encendido</string>
   <string name="auto_cleaner_open">Activar</string>
+  <string name="auto_clean_time_every_day">Cada día</string>
+  <string name="auto_clean_time_fifteen_day">Cada 15 días</string>
+  <string name="auto_clean_time_seven_day">Cada 7 días</string>
+  <string name="auto_clean_time_three_day">Cada 3 días</string>
   <string name="back">Volver</string>
   <string name="btn_text_done">Listo</string>
   <string name="btn_text_quick_cleanup">Limpiar</string>
