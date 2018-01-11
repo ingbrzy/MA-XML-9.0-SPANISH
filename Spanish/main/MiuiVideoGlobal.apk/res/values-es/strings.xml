@@ -32,7 +32,7 @@
   <string name="lp_brightness">Brillo</string>
   <string name="lp_fullscreen">Pantalla completa</string>
   <string name="lp_setting">Ajustes</string>
-  <string name="lp_videoView_error_button">Lo tengo</string>
+  <string name="lp_videoView_error_button">Aceptar</string>
   <string name="lp_videoView_error_text_unknown">No se puede reproducir este video.</string>
   <string name="lp_videoView_error_title">No se puede reproducir</string>
   <string name="lp_volume">Volumen</string>
