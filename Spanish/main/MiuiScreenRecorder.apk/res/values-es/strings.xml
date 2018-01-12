@@ -1,7 +1,7 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
   <string name="app_name">Grabadora de Pantalla</string>
-  <string name="app_notification_info">La Grabadora de Pantalla está funcionando en el fondo</string>
+  <string name="app_notification_info">La Grabadora de Pantalla está funcionando en segundo plano</string>
   <string name="app_notification_title">Grabando Pantalla</string>
   <string name="auto_stop_title">Video guardado con éxito</string>
   <string name="battery_not_allowed" formatted="false">"No se puede grabar cuando la batería está por debajo del 3%. Asegúrese de que la batería esté al menos 20% cargada".</string>
