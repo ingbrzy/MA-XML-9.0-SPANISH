@@ -187,7 +187,7 @@
   <string name="combined_title_and_miprofile_swaped_huge_mode">"%1$s
 %2$s"</string>
   <string name="composer_failed_to_get_database_infomation">No se pudo obtener información de base de datos.</string>
-  <string name="composer_has_no_exportable_contact">No hay contactos exportables. Si usted tiene contactos en su teléfono, tenga en cuenta que algunos proveedores de datos no permiten exportar los contactos desde el teléfono.</string>
+  <string name="composer_has_no_exportable_contact">No hay contactos exportables. Si tiene contactos en su teléfono, tenga en cuenta que algunos proveedores de datos no permiten exportar los contactos desde el teléfono.</string>
   <string name="composer_not_initialized">El generador de vCard no inició correctamente.</string>
   <string name="config_export_dir">/mnt/sdcard</string>
   <string name="config_export_file_extension">vcf</string>
@@ -335,8 +335,8 @@ Las tarjetas de contacto están apagadas"</string>
   <string name="description_image_button_zero">cero</string>
   <string name="description_minus_button">Menos</string>
   <string name="description_plus_button">Más</string>
-  <string name="description_quick_contact_for">Marcacion rapida para %1$s</string>
-  <string name="description_quick_dial_button">Marcacion rapida</string>
+  <string name="description_quick_contact_for">Marcación rapida para %1$s</string>
+  <string name="description_quick_dial_button">Marcación rapida</string>
   <string name="description_search_button">Búsqueda</string>
   <string name="description_send_message">Enviar mensaje a %1$s</string>
   <string name="description_send_text_message">Enviar mensaje de texto a %1$s</string>
