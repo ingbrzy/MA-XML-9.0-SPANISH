@@ -166,7 +166,6 @@
   <string name="account_sync_settings_settings">Sincronizar contactos y calendario</string>
   <string name="account_sync_settingstip_description">Sincronización</string>
   <string name="account_waiting_for_folders_msg">Cargando carpetas…</string>
-  <string name="actionbar_large_unread_count">%1$d+ no leídos</string>
   <string name="activity_folder_selection">Seleccione carpeta</string>
   <string name="activity_mailbox_selection">Seleccione cuenta</string>
   <string name="ad_merge">Anuncios y Notificaciones</string>
@@ -222,6 +221,8 @@
   <string name="auto_advance_help_title">Después de eliminar un mensaje, ver…</string>
   <string name="auto_advance_label">Eliminar flujo de mensajes</string>
   <string name="auto_advance_summary">Elegir a qué mensaje desplazarse tras eliminar otro mensaje</string>
+  <string name="auto_login_fail">Error de inicio de sesión automático</string>
+  <string name="auto_login_fail_to_retry">Falló el inicio de sesión automático, intente de nuevo.</string>
   <string name="auto_mail_describe">Servicio de correo electrónico de ajuste automático le puede ayudar a rellenar la información de inicio de sesión en el buzón de correo 139. ¿Desea activar esta función?</string>
   <string name="auto_mail_disable_txt">Desactivar</string>
   <string name="auto_mail_enable_txt">Iniciar ajustes</string>
@@ -534,7 +535,6 @@
   <string name="header_label_general_preferences">General</string>
   <string name="help_and_info">Ayuda</string>
   <string name="help_config">Autoajustes</string>
-  <string name="hide_atts_remaining">Ocultar %1$d adjuntos</string>
   <string name="hide_elided">▼ Ocultar texto citado</string>
   <string name="hierarchical_folder_parent_top">%1$s∕%2$s∕</string>
   <string name="hierarchical_folder_parent_top_ellip">%1$s∕…∕%2$s∕</string>
@@ -561,7 +561,6 @@
   <string name="loading_conversations">Cargando…</string>
   <string name="loading_from_remote">Cargando…</string>
   <string name="local_search">Búsqueda local</string>
-  <string name="local_search_result">%s resultados en mensajes sincronizados</string>
   <string name="login">Iniciar sesión</string>
   <string name="login139">Iniciar sesión con una tecla CMCC</string>
   <string name="login_failed_ticker">Fallo al iniciar sesión en %s.</string>
@@ -681,7 +680,6 @@ Declinado:
   </string>
   <string name="mibill_privacy_policy_title">Gestionar facturas automáticamente</string>
   <string name="min_payment_text">Pago minimo</string>
-  <string name="more_atts_remaining">Queda(n) %1$d más</string>
   <string name="more_context">Más</string>
   <string name="more_string">+ %1$s</string>
   <string name="move_to_selection_dialog_title">Trasladar a otra carpeta</string>
@@ -696,7 +694,6 @@ Declinado:
   <string name="network_try_again">Compruebe la conexión de red e inténtelo de nuevo</string>
   <string name="network_unavailable">La red no está disponible</string>
   <string name="new_incoming_messages_one">Nuevo mensaje de %s. Mostrar.</string>
-  <string name="new_messages">%1$d mensajes nuevos</string>
   <string name="new_signature_has_saved">Guardada exitosamente</string>
   <string name="next_action">Siguiente</string>
   <string name="no">No</string>
@@ -859,6 +856,9 @@ para recibir recordatorios sobre pagos y viajes"</string>
   <string name="push_wps_confirm_message">Pruebe a utilizar WPS Office para abrir este adjunto.</string>
   <string name="push_wps_confirm_title">Probar WPS Office</string>
   <string name="push_wps_no_response_app">No se encontró una aplicación para llevar a cabo esta acción</string>
+  <string name="qq_auto_login_failed_cpy_pass_success">Copiado con éxito; vuelva a la página de inicio de sesión y péguelo para completar el campo de contraseña</string>
+  <string name="qq_auto_login_failed_dialog_message">Copie el código de autorización, vuelva a la página de inicio de sesión y haga clic en \"Ingresar nombre de usuario y contraseña para iniciar sesión\"; pegue para completar el campo de contraseña para iniciar sesión manualmente</string>
+  <string name="qq_auto_login_failed_dialog_positive_label">Copie el código de autorización</string>
   <string name="qq_bar_open_imap">Habilitar</string>
   <string name="qq_bar_send_message">Enviar SMS</string>
   <string name="qq_login_basecode">Inicio de sesión QQ Correo electrónico a través de la página web. Por favor, introduzca su contraseña independiente.</string>
@@ -884,7 +884,6 @@ para recibir recordatorios sobre pagos y viajes"</string>
   <string name="quick_3">Lo leeré más tarde y te digo algo.</string>
   <string name="quick_4">Fijemos una reunión para hablar de esto.</string>
   <string name="quick_reply_dialog_title">Elegir respuesta</string>
-  <string name="quick_reply_hint">Responder a %1$d personas</string>
   <string name="quick_reply_hint_bcc">(En BCC)</string>
   <string name="quick_reply_hint_cc">(En CC)</string>
   <string name="quick_reply_hint_reply_only_from">Respuesta rápida (sólo el remitente)</string>
@@ -948,7 +947,6 @@ para recibir recordatorios sobre pagos y viajes"</string>
   <string name="refreshing_done">Hecho</string>
   <string name="release_to_refresh">Suelte para actualizar</string>
   <string name="remind_attachment_size_limit">Sus correos deberían ser menores de %sMB</string>
-  <string name="remote_search_result">%s resultados del servidor</string>
   <string name="remove_account">Eliminar cuenta</string>
   <string name="remove_folder">Quitar de %1$s</string>
   <string name="remove_star">No favorito</string>
@@ -961,6 +959,7 @@ para recibir recordatorios sobre pagos y viajes"</string>
   <string name="request_entity_large">El archivo es demasiado grande</string>
   <string name="request_permission_activity">Solicitud de permiso</string>
   <string name="respond_inline">"   Responder entre líneas"</string>
+  <string name="retry_login">por favor inicia sesión de nuevo</string>
   <string name="save_action">Guardar</string>
   <string name="save_attachment">Guardar</string>
   <string name="save_draft_failed">Fallo al guardar borrador</string>
@@ -1109,7 +1108,6 @@ para recibir recordatorios sobre pagos y viajes"</string>
   <string name="undo">Deshacer</string>
   <string name="unknow">Desconocido</string>
   <string name="unread_string">conversación sin leer</string>
-  <string name="unsent_messages_in_outbox">%1$s mensajes no enviados en %2$s</string>
   <string name="unzip_file_failed">No se pudo descomprimir el archivo</string>
   <string name="update_date_format_templete">HH:mm aa, dd MMMM</string>
   <string name="update_to_wps_mail">Disfrute de más características con WPS Mail</string>
