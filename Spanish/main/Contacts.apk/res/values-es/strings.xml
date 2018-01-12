@@ -335,7 +335,8 @@ Las tarjetas de contacto están apagadas"</string>
   <string name="description_image_button_zero">cero</string>
   <string name="description_minus_button">Menos</string>
   <string name="description_plus_button">Más</string>
-  <string name="description_quick_contact_for">Contacto rápido para %1$s</string>
+  <string name="description_quick_contact_for">Marcacion rapida para %1$s</string>
+  <string name="description_quick_dial_button">Marcacion rapida</string>
   <string name="description_search_button">Búsqueda</string>
   <string name="description_send_message">Enviar mensaje a %1$s</string>
   <string name="description_send_text_message">Enviar mensaje de texto a %1$s</string>
@@ -1040,7 +1041,13 @@ Para agregar un contacto a la lista de favoritos:
   <string name="pull_to_refresh_refreshing_label">Cargando…</string>
   <string name="pull_to_refresh_release_label">Suelte para refrescar…</string>
   <string name="qr_card_card">Código QR</string>
-  <string name="qrcode_card_title">Tarjeta en código QR</string>
+  <string name="qrcode_card_title">Código QR</string>
+  <string name="quick_dial_setting_delete_dialog_message">¿Eliminar el número de marcado rápido asignado?</string>
+  <string name="quick_dial_setting_delete_dialog_option_delete">Eliminar</string>
+  <string name="quick_dial_setting_hint">Toque un botón para asignar o eliminar un número de marcado rápido. Mantenga presionado el botón con un número asignado para marcar.</string>
+  <string name="quick_dial_setting_set_dialog_message">¿Asignar un número de marcado rápido a este botón?</string>
+  <string name="quick_dial_setting_set_dialog_option_set">Sí</string>
+  <string name="quick_dial_setting_title">Marcacion rapida</string>
   <string name="quickcontact_missing_app">No se encontró una aplicación para manejar esta acción</string>
   <string name="quit_dialog_confirm_message">No has fusionado ningún contacto</string>
   <string name="quit_dialog_confirm_title">Cancelar la fusión de contactos</string>
