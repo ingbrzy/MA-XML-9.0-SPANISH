@@ -1,7 +1,7 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
-  <string name="app_info">Grabando, toque para parar</string>
-  <string name="app_name">Grabación de Pantalla</string>
+  <string name="app_name">Grabadora de Pantalla</string>
+  <string name="app_notification_info">La Grabadora de Pantalla está funcionando en el fondo</string>
   <string name="app_notification_title">Grabando Pantalla</string>
   <string name="auto_stop_title">Video guardado con éxito</string>
   <string name="battery_not_allowed" formatted="false">"No se puede grabar cuando la batería está por debajo del 3%. Asegúrese de que la batería esté al menos 20% cargada".</string>
@@ -15,11 +15,16 @@
   <string name="cancel_edit">Cancelar</string>
   <string name="cannot_change_parames">"No se pudieron cambiar los parámetros durante la grabación"</string>
   <string name="cannot_record">"No se pudo grabar. Vuelve a intentarlo más tarde."</string>
+  <string name="date_day"/>
+  <string name="date_month">/</string>
+  <string name="date_year">/</string>
+  <string name="description_content">La grabación de pantalla proporciona capacidades de grabación a nivel del sistema. Esta acción significa que descartarás la función de grabación de pantalla. Confirmar Continuar</string>
+  <string name="description_title">Acerca de Grabadora de Pantalla</string>
   <string name="deselect_all">Deseleccionar todo</string>
   <string name="error_open_file_failed_no_app_found">"No se pudo encontrar una aplicacación con que abrir este fichero"</string>
   <string name="frames">Fotogramas por segundo</string>
   <string name="frames_summary">Un mayor número de fotogramas por segundo, puede causar una imagen borrosa</string>
-  <string name="frequently_click_toast">Iniciando el servicio, por favor espere un momento</string>
+  <string name="frequently_click_toast">Solo un segundo…</string>
   <string name="gleam_led_while_recording">Luz de notificación de flash durante la grabación</string>
   <string name="hint_back">Volver</string>
   <string name="hint_home">Inicio</string>
@@ -33,17 +38,19 @@
   <string name="low_battery_title">Batería baja</string>
   <string name="low_battery_warning">Batería muy baja. Se paró la grabación y se guardó el video.</string>
   <string name="low_memory">Tienes menos de 1 GB de almacenamiento disponible. Puede grabar hasta 20 minutos.</string>
-  <string name="low_memory_dior">Tiene menos de 500 MB de almacenamiento disponible. Puede grabar hasta 12 minutos.</string>
   <string name="low_memory_title">Sin espacio suficiente</string>
   <string name="low_momery_warning">Sin espacio suficiente. Se paró la grabación y se guardó el video.</string>
   <string name="memory_not_allowed">No hay almacenamiento disponible. Libere un poco de almacenamiento para grabar.</string>
   <string name="mic_sound">Micrófono</string>
-  <string name="no_recorder_info">Sin videos</string>
+  <string name="no_recorder_info">Sin videos aquí</string>
   <string name="no_recorder_info2">Toque el botón para iniciar la grabación</string>
   <string name="no_sound">Mute</string>
   <string name="operation_delete">Borrar</string>
   <string name="operation_send">Enviar</string>
   <string name="quit_recording">Quitar Grabación de pantalla</string>
+  <string name="recording_failure">"No se pudo grabar, comienza de nuevo"</string>
+  <string name="recording_max_size">"La grabación se detuvo y se guardó porque el archivo de video alcanzó su límite de tamaño. Comienza a grabar desde donde lo dejaste si aún no has terminado."</string>
+  <string name="recording_without_mic">El micrófono está ocupado y el sonido del micrófono no se puede grabar</string>
   <string name="resolution">Resolución</string>
   <string name="resolution_summary">Videos con mayor resolución parecen más nítidos</string>
   <string name="screen_orientation">Orientación</string>
@@ -58,8 +65,10 @@
   <string name="sound_source">Origen del sonido</string>
   <string name="sound_source_summary">Sonidos del sistema o micrófono</string>
   <string name="start">Iniciar</string>
+  <string name="start_recording">Empezar a grabar</string>
   <string name="stop_by_second_space">Cambiar espacios detendrá la grabación</string>
   <string name="stop_record_while_locking">Bloquea la pantalla para finalizar</string>
   <string name="stop_record_while_locking_summary">Parar la grabación y guardar el video cuando la pantalla esté bloqueada</string>
+  <string name="stop_recording">Parar de grabar</string>
   <string name="timer_format">%s</string>
 </resources>
