@@ -129,7 +129,7 @@
    <item quantity="one">%s resultado en el servidor</item>
    </plurals>
    <plurals name="unsent_messages_in_outbox">
-   <item quantity="other">%1$s no enviados en %2$s</item>
-   <item quantity="one">%1$s no enviado en %2$s</item>
+   <item quantity="other">%1$s mensajes no enviados en %2$s</item>
+   <item quantity="one">%1$s mensaje no enviado en %2$s</item>
    </plurals>
 </resources>
