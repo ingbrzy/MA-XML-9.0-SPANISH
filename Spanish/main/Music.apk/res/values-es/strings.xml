@@ -140,7 +140,6 @@
   <string name="continue_backup">Continuar</string>
   <string name="cp_info_first">"Servicio de música en línea
 es proporcionado principalmente por Ultimate Inc."</string>
-  <string name="cp_info_second">service1@ultimobi.com</string>
   <string name="create_order_fail">"Fallo al crear la orden, inténtelo de nuevo."</string>
   <string name="create_playlist">Crear lista de reproducción</string>
   <string name="create_playlist_failure">No se pudo crear la lista de reproducción</string>

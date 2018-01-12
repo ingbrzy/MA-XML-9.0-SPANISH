@@ -551,7 +551,6 @@
   <string name="inline_picture_deleted">Descargar imagen ausente…</string>
   <string name="input_password_prompt">Introduzca su contraseña</string>
   <string name="intent_account_manager_entry">com.android.email.activity.setup.ACCOUNT_MANAGER_ENTRY</string>
-  <string name="intent_exchange_package">com.android.exchange</string>
   <string name="interact_with_server_error">"No se pudo conectar con el servidor"</string>
   <string name="invalid_recipient">La dirección %s no es válida.</string>
   <string name="invalid_recipient_title">Error de destinatario</string>

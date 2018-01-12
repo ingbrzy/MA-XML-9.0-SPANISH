@@ -278,7 +278,6 @@
   <string name="express_goods_detail">Order details<!--- Added line --></string>
   <string name="express_icon_tip">Retrieve express delivery tracking info using your phone number and order info.<!--- Added line --></string>
   <string name="express_icon_tip_link">Security &amp; privacy<!--- Added line --></string>
-  <string name="express_info_divider">" / "<!--- Added line --></string>
   <string name="express_inqiury_select_logistics">Courier service<!--- Added line --></string>
   <string name="express_inquiry">Tracking<!--- Added line --></string>
   <string name="express_inquiry_and_send">Tracking and sending<!--- Added line --></string>
@@ -342,7 +341,6 @@ Check your tracking number."<!--- Added line --></string>
   <string name="express_order_failed">Failed<!--- Added line --></string>
   <string name="express_order_ongoing">Ordering…<!--- Added line --></string>
   <string name="express_order_result">Result<!--- Added line --></string>
-  <string name="express_order_state">%1$s / %2$s<!--- Added line --></string>
   <string name="express_order_state_accepted">Accepted<!--- Added line --></string>
   <string name="express_order_state_allograph">Signed<!--- Added line --></string>
   <string name="express_order_state_cancelled">Canceled<!--- Added line --></string>
