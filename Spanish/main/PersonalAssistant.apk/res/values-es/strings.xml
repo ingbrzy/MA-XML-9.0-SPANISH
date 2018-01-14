@@ -1,4 +1,4 @@
-﻿<?xml version="1.0" encoding="UTF-8"?>
+<?xml version="1.0" encoding="UTF-8"?>
 <resources>
   <string name="accessibility_title">Asistente inteligente</string>
   <string name="accordingto_position">Reconocer lugares frecuentes utilizando GPS</string>
@@ -652,6 +652,8 @@ Check your tracking number."<!--- Added line --></string>
   <string name="preferences_label">Preferencias</string>
   <string name="qq_new">Nuevo estado</string>
   <string name="qq_qzone">Qzone</string>
+  <string name="quickstart_accessibility_description">"El asistente inteligente proporciona accesos directos para aplicaciones de terceros seleccionadas. Estos accesos directos no funcionarán si desactiva la función."</string>
+  <string name="quickstart_accessibility_service">Asistente inteligente</string>
   <string name="recharge_flow">Comprar datos móviles</string>
   <string name="recharge_tel">Recargue el saldo</string>
   <string name="recharge_title_monthused">Usado este mes</string>
