@@ -13,7 +13,7 @@
   <string name="fastboot_status_locked_info">Fastboot no está desbloqueado en este dispositivo</string>
   <string name="fastboot_status_locked_summary">No se puede conseguir acceso root</string>
   <string name="fastboot_unlock_web_title">Ir a la página oficial de MIUI para conseguir la herramienta de desbloqueo.</string>
-  <string name="game_booster">Acelerador de velocidad de Juegos</string>
+  <string name="game_booster">Acelerador de velocidad de los juegos</string>
   <string name="gb_alipays_can_not_complete">"No se puede completar el pago. Instale para continuar."</string>
   <string name="gb_weixinpay_can_not_complete">"No se puede completar el pago. Instale para continuar."</string>
   <string name="lucky_result_title">Sobres rojos</string>
