@@ -88,6 +88,7 @@ Si hay varios usuarios en el dispositivo, usar este acceso directo en la pantall
 
  Nota: Puede tocar tres veces la pantalla para ampliar el contenido en cualquier parte, excepto en el teclado y en la barra de navegación."</string>
   <string name="accessibility_screen_magnification_title">Gesto de lupa</string>
+  <string name="accessibility_service_default_description">Sin descripción proporcionada.</string>
   <string name="accessibility_services_title">Servicios</string>
   <string name="accessibility_settings">Accesibilidad</string>
   <string name="accessibility_settings_title">Ajustes de accesibilidad</string>
