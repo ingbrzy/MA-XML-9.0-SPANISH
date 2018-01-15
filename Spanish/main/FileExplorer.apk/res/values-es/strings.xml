@@ -13,7 +13,7 @@
   <string name="album_name">Selección diaria: %s</string>
   <string name="all_topic">Todos los temas</string>
   <string name="already_liked">Ya has marcado como favorito este elemento</string>
-  <string name="app_name">Explorador</string>
+  <string name="app_name">Administrador de archivos Mi</string>
   <string name="app_name_bluetooth">Bluetooth</string>
   <string name="app_name_camera">Cámara</string>
   <string name="app_name_downloadedrom">Paquetes</string>
@@ -125,7 +125,7 @@
   <string name="data_consumption_checkbox_hint">No mostrar de nuevo</string>
   <string name="data_consumption_confirm">Aceptar</string>
   <string name="data_consumption_message">Esta aplicación necesita conectarse a Internet por Wi-Fi para funcionar con normalidad.</string>
-  <string name="data_consumption_message1">El explorador necesita conectarse a internet para hacer disponibles los videos populares y las pegatinas.</string>
+  <string name="data_consumption_message1">El administrador de archivos Mi necesita conectarse a internet para hacer disponibles los videos populares y las pegatinas.</string>
   <string name="data_consumption_title">Conexión a Internet</string>
   <string name="decompress_cancel">Cancelar</string>
   <string name="decompress_confirm">Extraer</string>
@@ -180,7 +180,7 @@
   <string name="encrypt_error">Error al cifrar archivos, intente de nuevo</string>
   <string name="encrypt_prefix">ENCRIPTADO</string>
   <string name="encrypt_success">Encriptados correctamente</string>
-  <string name="encrypt_success_first_five">Cifrado y ocultado. Deslice hacia abajo en la pantalla de inicio del Explorador para ver los archivos.</string>
+  <string name="encrypt_success_first_five">Cifrado y ocultado. Deslice hacia abajo en la pantalla de inicio del administrador de archivos Mi para ver los archivos.</string>
   <string name="encrypting">Encriptando…</string>
   <string name="error_contains_sharer_path">No se pueden cifrar archivos en la carpeta /MIUI/Gallery/cloud/sharer, mueva el archivo a otro directorio e inténtelo de nuevo</string>
   <string name="error_create_dir">"No se pudo crear la carpeta"</string>
@@ -327,7 +327,7 @@
   <string name="mobile_network_dialog_title">Advertencia de datos móviles</string>
   <string name="month_day_format">dd MMM</string>
   <string name="move_failed">No se puede cortar</string>
-  <string name="move_icon_to_desktop_hint">Crea un acceso directo en la pantalla de inicio para administrar los archivos más eficazmente.</string>
+  <string name="move_icon_to_desktop_hint">Cree un acceso directo en la pantalla de inicio para administrador de archivos Mi para administrar archivos de manera más eficiente.</string>
   <string name="move_icon_to_desktop_success">Acceso directo añadido a la pantalla de inicio.</string>
   <string name="move_to">Mover a…</string>
   <string name="msg_notify_setting">Configuración de las notificaciones</string>
@@ -338,7 +338,7 @@
   <string name="my_follows">Mi feed</string>
   <string name="name_empty">Debes ingresar un nombre.</string>
   <string name="need_login">Entra primero</string>
-  <string name="need_read_storage_permission">"El explorador requiere permiso para acceder al almacenamiento del dispositivo para que funcione según lo diseñado."</string>
+  <string name="need_read_storage_permission">"Administrador de archivos Mi requiere permiso para acceder al almacenamiento del dispositivo para que funcione normalmente".</string>
   <string name="network_dialog_checkbox_tip">No mostrar de nuevo</string>
   <string name="network_not_available">No se pudo conectar a la red</string>
   <string name="network_spent_reminding">Abrir esta página requiere tráfico de tu plan de datos.</string>
@@ -349,7 +349,7 @@
   <string name="no_apk">Toque para obtener aplicaciones</string>
   <string name="no_app_tags">Vacío</string>
   <string name="no_comment">No hay comentarios</string>
-  <string name="no_content">Abra el Explorador de nuevo para ver los vídeos populares</string>
+  <string name="no_content">Abra el administrador de archivos Mi de nuevo para ver los vídeos populares</string>
   <string name="no_daren_tip">Nada por aquí aún</string>
   <string name="no_downloaded_sticker_tip">No se encontraron pegatinas descargadas. Descubre las pegatinas compartidas por fans de Mi.</string>
   <string name="no_enough_storage_indication">El espacio de almacenamiento del dispositivo está lleno.</string>
@@ -431,8 +431,8 @@
   <string name="path_hot_video">Ver populares videos cortos gratis</string>
   <string name="path_kuai_chuan">Transferencia de archivos peer-to-peer</string>
   <string name="path_recent_file">Administrar archivos en el dispositivo</string>
-  <string name="permission_denial">"No se pudo acceder a los archivos. Permitir que el Explorador acceda a los archivos en ajustes."</string>
-  <string name="permission_required">"No se pudo acceder a los archivos. Permitir que el Explorador acceda a los archivos en ajustes."</string>
+  <string name="permission_denial">"No se pudo acceder a los archivos. Permitir que el administrador de archivos Mi acceda a los archivos en ajustes."</string>
+  <string name="permission_required">"No se pudo acceder a los archivos. Permitir que el administrador de archivos Mi acceda a los archivos en ajustes."</string>
   <string name="petabyteShort">PB</string>
   <string name="phone">Almacenamiento interno</string>
   <string name="phone_bind_skip">Saltar</string>
@@ -460,7 +460,7 @@
   <string name="phone_storage_image_title">Imágenes: </string>
   <string name="phone_storage_info_str">%1$s de %2$s disponible</string>
   <string name="phone_storage_other_title">Otros: </string>
-  <string name="phone_storage_size_tip">El almacenamiento de la cuenta del Explorador puede diferir del almacenamiento de otras aplicaciones</string>
+  <string name="phone_storage_size_tip">"La contabilidad de almacenamiento de administrador de archivos Mi puede diferir de otras aplicaciones"</string>
   <string name="phone_storage_total">Total</string>
   <string name="phone_storage_video_title">Vídeos: </string>
   <string name="phone_storage_zip_title">Archivos: </string>
