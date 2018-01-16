@@ -132,6 +132,18 @@
         <item quantity="other">%d fotos y vídeos | Pausado</item>
         <item quantity="one">%d foto o vídeo | Pausado</item>
   </plurals>
+  <plurals name="slim_complete_photo_count">
+        <item quantity="other">%d fotos optimizadas</item>
+        <item quantity="one">%d foto optimizada</item>
+  </plurals>
+  <plurals name="slim_exit_dialog_message">
+        <item quantity="other">"%d fotos no han sido optimizadas. ¿Parar ahora?"</item>
+        <item quantity="one">"%d foto no han sido optimizada. ¿Parar ahora?"</item>
+  </plurals>
+  <plurals name="slim_remain_photo_count">
+        <item quantity="other">Faltan %d fotos</item>
+        <item quantity="one">Falta %d foto</item>
+  </plurals>
   <plurals name="sync_error_title">
         <item quantity="other">No se han respaldado %d fotos y vídeos.</item>
         <item quantity="one">No se ha respaldado %d foto o vídeo.</item>
