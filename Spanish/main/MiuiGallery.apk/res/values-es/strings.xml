@@ -968,7 +968,7 @@
   <string name="slim_description_dialog_ok">Aceptar</string>
   <string name="slim_description_dialog_slim_after">"Después:  167KB"</string>
   <string name="slim_description_dialog_slim_before">"Antes:  3.07MB"</string>
-  <string name="slim_exit_dialog_positive">Detener<</string>
+  <string name="slim_exit_dialog_positive">Detener</string>
   <string name="slim_exit_dialog_title">Detener optimización</string>
   <string name="slim_running">Optimizando…</string>
   <string name="slim_space">liberado</string>
