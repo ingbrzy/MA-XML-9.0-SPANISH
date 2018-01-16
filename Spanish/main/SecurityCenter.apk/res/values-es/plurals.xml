@@ -69,7 +69,7 @@ Si vuelve a activar los datos móviles, su operador puede cobrarle por datos adi
         <item quantity="one">%d aplicación encontrada</item>
     </plurals>
     <plurals name="network_restrict_count">
-        <item quantity="other">"El acceso a la red está restringido para &lt;font color='#ff0000'>%d:&lt;/font> aplicaciones"</item>
+        <item quantity="other">"El acceso a la red está restringido para &lt;font color='#ff0000'>%d&lt;/font> aplicaciones"</item>
         <item quantity="one">"El acceso a la red está restringido para &lt;font color='#ff0000'>%d&lt;/font> aplicación"</item>
     </plurals>
     <plurals name="om_ill_proc_multi_app_title">
