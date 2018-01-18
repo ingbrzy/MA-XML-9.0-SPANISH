@@ -482,7 +482,7 @@ o introduzca la contraseña de Aplicaciones bloqueadas"</string>
   <string name="cancel">Cancelar</string>
   <string name="cancel_button">Cancelar</string>
   <string name="card_main_applock_action">Activar</string>
-  <string name="card_main_applock_summary">Proteger los elementos privados con el bloqueo de aplicaciones</string>
+  <string name="card_main_applock_summary">Protege las aplicaciones seleccionadas con una contraseña. Ocultar mensajes, fotos, notas y más.</string>
   <string name="card_main_applock_title">Bloqueo de aplicaciones</string>
   <string name="card_main_deepclean_action">Limpiar</string>
   <string name="card_main_deepclean_qq_title">Limpiador QQ</string>
@@ -1077,6 +1077,7 @@ responda</string>
   <string name="menu_text_power_percent_title">Batería %s</string>
   <string name="menu_text_power_percent_title_default">Batería</string>
   <string name="menu_wh_remove">Eliminar de excepciones</string>
+  <string name="menu_white">Excepto</string>
   <string name="mi_service_app_detail">Detalles del uso de datos</string>
   <string name="mi_service_traffic_detail">Detalles del Framework</string>
   <string name="mian_page_primary_txt">Roaming en el extranjero</string>
