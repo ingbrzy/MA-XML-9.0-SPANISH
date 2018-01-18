@@ -362,7 +362,7 @@ Para activar su cuenta, siga el
   <string name="passport_skip_setup_account_msg">Puedes configurar tu Cuenta Mi más tarde desde Ajustes.</string>
   <string name="passport_skip_setup_account_title">Saltar configuración</string>
   <string name="passport_sms_send_success">Enviado</string>
-  <string name="passport_sms_verification_code_login">Inicio de sesión con SMS</string>
+  <string name="passport_sms_verification_code_login">Iniciar sesión con SMS</string>
   <string name="passport_sync_account_data">Sincronizando información de la cuenta…</string>
   <string name="passport_sync_account_data_failed_warning">La información de su cuenta está siendo sincronizada ahora, puede iniciar sesión usando su ID de Cuenta Mi. Si quiere iniciar sesión usando su teléfono o correo, espere hasta que la información esté completamente sincronizada.</string>
   <string name="passport_title_reg">Crear una cuenta</string>
