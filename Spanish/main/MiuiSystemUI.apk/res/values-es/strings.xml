@@ -32,6 +32,8 @@
   <string name="accessibility_data_two_bars">Dos barras de datos.</string>
   <string name="accessibility_display_daltonizer_preference_subtitle">Esta característica es experimental y puede afectar el rendimiento.</string>
   <string name="accessibility_display_daltonizer_preference_title">Corrección del color</string>
+  <string name="accessibility_divider">Divisor de pantalla dividida</string>
+  <string name="accessibility_drag_hint_message">Arrastra los elementos a la parte superior de la pantalla</string>
   <string name="accessibility_home">Página principal</string>
   <string name="accessibility_ime_switch_button">Cambiar la entrada del botón del sistema.</string>
   <string name="accessibility_managed_profile">Perfil de trabajo</string>
