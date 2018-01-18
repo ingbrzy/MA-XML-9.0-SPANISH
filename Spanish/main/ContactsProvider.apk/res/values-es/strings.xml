@@ -20,6 +20,7 @@
   <string name="search_the_yellowpage">Buscar en las páginas amarillas</string>
   <string name="send_sms">Enviar mensaje</string>
   <string name="sharedUserLabel">Aplicaciones principales de Android</string>
+  <string name="update_accounts_changed">Cuentas cambiadas</string>
   <string name="third_party_delete_contact_info">\"%s\" intenta borrar sus contactos. Esta acción no puede realizarse por aplicaciones de terceros. Para borrar contactos, utilice la aplicación integrada de contactos de MIUI.</string>
   <string name="upgrade_msg">Actualizando base de datos de contactos.</string>
   <string name="upgrade_out_of_memory_notification_text">Toque para completar la actualización.</string>
