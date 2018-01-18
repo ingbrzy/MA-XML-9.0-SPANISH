@@ -83,6 +83,18 @@
     <item quantity="other">%d elementos seleccionados</item>
     <item quantity="one">%d elemento seleccionado</item>
   </plurals>
+  <plurals name="notif_title_multiple_downloading">
+    <item quantity="other">Descargando %1$d canciones</item>
+    <item quantity="one">Descargando %1$d canción</item>
+  </plurals>
+  <plurals name="notification_download_failed_more">
+    <item quantity="other">"No se pudo descargar %1$d canciones"</item>
+    <item quantity="one">"No se pudo descargar %1$d canción"</item>
+  </plurals>
+  <plurals name="notification_download_success_more">
+    <item quantity="other">%1$d canciones</item>
+    <item quantity="one">%1$d canción</item>
+  </plurals>
   <plurals name="reader_count">
     <item quantity="other">%d seguidores</item>
     <item quantity="one">%d seguidor</item>
