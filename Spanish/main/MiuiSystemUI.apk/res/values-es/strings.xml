@@ -50,8 +50,10 @@
   <string name="accessibility_recent">Aplicaciones recientes</string>
   <string name="accessibility_recent_task_exit">Recientemente cerrados</string>
   <string name="accessibility_recent_task_locked">Bloqueado, deslice hacia abajo para desbloquear</string>
+  <string name="accessibility_recent_task_locked_state">Bloqueado</string>
   <string name="accessibility_recent_task_memory_info">Ram total: %2$s | RAM disponible: %1$s. Toca dos veces para limpiar.</string>
   <string name="accessibility_recent_task_unlocked">Desbloqueado</string>
+  <string name="accessibility_recent_task_unlocked_state">Desbloqueado</string>
   <string name="accessibility_remove_notification">Eliminar notificación</string>
   <string name="accessibility_ringer_silent">Timbre en silencio</string>
   <string name="accessibility_ringer_vibrate">Timbre en vibración</string>
