@@ -59,6 +59,8 @@
   <string name="account_user_using_weibo_avatar">Usar foto de perfil de Sina Weibo</string>
   <string name="account_vip_achievements">Logros</string>
   <string name="account_xiaomi_service">Servicios</string>
+  <string name="action_add_phone">Agregar el número de teléfono</string>
+  <string name="action_update_phone">Cambiar el número de teléfono</string>
   <string name="activate_email_notice">Asegúrese de activar su cuenta dentro de las 24 horas</string>
   <string name="activity_not_found_notice">No se pudo localizar la aplicación</string>
   <string name="add_account">Conectar cuenta</string>
@@ -141,10 +143,12 @@
   <string name="find_device_request_prepare_error">Imposible obtener el estado actual, intente más tarde</string>
   <string name="find_device_unknown_error">"No se puede obtener el estado del dispositivo, espere un minuto o dos y vuelva a intentarlo"</string>
   <string name="first_login_time">Primer intento de inicio: %s</string>
+  <string name="get_back_pwd">Restablecer la contraseña</string>
   <string name="get_device_list_failed">No se pudieron encontrar dispositivos</string>
   <string name="get_phone_bind_exceed_limit">"Puede asociar hasta 3 Cuentas MI con un número de teléfono. No puede agregar nuevas cuentas."</string>
   <string name="get_phone_verifycode_exceed_limit">Se han enviado demasiados códigos de verificación a este número. Espera 24 horas y vuelve a intentarlo.</string>
   <string name="guest_account_label">Cuenta Mi de Invitado</string>
+  <string name="identity">Identificación</string>
   <string name="input_email_address_notice">Utilizaremos este correo electrónico para verificar su cuenta</string>
   <string name="io_error_title">Confirma tu red</string>
   <string name="just_a_second">Un segundo…</string>
@@ -393,8 +397,7 @@ Para activar su cuenta, siga el
   <string name="passport_wrong_vcode">El código introducido es incorrecto</string>
   <string name="passport_yes">Sí</string>
   <string name="phone_activated">%s activado</string>
-  <string name="phone_unactivated">Sin activar</string>
-  <string name="phone_unknown">Desconocido</string>
+  <string name="phone_num_use_for">El número de teléfono se usa para:</string>
   <string name="photoPickerNotFoundText">No hay fotos disponibles.</string>
   <string name="push_notification_content">Obtener código de verificación</string>
   <string name="push_notification_title">Has iniciado sesión en Mi Cuenta en un dispositivo desconocido</string>
@@ -432,6 +435,10 @@ Para activar su cuenta, siga el
   <string name="select_location_title">Seleccione su ubicación</string>
   <string name="send_email_activate_message">Correo de verificación enviado</string>
   <string name="service_error">Error del servicio</string>
+  <string name="set_success">Cambiado con éxito</string>
+  <string name="sign_in">Iniciar sesión</string>
+  <string name="sim_changed_notification_msg">Toque para actualizar su teléfono de recuperación y mantener su cuenta más segura.</string>
+  <string name="sim_changed_notification_title">¿Cambió el número de teléfono?</string>
   <string name="sina_weibo">Sina WeiBo</string>
   <string name="sms_send_success">Enviado</string>
   <string name="sns_access_token_expired_warning">El inicio de sesión caducó. Entra de nuevo para volver a conectar esta cuenta.</string>
@@ -446,6 +453,7 @@ Para activar su cuenta, siga el
   <string name="update_contacts">Actualiza contactos</string>
   <string name="update_email_address_dialog_message">Necesita verificar su identidad antes de poder actualizar el correo.</string>
   <string name="update_email_address_dialog_title">Actualizar correo</string>
+  <string name="update_phone_notice">Cambiar la configuración de seguridad</string>
   <string name="update_phone_number_notice_message">Necesita verificar su identidad antes de poder actualizar el número de teléfono.</string>
   <string name="updated_nothing">Actualizado</string>
   <string name="user_avatar_update_title">Cambiar foto de perfil</string>
