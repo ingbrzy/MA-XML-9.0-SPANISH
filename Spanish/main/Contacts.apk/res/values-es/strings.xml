@@ -391,7 +391,8 @@ Las tarjetas de contacto están apagadas"</string>
   <string name="dialer_digits_copy_number_label">Número copiado</string>
   <string name="dialer_empty_text_loading">Un momento…</string>
   <string name="dialer_empty_text_no_call_log">No hay contactos recientes</string>
-  <string name="dialer_empty_text_no_search_result">No de encontraron los contactos</string>
+  <string name="dialer_empty_text_no_search_result">No se encontraron los contactos</string>
+  <string name="dialer_firewall_entry_name">Registros de llamadas bloqueadas</string>
   <string name="dialer_menu_description">Mostrar menús</string>
   <string name="dialer_menu_title">Opciones de menú</string>
   <string name="dialer_returnToInCallScreen">Retornar a la llamada en progreso</string>
