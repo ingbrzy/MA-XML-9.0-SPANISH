@@ -30,6 +30,7 @@ o introduzca la contraseña de Aplicaciones bloqueadas"</string>
   <string name="action_button_text_60">Optimizar</string>
   <string name="action_button_text_60_80">Optimizar</string>
   <string name="action_button_text_80_100">Optimizar</string>
+  <string name="action_source_call_title">Llamadas bloqueadas</string>
   <string name="action_source_sms_title">SMS bloqueados</string>
   <string name="activate_fingerprint_dialog_message">"Esta huella digital no está activa. Ingrese su contraseña para activar esta huella digital."</string>
   <string name="activate_fingerprint_dialog_title">Introducir contraseña</string>
@@ -79,7 +80,7 @@ o introduzca la contraseña de Aplicaciones bloqueadas"</string>
   <string name="adjust_traffic_data">Establecer uso de datos</string>
   <string name="after_the_lock_screen">La Aplicación está bloqueada junto con la pantalla. Puede cambiar esto en los ajustes de bloqueo de Aplicaciones.</string>
   <string name="all_address_choose_hint">Todos los números de esta provincia</string>
-  <string name="already_close_gamebooster">Acelerador de velocidad de Juegos apagado</string>
+  <string name="already_close_gamebooster">El acelerador de velocidad de juegos está apagado</string>
   <string name="anim_gamebooster_text">Sólo un segundo…</string>
   <string name="anti_disturb_msg_detail">Apagar todas las notificaciones excepto las de llamadas entrantes</string>
   <string name="anti_disturb_msg_title">No molestar</string>
@@ -120,8 +121,8 @@ o introduzca la contraseña de Aplicaciones bloqueadas"</string>
   <string name="antivirus_update_btn_update">Actualizar</string>
   <string name="apn_exception_summary">Probar las configuraciones del nombre de punto de acceso del operador</string>
   <string name="apn_exception_title">Comprobar configuraciones APN</string>
-  <string name="app_bg_restrict_dialog_message">Restringir la conexión de red en segundo plano puede evitar que la aplicación funcione normalmente. Por ejemplo, es posible que ya no pueda recibir mensajes ni actualizar contenido. ¿Restringir de todos modos?</string>
-  <string name="app_check_no_issue">Parece que no hay problemas con la batería. ¡Guay!</string>
+  <string name="app_bg_restrict_dialog_message">Restringir la conexión de red en segundo plano puede evitar que la aplicación funcione normalmente. Por ejemplo, es posible que ya no pueda recibir mensajes ni actualizar contenido.</string>
+  <string name="app_check_no_issue">Parece que no hay problemas con la batería. ¡Genial!</string>
   <string name="app_detail">Detalles</string>
   <string name="app_error_tip_for_launcher">"Los componentes de hardware de su dispositivo o la versión del sistema Android pueden causar problemas de compatibilidad y hacer que algunas aplicaciones se comporten mal, se bloqueen o se detengan con fuerza. Si tiene problemas, comparta sus comentarios con los desarrolladores de aplicaciones."</string>
   <string name="app_error_tip_for_store">"Los componentes de hardware de su dispositivo o la versión del sistema de Android pueden causar problemas de compatibilidad que pueden resultar en el fallo en la instalación de algunas aplicaciones. Si se encuentran con estos problemas o algunas aplicaciones se comportan mal, se congelan o se detienen, Intente instalar la aplicación de nuevo."</string>
@@ -152,13 +153,15 @@ o introduzca la contraseña de Aplicaciones bloqueadas"</string>
   <string name="app_manager_clear_dlg_title">Borrar datos</string>
   <string name="app_manager_clear_failed_dlg_message">No se han podido borrar los datos de la aplicación.</string>
   <string name="app_manager_clear_failed_dlg_title">Eliminar datos</string>
+  <string name="app_manager_code_size">Tamaño de la aplicación</string>
+  <string name="app_manager_comuting_size">Calculando…</string>
   <string name="app_manager_copy_pkg_to_clip">Copiado al portapapeles</string>
   <string name="app_manager_default_cleared">borrada</string>
   <string name="app_manager_default_close_summary">No se han establecido valores predeterminados.</string>
   <string name="app_manager_default_open">Abrir por defecto</string>
   <string name="app_manager_default_open_summary">Ha elegido lanzar esta aplicación de forma predeterminada para algunas acciones.</string>
   <string name="app_manager_default_open_title">Borrar los valores predeterminados</string>
-  <string name="app_manager_defaults_setting">Valores por defecto</string>
+  <string name="app_manager_defaults_setting">Aplicaciones predeterminadas</string>
   <string name="app_manager_details_electric_title">Batería</string>
   <string name="app_manager_details_storage_title">Almacenamiento</string>
   <string name="app_manager_details_traffic_title">Datos usados</string>
@@ -190,6 +193,8 @@ o introduzca la contraseña de Aplicaciones bloqueadas"</string>
   <string name="app_manager_net_control_title">Restringir el uso de datos</string>
   <string name="app_manager_net_mobile">Móvil</string>
   <string name="app_manager_net_wifi">Wi-Fi</string>
+  <string name="app_manager_not_allow">No</string>
+  <string name="app_manager_not_support_uninstall">"No se pueden desinstalar estas aplicaciones"</string>
   <string name="app_manager_not_record">"No se encontraron aplicaciones que requieren permisos"</string>
   <string name="app_manager_notify_bar">Insignias</string>
   <string name="app_manager_notify_floating">Notificaciones flotantes</string>
@@ -359,10 +364,10 @@ o introduzca la contraseña de Aplicaciones bloqueadas"</string>
   <string name="auto_task_operation_wifi">Wi-Fi</string>
   <string name="back_app_name">Volver a bloqueo de aplicación</string>
   <string name="back_modifypassword">Volver a cambiar contraseña</string>
-  <string name="back_sound_data">Requiere red móvil celular, ¡por favor, intente de nuevo!</string>
-  <string name="back_sound_fail">¡Ha fallado!</string>
-  <string name="back_sound_success">¡Éxito!</string>
-  <string name="back_sound_support">"¡Los operadores de red actuales no lo admiten!"</string>
+  <string name="back_sound_data">Enciende los datos móviles y vuelve a intentarlo.</string>
+  <string name="back_sound_fail">"No se pudo establecer. La configuración del operador cambió. Configure la tarjeta SIM actual como su tarjeta de datos, conéctese a la red y vuelve a intentarlo."</string>
+  <string name="back_sound_success">Establecido exitosamente</string>
+  <string name="back_sound_support">"La red de su proveedor no admite esta configuración."</string>
   <string name="background_restrict_app_dialog_message">Restringiendo el acceso en segundo plano a la red para esta aplicación podría hacer que sea imposible que la aplicación funcione normalmente, recibir mensajes, descargar contenido, etc. ¿Restringir de todos modos?</string>
   <string name="background_traffic">Segundo plano %s</string>
   <string name="backsound_set_hint">¿Establecer su respuesta automática a %s?</string>
@@ -733,7 +738,7 @@ Se agregará a las excepciones, pero los elementos bloqueados anteriormente no a
   <string name="free_send_net_booster">Acelerador de velocidad de Red gratuito</string>
   <string name="free_send_net_booster_busniess">Consiga un acelerador de velocidad Xunlei gratis</string>
   <string name="free_send_net_booster_busniess_tip">Toque para recibir</string>
-  <string name="free_send_net_booster_tip">Disfrute jugando fluido con el acelerador de velocidad de Red gratuito.</string>
+  <string name="free_send_net_booster_tip">Disfrute jugando fluido con el acelerador de velocidad de red gratuito.</string>
   <string name="free_time_traffic">Límite de datos fuera de hora punta</string>
   <string name="free_time_traffic_hint">Ingrese el límite de datos fuera de pico</string>
   <string name="free_time_traffic_settings">Límite de datos pasado el máximo</string>
@@ -797,7 +802,7 @@ Se agregará a las excepciones, pero los elementos bloqueados anteriormente no a
   <string name="gs_game_net_priority">Prioridad de conexión</string>
   <string name="gs_game_net_priority_detail">Limitar la velocidad de descarga para tener suficiente ancho de banda para jugar</string>
   <string name="gs_game_performance">Rendimiento</string>
-  <string name="gs_game_shortcut">Disfrute de una experiencia más fluida jugando</string>
+  <string name="gs_game_shortcut">Mejora tu experiencia de juego</string>
   <string name="gs_only_self_start_for_list">Restringir procesos en segundo plano para ahorrar batería para jugar</string>
   <string name="gs_open_game_booster">Mejorar velocidad</string>
   <string name="gs_performance_mode">Modo rendimiento</string>
@@ -1346,6 +1351,7 @@ Esta actividad acorta la duración de la batería."</string>
   <string name="power_btn_analyze">Analizar el uso de la batería</string>
   <string name="power_cell">Antena activada</string>
   <string name="power_center_auto_shutdown">Programar encendido/apagado</string>
+  <string name="power_center_back">Volver</string>
   <string name="power_center_charge_time">%1$s para terminar</string>
   <string name="power_center_ontime_boot">Programar encendido</string>
   <string name="power_center_ontime_shutdown">Programar apagado</string>
@@ -1583,7 +1589,7 @@ Mientras se calibra, MIUI le enviará un mensaje de texto a su operadora para re
   <string name="sc_allow_network_dialog_message">Esta aplicación necesita conectarse a Internet para funcionar con normalidad.</string>
   <string name="sc_allow_network_dialog_tiltle">No se puede utilizar esta función</string>
   <string name="sc_system_risk_fix_info_xspace">El riesgo no puede ser arreglado en xspace, por favor, cambie al espacio del propietario para arreglarlo.</string>
-  <string name="sc_warning_updater_not_found">La aplicación para actualizar no se encontró. ¡No se puede actualizar!</string>
+  <string name="sc_warning_updater_not_found">No se pudo encontrar la aplicación Actualizador.</string>
   <string name="scan_installed_games">Chequeando juegos instalados…</string>
   <string name="scan_status_risk">Peligroso</string>
   <string name="scan_status_safe">Seguro</string>
@@ -1731,7 +1737,9 @@ Mientras se calibra, MIUI le enviará un mensaje de texto a su operadora para re
   <string name="st_message_phone_AntiSpam">Bloquear llamadas</string>
   <string name="st_message_phonepass">Permitir llamadas</string>
   <string name="st_msg_intercept_contacts">Bloquear mensajes de contactos</string>
-  <string name="st_msg_keyword_group">Lista de palabras bloqueadas</string>
+  <string name="st_msg_keyword_group">Lista de palabras clave bloqueadas</string>
+  <string name="st_msg_keyword_group">Palabras clave</string>
+  <string name="st_msg_keyword_white">Lista de palabras clave permitidas</string>
   <string name="st_msg_other_group">Otros</string>
   <string name="st_msg_settings">Bloquear mensajes</string>
   <string name="st_msg_stranger_group">Mensajes de extraños</string>
@@ -1764,7 +1772,8 @@ Mientras se calibra, MIUI le enviará un mensaje de texto a su operadora para re
   <string name="st_title_call_wait_setting">Llamada en espera</string>
   <string name="st_title_editblacklist">Editar lista de bloqueo</string>
   <string name="st_title_editwhitelist">Editar excepciones</string>
-  <string name="st_title_keywords_blacklist">Filtro por palabras clave</string>
+  <string name="st_title_keywords_blacklist">Lista de palabras clave bloqueadas</string>
+  <string name="st_title_keywords_whitelist">Lista de palabras clave permitidas</string>
   <string name="st_title_man_addblacklist">Añadir número a la lista de bloqueo</string>
   <string name="st_title_man_addwhitelist">Añadir número de teléfono a las excepciones</string>
   <string name="st_title_man_editblacklist">Elija un código de área para añadir a la lista de bloqueo</string>
@@ -2088,7 +2097,7 @@ Los datos restantes incluyen datos transferidos desde el mes anterior.</string>
   <string name="uninstall_danagerous_btn">Desinstalar</string>
   <string name="uninstall_danagerous_desc">\"%s\" puede dañar su dispositivo</string>
   <string name="uninstall_danagerous_msg">\"%s\" puede dañar su dispositivo, degradar su rendimiento, o causar rearranques.</string>
-  <string name="uninstall_danagerous_title">Desinstalar aplicación maliciosa</string>
+  <string name="uninstall_danagerous_title">Desinstalar aplicaciones maliciosas</string>
   <string name="unlike">No, gracias</string>
   <string name="unlock_pattern">&lt;u&gt;Patrón&lt;/u&gt;</string>
   <string name="unlock_pattern_to_bind_fingerprint">Introduzca la contraseña para activar la huella dactilar</string>
