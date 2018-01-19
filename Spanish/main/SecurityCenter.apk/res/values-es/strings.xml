@@ -145,6 +145,7 @@ o introduzca la contraseña de Aplicaciones bloqueadas"</string>
   <string name="app_manager_as_dlg_title">Atención</string>
   <string name="app_manager_back">Atrás</string>
   <string name="app_manager_bipartition">Aplicaciones dobles</string>
+  <string name="app_manager_cache_size">Caché</string>
   <string name="app_manager_card_permission_title">Permisos</string>
   <string name="app_manager_clear_all_data">Borrar todos los datos</string>
   <string name="app_manager_clear_cache">Borrar caché</string>
@@ -156,6 +157,7 @@ o introduzca la contraseña de Aplicaciones bloqueadas"</string>
   <string name="app_manager_code_size">Tamaño de la aplicación</string>
   <string name="app_manager_comuting_size">Calculando…</string>
   <string name="app_manager_copy_pkg_to_clip">Copiado al portapapeles</string>
+  <string name="app_manager_data_size">Datos del usuario</string>
   <string name="app_manager_default_cleared">borrada</string>
   <string name="app_manager_default_close_summary">No se han establecido valores predeterminados.</string>
   <string name="app_manager_default_open">Abrir por defecto</string>
