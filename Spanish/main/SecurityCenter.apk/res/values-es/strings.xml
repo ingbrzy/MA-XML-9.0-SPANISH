@@ -1737,7 +1737,6 @@ Mientras se calibra, MIUI le enviará un mensaje de texto a su operadora para re
   <string name="st_message_phone_AntiSpam">Bloquear llamadas</string>
   <string name="st_message_phonepass">Permitir llamadas</string>
   <string name="st_msg_intercept_contacts">Bloquear mensajes de contactos</string>
-  <string name="st_msg_keyword_group">Lista de palabras clave bloqueadas</string>
   <string name="st_msg_keyword_group">Palabras clave</string>
   <string name="st_msg_keyword_white">Lista de palabras clave permitidas</string>
   <string name="st_msg_other_group">Otros</string>
