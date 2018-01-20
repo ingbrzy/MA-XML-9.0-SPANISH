@@ -1,8 +1,12 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <plurals name="fw_blocked_count_call">
-        <item quantity="other">%d llamadas</item>
-        <item quantity="one">%d llamada</item>
+        <item quantity="other">%1$d llamadas de %2$s y otras</item>
+        <item quantity="one">%1$d llamada de %2$s</item>
+    </plurals>
+        <plurals name="fw_blocked_count_call_one">
+        <item quantity="other">%1$d llamadas de %2$s y otras</item>
+        <item quantity="one">%1$d llamada de %2$s</item>
     </plurals>
     <plurals name="fw_blocked_count_sms">
         <item quantity="other">%d mensajes</item>
