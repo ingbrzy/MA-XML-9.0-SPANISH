@@ -72,9 +72,9 @@ Nota: Los datos de las aplicaciones instaladas no se copiarán en Mi Cloud."</st
   <string name="cloud_backup_in_cancel">Cancelar</string>
   <string name="cloud_backup_select_recover">Elegir respaldo desde Mi Cloud</string>
   <string name="cloud_backup_title">Copia de seguridad de Mi Cloud</string>
-  <string name="cloud_restore_from_other_device">La restauración desde %s está en proceso, borrar la copia de seguridad de la misma cancelará la tarea, está seguro de borrarla?</string>
+  <string name="cloud_restore_from_other_device">La restauración desde %s está en proceso, borrar la copia de seguridad de la misma cancelará la tarea, está seguro de querer borrarla?</string>
   <string name="cloud_restore_task">Restaurando…</string>
-  <string name="cloud_task_in_process">¡Hay una %s tarea en proceso! Borrando la copia de seguridad del dispositivo actual cancelará la tarea, ¿está seguro de borrarla?</string>
+  <string name="cloud_task_in_process">¡Hay una %s tarea en proceso! Borrando la copia de seguridad del dispositivo actual cancelará la tarea, ¿está seguro de querer borrarla?</string>
   <string name="confirm_cancel_restore_negative">Cancelar</string>
   <string name="confirm_cancel_restore_positive">Continuar</string>
   <string name="confirm_cancel_restore_title">¿Cancelar la restauración?</string>
@@ -91,10 +91,14 @@ Nota: Los datos de las aplicaciones instaladas no se copiarán en Mi Cloud."</st
   <string name="desktop_waiting">Esperando</string>
   <string name="device_delete_prompt">¿Borrar la copia de seguridad %s?</string>
   <string name="device_xiaomi">Teléfono Mi</string>
+  <string name="dialog_btn_next">Siguiente</string>
+  <string name="dialog_btn_restore_skip">Restaurar más tarde</string>
   <string name="dialog_cancel_backup_cancel">Cancelar</string>
   <string name="dialog_cancel_backup_confirm">OK</string>
   <string name="dialog_cancel_backup_msg">Alternar el interruptor terminará con las copias de seguridad en curso.</string>
   <string name="dialog_cancel_backup_title">¿Cancelar la copia de seguridad en curso?</string>
+  <string name="dialog_msg_restore_require_wlan">Para llevar a cabo la restauración debe estar conectado a una red Wi-Fi.</string>
+  <string name="dialog_title_require_wlan">Se necesita una conexión Wi-Fi</string>
   <string name="dir_date_format">HHmmss_ddMMyyyy</string>
   <string name="doing_restore_home">Restaurando la pantalla de inicio y la configuración...</string>
   <string name="done_remove">Eliminado con éxito</string>
