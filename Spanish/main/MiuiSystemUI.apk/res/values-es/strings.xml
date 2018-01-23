@@ -395,6 +395,7 @@ Puede que tu operador te cobre por volver a activar datos."</string>
   <string name="overlay_display_devices_title">Simular pantallas secundarias</string>
   <string name="picture_color_mode">Modo de color de imagen</string>
   <string name="picture_color_mode_desc">Utilizar sRGB</string>
+  <string name="please_slide_agian">Por favor deslize de nuevo</string>
   <string name="pointer_location">Posición del puntero</string>
   <string name="pointer_location_summary">Superposición de pantalla que muestra los datos de toque actuales</string>
   <string name="power_charging_duration">%1$s - %2$s hasta que se llene</string>
