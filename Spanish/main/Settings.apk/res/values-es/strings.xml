@@ -944,7 +944,7 @@ Las emisiones utilizan señales de Bluetooth de baja energía."</string>
   <string name="close_sdcard_optimization_warning_message">El dispositivo se reiniciará para aplicar este cambio..</string>
   <string name="cloud_backup_section_title">Copia de seguridad en Mi Nube</string>
   <string name="cloud_backup_settings_section_title">Ajustes de la copia de seguridad</string>
-  <string name="cloud_restore_section_summary">Restaurar aplicaciones, Disposición de la pantalla principal y ajustes del sistema</string>
+  <string name="cloud_restore_section_summary">Restaurar ajustes del sistema, la disposición de la pantalla principal y aplicaciones</string>
   <string name="cloud_restore_section_title">Restaurar desde Mi Nube</string>
   <string name="cmcc_hardware_version">Versión de hardware</string>
   <string name="collect_diagnostics_summary">Recoger datos de diagnóstico para solucionar problemas</string>
