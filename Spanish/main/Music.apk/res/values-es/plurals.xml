@@ -17,7 +17,8 @@
     <item quantity="one">%d banda</item>
   </plurals>
   <plurals name="Nnew_tracks_count">
-    <item quantity="other">%d nueva</item>
+	<item quantity="other">%d nuevas canciones</item>
+    <item quantity="one">%d nueva canción</item>
   </plurals>
   <plurals name="Nquit_warning">
     <item quantity="other">El reproductor parará en %d minutos</item>
@@ -83,18 +84,6 @@
     <item quantity="other">%d elementos seleccionados</item>
     <item quantity="one">%d elemento seleccionado</item>
   </plurals>
-  <plurals name="notif_title_multiple_downloading">
-    <item quantity="other">Descargando %1$d canciones</item>
-    <item quantity="one">Descargando %1$d canción</item>
-  </plurals>
-  <plurals name="notification_download_failed_more">
-    <item quantity="other">"No se pudo descargar %1$d canciones"</item>
-    <item quantity="one">"No se pudo descargar %1$d canción"</item>
-  </plurals>
-  <plurals name="notification_download_success_more">
-    <item quantity="other">%1$d canciones</item>
-    <item quantity="one">%1$d canción</item>
-  </plurals>
   <plurals name="reader_count">
     <item quantity="other">%d seguidores</item>
     <item quantity="one">%d seguidor</item>
@@ -108,7 +97,7 @@
     <item quantity="one">Canción marcada como favorita.</item>
   </plurals>
   <plurals name="Nunbackup_audios">
-    <item quantity="other">"%1$d canciones no se han copiado (%2$.1fMB)"</item>
+    <item quantity="other">"%1$d canciones no se han copiado (%2$.1fMB)\"</item>
     <item quantity="one">"%1$d canción no se ha copiado (%2$.1fMB)"</item>
   </plurals>
   <plurals name="Nupload_song_button">
@@ -124,9 +113,8 @@
     <item quantity="one">"%d canción no han sido respaldadas a Mi Cloud. ¿Parar ahora?"</item>
   </plurals>
   <plurals name="Nsong_group_detail_subtitle">
-    <item quantity="other">Creado en %1$s | total %2$d canciones</item>  
-    <item quantity="zero">Creado en %1$s | total %2$d canción</item>
-    <item quantity="one">Creado en %1$s | total %2$d canción</item>
+	<item quantity="other">"Creado en %1$s total %2$d canciones"</item>
+         <item quantity="one">"Creado en %1$s total %2$d canción"</item>
   </plurals>
   <plurals name="Nalbum_total_songs">
     <item quantity="other">Total %d canciones</item>
