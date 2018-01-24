@@ -17,7 +17,7 @@
     <item quantity="one">%d banda</item>
   </plurals>
   <plurals name="Nnew_tracks_count">
-	<item quantity="other">%d nuevas canciones</item>
+    <item quantity="other">%d nuevas canciones</item>
     <item quantity="one">%d nueva canción</item>
   </plurals>
   <plurals name="Nquit_warning">
@@ -41,12 +41,12 @@
     <item quantity="one">Canción eliminada de la lista de reproducción</item>
   </plurals>
   <plurals name="dialog_confirm_delete_downloads_message">
-        <item quantity="other">¿Borrar %d elementos?</item>
-        <item quantity="one">¿Borrar %d elemento?</item>
+    <item quantity="other">¿Borrar %d elementos?</item>
+    <item quantity="one">¿Borrar %d elemento?</item>
   </plurals>
   <plurals name="download_info_count_deleted_tasks">
-        <item quantity="other">%d descargas eliminadas</item>
-        <item quantity="one">%d descarga eliminada</item>
+     <item quantity="other">%d descargas eliminadas</item>
+     <item quantity="one">%d descarga eliminada</item>
   </plurals>
   <plurals name="Ntracks_search_result">
     <item quantity="other">%d canciones encontradas</item>
@@ -113,8 +113,8 @@
     <item quantity="one">"%d canción no han sido respaldadas a Mi Cloud. ¿Parar ahora?"</item>
   </plurals>
   <plurals name="Nsong_group_detail_subtitle">
-	<item quantity="other">"Creado en %1$s total %2$d canciones"</item>
-         <item quantity="one">"Creado en %1$s total %2$d canción"</item>
+     <item quantity="other">"Creado en %1$s total %2$d canciones"</item>
+     <item quantity="one">"Creado en %1$s total %2$d canción"</item>
   </plurals>
   <plurals name="Nalbum_total_songs">
     <item quantity="other">Total %d canciones</item>
