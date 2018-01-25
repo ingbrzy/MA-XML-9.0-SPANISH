@@ -200,6 +200,7 @@
   <string name="choose_owner_relation">Relación</string>
   <string name="choose_people">Elija un álbum de persona</string>
   <string name="choose_some_people">Elija álbum con %s</string>
+  <string name="cleaner_empty_value_description">Todo está bien</string>
   <string name="cleaner_photo_pick_delete_selected">Eliminar fotos seleccionadas</string>
   <string name="cleaner_scan_description">La optimización de elementos libera espacio de almacenamiento en su dispositivo</string>
   <string name="cleaner_scan_exit_dialog_message">"Tendrás que comenzar de nuevo la próxima vez. ¿Deja de escanear ahora?"</string>
