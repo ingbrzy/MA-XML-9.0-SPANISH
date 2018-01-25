@@ -642,8 +642,6 @@ es proporcionado principalmente por Ultimate Inc."</string>
   <string name="notification_download_failed">La descarga no pudo completarse</string>
   <string name="notification_download_failed_more">"No se pudo descargar %1$d elementos"</string>
   <string name="notification_download_success_more">%1$d descargado</string>
-  <string name="notification_download_failed_more">No logramos descargar %1$d artículos</string>
-  <string name="notification_download_success_more">%1$d downloaded</string>
   <string name="notification_need_wifi_for_size">Tamaño del archivo requiere Wi-Fi.</string>
   <string name="notification_play_summary">Ver canción actual y la siguiente, mostrar letras de las canciones en la Pantalla de inicio.</string>
   <string name="notification_play_title">Widget de panel de notificaciones</string>
@@ -921,8 +919,6 @@ es proporcionado principalmente por Ultimate Inc."</string>
   <string name="talkback_download">Descargar</string>
   <string name="talkback_favorite">Me gusta esta canción</string>
   <string name="talkback_mode">Repetir lista de reproducción</string>
-  <string name="talkback_more">Más menú</string>
-  <string name="talkback_mode">Playlist bucle</string>
   <string name="talkback_mode_repeat_all">Modo de bucle de lista</string>
   <string name="talkback_mode_repeat_current">Modo de bucle único</string>
   <string name="talkback_mode_repeat_shuffle">Modo de reproducción aleatorio</string>
