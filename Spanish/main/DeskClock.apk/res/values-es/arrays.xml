@@ -64,12 +64,12 @@
         <item>30 minutos</item>
     </string-array>
     <string-array name="aqi_value">
-        <item>Bueno</item>
-        <item>Satisfactorio</item>
-        <item>Moderadamente contaminado</item>
-        <item>Pobre</item>
-        <item>Muy pobre</item>
-        <item>Severo</item>
+        <item>Bueno </item>
+        <item>Satisfactorio </item>
+        <item>Moderadamente contaminado </item>
+        <item>Pobre </item>
+        <item>Muy pobre </item>
+        <item>Severo </item>
     </string-array>
     <string-array name="weather_tips_value">
         <item>Reduce las actividades al aire libre</item>
