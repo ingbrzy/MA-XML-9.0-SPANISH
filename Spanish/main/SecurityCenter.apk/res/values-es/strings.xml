@@ -1503,7 +1503,7 @@ Mientras se calibra, MIUI le enviará un mensaje de texto a su operadora para re
   <string name="quick_optimize_no_fix_issue_subtitle">No se pudo prolongar la duración de la batería</string>
   <string name="quick_optimize_no_fix_issue_title">No se pudieron solucionar los problemas con la batería</string>
   <string name="quick_optimize_no_issue">No hay problemas con la batería</string>
-  <string name="quick_optimize_no_issue_subtitle">Todo esá bien</string>
+  <string name="quick_optimize_no_issue_subtitle">Todo está bien</string>
   <string name="quick_optimize_no_issue_title">No se encontraron problemas con la batería</string>
   <string name="quick_optimize_sub_summary_text">Añadido %s a la vida de la batería</string>
   <string name="quick_optimize_suggest_battery_consume_too_fast">El teléfono está drenando la batería, solucionarlo</string>
