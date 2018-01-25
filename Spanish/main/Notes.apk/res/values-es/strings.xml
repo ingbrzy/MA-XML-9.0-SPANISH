@@ -170,6 +170,7 @@
   <string name="theme_title_yellow">Amarillo</string>
   <string name="theme_white_description">Blanco</string>
   <string name="theme_yellow_description">Amarillo</string>
+  <string name="toast_cancel_to_insert_image">"No se pudo agregar la imagen."</string> 
   <string name="toast_message_add_image_fail">Fallo al insertar imagen</string>
   <string name="toast_notes_delete_success">Borrado exitosamente</string>
   <string name="toast_notes_hidden">Ocultado con éxito</string>

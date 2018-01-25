@@ -489,7 +489,7 @@ o introduzca la contraseña de Aplicaciones bloqueadas"</string>
   <string name="cancel">Cancelar</string>
   <string name="cancel_button">Cancelar</string>
   <string name="card_main_applock_action">Activar</string>
-  <string name="card_main_applock_summary">Protege las aplicaciones seleccionadas con una contraseña. Ocultar mensajes, fotos, notas y más.</string>
+  <string name="card_main_applock_summary">Protege mensajes, fotos y otros elementos con una contraseña.</string>
   <string name="card_main_applock_title">Bloqueo de aplicaciones</string>
   <string name="card_main_deepclean_action">Limpiar</string>
   <string name="card_main_deepclean_qq_title">Limpiador QQ</string>
@@ -932,6 +932,8 @@ Su operadora podría cargarle costos adicionales si usa la conexión de datos m�
   <string name="lockpattern_too_many_failed_confirmation_attempts_header">Demasiados intentos fallidos</string>
   <string name="lockpattern_tutorial_cancel_label">Cancelar</string>
   <string name="lockpattern_tutorial_continue_label">Siguiente</string>
+  <string name="lockpattern_tutorial_continue_label_confirm">Toca \"OK\"</string>                
+  <string name="lockpattern_tutorial_continue_label_next">Toca \"Siguiente\"</string> 
   <string name="lockscreen_access_pattern_cell_added">Celda añadida</string>
   <string name="lockscreen_access_pattern_cleared">Patrón borrado</string>
   <string name="lockscreen_access_pattern_detected">Patrón completado</string>
@@ -1353,7 +1355,7 @@ Esta actividad acorta la duración de la batería."</string>
   <string name="power_btn_analyze">Analizar el uso de la batería</string>
   <string name="power_cell">Antena activada</string>
   <string name="power_center_auto_shutdown">Programar encendido/apagado</string>
-  <string name="power_center_back">Volver</string>
+  <string name="power_center_back">Volver al uso de la batería</string>
   <string name="power_center_charge_time">%1$s para terminar</string>
   <string name="power_center_ontime_boot">Programar encendido</string>
   <string name="power_center_ontime_shutdown">Programar apagado</string>
@@ -1362,7 +1364,7 @@ Esta actividad acorta la duración de la batería."</string>
   <string name="power_center_state_on">Encendido</string>
   <string name="power_center_time_to_boot">Hora de encendido</string>
   <string name="power_center_time_to_shutdown">Hora de apagado</string>
-  <string name="power_center_title">Gestión de la batería</string>
+  <string name="power_center_title">Uso de la batería</string>
   <string name="power_consume_hardware_total_format">Hardware: %s</string>
   <string name="power_consume_other">Otros</string>
   <string name="power_consume_rank_hardware">Hardware</string>
