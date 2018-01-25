@@ -1,37 +1,23 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
   <string name="abc_action_bar_home_description">Ir a inicio</string>
-   <string name="abc_action_bar_home_description_format">%1$s, %2$s</string>
-   <string name="abc_action_bar_home_subtitle_description_format">%1$s, %2$s, %3$s</string>
-   <string name="abc_action_bar_up_description">Ir arriba</string>
-   <string name="abc_action_menu_overflow_description">Más opciones</string>
-   <string name="abc_action_mode_done">Hecho</string>
-   <string name="abc_activity_chooser_view_see_all">Ver todo</string>
-   <string name="abc_activitychooserview_choose_application">Seleccione una aplicación</string>
-   <string name="abc_capital_off">Apagado</string>
-   <string name="abc_capital_on">Encendido</string>
-   <string name="abc_font_family_body_1_material">sans-serif</string>
-   <string name="abc_font_family_body_2_material">sans-serif-medium</string>
-   <string name="abc_font_family_button_material">sans-serif-medium</string>
-   <string name="abc_font_family_caption_material">sans-serif</string>
-   <string name="abc_font_family_display_1_material">sans-serif</string>
-   <string name="abc_font_family_display_2_material">sans-serif</string>
-   <string name="abc_font_family_display_3_material">sans-serif</string>
-   <string name="abc_font_family_display_4_material">sans-serif-light</string>
-   <string name="abc_font_family_headline_material">sans-serif</string>
-   <string name="abc_font_family_menu_material">sans-serif</string>
-   <string name="abc_font_family_subhead_material">sans-serif</string>
-   <string name="abc_font_family_title_material">sans-serif-medium</string>
-   <string name="abc_search_hint">Buscar…</string>
-   <string name="abc_searchview_description_clear">Clear query</string>
-   <string name="abc_searchview_description_query">Search query</string>
-   <string name="abc_searchview_description_search">Buscar</string>
-   <string name="abc_searchview_description_submit">Submit query</string>
-   <string name="abc_searchview_description_voice">Búsqueda por voz</string>
-   <string name="abc_shareactionprovider_share_with">Compartir con</string>
-   <string name="abc_shareactionprovider_share_with_application">Compartir con %s</string>
-   <string name="abc_toolbar_collapse_description">Collapse</string>
-   <string name="about">Sobre Mi Music</string>
+  <string name="abc_action_bar_up_description">Ir arriba</string>
+  <string name="abc_action_menu_overflow_description">Más opciones</string>
+  <string name="abc_action_mode_done">Aceptar</string>
+  <string name="abc_activity_chooser_view_see_all">Ver todo</string>
+  <string name="abc_activitychooserview_choose_application">Seleccione una aplicación</string>
+  <string name="abc_capital_off">Apagado</string>
+  <string name="abc_capital_on">Encendido</string>
+  <string name="abc_search_hint">Buscar…</string>
+  <string name="abc_searchview_description_clear">Limpiar consulta</string>
+  <string name="abc_searchview_description_query">Buscar consulta</string>
+  <string name="abc_searchview_description_search">Buscar</string>
+  <string name="abc_searchview_description_submit">Enviar consulta</string>
+  <string name="abc_searchview_description_voice">Búsqueda por voz</string>
+  <string name="abc_shareactionprovider_share_with">Compartir con</string>
+  <string name="abc_shareactionprovider_share_with_application">Compartir con %s</string>
+  <string name="abc_toolbar_collapse_description">Collapse</string>
+  <string name="about">Sobre Música Mi</string>
   <string name="account">Cuenta</string>
   <string name="account_and_cloud">Cuenta</string>
   <string name="action_item_add">Añadir</string>
@@ -165,8 +151,7 @@
   <string name="cloud_state_network_unavailable">"No se pudo conectar con la red, copia de seguridad detenida"</string>
   <string name="cloud_state_storage_full">No hay suficiente almacenamiento en el teléfono, copia de seguridad detenida</string>
   <string name="cloud_welcome_message">Copiar canciones</string>
-  <string name="cloud_welcome_summary">Copia tus canciones a Mi Cloud y escuchalas en otros dispositivos</string> 
-  <string name="com.crashlytics.android.build_id">afb00946-103d-4c8a-8c23-561184ed04e0</string>
+  <string name="cloud_welcome_summary">Copia tus canciones a Mi nube y escuchalas en otros dispositivos</string> 
   <string name="com_facebook_device_auth_instructions">Visita &lt;b&gt;facebook.com/device&lt;/b&gt; e introduce el código que aparece arriba.</string>
   <string name="com_facebook_image_download_unknown_error">Error inesperado al descargar una imagen.</string>
   <string name="com_facebook_internet_permission_error_message">WebView login requiere permiso de INTERNET</string>
@@ -185,13 +170,10 @@
   <string name="com_facebook_send_button_text">Enviar</string>
   <string name="com_facebook_share_button_text">Compartir</string>
   <string name="com_facebook_smart_device_instructions">Para conectar su cuenta, abre la aplicación de Facebook en tu smartphone y revisa las notificaciones.</string>
-  <string name="com_facebook_smart_device_instructions_or">- O -</string>
   <string name="com_facebook_smart_login_confirmation_cancel">¿No eres tú?</string>
   <string name="com_facebook_smart_login_confirmation_continue_as">Continuar como %1$s</string>
   <string name="com_facebook_smart_login_confirmation_title">Confirmar inicio de sesión</string>
   <string name="com_facebook_tooltip_default">"Tú tienes el control - selecciona que información quieres compartir con otras aplicaciones."</string> 
-  <string name="comment_format" formatted="false">%s: %s</string>
-  
   <string name="common_google_play_services_enable_button">Activar</string>
   <string name="common_google_play_services_enable_text">"%1$s no funcionará hasta que habilite los servicios de Google Play."</string>
   <string name="common_google_play_services_enable_title">Activar servicios de Google Play</string>
@@ -210,13 +192,10 @@
   <string name="common_open_on_phone">Open on phone</string>
   <string name="common_signin_button_text">Iniciar sesión</string>
   <string name="common_signin_button_text_long">Iniciar sesión con Google</string>
- 
- 
   <string name="confirm">Aceptar</string>
   <string name="confirm_download">Descargar</string>
   <string name="confirm_to_renew">Renovar</string>
   <string name="continue_backup">Continuar</string>
-  <string name="count_format">%2$1.1fK</string>
   <string name="cp_info_first">"Servicio de música en línea
 es proporcionado principalmente por Ultimate Inc."</string>
   <string name="create_order_fail">"Fallo al crear la orden, inténtelo de nuevo."</string>
@@ -227,7 +206,6 @@ es proporcionado principalmente por Ultimate Inc."</string>
   <string name="data_usage_warning">Uso de datos</string>
   <string name="data_usage_warning_summary">Usar la conexión de datos móviles para escuchar música en streaming en alta calidad puede aumentar los cargos por uso de datos.</string>
   <string name="date_format_str">dd-MM-yyyy</string>
-  <string name="default_web_client_id">948829309969-vb4502m250c1iu8aqblkhmhrei9o83ib.apps.googleusercontent.com</string>
   <string name="delete">Borrar</string>
   <string name="delete_download">Eliminar</string>
   <string name="delete_downloads_records">Eliminar descargas</string>
@@ -412,7 +390,6 @@ es proporcionado principalmente por Ultimate Inc."</string>
   <string name="error_unauthorized">La sincronización se ha desactivado debido a demasiados intentos de inicio de sesión.</string>
   <string name="expired">Expirado</string>
   <string name="expires">Expira este mes:</string>
-  <string name="facebook_app_id">1310336955745219</string>
   <string name="fail_to_fetch_payment_page_url">"No se pudo obtener la información de pago"</string>
   <string name="fail_to_play">No se puede reproducir la canción</string>
   <string name="fav_login_msg">Inicie sesión en su cuenta Mi para descargar canciones</string>
@@ -441,7 +418,6 @@ es proporcionado principalmente por Ultimate Inc."</string>
   <string name="filter_by_size_prefix">"Ocultar archivos más pequeños que "</string>
   <string name="filter_by_size_summary">Ocultar archivos de audio pequeños</string>
   <string name="find_music">Descubrir canciones</string>
-  <string name="firebase_database_url">https://mi-music-global.firebaseio.com</string>
   <string name="follow">Seguir</string>
   <string name="followed">Siguiendo</string>
   <string name="font_family">miui</string>
@@ -457,7 +433,6 @@ es proporcionado principalmente por Ultimate Inc."</string>
   <string name="fragment_title_personal">Personal</string>
   <string name="fragment_title_recommend">Recomendados</string>
   <string name="garbage_cleanup">Limpiador</string>
-  <string name="gcm_defaultSenderId">948829309969</string>
   <string name="global_search_app_name">Música</string>
   <string name="global_search_description_entry">Disfruta la música</string>
   <string name="global_search_description_hot">Actualizar semanalmente</string>
@@ -487,10 +462,6 @@ es proporcionado principalmente por Ultimate Inc."</string>
   <string name="global_search_title_prenatal">Música prenatal</string>
   <string name="global_search_title_radar">Reconocimiento de música</string>
   <string name="go_to_settings">Ir a ajustes</string>
-  <string name="google_api_key">AIzaSyDtXevw-xV0_qPieue5APFY-mRmbt3lU8w</string>
-  <string name="google_app_id">1:948829309969:android:408e9565fb2b9648</string>
-  <string name="google_crash_reporting_api_key">AIzaSyDtXevw-xV0_qPieue5APFY-mRmbt3lU8w</string>
-  <string name="google_storage_bucket">mi-music-global.appspot.com</string>
   <string name="group_artist">Bandas</string>
   <string name="handle_later">No ahora</string>
   <string name="higher_quality_music">Música de alta calidad</string>
@@ -664,7 +635,6 @@ es proporcionado principalmente por Ultimate Inc."</string>
   <string name="notif_text_engine_on">Acelerando</string>
   <string name="notif_title_file_size">%1$d total</string>
   <string name="notif_title_multiple_downloading">Descargando %1$d archivos</string>
-  <string name="notif_title_multiple_downloading">"Descargando %1$d archivos"</string>
   <string name="notif_title_single_downloading">Descargando %1$s</string>
   <string name="notification_des_next_song">Siguiente: %s</string>
   <string name="notification_des_no_song">Mi Music. Novedades cada día.</string>
