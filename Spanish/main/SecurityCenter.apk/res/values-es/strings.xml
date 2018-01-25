@@ -830,7 +830,7 @@ Se agregará a las excepciones, pero los elementos bloqueados anteriormente no a
   <string name="hints_risk_name_title">Riesgo:</string>
   <string name="hints_scan_danger_result">riesgo encontrado, reparar ahora</string>
   <string name="hints_scan_result_no_finish">La escaneado no ha finalizado. Haga clic para reiniciar.</string>
-  <string name="hints_scan_result_phone_safe">Todo se ve bien</string>
+  <string name="hints_scan_result_phone_safe">Todo está bien</string>
   <string name="hints_scan_result_safe">Seguros</string>
   <string name="hints_scanning">Escaneando…</string>
   <string name="hints_scanning_text">Escaneando…</string>
@@ -1030,7 +1030,7 @@ responda</string>
   <string name="memory_clean_cleaning_title">Borrando cache</string>
   <string name="memory_clean_click_tip">Mejorar velocidad</string>
   <string name="memory_clean_memory_size_tip">Cache</string>
-  <string name="memory_clean_no_need_clean">Parece que todo está bien</string>
+  <string name="memory_clean_no_need_clean">Todo está bien</string>
   <string name="memory_clean_no_running_process">No hay tareas que borrar</string>
   <string name="memory_clean_running_process_title">Monitorizando aplicaciones (%d)</string>
   <string name="memory_cleaned_memory_info">Memoria disponible</string>
@@ -1503,7 +1503,7 @@ Mientras se calibra, MIUI le enviará un mensaje de texto a su operadora para re
   <string name="quick_optimize_no_fix_issue_subtitle">No se pudo prolongar la duración de la batería</string>
   <string name="quick_optimize_no_fix_issue_title">No se pudieron solucionar los problemas con la batería</string>
   <string name="quick_optimize_no_issue">No hay problemas con la batería</string>
-  <string name="quick_optimize_no_issue_subtitle">Todo parece estar bien</string>
+  <string name="quick_optimize_no_issue_subtitle">Todo esá bien</string>
   <string name="quick_optimize_no_issue_title">No se encontraron problemas con la batería</string>
   <string name="quick_optimize_sub_summary_text">Añadido %s a la vida de la batería</string>
   <string name="quick_optimize_suggest_battery_consume_too_fast">El teléfono está drenando la batería, solucionarlo</string>
