@@ -295,8 +295,6 @@ y luego crea una toma donde todos se vean mejor."</string>
   <string name="pref_camera_portrait_mode_entry_on">El modo de retrato está activado</string>
   <string name="pref_camera_portrait_mode_title">Modo retrato</string>
   <string name="pref_camera_portrait_with_facebeauty_title">Embellecimiento en modo Retrato</string>
-  <string name="pref_camera_proximity_lock_summary">Bloquear gestos táctiles cuando se coloca en un bolsillo</string>
-  <string name="pref_camera_proximity_lock_title">Modo de bolsillo</string>
   <string name="pref_camera_recordlocation_entry_off">Apagado</string>
   <string name="pref_camera_recordlocation_entry_on">Encendido</string>
   <string name="pref_camera_recordlocation_title">Guardar localización</string>
@@ -478,7 +476,7 @@ y luego crea una toma donde todos se vean mejor."</string>
   <string name="user_notice_identify_summary_format">"Al usar este servicio, aceptas los %1$s y %2$s de Xiaomi."</string>
   <string name="user_notice_title">Términos y Condiciones</string>
   <string name="video_camera_label">Videocámara</string>
-  <string name="video_effect_entry_blackwhite"B y N</string>
+  <string name="video_effect_entry_blackwhite">B y N</string>
   <string name="video_effect_entry_film">Película</string>
   <string name="video_effect_entry_forest">Arboleda</string>
   <string name="video_effect_entry_holiday">Reflexiones</string>
