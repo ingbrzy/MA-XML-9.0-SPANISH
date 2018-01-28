@@ -13,6 +13,7 @@
   <string name="clear_records">Borrar grabaciones sincronizadas</string>
   <string name="cloud_record_open">Sincronizar grabaciones</string>
   <string name="cloud_record_tip">Sincronizar grabaciones con Mi Cloud.</string>
+  <string name="cloud_service_state_open_reminder">Activa la sincronización con Mi Cloud para sincronizar los archivos de grabación.</string>
   <string name="cloud_status_full_dialog_cancel">Ahora no</string>
   <string name="cloud_status_full_dialog_msg">Su almacenamiento en la nube está completo, no puede sincronizar grabaciones. Actualice su cuenta para conseguir más espacio.</string>
   <string name="cloud_status_full_dialog_ok">Actualizar</string>
