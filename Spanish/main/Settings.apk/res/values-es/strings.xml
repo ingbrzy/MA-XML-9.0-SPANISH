@@ -2715,6 +2715,10 @@ Seleccione su sistema operativo:"</string>
   <string name="nfc_quick_toggle_title">NFC</string>
   <string name="nfc_se_route_title">Posición de elemento seguro</string>
   <string name="nfc_se_wallet_title">Cartera predeterminada</string>
+  <string name="night_light">Luz nocturna</string>
+  <string name="night_light_brightness">Brillo de luz nocturna</string>
+  <string name="night_light_color">Color de luz nocturna</string>
+  <string name="night_light_summary">Minimice la retroiluminación en entornos con poca luz para ingresar al modo de luz nocturna</string>
   <string name="night_mode_auto">Automático</string>
   <string name="night_mode_no">Claro</string>
   <string name="night_mode_title">Tema</string>
@@ -2934,6 +2938,7 @@ Esto también dará a la aplicación la capacidad de activar y desactivar No Mol
   <string name="paper_mode_get_location_dlg_negative_btn_text">Cancelar</string>
   <string name="paper_mode_get_location_dlg_positive_btn_text">Ir a Ajustes</string>
   <string name="paper_mode_get_location_dlg_title">Escoger localización</string>
+  <string name="paper_mode_side_effect_hint">Una mayor intensidad puede afectar la forma en que se muestra el contenido.</string>
   <string name="paper_mode_start_time_title">Activar</string>
   <string name="passpoint_content">Credenciales de %1$s</string>
   <string name="passpoint_label">Guardada a través de</string>
