@@ -1,5 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <resources>
+  <string name="abrupt_weather_settings_summary_type_a">Interruptor de advertencia meteorológica inusual</string>
+  <string name="abrupt_weather_settings_summary_type_b">Interruptor de advertencia meteorológica inusual</string>
+  <string name="abrupt_weather_settings_title">Advertencia meteorológica inusual</string>
   <string name="act_find_city_hint">Introduzca la ubicación</string>
   <string name="act_find_city_hot_attractions_title">Sitios populares</string>
   <string name="act_find_city_hot_city_title">Ciudades populares</string>
@@ -87,6 +90,9 @@
   <string name="content_desc_activity_main_add_city">Añadir ciudad</string>
   <string name="content_desc_activity_main_add_city_manage">Gestionar ciudades</string>
   <string name="content_desc_activity_main_more_settings">Más ajustes</string>
+  <string name="content_desc_back_button">Atras</string>
+  <string name="content_desc_close_button">Cerrar</string>
+  <string name="content_desc_edit_city_manage">Administrar ciudades</string>
   <string name="daily_forcast_drawer_on_bottom">Ocultar</string>
   <string name="daily_forcast_no_stable_direction">Brisa</string>
   <string name="daily_forcast_temperature_transfer">%1$s° / %2$s°</string>
@@ -156,8 +162,8 @@ Toque la pantalla para añadir o reposicionar manualmente la ciudad</string>
   <string name="location_tag">Localizar</string>
   <string name="menu_add_city">Añadir o borrar la ciudad</string>
   <string name="menu_location">Ubicaciones</string>
-  <string name="menu_minute_rain">Previsión de dos horas de precipitación</string>
   <string name="menu_speeker">Difusión de voz</string>
+  <string name="minute_rain">Previsión minuciosa</string>
   <string name="minute_rain_after_an_hour">En 1 hora</string>
   <string name="minute_rain_after_two_hour">En 2 horas</string>
   <string name="minute_rain_feedback_subtitle">Díganos cómo es el tiempo.</string>
@@ -169,6 +175,7 @@ Toque la pantalla para añadir o reposicionar manualmente la ciudad</string>
   <string name="minute_rain_progress_indicator_original_time">- -</string>
   <string name="minute_rain_pull_down_refresh">Deslice hacia abajo para actualizar</string>
   <string name="minute_rain_refreshing_now">Refrescando…</string>
+  <string name="missing_required_permission">Ha inhabilitado un permiso requerido.</string>
   <string name="more_details">Más detalles</string>
   <string name="network_not_available">No se puede conectar a la red.</string>
   <string name="network_unavailable">No se puede conectar a la red.</string>

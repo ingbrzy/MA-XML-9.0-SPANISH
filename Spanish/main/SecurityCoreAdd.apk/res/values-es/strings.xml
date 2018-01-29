@@ -271,7 +271,7 @@ al Segundo espacio desde la Pantalla de bloqueo"</string>
   
 Algunas aplicaciones dobles requieren el soporte de Google Services Framework. En estos casos, se crea el marco de servicios de Google dual."</string>
   <string name="xspace_guide_des">Usar 2 cuentas sin cambiar</string>
-  <string name="xspace_guide_title">Crear una aplicación Dual para %s</string>
+  <string name="xspace_guide_title">Crea una aplicación duplicada</string>
   <string name="xspace_header">Aplicaciones duplicadas</string>
   <string name="xspace_install_completed">Icono añadido a la Pantalla de inicio</string>
   <string name="xspace_install_failed">No se pudo crear</string>
