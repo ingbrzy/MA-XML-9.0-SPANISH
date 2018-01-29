@@ -5,11 +5,9 @@
   <string name="alert_message_delete_record_title">¿Borrar grabación?</string>
   <string name="app_name">Grabadora</string>
   <string name="back">Atrás</string>
-  <string name="btn_clear_records">Borrar grabaciones (%d elementos)</string>
   <string name="button_queue_for_wifi">Esperar</string>
   <string name="button_start_now">Descargar</string>
   <string name="call_record">Llamadas grabadas</string>
-  <string name="choose_call_records_count">%d elementos</string>
   <string name="clear_records">Borrar grabaciones sincronizadas</string>
   <string name="cloud_record_open">Sincronizar grabaciones</string>
   <string name="cloud_record_tip">Sincronizar grabaciones con Mi Cloud.</string>
@@ -63,7 +61,6 @@
   <string name="notification_recording_ticker">Teléfono silenciado</string>
   <string name="notification_stopped">Grabación detenida</string>
   <string name="notification_title_all_paused">Descarga pausada</string>
-  <string name="notification_warning">Queda poco almacenamiento libre (menos de %d minutos)</string>
   <string name="path_soundrecorder_setting">Aplicaciones del sistema/Grabadora</string>
   <string name="pause">Pausar</string>
   <string name="playback_delete_records">Eliminar la grabación</string>
