@@ -1112,6 +1112,8 @@ responda</string>
   <string name="network_blocked_connected_open_wifi">Conectado a la red pública</string>
   <string name="network_blocked_notification_summary">Comprobar la red</string>
   <string name="network_blocked_switch_wifi">Cambiar redes</string>
+  <string name="network_changed_noti_summary">Usando datos móviles</string>
+  <string name="network_changed_noti_title">Desconectado de Wi-Fi</string>
   <string name="network_connected_exception_title">Comprobar la red</string>
   <string name="network_control">Ver ajustes de aplicaciones</string>
   <string name="network_diagnostics">Comprobar la red</string>
