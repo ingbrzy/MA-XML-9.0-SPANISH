@@ -33,6 +33,8 @@
   <string name="miui_terms_no_network">No tienes conexión a internet. Ver los Términos de Servicio en %s.</string>
   <string name="multisim_settings_category">Ajustes de la SIM</string>
   <string name="multisim_settings_title">Se han detectado 2 tarjetas SIM</string>
+  <string name="navigation_picker_radio_text_full_screen">Gestos en pantalla completa</string>
+  <string name="navigation_picker_radio_text_virtual_key">Botones</string>
   <string name="next">Siguiente</string>
   <string name="next_fingerprint">Siguiente</string>
   <string name="other_settings">Ajustes adicionales</string>
