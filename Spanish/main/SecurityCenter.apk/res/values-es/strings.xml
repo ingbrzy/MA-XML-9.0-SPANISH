@@ -489,7 +489,7 @@ o introduzca la contraseña de Aplicaciones bloqueadas"</string>
   <string name="cancel">Cancelar</string>
   <string name="cancel_button">Cancelar</string>
   <string name="card_main_applock_action">Activar</string>
-  <string name="card_main_applock_summary">Protege mensajes, fotos y otros elementos con una contraseña.</string>
+  <string name="card_main_applock_summary">Protege las aplicaciones seleccionadas con una contraseña.</string>
   <string name="card_main_applock_title">Bloqueo de aplicaciones</string>
   <string name="card_main_deepclean_action">Limpiar</string>
   <string name="card_main_deepclean_qq_title">Limpiador QQ</string>
