@@ -464,6 +464,17 @@
   <string name="family_member_invitation_text">Otros miembros de la familia</string>
   <string name="fast_share_auto_render">Modo belleza</string>
   <string name="fast_share_auto_render_finish">Embellecido</string>
+  <string name="filter_bi_memory">Recuerdo</string>
+  <string name="filter_bi_mono">Mono</string>
+  <string name="filter_bi_pink">Rosado</string>
+  <string name="filter_bi_portrait">Retrato</string>
+  <string name="filter_bi_retro">Retro</string>
+  <string name="filter_bi_romantic">Romántico</string>
+  <string name="filter_bi_strong">Fuerte</string>
+  <string name="filter_bi_sunny">Soleado</string>
+  <string name="filter_bi_sweet">Dulce</string>
+  <string name="filter_bi_warm">Caliente</string>
+  <string name="filter_bi_young">Joven</string>
   <string name="filllight">Luz de relleno</string>
   <string name="filter_category_film">Película</string>
   <string name="filter_category_food">Comida</string>
@@ -615,6 +626,14 @@
   <string name="main_discard_negative_btn">Descartar</string>
   <string name="main_discard_positive_btn">Guardar y Salir</string>
   <string name="main_save_error_msg">No se pudieron guardar los cambios debido a un error</string>
+  <string name="mark_myself_default_name">Yo</string>
+  <string name="mark_myself_suggestion_load_more">"Ese no soy yo"</string>
+  <string name="mark_myself_suggestion_title">"Selecciona fotos con su cara
+para personalizar la Galería"</string>
+  <string name="mark_operation_failed">"No se pudo agregar"</string>
+  <string name="mark_operation_processing">Procesando…</string>
+  <string name="mark_operation_succeeded">Agregado exitosamente</string>
+  <string name="mark_people_ignore_info_message">Mantenga presionadas las fotos de las personas para agregarlas a los grupos</string>
   <string name="megabyteShort">MB</string>
   <string name="menu_album_new_album">Nuevo álbum</string>
   <string name="menu_item_sort_date">Fecha</string>
