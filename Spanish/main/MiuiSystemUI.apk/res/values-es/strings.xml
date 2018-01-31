@@ -258,7 +258,7 @@ Puede que tu operador te cobre por volver a activar datos."</string>
   <string name="ext_media_badremoval_notification_title">Almacenamiento USB retirado de forma no esperada</string>
   <string name="ext_media_checking_notification_message">Comprobando errores.</string>
   <string name="ext_media_checking_notification_title">Preparando almacenamiento USB</string>
-  <string name="ext_media_mountable_notification_message">Pulsa para abrir en el explorador.</string>
+  <string name="ext_media_mountable_notification_message">Toca para abrir en administrador de archivos Mi.</string>
   <string name="ext_media_mountable_notification_title">Almacenamiento USB conectado</string>
   <string name="ext_media_nofs_notification_message">El almacenamiento USB tiene un sistema de archivos no compatible.</string>
   <string name="ext_media_nofs_notification_title">Almacenamiento USB vacío</string>
@@ -395,7 +395,7 @@ Puede que tu operador te cobre por volver a activar datos."</string>
   <string name="overlay_display_devices_title">Simular pantallas secundarias</string>
   <string name="picture_color_mode">Modo de color de imagen</string>
   <string name="picture_color_mode_desc">Utilizar sRGB</string>
-  <string name="please_slide_agian">Por favor deslice de nuevo</string>
+  <string name="please_slide_agian">Deslizar de nuevo</string>
   <string name="pointer_location">Posición del puntero</string>
   <string name="pointer_location_summary">Superposición de pantalla que muestra los datos de toque actuales</string>
   <string name="power_charging_duration">%1$s - %2$s hasta que se llene</string>
