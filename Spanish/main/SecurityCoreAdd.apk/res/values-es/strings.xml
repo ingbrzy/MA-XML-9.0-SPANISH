@@ -68,6 +68,7 @@ para poder verlos en cualquier momento"</string>
   <string name="delete_src_photo">Eliminar fotos</string>
   <string name="dir_switch_out_all_photos">Galería del Segundo espacio</string>
   <string name="disable">Apagar</string>
+  <string name="do_not_ask">"No volver a preguntar"</string>
   <string name="dont_import">Ahora no</string>
   <string name="downloading_space">Descargando…</string>
   <string name="enable">Activar</string>
@@ -89,6 +90,9 @@ para poder verlos en cualquier momento"</string>
   <string name="finger_print_of_use">Use la huella dactilar</string>
   <string name="fingerprint_removal_failed">No se pudo borrar la huella dactilar</string>
   <string name="function_not_support">No admitido en este dispositivo</string>
+  <string name="gms_message">Crear aplicaciones dobles requiere trabajar con los servicios de Google. ¿Crear una aplicación doble para los servicios de Google?</string>
+  <string name="gms_open_button">Activar</string>
+  <string name="gms_title">Activar los servicios de Google</string>
   <string name="goToSecondSpacce">Ir al Segundo espacio</string>
   <string name="go_on_import">Mantener la importación</string>
   <string name="guide_contact_sub_title_desc">"Los contactos añadidos al Segundo espacio se mantendrán privados.
