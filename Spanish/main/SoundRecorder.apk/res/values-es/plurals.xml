@@ -17,8 +17,8 @@
         <item quantity="one">%d no sincronizada</item>
     </plurals>
     <plurals name="btn_clear_records">
-        <item quantity="other">Eliminar grabaciones (%d elementos)</item>
-        <item quantity="one">Eliminar grabación (%d elemento)</item>
+        <item quantity="other">Eliminar %d grabaciones</item>
+        <item quantity="one">Eliminar %d grabación</item>
     </plurals>
     <plurals name="choose_call_records_count">
         <item quantity="other">%d elementos</item>

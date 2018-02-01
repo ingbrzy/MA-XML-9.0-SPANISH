@@ -1086,7 +1086,7 @@ responda</string>
   <string name="menu_text_power_percent_title">Batería %s</string>
   <string name="menu_text_power_percent_title_default">Batería</string>
   <string name="menu_wh_remove">Eliminar de excepciones</string>
-  <string name="menu_white">Excepto</string>
+  <string name="menu_white">Agregar a excepciones</string>
   <string name="mi_service_app_detail">Detalles del uso de datos</string>
   <string name="mi_service_traffic_detail">Detalles del Framework</string>
   <string name="mian_page_primary_txt">Roaming en el extranjero</string>
