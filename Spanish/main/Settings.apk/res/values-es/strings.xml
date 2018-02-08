@@ -794,8 +794,8 @@ Las emisiones utilizan señales de Bluetooth de baja energía."</string>
   <string name="breathing_light_freq_summary">Pulsar cuando tenga nuevas notificaciones</string>
   <string name="breathing_light_freq_title">Frecuencia de pulsación del LED</string>
   <string name="brightness">Nivel de brillo</string>
-  <string name="brightness_auto_adjust_off">El brillo de la pantalla permanecerá constante.</string>
-  <string name="brightness_auto_adjust_on">Optimizar el nivel de brillo según la iluminación.</string>
+  <string name="brightness_auto_adjust_off">El brillo de la pantalla se mantendrá constante.</string>
+  <string name="brightness_auto_adjust_on">El brillo de la pantalla se optimizará según la luz ambiental.</string>
   <string name="brightness_summary">Ajustar el brillo de la pantalla</string>
   <string name="brightness_title">Brillo</string>
   <string name="bssid_label">BSSID:</string>
@@ -1682,6 +1682,9 @@ Es posible que algunas aplicaciones no funcionen hasta que los desarrolladores l
   <string name="filter_with_domain_urls_apps">Con URLs de dominio</string>
   <string name="filter_work_apps">Trabajo</string>
   <string name="filter_write_settings_apps">Puede modificar los ajustes del sistema</string>
+  <string name="find_my_device">Encontrar dispositivo</string>
+  <string name="find_my_device_disable">Desactivado</string>
+  <string name="find_my_device_enable">Activado</string>
   <string name="fingerprint_add_max">Puede añadir hasta %d huellas dactilares</string>
   <string name="fingerprint_add_title">Añadir huella dactilar</string>
   <string name="fingerprint_and_password_entrance_title">Bloqueo de pantalla y huella dactilar</string>
@@ -2044,7 +2047,7 @@ Al activar la copia de seguridad automática, los datos del dispositivo y de las
   <string name="launcher_auto_fill_empty_title">Rellenar celdas vacías</string>
   <string name="launcher_title">Pantalla de inicio y Recientes</string>
   <string name="launching_cit">Ejecutando CIT</string>
-  <string name="launching_pho">Enviando información del teléfono, por favor espere.</string>
+  <string name="launching_pho">Enviando información del teléfono…</string>
   <string name="launching_rep">Notificando…</string>
   <string name="layout_size_exhuge">XXL</string>
   <string name="layout_size_exhuge_text">XXL</string>
@@ -2716,10 +2719,10 @@ Seleccione su sistema operativo:"</string>
   <string name="nfc_quick_toggle_title">NFC</string>
   <string name="nfc_se_route_title">Posición de elemento seguro</string>
   <string name="nfc_se_wallet_title">Cartera predeterminada</string>
-  <string name="night_light">Luz nocturna</string>
-  <string name="night_light_brightness">Brillo de luz nocturna</string>
-  <string name="night_light_color">Color de luz nocturna</string>
-  <string name="night_light_summary">Minimice la retroiluminación en entornos con poca luz para ingresar al modo de luz nocturna</string>
+  <string name="night_light">Modo nocturno</string>
+  <string name="night_light_brightness">Brillo de modo nocturno</string>
+  <string name="night_light_color">Color del modo nocturno</string>
+  <string name="night_light_summary">Para activar el modo nocturno, minimice el brillo de la pantalla en condiciones de poca luz.</string>
   <string name="night_mode_auto">Automático</string>
   <string name="night_mode_no">Claro</string>
   <string name="night_mode_title">Tema</string>
@@ -5163,7 +5166,7 @@ Asistente de Wi‑Fi"</string>
   <string name="wifi_hotspot_message">%1$s requiere que inicies sesión para conectarte.</string>
   <string name="wifi_hotspot_title">¿Iniciar sesión para conectar?</string>
   <string name="wifi_in_airplane_mode">Modo avión</string>
-  <string name="wifi_info_reconnect">¡Error de la contraseña, inténtalo de nuevo!</string>
+  <string name="wifi_info_reconnect">"No se pudo conectar, inténtalo de nuevo".</string>
   <string name="wifi_install_credentials">Instalar certificados</string>
   <string name="wifi_ip_address">Dirección IP</string>
   <string name="wifi_ip_address_hint">192.168.1.128</string>
