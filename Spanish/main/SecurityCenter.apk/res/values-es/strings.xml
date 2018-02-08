@@ -19,7 +19,7 @@
   <string name="ac_post_notification_contentText">Obtenga protección al nivel del sistema</string>
   <string name="ac_post_notification_contentTitle">Activar Bloqueo de aplicaciones</string>
   <string name="ac_pre_notification_contentText">Proteja su información personal</string>
-  <string name="ac_pre_notification_contentTitle">Prueba Bloqueo de aplicaciones/string>
+  <string name="ac_pre_notification_contentTitle">Prueba Bloqueo de aplicaciones</string>
   <string name="ac_summaryOff">Apagado, no requiere ninguna contraseña para abrir aplicaciones</string>
   <string name="ac_summaryOn">Encendido, requiere una contraseña para abrir aplicaciones</string>
   <string name="ac_unmask_all_apps">Mostrar para todas las aplicaciones</string>
