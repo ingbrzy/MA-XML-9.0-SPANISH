@@ -20,8 +20,8 @@
   <string name="ac_post_notification_contentTitle">Activar Bloqueo de aplicaciones</string>
   <string name="ac_pre_notification_contentText">Proteja su información personal</string>
   <string name="ac_pre_notification_contentTitle">Prueba Bloqueo de aplicaciones</string>
-  <string name="ac_summaryOff">Apagado, no requiere ninguna contraseña para abrir aplicaciones</string>
-  <string name="ac_summaryOn">Encendido, requiere una contraseña para abrir aplicaciones</string>
+  <string name="ac_summaryOff">Desactivado, no requiere ninguna contraseña para abrir aplicaciones</string>
+  <string name="ac_summaryOn">Activado, requiere una contraseña para abrir aplicaciones</string>
   <string name="ac_unmask_all_apps">Mostrar para todas las aplicaciones</string>
   <string name="access_control_app_is_launching">La aplicación está empezando</string>
   <string name="access_control_failed_need_to_unlock_nofingerprint">Dibuje su patrón de desbloqueo para usar una nueva huella dactilar</string>
