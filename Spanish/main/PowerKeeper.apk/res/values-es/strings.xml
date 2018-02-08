@@ -171,6 +171,7 @@ El economizador de batería tratará de forma selectiva las aplicaciones importa
   <string name="scenario_policies_summary">Ahorro de energía según el escenario</string>
   <string name="scenario_policies_title">Políticas de ahorro de energía de escenario</string>
   <string name="scenario_policies_warmcontrol">Control temperatura</string>
+  <string name="search_result_text">"No se pudo encontrar ninguna aplicación"</string>
   <string name="screen_off">La pantalla está apagada</string>
   <string name="screen_off_10_min">La pantalla está apagada durante más de 10 minutos</string>
   <string name="screen_on">La pantalla está activada</string>

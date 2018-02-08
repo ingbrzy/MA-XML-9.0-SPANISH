@@ -144,11 +144,8 @@ Tire hacia abajo para actualizar o comprobar los ajustes de red"</string>
   <string name="indices_title_sport">Deportes</string>
   <string name="indices_title_uv">Índice UV</string>
   <string name="indices_title_visibility">Visibilidad</string>
-  <string name="information_manager_default_weather_bg">Fondo del tiempo predeterminado</string>
   <string name="information_manager_extension">Extensión del tiempo</string>
-  <string name="information_manager_information">Información meteorológica</string>
-  <string name="information_manager_wlan">Cargar cuando se conecte a Wifi</string>
-  <string name="information_set">Otros ajustes</string>
+  <string name="information_settings_title">Información del tiempo</string>
   <string name="install">Instalar</string>
   <string name="international_detail_menu_title">Detalles</string>
   <string name="international_details_pressure_title">PRESIÓN</string>
@@ -187,6 +184,7 @@ Toque la pantalla para añadir o reposicionar manualmente la ciudad</string>
   <string name="open_browser">Abrir en navegador</string>
   <string name="open_now">Abrir</string>
   <string name="other">Otro</string>
+  <string name="other_settings">Otros ajustes</string>
   <string name="other_warning_settings">Otras alertas</string>
   <string name="particulate_matter_exceeded">Alto</string>
   <string name="particulate_matter_not_exceeded">Normal</string>

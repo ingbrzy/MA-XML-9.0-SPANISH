@@ -83,7 +83,7 @@
   <string name="change_phone_number">Cambiar número de teléfono</string>
   <string name="checking_phone_num_availible">Verificación del teléfono…</string>
   <string name="cloud_service">Mi Cloud</string>
-  <string name="completed">Todo listo</string>
+  <string name="completed">¡Todo listo!</string>
   <string name="confirm_activate_email">Verificado</string>
   <string name="confirm_bundled_phone_dialog_title">Confirmar el número de teléfono asociado</string>
   <string name="confirm_delete_app_message">"Después de borrar esta aplicación, tendrás que verificar tu número de teléfono la próxima vez que entres en tu Cuenta Mi."</string>
@@ -101,8 +101,8 @@
   <string name="current_location_title">Ubicación actual</string>
   <string name="delete_action">Eliminar</string>
   <string name="delete_app">Borrar aplicación</string>
-  <string name="delete_bank_card_message">Su tarjeta bancaria se eliminará por razones de seguridad después de cerrar la sesión</string>
-  <string name="delete_bank_card_title">Eliminando su tarjeta bancaria</string>
+  <string name="delete_bank_card_message">Las tarjetas bancarias Mi Pay y las tarjetas NFC se eliminarán después de cerrar la sesión.</string>
+  <string name="delete_bank_card_title">Atención</string>
   <string name="delete_browser">Borrar navegador</string>
   <string name="delete_device">Borrar dispositivo</string>
   <string name="delete_device_btn">Eliminar</string>
@@ -125,7 +125,6 @@
   <string name="find_device_account_error">Imposible obtener el estado actual debido a un error en la cuenta</string>
   <string name="find_device_activate_account">Activar cuenta</string>
   <string name="find_device_bad_response_error">Se produjo un error en el servidor, espere unos minutos y vuelva a intentarlo</string>
-  <string name="find_device_display_id">Desbloquear número: %s</string>
   <string name="find_device_error_password_not_confirmed">Imposible apagar la función Encontrar dispositivo. Ingrese la contraseña de la Cuenta Mi nuevamente.</string>
   <string name="find_device_error_password_recently_changed">El los últimos tres días se hizo un cambio de contraseña. Por razones de seguridad aún no es posible desactivar la función Encontrar dispositivo.</string>
   <string name="find_device_interrupted">Se interrumpió la acción, espere un minuto o dos y vuelva a intentarlo</string>
@@ -272,6 +271,7 @@ Para activar su cuenta, siga el
   <string name="passport_input_password_hint">Introducir contraseña</string>
   <string name="passport_input_phone_hint">Introduzca el número de teléfono</string>
   <string name="passport_input_vcode_hint">Introduzca el código de verificación</string>
+  <string name="passport_input_voice_captcha_hint">Ingrese el código de verificación de voz</string>
   <string name="passport_license_host_unreachable">No es posible conectarse a la red. Puedes ver esta página desde %s.</string>
   <string name="passport_loading">Cargando…</string>
   <string name="passport_login">Iniciar sesión en una cuenta existente</string>
@@ -376,7 +376,7 @@ Para activar su cuenta, siga el
   <string name="passport_uplink_slot1_reg">Usar SIM 1</string>
   <string name="passport_uplink_slot2_reg">Usar SIM 2</string>
   <string name="passport_use_generated_pwd_message">Asegúrate de recordar la contraseña. Puedes usarla para usar otro tipo de servicios Mi.</string>
-  <string name="passport_use_generated_pwd_title">Recuerde su contraseña</string>
+  <string name="passport_use_generated_pwd_title">¡Recuerde tu contraseña!</string>
   <string name="passport_user_agreement">Acuerdo de Usuario</string>
   <string name="passport_user_agreement_p1">"Acepto los "</string>
   <string name="passport_user_agreement_p2">" Términos de Usuario "</string>
@@ -444,7 +444,8 @@ Para activar su cuenta, siga el
   <string name="sns_access_token_expired_warning">El inicio de sesión caducó. Entra de nuevo para volver a conectar esta cuenta.</string>
   <string name="trusted_browsers">Navegadores de confianza</string>
   <string name="trusted_browsers_prompt">El navegador dejará de ser confiable si borras las cookies.</string>
-  <string name="turn_off_find_device_failed_title">Error al apagar la función Encontrar dispositivo</string>
+  <string name="turn_off_find_device_failed_title">No se puede apagar Buscar dispositivo</string>
+  <string name="turning_off_find_device">Desactivar Buscar dispositivo…</string>
   <string name="unbind_sns_description">Una vez borrada esta cuenta, no podrás usar la información de tu cuenta %s para iniciar sesión en tu Cuenta Mi.</string>
   <string name="unlock_help_notice">"Ayuda:
   Si ha olvidado su contraseña, vaya a id.mi.com para restablecerlo.

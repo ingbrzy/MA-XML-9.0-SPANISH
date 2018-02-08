@@ -1237,6 +1237,9 @@ El próximo período comienza en %2$d días (%3$s)"</string>
   <string name="ussd_dialog_sep">----------</string>
   <string name="vibrate_after_connected_summary">Vibrar cuando contestes</string>
   <string name="vibrate_after_connected_title">Vibrar después conectar</string>
+  <string name="vice_slot_volte_data_switch_prompt">Su dispositivo se conectará a una red de datos móviles utilizando la SIM secundaria durante las llamadas VoLTE en curso. Esto puede generar tarifas de datos adicionales. Póngase en contacto con su operador local para obtener detalles sobre su plan de datos.</string>
+  <string name="vice_slot_volte_data_switch_summary">Durante las llamadas VoLTE, el dispositivo se conectará a una red de datos móviles utilizando la SIM secundaria</string>
+  <string name="vice_slot_volte_data_switch_title">Use datos móviles durante las llamadas VoLTE en la SIM secundaria</string>
   <string name="vibrate_on_ring_title">Vibrar cuando suene</string>
   <string name="vm_change_failed">"No se ha podido cambiar el número del buzón de voz.
 Ponte en contacto con tu operador si el problema persiste."</string>

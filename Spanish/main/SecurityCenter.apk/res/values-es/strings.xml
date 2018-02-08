@@ -14,6 +14,12 @@
   <string name="ac_firstUseApplock_subTitle">Usar herramientas mejoradas de seguridad</string>
   <string name="ac_firstUseApplock_title">Establecer contraseña para proteger sus aplicaciones</string>
   <string name="ac_mask_all_apps">Ocultar para todas las aplicaciones</string>
+  <string name="ac_notification_contentText">Toca para activar</string>
+  <string name="ac_notification_contentTitle">Proteger aplicaciones con el Bloqueo de aplicaciones</string>
+  <string name="ac_post_notification_contentText">Obtenga protección al nivel del sistema</string>
+  <string name="ac_post_notification_contentTitle">Activar Bloqueo de aplicaciones</string>
+  <string name="ac_pre_notification_contentText">Proteja su información personal</string>
+  <string name="ac_pre_notification_contentTitle">Prueba Bloqueo de aplicaciones/string>
   <string name="ac_summaryOff">Apagado, no requiere ninguna contraseña para abrir aplicaciones</string>
   <string name="ac_summaryOn">Encendido, requiere una contraseña para abrir aplicaciones</string>
   <string name="ac_unmask_all_apps">Mostrar para todas las aplicaciones</string>
@@ -1171,12 +1177,10 @@ Intente usar otro cable Ethernet para conectar el router. Si sospecha que hay un
   <string name="notification_battery_consume_abnormal_title">La batería está siendo drenado demasiado rápido</string>
   <string name="notification_exit_power_save_mode">Apagado el ahorro de batería</string>
   <string name="notification_exit_power_save_mode_subtitle">Batería %s cargada.</string>
-  <string name="notification_item">Protege las aplicaciones seleccionadas con el bloqueo de Aplicaciones</string>
   <string name="notification_mask_summary">Ocultar el contenido de la notificación en la pantalla de bloqueo y en el panel de Notificaciones</string>
   <string name="notification_mask_title">Ocultar contenido</string>
   <string name="notification_masked_item">Ocultar notificaciones</string>
   <string name="notification_masked_subtitle">Ocultar notificaciones de aplicaciones protegidas con Bloqueo de aplicaciones</string>
-  <string name="notification_subtitle">Toca para activar</string>
   <string name="notification_summary_cmcc_app_check">Pulsa para ver detalles.</string>
   <string name="notification_sysapp_cracked_text">La versión actual de MIUI ha sido modificada</string>
   <string name="notification_sysapp_cracked_title">Se ha detectado un riesgo en la seguridad</string>
