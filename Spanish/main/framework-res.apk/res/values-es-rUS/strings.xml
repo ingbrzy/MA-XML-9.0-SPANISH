@@ -23,7 +23,6 @@
     <string name="dialog_alert_title">Atención</string>
     <string name="VideoView_error_text_invalid_progressive_playback">No es posible transmitir este video al dispositivo.</string>
     <string name="selectTextMode">Seleccionar texto</string>
-    <string name="status_bar_notification_info_overflow">999+</string>
     <string name="fingerprint_icon_content_description">Ícono de huella digital</string>
     <string name="month_day_year" formatted="false">%-e de %B de %Y</string>
     <string name="time_of_day" formatted="false">%-l:%M:%S %p</string>

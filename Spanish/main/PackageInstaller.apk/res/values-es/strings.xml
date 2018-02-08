@@ -463,7 +463,6 @@ Se guardarán todos los datos de usuario anteriores."</string>
   <string name="show_screen_updates_summary">Iluminar superficies enteras de ventana al actualizarse</string>
   <string name="show_touches_summary">Mostrar la ubicación de las pulsaciones en la pantalla</string>
   <string name="simulate_color_space">Simular espacio de color</string>
-  <string name="status_bar_notification_info_overflow">+999</string>
   <string name="strict_mode">Mode estricto habilitado</string>
   <string name="strict_mode_summary">Parpadear cuando las aplicaciones hacen operaciones largas en el hilo principal</string>
   <string name="system_warning">Si deniegas este permiso, es posible que algunas funciones básicas de tu dispositivo dejen de funcionar correctamente.</string>

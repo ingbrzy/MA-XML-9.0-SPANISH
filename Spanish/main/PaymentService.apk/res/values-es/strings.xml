@@ -30,7 +30,6 @@
   <string name="mibi_button_cancel">Cancel</string>
   <string name="mibi_button_confirm">Confirm</string>
   <string name="mibi_button_count_down_finish">OK(%1$s)</string>
-  <string name="mibi_button_count_down_reget">%1$s</string>
   <string name="mibi_button_custom_service_phone">Got it</string>
   <string name="mibi_button_next">Next</string>
   <string name="mibi_button_pay">Confirm</string>
@@ -38,7 +37,6 @@
   <string name="mibi_button_retry">Retry</string>
   <string name="mibi_cancel">Cancel</string>
   <string name="mibi_change_security_lock">More screen locks</string>
-  <string name="mibi_colon">": "</string>
   <string name="mibi_deduct_goods_name">Product</string>
   <string name="mibi_deduct_open_prompt">%1$s will be able to charge you automatically using %2$s without verification.You can turn this feature off in %1$s</string>
   <string name="mibi_deduct_order_price">Price</string>
@@ -82,7 +80,6 @@ Please check your local date and try again."</string>
   <string name="mibi_error_common_summary">System error. Please try again later.</string>
   <string name="mibi_error_deduct">"Couldn't activate automatic payment protocol"</string>
   <string name="mibi_error_expired_summary">Your order has expired</string>
-  <string name="mibi_error_frozen_service_num">400-100-3399</string>
   <string name="mibi_error_frozen_service_time">Monday to Sunday</string>
   <string name="mibi_error_frozen_summary">"Your account is frozen. 
 Please contact Xiaomi customer service."</string>

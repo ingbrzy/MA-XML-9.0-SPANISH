@@ -732,7 +732,6 @@ es proporcionado principalmente por Ultimate Inc."</string>
   <string name="privacy_notif_content">Toca para ver detalles.</string>
   <string name="privacy_notif_title">Xunlei Acelerador esta encendido</string>
   <string name="privacy_policy">Política de privacidad</string>
-  <string name="privacy_policy_url">http://www.miui.com/res/doc/privacy.html?lang=en</string>
   <string name="privacy_tip_cancel">Cancelar</string>
   <string name="privacy_tip_content">¿Usar acelerador Xunlei para acelerar las descargas? La dirección URL del host de la descarga será subido a los servidores de Xunlei. Los detalles de su Cuenta Mi También serán enviadas para comprobar si tiene suscripciones activas a este servicio.</string>
   <string name="privacy_tip_ok">OK</string>
@@ -887,7 +886,6 @@ es proporcionado principalmente por Ultimate Inc."</string>
   <string name="start_to_play">Reproducir</string>
   <string name="start_to_use">Comience a disfrutar</string>
   <string name="start_update">Actualizar a la última versión de la aplicación Música.</string>
-  <string name="status_bar_notification_info_overflow">999+</string>
   <string name="stop">Detener</string>
   <string name="stop_backup">Detener</string>
   <string name="storage_internal">Almacenamiento interno</string>
@@ -989,7 +987,6 @@ es proporcionado principalmente por Ultimate Inc."</string>
   <string name="upgrade_to">Actualizar a</string>
   <string name="upgrade_waringing">Sólo podrás escuchar la música almacenada en el dispositivo.</string>
   <string name="user_agreement">Acuerdo del Usuario</string>
-  <string name="user_agreement_url">http://www.miui.com/res/doc/eula.html?lang=en</string>
   <string name="valid_period">Válido: %s</string>
   <string name="version_info">Versión</string>
   <string name="vip_after_tomorrow_auto_renew_message">Su suscripción de Música se renovará automáticamente la noche del día después de mañana. Asegúrese de tener suficientes Mi Credits en su cuenta para completar este pago.</string>

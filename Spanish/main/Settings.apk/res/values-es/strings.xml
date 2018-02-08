@@ -4115,7 +4115,6 @@ Esto es posible por una credencial de confianza instalada en tu dispositivo."</s
   <string name="status_bar_app_enable_keyguard">Pantalla de bloqueo</string>
   <string name="status_bar_app_enable_message">Insignias</string>
   <string name="status_bar_key_position_custom">Posición del botón personalizada</string>
-  <string name="status_bar_notification_info_overflow">999+</string>
   <string name="status_bar_screen_button_desc">Deslizar hacia abajo para ocultar botones en pantalla</string>
   <string name="status_bar_screen_button_key">Botones en pantalla</string>
   <string name="status_bar_screen_button_key_can_hide">Botones en pantalla pueden ocultarse</string>

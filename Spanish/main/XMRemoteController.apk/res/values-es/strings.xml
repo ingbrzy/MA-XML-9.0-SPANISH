@@ -979,7 +979,6 @@ link enviado a su correo electrónico.</string>
   <string name="start_auto_tune">Sintonizar automáticamente al encender</string>
   <string name="start_diagnosis">Probar</string>
   <string name="start_match">Emparejar</string>
-  <string name="status_bar_notification_info_overflow">999+</string>
   <string name="stb">Decodificador</string>
   <string name="stb_power">Encender/Apagar Decodificador</string>
   <string name="steps">Intento #%d</string>
