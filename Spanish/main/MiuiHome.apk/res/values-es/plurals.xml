@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <plurals name="announce_for_drag">
-         <item quantity="other">arrastrando %1$d elementos</item>     
-         <item quantity="one">arrastrando %1$d elemento</item>
+         <item quantity="other">Arrastrando %1$d elementos</item>     
+         <item quantity="one">Arrastrando %1$d elemento</item>
     </plurals>
     <plurals name="editing_mode_title">
         <item quantity="other">%1$d selecionado</item>
