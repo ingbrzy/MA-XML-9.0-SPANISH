@@ -29,6 +29,7 @@
   <string name="button_normal_video_title">Grabar video</string>
   <string name="camera_disabled">La cámara ha sido desactivada</string>
   <string name="camera_error_title">Error de cámara</string>
+  <string name="camera_facedetection_sub_option_hint">Característica experimental</string>
   <string name="camera_label">Cámara</string>
   <string name="camera_mode_options">Modos</string>
   <string name="camera_setting">Cámara</string>
@@ -37,7 +38,7 @@
   <string name="camera_snap_mode_title_detail">Toca para ver detalles</string>
   <string name="cannot_connect_camera_once">No se puede acceder a la cámara</string>
   <string name="cannot_connect_camera_twice">Todavía no se puede acceder a la cámara. Pruebe a reiniciar el teléfono.</string>
-  <string name="cannot_connect_camera_volte_call">Una videollamada está en curso, inténtalo más tarde.</string>
+  <string name="cannot_connect_camera_volte_call">La videollamada está en progreso, intente de nuevo más tarde.</string>
   <string name="cannot_move_warning_message">Fotografía en proceso, no mueva el dispositivo</string>
   <string name="color_effect_entry_berry">Bayas</string>
   <string name="color_effect_entry_blackwhite">B y N</string>
@@ -122,7 +123,7 @@ y luego creará una escena en la que todo el mundo se verá mejor".</string>
   <string name="hibernate_hint">Toque la pantalla para despertar la Cámara</string>
   <string name="hine_hht">"En condiciones de poca luz, la cámara tomará múltiples fotos
 y luego crea una toma con una cantidad mínima de ruido."</string>
-  <string name="hint_device_water_mark">La marca de agua del dispositivo se agregará automáticamente.</string>
+  <string name="hint_device_water_mark">La marca de agua de las fotos se agregará automáticamente.</string>
   <string name="hint_fast_motion">El video que dispare se reproducirá más rápido.</string>
   <string name="hint_groupshot">"La cámara tomará varias fotos
 y luego crea una toma donde todos se vean mejor."</string>
@@ -145,8 +146,8 @@ y luego crea una toma donde todos se vean mejor."</string>
   <string name="object_track_enable_toast">Para seleccionar un objeto, toque simultáneamente dos puntos diagonales alrededor de su borde.</string>
   <string name="pano_file_name_format">"'PANO'_ddMMyyyy_HHmmss"</string>
   <string name="pano_how_to_use_prompt_align_reference_line">Alinear la flecha con la línea de referencia</string>
-  <string name="pano_how_to_use_prompt_go_on_moving">Sigue…</string>
-  <string name="pano_how_to_use_prompt_slow_down">Por favor más despacio</string>
+  <string name="pano_how_to_use_prompt_go_on_moving">Sigue adelante…</string>
+  <string name="pano_how_to_use_prompt_slow_down">Ralentizar…</string>
   <string name="pano_how_to_use_prompt_start">Toque la flecha para cambiar de dirección y comenzar la panorámica lentamente.</string>
   <string name="pano_how_to_use_prompt_to_move">Comience lentamente la panorámica</string>
   <string name="path_settings">Aplicaciones del sistema/Cámara/Ajustes</string>
@@ -216,7 +217,7 @@ y luego crea una toma donde todos se vean mejor."</string>
   <string name="pref_camera_delay_capture_entry_5s">5s de retraso</string>
   <string name="pref_camera_delay_capture_entry_audio">Audio</string>
   <string name="pref_camera_delay_capture_title">Temporizador</string>
-  <string name="pref_camera_device_watermark_title">Marca de agua del dispositivo</string>
+  <string name="pref_camera_device_watermark_title">Marca de agua de las fotos</string>
   <string name="pref_camera_exposuretime_entry_0.5">2s</string>
   <string name="pref_camera_exposuretime_entry_1">1s</string>
   <string name="pref_camera_exposuretime_entry_1000">1/1000s</string>
@@ -234,6 +235,7 @@ y luego crea una toma donde todos se vean mejor."</string>
   <string name="pref_camera_exposuretime_entry_8s">8s</string>
   <string name="pref_camera_exposuretime_entry_auto">Automático</string>
   <string name="pref_camera_face_info_watermark_title">Añadir marca de la edad en las fotos</string>
+  <string name="pref_camera_facedetection_auto_hidden_title">Ocultar el cuadro de detección de rostros automáticamente</string>
   <string name="pref_camera_facedetection_title">Detección facial</string>
   <string name="pref_camera_flashmode_entry_auto">Automático</string>
   <string name="pref_camera_flashmode_entry_off">Apagado</string>
@@ -385,7 +387,7 @@ y luego crea una toma donde todos se vean mejor."</string>
   <string name="pref_qc_focus_position_title">Enfocar</string>
   <string name="pref_retain_camera_mode_summary">Cambie la cámara al modo utilizado anteriormente cuando abra la aplicación.</string>
   <string name="pref_retain_camera_mode_title">Guarde el modo anterior</string>
-  <string name="pref_scan_qrcode_summary">Solo la cámara trasera puede escanear códigos QR</string>
+  <string name="pref_scan_qrcode_summary">Solo la cámara trasera puede escanear códigos QR en el modo \"Foto\".</string>
   <string name="pref_scan_qrcode_title">Escanear el código QR</string>
   <string name="pref_setting_title">Ajustes</string>
   <string name="pref_simple_hdr_entry_off">Apagado</string>

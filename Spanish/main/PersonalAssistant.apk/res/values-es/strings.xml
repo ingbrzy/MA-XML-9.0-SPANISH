@@ -335,7 +335,6 @@ Check your tracking number."<!--- Added line --></string>
   <string name="express_num_setting_title">Acceso a la información de pedido</string>
   <string name="express_number_txt">Order Number:<!--- Added line --></string>
   <string name="express_open">Mostrar tarjetas de seguimiento de entrega</string>
-  <string name="express_open_locker">一键开柜<!--- Added line --></string>
   <string name="express_open_txt">Open<!--- Added line --></string>
   <string name="express_order_confirmation">Order confirmation<!--- Added line --></string>
   <string name="express_order_failed">Failed<!--- Added line --></string>
