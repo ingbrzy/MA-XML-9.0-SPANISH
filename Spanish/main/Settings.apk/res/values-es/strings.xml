@@ -4737,7 +4737,7 @@ Sus huellas dactilares guardadas también serán eliminadas de este perfil y no 
   <string name="usb_use_power_only_desc">Proporcionar corriente eléctrica al otro dispositivo conectado</string>
   <string name="use_location_summary">Permitir que Google use tu ubicación para mejorar los resultados de búsqueda y otros servicios</string>
   <string name="use_location_title">Ubicación en búsquedas</string>
-  <string name="use_personalized_ad_service">Utilizar el identificador de publicidad</string>
+  <string name="use_personalized_ad_service">Recomendación de Anuncio Personalizado</string>
   <string name="use_privacy_password_immediate">Usar</string>
   <string name="use_system_language_to_select_input_method_subtypes">Usar idiomas del sistema</string>
   <string name="use_this_wlan">Permanecer conectado</string>
