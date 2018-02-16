@@ -1,7 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
   <string name="accessibility_enter_lock_wallpaper">Toque para abrir Música</string>
-  <string name="btn_camera">Ingrese su cara</string>
   <string name="click_to_enter_text">Toque para ver</string>
   <string name="confirm_pin_msg">Introduzca el PIN de nuevo</string>
   <string name="custom_lock_wallpaper_enter">Entrar</string>
