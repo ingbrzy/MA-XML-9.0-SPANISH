@@ -179,6 +179,7 @@ o introduzca la contraseña de Aplicaciones bloqueadas"</string>
   <string name="app_manager_disable_text">Desactivar</string>
   <string name="app_manager_disabled">Desactivada</string>
   <string name="app_manager_dlg_cancel">Cancelar</string>
+  <string name="app_manager_dlg_clear_cache_title">¿Limpiar cache?</string>
   <string name="app_manager_dlg_ok">Aceptar</string>
   <string name="app_manager_enable_text">Activar</string>
   <string name="app_manager_enabled">Activada</string>
