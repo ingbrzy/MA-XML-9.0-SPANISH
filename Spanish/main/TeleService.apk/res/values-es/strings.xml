@@ -237,6 +237,13 @@
   <string name="cfb_title">Desviar cuando esté ocupado</string>
   <string name="cfnrc_title">Desviar cuando no esté disponible</string>
   <string name="cfnrc_title_cta">Desviar cuando no esté disponible</string>
+  <string name="cfnry_time_fifteen_sec">15 seg</string>
+  <string name="cfnry_time_five_sec">5 seg</string>
+  <string name="cfnry_time_setting_title">Establecer el tiempo de espera</string>
+  <string name="cfnry_time_ten_sec">10 seg</string>
+  <string name="cfnry_time_thirty_sec">30 seg</string>
+  <string name="cfnry_time_twenty_five_sec">25 seg</string>
+  <string name="cfnry_time_twenty_sec">20 seg</string>
   <string name="cfnry_title">Desviar cuando no se responda la llamada</string>
   <string name="cfu_title">Desviar siempre las llamadas</string>
   <string name="change_data_preference_4g_only_prompt">Parece que tienes una SIM que sólo soporta 4G. ¿Establecer por defecto para datos móviles?</string>
