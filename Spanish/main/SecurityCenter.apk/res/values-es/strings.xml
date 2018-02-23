@@ -1310,7 +1310,7 @@ Esta actividad acorta la duración de la batería."</string>
   <string name="password_forget_pattern_title">Copia de seguridad de sus datos</string>
   <string name="password_promotion_not_login_xiaomi_account_message">Agregue su Cuenta Mi para poder restablecer su contraseña en caso de que la olvide.</string>
   <string name="password_promotion_postbutton_text">Añadir</string>
-  <string name="password_promotion_title">Añadir Cuenta Mit</string>
+  <string name="password_promotion_title">Añadir Cuenta Mi</string>
   <string name="password_xspace_forget_pattern_message">Para cambiar su contraseña de su Segundo espacio, debe eliminar su Segundo espacio actual y crear uno nuevo.</string>
   <string name="path_antispam">Aplicaciones del sistema/Seguridad/Lista de bloqueo</string>
   <string name="path_antivirus">Aplicaciones del sistema/Seguridad de exploración/Virus</string>
