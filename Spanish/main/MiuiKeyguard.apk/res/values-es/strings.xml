@@ -139,9 +139,6 @@ Inicie sesión en i.mi.com, vaya a "Buscar dispositivo", seleccione el dispositi
   <string name="face_data_manage_delete_title">Datos faciales</string>
   <string name="face_data_manage_delete_msg">Eliminar datos faciales</string>
   <string name="face_data_manage_unlock_title">Desbloquear usando datos faciales</string>
-  <string name="face_data_siggesstion_next">Siguiente</string>
-  <string name="face_data_siggesstion_next_time">Siguiente(%ds)</string>
-  <string name="face_data_suggesstion_first">Desbloquear su dispositivo usando sus datos faciales es menos seguro que usar una contraseña de la pantalla de bloqueo. Su dispositivo puede ser desbloqueado por personas que se parecen a usted.</string>
   <string name="face_data_manage_unlock_msg">Desbloquee el dispositivo usando sus datos faciales</string>
   <string name="face_data_manage_delete">¿Eliminar datos faciales?</string>
   <string name="face_data_manage_delete_sure">No podrá desbloquear el dispositivo utilizando sus datos faciales después de eliminarlo.</string>
