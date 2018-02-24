@@ -1,7 +1,7 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
-  <string name="app_name">Grabadora de Pantalla</string>
-  <string name="app_notification_info">La Grabadora de Pantalla está funcionando en segundo plano</string>
+  <string name="app_name">Grabadora de pantalla</string>
+  <string name="app_notification_info">La Grabadora de pantalla está funcionando en segundo plano</string>
   <string name="app_notification_title">Grabando Pantalla</string>
   <string name="auto_stop_title">Video guardado con éxito</string>
   <string name="battery_not_allowed" formatted="false">"No se puede grabar cuando la batería está por debajo del 3%. Asegúrese de que la batería esté al menos 20% cargada".</string>
@@ -18,8 +18,8 @@
   <string name="date_day"/>
   <string name="date_month">/</string>
   <string name="date_year">/</string>
-  <string name="description_content">La grabación de pantalla proporciona capacidades de grabación a nivel del sistema. Esta acción significa que descartarás la función de grabación de pantalla. Confirmar Continuar</string>
-  <string name="description_title">Acerca de Grabadora de Pantalla</string>
+  <string name="description_content">"La grabadora de pantalla proporciona capacidades de grabación a nivel del sistema. No podrá usar la Grabadora de pantalla si continúa. Confirme para continuar".</string>
+  <string name="description_title">Acerca de Grabadora de pantalla</string>
   <string name="deselect_all">Deseleccionar todo</string>
   <string name="error_open_file_failed_no_app_found">"No se pudo encontrar una aplicacación con que abrir este fichero"</string>
   <string name="frames">Fotogramas por segundo</string>
@@ -50,7 +50,7 @@
   <string name="quit_recording">Quitar Grabación de pantalla</string>
   <string name="recording_failure">"No se pudo grabar, comienza de nuevo"</string>
   <string name="recording_max_size">"La grabación se detuvo y se guardó porque el archivo de video alcanzó su límite de tamaño. Comienza a grabar desde donde lo dejaste si aún no has terminado."</string>
-  <string name="recording_without_mic">El micrófono está ocupado y el sonido del micrófono no se puede grabar</string>
+  <string name="recording_without_mic">"El micrófono está ocupado y no puede grabar sonido ahora".</string>
   <string name="resolution">Resolución</string>
   <string name="resolution_summary">Videos con mayor resolución parecen más nítidos</string>
   <string name="screen_orientation">Orientación</string>
