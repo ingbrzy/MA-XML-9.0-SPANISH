@@ -1,5 +1,14 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+    <string-array name="day_time_space">
+        <item>Noche</item>
+        <item>Temprano por la mañana</item>
+        <item>Mañana</item>
+        <item>Mediodía</item>
+        <item>Tarde</item>
+        <item>Al final de la tarde</item>
+        <item>Noche</item>
+    </string-array>
     <string-array name="stock_color_schema">
         <item>Rojo - arriba, verde - abajo</item>
         <item>Verde - arriba, rojo - abajo</item>
