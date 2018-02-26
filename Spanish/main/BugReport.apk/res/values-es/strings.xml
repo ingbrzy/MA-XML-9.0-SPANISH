@@ -8,7 +8,7 @@
   <string name="app_name">Reportes</string>
   <string name="btn_send">Enviar</string>
   <string name="bugreport_dialog_not_show_again">No mostrar de nuevo</string>
-  <string name="bugreport_dialog_submit_content">Su opinión puede contener información personal.</string>
+  <string name="bugreport_dialog_submit_content">"Está guardando registros de software en este dispositivo ahora. Los registros pueden contener información personal y sus datos de ubicación. No comparta registros con nadie más si no quiere que esta información quede expuesta".</string>
   <string name="bugreport_dump_complete_notification_summary">Toque para visualizar.</string>
   <string name="bugreport_dump_complete_notification_title">Informe de error creado</string>
   <string name="bugreport_dump_start_notification_summary">Tardará varios minutos.</string>
@@ -248,7 +248,7 @@
   <string name="submit_dialog_cancel">Cancelar</string>
   <string name="submit_dialog_confirm">Enviar</string>
   <string name="submit_dialog_content">Su comentario, junto con los archivos adjuntos y los registros, se enviará a los servidores de MIUI. Puede contener información personal.</string>
-  <string name="submit_dialog_content_global">"Sus comentarios, junto con los archivos adjuntos y los registros, se enviarán a los servidores de MIUI. Los registros pueden contener información personal y sus datos de ubicación. Puede elegir no enviar registros desmarcando la casilla correspondiente."</string>
+  <string name="submit_dialog_content_global">"Sus comentarios, junto con los archivos adjuntos (si los hay) y los registros (puede desmarcar las casillas correspondientes para los artículos que no deseas subir) se enviarán a los servidores de MIUI y a una sección restringida de MIUI Forum para desarrolladores para su análisis y más comunicación. Los registros pueden contener información personal y sus datos de ubicación".</string>
   <string name="submit_dialog_title">Enviar informe de error</string>
   <string name="submit_feedback_info_failed">Fallo al enviar el informe</string>
   <string name="suggestion_description">Escriba aquí su sugerencia</string>
