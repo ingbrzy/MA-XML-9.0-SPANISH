@@ -3771,7 +3771,6 @@ Para ello:
   <string name="security_encryption_attention_3">Deberá definir una nueva contraseña de bloqueo de pantalla.</string>
   <string name="security_encryption_attention_4">Asegúrese de recordar la contraseña de bloqueo de pantalla, de lo contrario, deberá restaurar el dispositivo al estado de fábrica.</string>
   <string name="security_encryption_attention_info">Puede cifrar cuentas, configuraciones, aplicaciones descargadas y sus datos, contenido multimedia y otros archivos.</string>
-  <string name="security_encryption_attention_symbol">•</string>
   <string name="security_encryption_attention_title">Importante</string>
   <string name="security_encryption_close_dialog_info">La elección de no cifrar el dispositivo utilizando la contraseña de bloqueo de pantalla puede hacer que algunos servicios de Google puedan dejar de funcionar.</string>
   <string name="security_encryption_close_dialog_title">Vuelva a la protección de contraseña por defecto</string>

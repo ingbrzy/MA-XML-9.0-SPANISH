@@ -738,7 +738,6 @@ es proporcionado principalmente por Ultimate Inc."</string>
   <string name="privacy_tip_title">Usar acelerador Xunlei?</string>
   <string name="project_device">Mi Teléfono</string>
   <string name="project_device_mobile">Dispositivo móvil</string>
-  <string name="project_id">mi-music-global</string>
   <string name="prompt_grant_write_settings_permission">Solicitar permiso de configuración</string>
   <string name="pulluprefreshrecyclerview_loading_error">"No se pudo cargar"</string>
   <string name="pulluprefreshrecyclerview_loading_finished">Cargado correctamente</string>
