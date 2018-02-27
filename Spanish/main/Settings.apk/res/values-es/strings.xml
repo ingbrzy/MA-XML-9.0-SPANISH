@@ -3836,6 +3836,9 @@ Nota: su huella dactilar puede ser menos segura que un patrón complejo o un PIN
   <string name="security_settings_premium_sms_desc">Enviar SMS premium</string>
   <string name="security_settings_summary">Establecer Mi ubicación, bloqueo de pantalla, bloqueo de tarjeta SIM y bloqueo de almacenamiento de credenciales</string>
   <string name="security_settings_title">Seguridad</string>
+  <string name="security_status">Estado de seguridad</string>
+  <string name="security_status_title">Estado de seguridad</string>
+  <string name="security_update">Actualización de seguridad</string>
   <string name="see_all">Ver todo</string>
   <string name="see_less">Ver menos</string>
   <string name="select_all">Seleccionar todo</string>
