@@ -1311,6 +1311,8 @@ Esta actividad acorta la duración de la batería."</string>
   <string name="password_promotion_not_login_xiaomi_account_message">Agregue su Cuenta Mi para poder restablecer su contraseña en caso de que la olvide.</string>
   <string name="password_promotion_postbutton_text">Añadir</string>
   <string name="password_promotion_title">Añadir Cuenta Mi</string>
+  <string name="password_type">Cambia la contraseña</string>
+  <string name="password_type_underline">&lt;u&gt;Cambia la contraseña&lt;/u&gt;</string>
   <string name="password_xspace_forget_pattern_message">Para cambiar su contraseña de su Segundo espacio, debe eliminar su Segundo espacio actual y crear uno nuevo.</string>
   <string name="path_antispam">Aplicaciones del sistema/Seguridad/Lista de bloqueo</string>
   <string name="path_antivirus">Aplicaciones del sistema/Seguridad de exploración/Virus</string>
@@ -1617,6 +1619,9 @@ Mientras se calibra, MIUI le enviará un mensaje de texto a su operadora para re
   <string name="security_scan_optimizing">Optimizando…</string>
   <string name="see_detail">Detalles</string>
   <string name="set_applock_password">Establecer contraseña</string>
+  <string name="set_mixed_password_name">Establece un contraseña</string>
+  <string name="set_numeric_password_name">Establece un PIN</string>
+  <string name="set_pattern_password_name">Establece un patron</string>
   <string name="setting">Ajustes</string>
   <string name="setting_privacy_password">Establezca un patrón de bloqueo</string>
   <string name="settings">Ajustes de uso de datos</string>
