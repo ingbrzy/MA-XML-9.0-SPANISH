@@ -1718,6 +1718,7 @@ Es posible que algunas aplicaciones no funcionen hasta que los desarrolladores l
   <string name="fingerprint_manage_tittle">Huella dactilar</string>
   <string name="fingerprint_not_identified_msg">No se puede leer la huella dactilar. Introduzca su contraseña</string>
   <string name="fingerprint_not_recognized">No reconocido</string>
+  <string name="fingerprint_payment">Pagos con huella digital</string>
   <string name="fingerprint_removal_failed">No se pudo eliminar la huella, vuelva a intentarlo más tarde</string>
   <string name="fingerprint_unlock_set_unlock_password">Huella dactilar + Contraseña</string>
   <string name="fingerprint_unlock_set_unlock_pattern">Huella dactilar + Patrón</string>
