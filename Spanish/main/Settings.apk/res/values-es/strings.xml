@@ -2535,6 +2535,7 @@ Hay otros usuarios presentes en este dispositivo.
   <string name="miui_lab_slogan">Aprender. Explorar. Descubrir.</string>
   <string name="miui_lab_taplus_desc">Mantenga pulsado para activar accesos directos</string>
   <string name="miui_lab_taplus_title">Activar aplicaciones</string>
+  <string name="miui_master_clear_summary">Borra todos los datos en el teléfono</string>
   <string name="miui_screen_config_title">Ajustes de la pantalla de inicio</string>
   <string name="miui_silent_title">Modo silencio</string>
   <string name="mms_breathing_light_color_title">Color de mensajes</string>
