@@ -26,8 +26,7 @@
   <string name="button_select">Seleccionar</string>
   <string name="clipboard_files_cannot_paste">No se pueden pegar los ficheros seleccionados en esta ubicación.</string>
   <string name="close">Cerrar</string>
-  <string name="copy_converted_warning_content"
-    >Estos ficheros fueron convertidos a otro formato: %1$s</string>
+  <string name="copy_converted_warning_content">Estos ficheros fueron convertidos a otro formato: %1$s</string>
   <string name="copy_failure_alert_content">Archivos que no se han copiado: %1$s</string>
   <string name="copy_notification_title">Copiando archivos</string>
   <string name="copy_preparing">Preparando para copiar...</string>
