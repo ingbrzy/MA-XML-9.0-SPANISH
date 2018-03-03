@@ -4007,7 +4007,7 @@ Nota: su huella dactilar puede ser menos segura que un patrón complejo o un PIN
   <string name="silent_mode">Modo silencio</string>
   <string name="silent_mode_title">Modo silencio</string>
   <string name="silent_off">Apagar</string>
-  <string name="silent_settings">Modo silencio</string>
+  <string name="silent_settings">Modo silencio/MNM</string>
   <string name="silent_standard">Silencio</string>
   <string name="silent_time">Duración del silencio</string>
   <string name="silent_total">MNM</string>
