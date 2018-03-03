@@ -4154,7 +4154,7 @@ Para obtener más información, ponte en contacto con el administrador."</string
 Esto es posible por una credencial de confianza instalada en tu dispositivo."</string>
   <string name="stable_build">" | Estable"</string>
   <string name="standard">Silencio</string>
-  <string name="standard_info">Las llamadas y las notificaciones están prohibidas, pero la alarma, la música seguirá sonando</string>
+  <string name="standard_info">Llamadas y notificaciones serán silenciadas</string>
   <string name="start_silent_mode">Activar el Modo Silencioso</string>
   <string name="start_vip_mode">habilitar modo VIP</string>
   <string name="starting_android">Iniciando Android</string>
@@ -4524,7 +4524,7 @@ un servicio de Google que te permite sincronizar datos para que puedas acceder a
   <string name="toast_lockscreen_glogin_empty_password">Introducir contraseña</string>
   <string name="toast_need_login">Inicie sesión en su Cuenta Mi</string>
   <string name="total">MNM</string>
-  <string name="total_info">En silencio no hay sonido y se apaga la vibración de todos los elementos excepto del Despertador</string>
+  <string name="total_info">En silencio no hay sonido y se apaga la vibración de todos los elementos a excepción de las alarmas</string>
   <string name="total_memory">Memoria total</string>
   <string name="total_size">%s total</string>
   <string name="total_size_label">Total</string>
@@ -5696,7 +5696,7 @@ Asistente de Wi‑Fi"</string>
   <string name="miui_lab_gallery_search_desc">Búsqueda de imagen mejorada</string>
   <string name="miui_lab_gallery_search_title">Encontrar fotos en Galería</string>
   <string name="normal">Normal</string>
-  <string name="normal_info">Todo el volumen es normal</string>
+  <string name="normal_info">Todos los sonidos funcionarán normalmente</string>
   <string name="notification_reboot_btn">Reiniciar</string>
   <string name="notification_reboot_summary_hm">Toca para reiniciar tu dispositivo.</string>
   <string name="notification_reboot_title">Reiniciar para actualizar</string>
