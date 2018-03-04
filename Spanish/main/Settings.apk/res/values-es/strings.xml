@@ -1686,8 +1686,11 @@ Para más detalles, comuníquese con el administrador de su organización."</str
   <string name="every_day">Todos los días</string>
   <string name="experience_optimization_category">Programa de experiencia de usuario</string>
   <string name="experimental_preference">(Experimental)</string>
-  <string name="external_code_size_label">En almacenamiento USB</string>
-  <string name="external_data_size_label">Tarjeta SD</string>
+  <string name="external_code_size_label">Aplicación de almacenamiento USB</string>
+  <string name="external_data_size_label">Datos de almacenamiento USB</string>
+  <string name="external_source_switch_title">Permitir desde esta fuente</string>
+  <string name="external_source_trusted">Permitido</string>
+  <string name="external_source_untrusted">No permitido</string>
   <string name="external_storage_turn_off">El almacenamiento externo ha sido desactivado</string>
   <string name="external_storage_turn_on">El almacenamiento externo ha sido activado</string>
   <string name="extreme_threats_summary">Recibe alertas de amenazas graves contra la vida y propiedad</string>
@@ -2050,6 +2053,7 @@ Al activar la copia de seguridad automática, los datos del dispositivo y de las
   <string name="keywords_home">lanzador</string>
   <string name="keywords_hotspot">Punto de acceso;Tether;Tethering;Punto de acceso personal;Zona Wi-Fi</string>
   <string name="keywords_ignore_optimizations">ignorar optimizaciones, doze, aplicación en espera</string>
+  <string name="keywords_install_other_apps">Instalar aplicaciones de fuentes desconocidas</string>
   <string name="keywords_keyboard_and_ime">corrección texto, corregir, sonido, vibración automática, idioma, gesto, sugerencia, tema, palabra ofensiva, escribir, emoji, internacional</string>
   <string name="keywords_location">ubicación cercana, informes de ubicación</string>
   <string name="keywords_location_mode">precisión</string>
