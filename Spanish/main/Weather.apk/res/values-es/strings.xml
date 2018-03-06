@@ -77,8 +77,8 @@
   <string name="button_abandon">Descartar los cambios</string>
   <string name="button_add_city">Añadir ciudad</string>
   <string name="button_allow">Aceptar</string>
-  <string name="button_confirm">Permitir</string>
-  <string name="button_exit">Salir</string>
+  <string name="button_confirm">Aceptar</string>
+  <string name="button_exit">"No estoy de acuerdo"</string>
   <string name="button_not_allow">Cancelar</string>
   <string name="button_sure_abandon">¿Descartar los cambios?</string>
   <string name="card_vote_item_vs">contra</string>
