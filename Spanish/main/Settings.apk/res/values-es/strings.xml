@@ -4473,7 +4473,9 @@ un servicio de Google que te permite sincronizar datos para que puedas acceder a
   <string name="testing_sim_toolkit">SIM toolkit</string>
   <string name="testing_usage_stats">Estadísticas de uso</string>
   <string name="testing_wifi_info">Información Wi-Fi</string>
-  <string name="tether_and_hotspot_title">Anclaje de red y zona Wi-Fi</string>
+  <string name="tether_and_hotspot_title">Anclaje de red y punto de acceso portátil</string>
+  <string name="tether_auto_disable_summary">Cerrar automáticamente el punto de acceso cuando no hay dispositivos conectados</string>
+  <string name="tether_auto_disable_title">Cerrar automáticamente el punto de acceso</string>
   <string name="tether_data_usage_limit">Límite de datos de una sola vez</string>
   <string name="tether_data_usage_limit_summary">El límite de datos se aplicará la próxima vez que su punto de acceso esté activado</string>
   <string name="tether_devices_management_title">Administrar dispositivos</string>
