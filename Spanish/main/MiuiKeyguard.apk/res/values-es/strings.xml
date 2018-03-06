@@ -111,7 +111,6 @@ Inicie sesión en i.mi.com, vaya a "Buscar dispositivo", seleccione el dispositi
   <string name="unlockscreen_low_battery">Conecte el cargador</string>
   <string name="unlockscreen_recharge_completed">Batería cargada</string>
   <string name="unlockscreen_recharging_message">Cargando %d%%</string>
-  <string name="wrong_password">Contraseña incorrecta</string>
   <string name="phone_locked_foget_password_method">¿Olvidaste tu contraseña?</string>
   <string name="phone_locked_foget_password_mehod_back">Atrás</string>
   <string name="phone_locked_foget_password_method_next">Siguiente</string>
