@@ -302,8 +302,8 @@ Puede que tu operador te cobre por volver a activar datos."</string>
   <string name="hour_minute_time_format">HH:mm</string>
   <string name="how_to_back_home">Cómo regresar a inicio</string>
   <string name="how_to_switch_recents">Cómo cambiar a recientes</string>
-  <string name="how_to_use_drawer">Cómo usar la función deslizante de la aplicación</string>
-  <string name="how_to_use_drawer_summary">Desliza desde la esquina superior izquierda</string>
+  <string name="how_to_use_drawer">Cómo abrir el menú de diapositivas</string>
+  <string name="how_to_use_drawer_summary">Desliza el dedo hacia la derecha en la parte superior de la pantalla</string>
   <string name="how_to_use_fsg">¿Cómo usar el gesto de pantalla completa?</string>
   <string name="immediately_destroy_activities">No guarde actividades</string>
   <string name="immediately_destroy_activities_summary">Destruye todas las actividades tan pronto como el usuario la abandona</string>

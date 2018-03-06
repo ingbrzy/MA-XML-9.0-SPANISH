@@ -448,9 +448,9 @@ Para activar su cuenta, siga el
   <string name="turning_off_find_device">Desactivar Buscar dispositivo…</string>
   <string name="unbind_sns_description">Una vez borrada esta cuenta, no podrás usar la información de tu cuenta %s para iniciar sesión en tu Cuenta Mi.</string>
   <string name="unlock_help_notice">"Ayuda:
-  Si ha olvidado su contraseña, vaya a id.mi.com para restablecerlo.
-  Si no puede desbloquear el dispositivo, vaya a i.mi.com para desactivar buscar dispositivo.
-  Su número de desbloqueo: %s"</string>
+ 1. Si ha olvidado su contraseña, vaya a id.mi.com para restablecerlo.
+ 2. Si no puede desbloquear el dispositivo, vaya a i.mi.com para desactivar buscar dispositivo.
+ 3. Su número de desbloqueo: %s"</string>
   <string name="update_contacts">Actualiza contactos</string>
   <string name="update_email_address_dialog_message">Necesita verificar su identidad antes de poder actualizar el correo.</string>
   <string name="update_email_address_dialog_title">Actualizar correo</string>
