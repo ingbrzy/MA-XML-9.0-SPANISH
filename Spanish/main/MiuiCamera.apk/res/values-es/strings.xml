@@ -384,9 +384,9 @@ y luego crea una toma donde todos se vean mejor."</string>
   <string name="pref_front_mirror_title">Cámara frontal espejo</string>
   <string name="pref_front_mirror_label_auto">Auto</string>
   <string name="pref_groupshot_with_primitive_title">Guardar las fotos originales también en el modo Selfies de grupo</string>
-  <string name="pref_manual_exposure_title">Exposición manual</string>
+  <string name="pref_manual_exposure_title">Tiempo de exposición</string>
   <string name="pref_priority_storage_title">Guardar en la tarjeta SD</string>
-  <string name="pref_qc_focus_position_title">Enfocar</string>
+  <string name="pref_qc_focus_position_title">Enfoque</string>
   <string name="pref_retain_camera_mode_summary">Cambie la cámara al modo utilizado anteriormente cuando abra la aplicación.</string>
   <string name="pref_retain_camera_mode_title">Guarde el modo anterior</string>
   <string name="pref_scan_qrcode_summary">Solo la cámara trasera puede escanear códigos QR en el modo \"Foto\".</string>
@@ -444,7 +444,7 @@ y luego crea una toma donde todos se vean mejor."</string>
   <string name="simple_mode_button_text_face_beauty">Cerrar embellecedor</string>
   <string name="simple_mode_button_text_fast_video">Cerrar cámara a velocidad lenta</string>
   <string name="simple_mode_button_text_gradienter">Cerrar enderezar</string>
-  <string name="simple_mode_button_text_groupshot">Desactivar fotos de grupo</string>
+  <string name="simple_mode_button_text_groupshot">Desactivar selfies de grupo</string>
   <string name="simple_mode_button_text_hand_night">Cerrar modo noche</string>
   <string name="simple_mode_button_text_magic_mirror">Apagar espejo Mágico</string>
   <string name="simple_mode_button_text_manual">Cerrar modo manual</string>
