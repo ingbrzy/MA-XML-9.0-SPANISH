@@ -60,7 +60,7 @@
   <string name="inbound_history_title">Transferencias entrantes</string>
   <string name="inbound_noti_title">Transferencia Bluetooth: Archivos recibidos</string>
   <string name="incoming_file_confirm_Notification_content">%1$s está listo para enviar %2$s</string>
-  <string name="incoming_file_confirm_Notification_title">Archivo entrante</string>
+  <string name="incoming_file_confirm_Notification_title">Compartir Bluetooth: Archivo entrante</string>
   <string name="incoming_file_confirm_cancel">Declinar</string>
   <string name="incoming_file_confirm_content">¿Acepta el archivo entrante?</string>
   <string name="incoming_file_confirm_ok">Aceptar</string>
