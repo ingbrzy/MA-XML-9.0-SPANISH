@@ -146,6 +146,7 @@
   <string name="mortgage_years_amount">Años de hipoteca</string>
   <string name="mul">×</string>
   <string name="mulDesc">multiplicar</string>
+  <string name="negDesc">Cambiar entre temperaturas inferiores y superiores a cero</string>
   <string name="network_confirm_content">Las funciones de conversor de divisas, impuestos y cálculo de hipoteca utilizan la conexión de red del dispositivo para funcionar con normalidad.</string>
   <string name="network_confirm_title">Permisos necesarios</string>
   <string name="percentDesc">porcentaje</string>
