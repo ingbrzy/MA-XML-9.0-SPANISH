@@ -77,7 +77,8 @@
   <string name="dual_camera_lens_covered_toast">La lente está cubierta.</string>
   <string name="dual_camera_lowlight_toast">"Parece que está demasiado oscuro."</string>
   <string name="dual_camera_too_close_toast">La cámara está demasiado cerca del objeto.</string>
-  <string name="dual_camera_use_hint">"Asegúrese de que el objeto no esté a más de 2 metros."</string>
+  <string name="dual_camera_use_hint">"El modo doble te ayuda a desenfocar el fondo.
+ El objeto no debe estar a más de 2 metros".</string>
   <string name="edit_eye_large">Ojos grandes</string>
   <string name="edit_face_ruddy">Rojizo</string>
   <string name="edit_face_slender">Esbelto</string>
@@ -85,7 +86,6 @@
   <string name="edit_skin_white">Tono</string>
   <string name="empty">" "</string>
   <string name="error_fail_to_start_audio_capture">No se pudo iniciar la captura de audio</string>
-  <string name="face_age_info">Edad: %d</string>
   <string name="face_analyze_info">Edad: %2$s (%1$s)</string>
   <string name="face_analyze_info_age">Edad：</string>
   <string name="face_analyze_info_female">Mujer</string>
@@ -275,6 +275,7 @@ y luego crea una toma donde todos se vean mejor."</string>
   <string name="pref_camera_magic_mirror_title">Espejo mágico</string>
   <string name="pref_camera_manual_mode_title">Manual</string>
   <string name="pref_camera_movie_solid_title">Estabilizador de imagen</string>
+  <string name="pref_camera_mono_mode_title">ByN</string>
   <string name="pref_camera_multilevel_entry_high">Alta</string>
   <string name="pref_camera_multilevel_entry_higher">Superior</string>
   <string name="pref_camera_multilevel_entry_highest">Más alto</string>
