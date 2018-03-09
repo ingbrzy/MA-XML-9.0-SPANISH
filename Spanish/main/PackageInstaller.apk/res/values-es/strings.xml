@@ -424,7 +424,6 @@ Se guardarán todos los datos de usuario anteriores."</string>
   <string name="power_remaining_duration_only_short">Quedan %1$s</string>
   <string name="privacyPerms">Privacidad</string>
   <string name="privacy_relative">Privacidad</string>
-  <string name="process_kernel_label">SO Android</string>
   <string name="reboot_time">Preparándose para reiniciar… (%1$s)</string>
   <string name="remaining_length_format">quedan %1$s</string>
   <string name="review_button_cancel">Cancelar</string>

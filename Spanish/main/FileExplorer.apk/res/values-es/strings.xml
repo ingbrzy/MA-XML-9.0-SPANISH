@@ -655,7 +655,6 @@
   <string name="top_videos">Más compartidos</string>
   <string name="topic_follow">Seguir</string>
   <string name="topic_followed">Siguiendo</string>
-  <string name="topic_message">&lt;font color=#fc7050&gt;%1$s: &lt;/font&gt;%2$s</string>
   <string name="topic_title">Temas</string>
   <string name="transfer_done">Archivos movidos correctamente.</string>
   <string name="transfer_private_data">Moviendo carpetas ocultas de la tarjeta SD…</string>

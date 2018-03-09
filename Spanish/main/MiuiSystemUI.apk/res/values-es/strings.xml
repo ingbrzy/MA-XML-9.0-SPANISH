@@ -408,7 +408,6 @@ Puede que tu operador te cobre por volver a activar datos."</string>
   <string name="power_discharging_duration_short">%1$s - %2$s restante</string>
   <string name="power_remaining_duration_only">Aprox. %1$s restante</string>
   <string name="power_remaining_duration_only_short">%1$s restante</string>
-  <string name="process_kernel_label">SO Android</string>
   <string name="quick_settings_bluetooth_detail_empty_text">No hay dispositivos vinculados disponibles</string>
   <string name="quick_settings_bluetooth_label">Bluetooth</string>
   <string name="quick_settings_connect_success">Conectado</string>

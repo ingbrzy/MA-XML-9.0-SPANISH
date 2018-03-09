@@ -3210,7 +3210,6 @@ Esto también dará a la aplicación la capacidad de activar y desactivar No Mol
   <string name="private_sms_recording_intro_header">Dibuje un patrón de desbloqueo:</string>
   <string name="private_sms_reset_by_account">Para restablecer su contraseña, inicie sesión en su Cuenta Mi</string>
   <string name="process_dex2oat_label">Optimización de aplicación</string>
-  <string name="process_kernel_label">SO Android</string>
   <string name="process_mediaserver_label">Servidor multimedia</string>
   <string name="process_provider_in_use_description">Proveedor %1$s en uso</string>
   <string name="process_service_in_use_description">Servicio %1$s en uso</string>

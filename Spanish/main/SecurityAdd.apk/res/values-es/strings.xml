@@ -3,7 +3,6 @@
   <string name="app_name">Plugin de servicio de seguridad</string>
   <string name="app_not_installed_toast">La aplicación no está instalada en tu dispositivo.</string>
   <string name="cancel_button">Cancelar</string>
-  <string name="empty">" "</string>
   <string name="fastboot_locked_answer_1">Fastboot es el método tradicional para flashear dispositivos Mi. Cuando el dispositivo está en modo Fastboot, todos los datos almacenados en él pueden ser accedidos y borrados directamente. Hemos cerrado Fastboot para hacer seguros sus datos en caso de que pierda el dispositivo, así como a garantizar la fiabilidad de las características de Find device.</string>
   <string name="fastboot_locked_answer_2">En caso de que pierda su dispositivo, Fastboot garantiza la seguridad de los ítems almacenados en él. Si desbloquea Fastboot, no será capaz de bloquear su dispositivo remotamente o borrar los datos usando Find device. Es por esto que no recomendamos desbloquear Fastboot en su dispositivo.</string>
   <string name="fastboot_locked_answer_3">Debería usar la herramienta de desbloqueo de la web de MIUI. Para desbloquear el dispositivo, necesitamos asegurarnos que el dispositivo le pertenece. Es por esto que debería identificarse con su Cuenta Mi y encender Find device.</string>

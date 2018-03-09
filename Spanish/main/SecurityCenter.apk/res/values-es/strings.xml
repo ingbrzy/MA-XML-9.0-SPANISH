@@ -1501,7 +1501,6 @@ Esta actividad acorta la duración de la batería."</string>
 
 Mientras se calibra, MIUI le enviará un mensaje de texto a su operadora para recibir la plantilla de calibración.</string>
   <string name="privacy_prompt_upload">Subir</string>
-  <string name="process_kernel_label">Android</string>
   <string name="process_mediaserver_label">Servidor multimedia</string>
   <string name="promotion">Anuncio</string>
   <string name="prompt_all">Preguntar por todo</string>

@@ -84,7 +84,6 @@
   <string name="edit_face_slender">Esbelto</string>
   <string name="edit_skin_smooth">Suave</string>
   <string name="edit_skin_white">Tono</string>
-  <string name="empty">" "</string>
   <string name="error_fail_to_start_audio_capture">No se pudo iniciar la captura de audio</string>
   <string name="face_analyze_info">Edad: %2$s (%1$s)</string>
   <string name="face_analyze_info_age">Edad：</string>

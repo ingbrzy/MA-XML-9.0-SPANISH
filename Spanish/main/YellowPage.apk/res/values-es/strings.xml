@@ -355,7 +355,6 @@ Comprueba el número de rastreo."</string>
   <string name="payment_unknown_status_title">No se pudo confirmar el estado de pago</string>
   <string name="phone_event_setting_notice_text">Al usar esta función, usted se compromete a %1$s y %2$s.</string>
   <string name="phone_event_setting_notice_text_with_contacts_permission">Al usar esta característica, aceptas los %1$s y %2$s. Se requiere el acceso a sus contactos.</string>
-  <string name="phone_info_divider">" ｜ "</string>
   <string name="photo_count">%d total</string>
   <string name="pull_to_refresh_pull_label">Arrastra para actualizar…</string>
   <string name="pull_to_refresh_refreshing_label">Un segundo…</string>

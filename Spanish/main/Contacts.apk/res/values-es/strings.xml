@@ -567,7 +567,6 @@ Para evitar consultas frecuentes, actualizamos la información del saldo una vez
   <string name="keep_local">Mantener local</string>
   <string name="keep_local_btn">Utilice el almacenamiento interno del teléfono</string>
   <string name="label_custom_type">Personalizado</string>
-  <string name="label_duplicate_count">(%1$d)</string>
   <string name="label_no_duplicate_contacts">No se han encontrado duplicados</string>
   <string name="label_notes">Notas</string>
   <string name="label_sip_address">Llamada internet</string>
@@ -942,7 +941,6 @@ Para agregar un contacto a la lista de favoritos:
   <string name="payphone">Teléfono público</string>
   <string name="people">Contactos</string>
   <string name="phoneLabelsGroup">Télefono</string>
-  <string name="phone_info_divider">" ｜ "</string>
   <string name="phone_number_too_long_toast">Número demasiado largo</string>
   <string name="phone_primary">Principal</string>
   <string name="photoPickerNotFoundText">No hay imágenes disponibles en el teléfono.</string>

@@ -64,7 +64,6 @@
     <string name="error_forbidden">La sincronización se ha desactivado debido a problemas con Mi Cuenta.</string>
     <string name="error_not_acceptable">La sincronización se ha desactivado.</string>
     <string name="more">Más</string>
-    <string name="empty" />
     <string name="solar_term_slight_cold">Algo de frío</string>
     <string name="solar_term_great_cold">Mucho frío</string>
     <string name="solar_term_spring_begins">Empieza la primavera</string>
