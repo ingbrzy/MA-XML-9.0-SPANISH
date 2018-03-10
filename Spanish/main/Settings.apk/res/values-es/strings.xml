@@ -3022,6 +3022,16 @@ Esto también dará a la aplicación la capacidad de activar y desactivar No Mol
   <string name="phone_info_label">Información sobre el teléfono</string>
   <string name="phone_language">Idiomas</string>
   <string name="physical_keyboard_title">Teclado físico</string>
+  <string name="picture_color_mode">Modo de color de la imagen</string>
+  <string name="picture_color_mode_desc">Uso sRGB</string>
+  <string name="picture_in_picture_app_detail_summary">"Permitir que esta aplicación pueda crear una ventana de imagen-en-imagen mientras la aplicación está abierta o después de salir de ella (por ejemplo, para continuar viendo un vídeo). Esta ventana se muestra en la parte superior de otras aplicaciones"</string>
+  <string name="picture_in_picture_app_detail_switch">Permitir que la imagen-en-imagen</string>
+  <string name="picture_in_picture_app_detail_title">Imagen-en-imagen</string>
+  <string name="picture_in_picture_empty_text">No hay aplicaciones instaladas compatibles con Imagen-en-imagen</string>
+  <string name="picture_in_picture_keywords">imagen de pip en</string>
+  <string name="picture_in_picture_off">No</string>
+  <string name="picture_in_picture_on">SI</string>
+  <string name="picture_in_picture_title">Imagen-en-imagen</string>
   <string name="pico_installed">Instalada</string>
   <string name="pico_languages_and_voices">Idiomas y voces</string>
   <string name="pico_not_installed">Sin instalar</string>
@@ -4819,6 +4829,8 @@ Cualquier usuario puede actualizar las aplicaciones del resto de usuarios."</str
   <string name="user_confirm_remove_self_message">Perderás tu espacio y tus datos en este teléfono. Esta acción no se puede deshacer.</string>
   <string name="user_confirm_remove_self_title">¿Eliminarte a ti mismo?</string>
   <string name="user_confirm_remove_title">¿Eliminar este usuario?</string>
+  <string name="user_credential_none_installed">No hay credenciales de usuario instaladas</string>
+  <string name="user_credential_removed">Credencial eliminada: %s</string>
   <string name="user_credential_title">Detalles de las credenciales</string>
   <string name="user_credentials">Credenciales de usuario</string>
   <string name="user_credentials_summary">Ver y modificar credenciales almacenadas</string>
