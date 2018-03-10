@@ -215,6 +215,13 @@ para ingresar al Segundo espacio desde la pantalla de bloqueo"</string>
   <string name="show_private_msg">Mostrar mensajes privados</string>
   <string name="show_private_msg_summary">Mostrar mensajes privados en el Segundo espacio</string>
   <string name="spaceSetting">Ajustes</string>
+  <string name="space_create_guide_desc_1">Almacene aplicaciones y fotos de forma segura</string>
+  <string name="space_create_guide_desc_2">Espacio separado completamente listo para usar</string>
+  <string name="space_create_guide_desc_3">"El segundo espacio no afecta otros elementos en su dispositivo"</string>
+  <string name="space_create_guide_switchmode_title">Cambiar entre espacios</string>
+  <string name="space_create_guide_title_1">Protege tu privacidad</string>
+  <string name="space_create_guide_title_2">Crear en cualquier momento</string>
+  <string name="space_create_guide_title_3">Absolutamente libre de riesgos</string>
   <string name="space_deleted">Este espacio fue eliminado</string>
   <string name="space_des_default">Espacio aislado con datos cifrados</string>
   <string name="space_name_default">Espacio de trabajo</string>
