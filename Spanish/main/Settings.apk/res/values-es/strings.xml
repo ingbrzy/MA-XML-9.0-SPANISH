@@ -3022,8 +3022,8 @@ Esto también dará a la aplicación la capacidad de activar y desactivar No Mol
   <string name="phone_info_label">Información sobre el teléfono</string>
   <string name="phone_language">Idiomas</string>
   <string name="physical_keyboard_title">Teclado físico</string>
-  <string name="picture_color_mode">Modo de color de la imagen</string>
-  <string name="picture_color_mode_desc">Uso sRGB</string>
+  <string name="picture_color_mode">Modo de color de imagen</string>
+  <string name="picture_color_mode_desc">Utilizar sRGB</string>
   <string name="picture_in_picture_app_detail_summary">"Permitir que esta aplicación pueda crear una ventana de imagen-en-imagen mientras la aplicación está abierta o después de salir de ella (por ejemplo, para continuar viendo un vídeo). Esta ventana se muestra en la parte superior de otras aplicaciones"</string>
   <string name="picture_in_picture_app_detail_switch">Permitir que la imagen-en-imagen</string>
   <string name="picture_in_picture_app_detail_title">Imagen-en-imagen</string>
@@ -3037,8 +3037,6 @@ Esto también dará a la aplicación la capacidad de activar y desactivar No Mol
   <string name="pico_not_installed">Sin instalar</string>
   <string name="pico_voice_summary_female">Mujer</string>
   <string name="pico_voice_summary_male">Hombre</string>
-  <string name="picture_color_mode">Modo de color de imagen</string>
-  <string name="picture_color_mode_desc">Utilizar sRGB</string>
   <string name="pin_failed">Error al intentar desbloquear la tarjeta SIM con el código PIN</string>
   <string name="ping_test_label">Ejecutar prueba de ping</string>
   <string name="please_select_phase2">Autenticación de fase 2</string>
