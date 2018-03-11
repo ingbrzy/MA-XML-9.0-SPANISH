@@ -42,10 +42,11 @@
   <string name="other_settings_auto_update_summary">MIUI seleccionará el mejor momento para instalar las actualizaciones.</string>
   <string name="other_settings_location">Ubicación</string>
   <string name="other_settings_location_summary">Permitir a las aplicaciones acceder a tu ubicación</string>
-  <string name="other_settings_upload_debug_log_summary">La información que recogemos se utiliza para localizar y analizar los problemas en el sistema y puede contener información personal. Ningún dato será utilizado para identificarle personalmente.</string>
+  <string name="other_settings_upload_debug_log_summary">Las estadísticas de uso que nos ayudan a localizar y resolver problemas pueden contener su información personal</string>
   <string name="other_settings_upload_debug_log_title">Enviar datos de diagnóstico de forma automática</string>
   <string name="other_settings_user_experience">Programa de experiencia de usuario</string>
-  <string name="other_settings_user_experience_summary">Ayudar a mejorar nuestros productos y servicios mediante el envío de datos de uso anónimos.</string>
+  <string name="other_settings_user_experience_summary">Ayúdenos a mejorar nuestros productos y servicios compartiendo sus estadísticas de uso con nosotros. Detalles</string>
+  <string name="other_settings_user_experience_summary_index">Detalles</string>
   <string name="pref_title_data_slot">Tarjeta SIM de datos preferida</string>
   <string name="pref_title_voice_slot">Tarjeta SIM de voz preferida</string>
   <string name="privacy_policy">Política de Privacidad</string>

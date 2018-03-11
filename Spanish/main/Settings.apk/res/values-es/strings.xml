@@ -2503,6 +2503,8 @@ Hay otros usuarios presentes en este dispositivo.
   <string name="memory_settings_title">Memoria</string>
   <string name="memory_size">Espacio total</string>
   <string name="memory_summary">Media de %1$s de %2$s de memoria utilizada</string>
+  <string name="memory_system_rom">Almacenamiento del sistema</string>
+  <string name="memory_system_space">Almacenamiento del sistema</string>
   <string name="memory_title">Disponible: %1$s\u0009\u0009Total: %2$s</string>
   <string name="memory_usage">Uso de memoria</string>
   <string name="memory_usage_apps">Memoria usada por aplicaciones</string>
@@ -4705,7 +4707,7 @@ Sus huellas dactilares guardadas también serán eliminadas de este perfil y no 
   <string name="unrestricted_data_saver">Acceso a datos sin restricciones</string>
   <string name="untitled_apn">Sin título</string>
   <string name="update_progress_for_updates">Actualizando (%s)</string>
-  <string name="upload_debug_log_summary">Los datos de diagnóstico pueden incluir información sobre su uso del hardware, sistema operativo y aplicaciones. Los datos serán usados para localizar y analizar los problemas en el sistema y nunca serán usados para identificarle personalmente.</string>
+  <string name="upload_debug_log_summary">Las estadísticas de uso que nos ayudan a localizar y resolver problemas pueden contener su información personal</string>
   <string name="upload_debug_log_title">Envíe automáticamente datos de diagnóstico</string>
   <string name="usage">Uso</string>
   <string name="usage_access">Acceso de uso</string>
@@ -4866,7 +4868,7 @@ Añada una palabra pulsando el botón (+) añadir"</string>
   <string name="user_exit_guest_dialog_remove">Eliminar</string>
   <string name="user_exit_guest_title">Eliminar invitado</string>
   <string name="user_experience_program">Programa de Experiencia de Usuario</string>
-  <string name="user_experience_program_summary">Ayude a mejorar MIUI enviando datos anónimos de uso</string>
+  <string name="user_experience_program_summary">Ayúdenos a mejorar nuestros productos y servicios al compartir sus estadísticas de uso con nosotros</string>
   <string name="user_experience_program_title">Programa de Experiencia de Usuario</string>
   <string name="user_guest">Invitado</string>
   <string name="user_image_choose_photo">Seleccionar foto de la galería</string>

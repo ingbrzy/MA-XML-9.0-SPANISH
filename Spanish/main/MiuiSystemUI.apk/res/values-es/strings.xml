@@ -334,6 +334,9 @@ Puede que tu operador te cobre por volver a activar datos."</string>
   <string name="long_screenshot_stop">Ok</string>
   <string name="long_screenshot_top_msg">Creando captura de pantalla…</string>
   <string name="long_screenshot_top_msg_manual">Recortar la captura de pantalla y toque el botón para terminar</string>
+  <string name="low_temperature_button_ok">Entendido</string>
+  <string name="low_temperature_warning_message">La temperatura es demasiado baja, el teléfono se puede apagar en cualquier momento, guarde los datos.</string>
+  <string name="low_temperature_warning_title">Advertencia de apagado</string>
   <string name="managed_profile_foreground_toast">Estás usando el perfil de trabajo</string>
   <string name="managed_user_title">Todas las aplicaciones de trabajo</string>
   <string name="mdb_entering">Iniciando…</string>
