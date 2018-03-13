@@ -46,8 +46,8 @@
   <string name="dlg_title_set_password">Establecer contraseña</string>
   <string name="dlg_title_use_privacy_password">Utilizar la contraseña de privacidad</string>
   <string name="dlg_unhide_message">Desocultando…</string>
-  <string name="done">Hecho</string>
-  <string name="edit_header_done_description">Hecho</string>
+  <string name="done">Aceptar</string>
+  <string name="edit_header_done_description">Aceptar</string>
   <string name="edit_header_home_description">Atrás</string>
   <string name="enable_sync">Sincronizar</string>
   <string name="enable_sync_desc">¿Sincronizar las notas con tu Cuenta Mi (%1$s)?</string>
