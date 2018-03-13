@@ -56,7 +56,6 @@
         <item>Frecuencia de uso</item>
         <item>Almacenamiento usado</item>
         <item>Fecha de instalación</item>
-        <item>Aplicaciones que pueden ser desinstaladas</item>
     </string-array>
     <string-array name="sort_title">
         <item>Ordenar por estado</item>
@@ -64,7 +63,6 @@
         <item>Ordenar por frecuencia de uso</item>
         <item>Ordenar por almacenamiento usado</item>
         <item>Ordenar por fecha de instalación</item>
-        <item>Mostrar aplicaciones que pueden ser desinstaladas</item>
     </string-array>
     <string-array name="title_app_info">
         <item>Fuente de instalación</item>
