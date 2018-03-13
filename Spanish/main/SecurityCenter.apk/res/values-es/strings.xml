@@ -140,7 +140,6 @@ o introduzca la contraseña de Aplicaciones bloqueadas"</string>
   <string name="app_manager_app_info_label">Información de aplicación</string>
   <string name="app_manager_app_info_name">Nombre de aplicación</string>
   <string name="app_manager_app_info_pkg">Nombre de APK</string>
-  <string name="app_manager_app_lock">Aplicaciones bloqueadas</string>
   <string name="app_manager_app_power">"Uso de la batería: "</string>
   <string name="app_manager_app_storage">"Almacenamiento: "</string>
   <string name="app_manager_app_traffic">"Datos usados: "</string>
@@ -203,7 +202,6 @@ o introduzca la contraseña de Aplicaciones bloqueadas"</string>
   <string name="app_manager_net_mobile">Móvil</string>
   <string name="app_manager_net_wifi">Wi-Fi</string>
   <string name="app_manager_not_allow">No</string>
-  <string name="app_manager_not_support_uninstall">"No se pueden desinstalar estas aplicaciones"</string>
   <string name="app_manager_not_record">"No se encontraron aplicaciones que requieren permisos"</string>
   <string name="app_manager_notify_bar">Insignias</string>
   <string name="app_manager_notify_floating">Notificaciones flotantes</string>
@@ -252,6 +250,7 @@ o introduzca la contraseña de Aplicaciones bloqueadas"</string>
   <string name="app_manager_stop_wp_dialog_uninstall">Desinstalar</string>
   <string name="app_manager_system_mobile_disable">Desactivar datos</string>
   <string name="app_manager_title">Admin. aplicaciones</string>
+  <string name="app_manager_uninstall">Desinstalar</string>
   <string name="app_manager_uninstall_protected_dlg_msg">Desinstalando las aplicaciones del sistema puede impedir a algunos componentes de MIUI su correcto funcionamiento. ¿Desinstalar de todos modos?</string>
   <string name="app_manager_uninstall_protected_dlg_title">Desinstalando aplicaciones de sistema</string>
   <string name="app_manager_uninstall_with_xspace_app_dlg_msg">Las aplicaciones dobles correspondientes se eliminarán junto con los datos de la aplicación.</string>
