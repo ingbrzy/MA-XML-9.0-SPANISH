@@ -4707,7 +4707,7 @@ Sus huellas dactilares guardadas también serán eliminadas de este perfil y no 
   <string name="unrestricted_data_saver">Acceso a datos sin restricciones</string>
   <string name="untitled_apn">Sin título</string>
   <string name="update_progress_for_updates">Actualizando (%s)</string>
-  <string name="upload_debug_log_summary">Las estadísticas de uso que nos ayudan a localizar y resolver problemas pueden contener su información personal</string>
+  <string name="upload_debug_log_summary">Las estadísticas de uso nos ayudan a localizar y resolver problemas pueden contener su información personal</string>
   <string name="upload_debug_log_title">Envíe automáticamente datos de diagnóstico</string>
   <string name="usage">Uso</string>
   <string name="usage_access">Acceso de uso</string>
