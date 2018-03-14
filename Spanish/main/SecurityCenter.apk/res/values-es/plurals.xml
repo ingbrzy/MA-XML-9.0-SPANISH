@@ -299,4 +299,8 @@ Si vuelve a activar los datos móviles, su operador puede cobrarle por datos adi
         <item quantity="other">"No ha añadido %d juegos"</item>
         <item quantity="one">"No ha añadido %d juego"</item>
     </plurals>
+    <plurals name="gb_signed_days_sum">
+        <item quantity="other">Comprobado %d días seguidos</item>
+        <item quantity="one">Comprobado %d vez</item>
+    </plurals>
 </resources>
