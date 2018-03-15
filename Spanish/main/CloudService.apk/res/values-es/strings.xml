@@ -384,7 +384,7 @@ Utilice una cuenta diferente."</string>
   <string name="micloud_web_discription">Visite i.mi.com</string>
   <string name="micloud_web_discription_01">Identifíquese en i.mi.com</string>
   <string name="micloud_web_discription_02">para almacenar y acceder a sus archivos desde cualquier parte</string>
-  <string name="micloud_web_discription_international">Visite www.mi.com/micloud</string>
+  <string name="micloud_web_discription_place_holder">Visite %1$s</string>
   <string name="micloud_website">Elementos en Mi Nube</string>
   <string name="micloud_wipe_data_confirm_label">Eliminar datos de Mi Nube</string>
   <string name="micloud_wipe_data_confirm_title">Eliminar elementos sincronizados con Mi Nube del teléfono después de cerrar sesión?</string>
