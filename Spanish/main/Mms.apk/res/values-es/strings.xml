@@ -359,7 +359,7 @@
   <string name="notification_multiple">[%s]</string>
   <string name="notification_multiple_title">Nuevo mensaje</string>
   <string name="number_add_hint">Introduzca número de teléfono</string>
-  <string name="open_audio_record_panel">Abrir panel de grabación de audio</string>
+  <string name="open_audio_record_panel">Abrir el panel de grabación</string>
   <string name="open_url_with_web">¿Abrir esta URL en el navegador?</string>
   <string name="over_max_mms_size">Mms demasiado grande.</string>
   <string name="overwrite_edited_content">Se sobrescribirá el contenido editado.</string>
