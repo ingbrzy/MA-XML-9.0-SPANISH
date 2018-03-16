@@ -135,6 +135,7 @@ o introduzca la contraseña de Aplicaciones bloqueadas"</string>
   <string name="app_install_intercept">Bloquear instalación</string>
   <string name="app_install_tips_go_to">Abrir</string>
   <string name="app_install_tips_install_success">Instalado %1$s con éxito</string>
+  <string name="app_manager_advanced_setting">Ajustes avanzados</string>
   <string name="app_maanger_app_uninstalled_toast">Esta aplicación se ha desinstalado</string>
   <string name="app_manager_app_ifno_version">Versión de aplicación</string>
   <string name="app_manager_app_info_label">Información de aplicación</string>
@@ -193,6 +194,7 @@ o introduzca la contraseña de Aplicaciones bloqueadas"</string>
   <string name="app_manager_has_not_data">No hay datos</string>
   <string name="app_manager_have_not_consume">Ninguna</string>
   <string name="app_manager_hide_system_server">Ocultar servicios del sistema</string>
+  <string name="app_manager_install_other_app">Instalar aplicaciones de fuentes desconocidas</string>
   <string name="app_manager_instruction">Instrucción</string>
   <string name="app_manager_loading_data">Cargando datos…</string>
   <string name="app_manager_manage_space">Administrar espacio</string>
