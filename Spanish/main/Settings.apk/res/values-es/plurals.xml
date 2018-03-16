@@ -96,6 +96,14 @@
     <item quantity="other">Envíos bloqueados a %d aplicaciones </item>
     <item quantity="one">Envíos bloqueados a %d aplicación</item>
   </plurals>
+  <plurals name="print_jobs_summary">
+      <item quantity="other">%1$d trabajos de impresión</item>
+      <item quantity="one">1 trabajo de impresión</item>
+  </plurals>
+  <plurals name="print_settings_summary">
+     <item quantity="other">%1$d servicios de impresión</item>
+     <item quantity="one">1 servicio de impresión</item>
+  </plurals>   
   <plurals name="print_settings_title">
     <item quantity="other">%d trabajos de impresión</item>
     <item quantity="one">1 trabajo de impresión</item>
@@ -105,8 +113,8 @@
     <item quantity="one">Estás a %1$d paso de acceder a la info cit.</item>
   </plurals>
   <plurals name="settings_toggle_position_divider_page">
-        <item quantity="other">%1$d conmutadores situados por encima de la barra están activos</item>
-        <item quantity="one">1 conmutadores situado por encima de la barra está activo</item>
+     <item quantity="other">%1$d conmutadores situados por encima de la barra están activos</item>
+     <item quantity="one">1 conmutadores situado por encima de la barra está activo</item>
   </plurals>
   <plurals name="show_dev_countdown">
     <item quantity="other">Estás a %1$d pasos de ser desarrollador.</item>

@@ -786,7 +786,9 @@ Se agregará a las excepciones, pero los elementos bloqueados anteriormente no a
   <string name="gb_description_image_button_answer">Responder</string>
   <string name="gb_description_image_button_reject">Declinar</string>
   <string name="gb_description_image_button_video_answer">Videollamada</string>
-  <string name="get_sys_info">Obteniendo información…</string>
+  <string name="gb_get_gift_right_now">Regístrese ahora</string>
+  <string name="gb_have_signed">Registrado hoy</string>
+  <string name="gb_network_status_bad">Se produjo un error de conexión.</string>
   <string name="gigabyteShort">GB</string>
   <string name="gmscore_support_remind">Active esta función si tiene problemas con el uso de Gmail, Google Maps y otras aplicaciones de Google. Reducirá ligeramente la duración de la batería.</string>
   <string name="gmscore_support_service">Servicios de Google</string>
