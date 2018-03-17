@@ -200,7 +200,6 @@ y luego crea una toma donde todos se vean mejor."</string>
   <string name="pref_camera_beauty">Embellececedor</string>
   <string name="pref_camera_beauty_deep">Embellecedor Pro</string>
   <string name="pref_camera_bokeh_title">Portrait</string>
-  <string name="pref_camera_coloreffect_default">ninguno</string>
   <string name="pref_camera_coloreffect_entry_aqua"/>
   <string name="pref_camera_coloreffect_entry_big_face">Difuminar</string>
   <string name="pref_camera_coloreffect_entry_blackwhite">B y N</string>
