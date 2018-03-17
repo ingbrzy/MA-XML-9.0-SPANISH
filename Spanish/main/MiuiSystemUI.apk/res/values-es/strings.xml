@@ -364,10 +364,8 @@ Puede que tu operador te cobre por volver a activar datos."</string>
   <string name="no_application">Nada</string>
   <string name="no_multi_window_app">No hay aplicaciones que soporten pantalla Dividida</string>
   <string name="no_notification_tips">No hay notificaciones.</string>
-  <string name="no_sim_card">Sin tarjeta SIM</string>
   <string name="no_weather_description">Obtener información del clima &gt;</string>
   <string name="not_support_multi_window">La aplicación actual no soporta pantalla Dividida</string>
-  <string name="notch_status_bar_date_format_12">EEEE, d MMMM</string>
   <string name="notification_header_title">Notificaciones</string>
   <string name="notification_hidden_text">Contenido oculto</string>
   <string name="notification_low_battery_action_btn">Activar</string>
@@ -413,12 +411,6 @@ Puede que tu operador te cobre por volver a activar datos."</string>
   <string name="power_discharging_duration_short">%1$s - %2$s restante</string>
   <string name="power_remaining_duration_only">Aprox. %1$s restante</string>
   <string name="power_remaining_duration_only_short">%1$s restante</string>
-  <string name="prompt_danger">Peligro</string>
-  <string name="prompt_detecting">Detectado</string>
-  <string name="prompt_failure">Fallo</string>
-  <string name="prompt_return_to_split">División</string>
-  <string name="prompt_safe">Seguro</string>
-  <string name="prompt_unknown">Desconocido</string>
   <string name="quick_settings_bluetooth_detail_empty_text">No hay dispositivos vinculados disponibles</string>
   <string name="quick_settings_bluetooth_label">Bluetooth</string>
   <string name="quick_settings_connect_success">Conectado</string>
