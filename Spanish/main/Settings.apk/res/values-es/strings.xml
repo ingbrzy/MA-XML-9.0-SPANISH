@@ -2753,9 +2753,9 @@ Seleccione su sistema operativo:"</string>
   <string name="nfc_more_title">Más...</string>
   <string name="nfc_payment_default">Pago predeterminado</string>
   <string name="nfc_payment_default_not_set">No establecido</string>
-  <string name="nfc_payment_favor_default">Usa siempre la aplicación predeterminada</string>
+  <string name="nfc_payment_favor_default">Siempre</string>
   <string name="nfc_payment_favor_foreground">Favorecer aplicación en primer plano</string>
-  <string name="nfc_payment_favor_open">Reemplazar la aplicación predeterminada cuando esté abierta otra aplicación de pago</string>
+  <string name="nfc_payment_favor_open">Excepto si hay otra aplicación de pago abierta</string>
   <string name="nfc_payment_how_it_works">Cómo funciona</string>
   <string name="nfc_payment_learn_more">Más información</string>
   <string name="nfc_payment_menu_item_add_service">Buscar aplicaciones</string>
