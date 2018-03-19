@@ -491,7 +491,6 @@ Check your tracking number."<!--- Added line --></string>
   <string name="launch_label">Acceso rápido</string>
   <string name="launch_no_dapp_dialog_reset">Ajustes de aplicaciones duales</string>
   <string name="launch_noapp_dialog_cancel">Cancelar</string>
-  <string name="launch_noapp_dialog_redownload">Descargar de nuevo</string>
   <string name="launch_noapp_dialog_replace">Reemplazar</string>
   <string name="launch_noapp_dialog_title">La aplicación fue eliminada</string>
   <string name="launch_order_change">Cambiar órden</string>
@@ -804,10 +803,6 @@ Check your tracking number."<!--- Added line --></string>
   <string name="stock_web_bottom_text">Abra el cliente para ver más información</string>
   <string name="stock_web_lable">Stocks</string>
   <string name="system_favorite_dialog_link">Seguridad y privacidad</string>
-  <string name="system_favorite_dialog_message">Agregue sus favoritos de otras aplicaciones aquí.</string>
-  <string name="system_favorite_dialog_negative">Cancelar</string>
-  <string name="system_favorite_dialog_positive">Permitir</string>
-  <string name="system_favorite_dialog_title_confirm">Favoritos</string>
   <string name="take_off">Quitar</string>
   <string name="taxi">Taxi</string>
   <string name="taxi_book">Llamar un taxi</string>
