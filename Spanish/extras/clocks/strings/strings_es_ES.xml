@@ -4,7 +4,7 @@
     <string name="date_time_12">EEE, dd MMMM</string>
     <string name="desc_date_format">EEEE, MMM dd</string>
     <string name="desc_date_format_12">EEEE, MMM dd</string>
-	  <string name="weather_type_0">Despejado</string>
+    <string name="weather_type_0">Despejado</string>
     <string name="weather_type_1">Nublado</string>
     <string name="weather_type_2">Con bruma</string>
     <string name="weather_type_3">Con niebla</string>
