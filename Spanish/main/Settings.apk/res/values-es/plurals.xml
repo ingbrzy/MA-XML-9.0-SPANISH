@@ -96,6 +96,10 @@
     <item quantity="other">Envíos bloqueados a %d aplicaciones </item>
     <item quantity="one">Envíos bloqueados a %d aplicación</item>
   </plurals>
+  <plurals name="print_jobs_summary">
+     <item quantity="other">%1$d trabajos de impresión</item>
+     <item quantity="one">1 trabajo de impresión</item>
+  </plurals>
   <plurals name="print_settings_summary">
      <item quantity="other">%1$d servicios de impresión</item>
      <item quantity="one">1 servicio de impresión</item>
