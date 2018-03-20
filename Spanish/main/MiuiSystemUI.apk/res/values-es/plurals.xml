@@ -26,7 +26,7 @@
     </plurals>
     <plurals name="view_realtime_clear">
         <item quantity="other">Despejado</item>
-        <item quantity="one">Soleado</item>
+        <item quantity="one">Despejado</item>
     </plurals>
     <plurals name="accessibility_desc_weather_temperature">
         <item quantity="other">%d grados de temperatura</item>
