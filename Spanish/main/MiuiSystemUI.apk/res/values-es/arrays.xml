@@ -29,7 +29,7 @@
         <item>Evitar temporalmente la mala conexión</item>
     </string-array>
     <string-array name="weather_type">
-        <item>Soleado</item>
+        <item>Despejado</item>
         <item>Nublado</item>
         <item>Claro</item>
         <item>Bruma</item>

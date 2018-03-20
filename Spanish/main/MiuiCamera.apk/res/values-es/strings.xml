@@ -368,6 +368,8 @@ y luego crea una toma donde todos se vean mejor."</string>
   <string name="pref_camera_whitebalance_entry_manual">Manual</string>
   <string name="pref_camera_whitebalance_entry_measure">Medida</string>
   <string name="pref_camera_whitebalance_title">Balance de blancos</string>
+  <string name="pref_camera_zoom_mode_entry_high_pixel">LUZ BAJA</string>
+  <string name="pref_camera_zoom_mode_entry_standard">REGULAR</string>
   <string name="pref_camera_zoom_mode_entry_tele">Tele</string>
   <string name="pref_camera_zoom_mode_entry_wide">Amplio</string>
   <string name="pref_camera_zoom_mode_title">Lente</string>

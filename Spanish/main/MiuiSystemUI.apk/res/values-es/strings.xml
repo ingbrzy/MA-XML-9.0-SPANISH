@@ -164,7 +164,7 @@
   <string name="call_status_dialing">Marcando</string>
   <string name="call_status_ringing">Sonando</string>
   <string name="camera_key_action_app_title">Abrir aplicación</string>
-  <string name="camera_key_action_category_title">Usar si la cámara no está abierta</string>
+  <string name="camera_key_action_category_title">"Usar si la aplicación de la cámara no está abierta"</string>
   <string name="camera_key_action_none_title">No hacer nada</string>
   <string name="camera_key_action_setting_title">Botón MI</string>
   <string name="camera_key_action_shortcut_call">Llamar</string>
@@ -335,8 +335,8 @@ Puede que tu operador te cobre por volver a activar datos."</string>
   <string name="long_screenshot_top_msg">Creando captura de pantalla…</string>
   <string name="long_screenshot_top_msg_manual">Recortar la captura de pantalla y toque el botón para terminar</string>
   <string name="low_temperature_button_ok">Entendido</string>
-  <string name="low_temperature_warning_message">La temperatura es demasiado baja, el teléfono se puede apagar en cualquier momento, guarde los datos.</string>
-  <string name="low_temperature_warning_title">Advertencia de apagado</string>
+  <string name="low_temperature_warning_message">La temperatura es muy baja. Su teléfono se puede apagar en cualquier momento. Asegúrese de guardar todos los cambios importantes.</string>
+  <string name="low_temperature_warning_title">Advertencia de baja temperatura</string>
   <string name="managed_profile_foreground_toast">Estás usando el perfil de trabajo</string>
   <string name="managed_user_title">Todas las aplicaciones de trabajo</string>
   <string name="mdb_entering">Iniciando…</string>
@@ -413,10 +413,10 @@ Puede que tu operador te cobre por volver a activar datos."</string>
   <string name="power_discharging_duration_short">%1$s - %2$s restante</string>
   <string name="power_remaining_duration_only">Aprox. %1$s restante</string>
   <string name="power_remaining_duration_only_short">%1$s restante</string>
-  <string name="prompt_danger">Peligro</string>
+  <string name="prompt_danger">Riesgo</string>
   <string name="prompt_detecting">Detectado</string>
-  <string name="prompt_failure">Fallo</string>
-  <string name="prompt_return_to_split">División</string>
+  <string name="prompt_failure">Error</string>
+  <string name="prompt_return_to_split">Pantalla dividida</string>
   <string name="prompt_safe">Seguro</string>
   <string name="prompt_unknown">Desconocido</string>
   <string name="quick_settings_bluetooth_detail_empty_text">No hay dispositivos vinculados disponibles</string>

@@ -1013,6 +1013,9 @@ para personalizar la Galería"</string>
   <string name="sticker_spring">Primavera</string>
   <string name="sticker_summer">Verano</string>
   <string name="sticker_words">Palabra</string>
+  <string name="storage_description_primary">Almacenamiento interno</string>
+  <string name="storage_description_sdcard">Tarjeta SD</string>
+  <string name="storage_description_xspace">Datos de aplicaciones dobles</string>
   <string name="storage_no_space">Sin espacio</string>
   <string name="straighten">Ajustar</string>
   <string name="straighten_tooltip">Arrastre la foto para enderezarla</string>
