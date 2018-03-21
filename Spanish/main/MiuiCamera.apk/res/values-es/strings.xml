@@ -19,7 +19,7 @@
   <string name="accessibility_setting_button">Botón ajustes adicionales</string>
   <string name="accessibility_shutter_button">Botón del obturador</string>
   <string name="accessibility_skin_beautify_button">Botón de embellecedor</string>
-  <string name="accessibility_stereo_button">Modo de cámara doble</string>
+  <string name="accessibility_stereo_button">Ajuste de enfoque</string>
   <string name="accessibility_video_capture_button">Botón de captura de vídeo</string>
   <string name="accessibility_video_module_picker">Selector de módulos de video</string>
   <string name="accessibility_video_pause_button">Botón de pausar vídeo</string>
@@ -81,15 +81,14 @@
   <string name="dual_camera_lens_covered_toast">La lente está cubierta.</string>
   <string name="dual_camera_lowlight_toast">"Parece que está demasiado oscuro."</string>
   <string name="dual_camera_too_close_toast">La cámara está demasiado cerca del objeto.</string>
-  <string name="dual_camera_use_hint">"El modo doble te ayuda a desenfocar el fondo.
- El objeto no debe estar a más de 2 metros".</string>
+  <string name="dual_camera_use_hint">"Asegúrate de que el objeto no esté a más de 2 metros".</string>
   <string name="edit_eye_large">Ojos grandes</string>
   <string name="edit_face_ruddy">Rojizo</string>
   <string name="edit_face_slender">Esbelto</string>
   <string name="edit_skin_smooth">Suave</string>
   <string name="edit_skin_white">Tono</string>
   <string name="error_fail_to_start_audio_capture">No se pudo iniciar la captura de audio</string>
-  <string name="face_analyze_info">Edad: %2$s (%1$s)</string>
+  <string name="face_age_info">Edad: %d</string>
   <string name="face_analyze_info_age">Edad：</string>
   <string name="face_analyze_info_female">Mujer</string>
   <string name="face_analyze_info_male">Hombre</string>
