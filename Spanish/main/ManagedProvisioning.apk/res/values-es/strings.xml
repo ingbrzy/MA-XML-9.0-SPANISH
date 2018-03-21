@@ -1,7 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
-  <string name="admin_has_ability_to_monitor_device">"Su administrador tiene la capacidad de supervisar y administrar la configuración, el acceso corporativo, las aplicaciones, los permisos, las protecciones antirrobo y los datos asociados con este dispositivo, incluida la actividad de la red y la información de ubicación de su dispositivo."</string>
-  <string name="admin_has_ability_to_monitor_profile">"Su administrador tiene la capacidad de supervisar y administrar la configuración, el acceso corporativo, las aplicaciones, los permisos y los datos asociados a este perfil, incluida la actividad de la red, así como la ubicación, el historial de llamadas y el historial de búsqueda de contactos de su dispositivo."</string>
   <string name="app_label">Configuración del perfil de trabajo</string>
   <string name="cancel_delete_profile">Cancelar</string>
   <string name="cancel_provisioning">Cancelar</string>
@@ -24,16 +22,16 @@
   <string name="device_owner_error_download_failed">"No se pudo descargar la aplicación de administración."</string>
   <string name="device_owner_error_frp">Este dispositivo está bloqueado por la protección de restablecimiento de fábrica. Póngase en contacto con su departamento de Informática.</string>
   <string name="device_owner_error_general">"No se pudo configurar su dispositivo. Póngase en contacto con su departamento de Informática"</string>
-  <string name="device_owner_error_hash_mismatch">"No se pudo usar la aplicación administración debido a un error de suma de comprobación. Póngase en contacto con su departamento de Informática."</string>
+  <string name="device_owner_error_hash_mismatch">"No se pudo usar la aplicación de administrador debido a un error de suma de comprobación. Para obtener ayuda, comunícate con su administrador".</string>
   <string name="device_owner_error_installation_failed">"No se pudo instalar la aplicación de administración"</string>
   <string name="device_owner_error_ok">Aceptar</string>
-  <string name="device_owner_error_package_invalid">"No se puede usar la aplicación de administración. Faltan componentes o está dañada. Póngase en contacto con su departamento de Informática."</string>
+  <string name="device_owner_error_package_invalid">"No se puede usar la aplicación de administración. Faltan componentes o están dañados. Para obtener ayuda, comunícate con tu administrador".</string>
   <string name="device_owner_error_reset">Reiniciar</string>
   <string name="device_owner_error_wifi">"No se pudo conectar a la red Wi-Fi"</string>
   <string name="device_owner_exists">Los perfiles de trabajo no se pueden configurar en un dispositivo gestionado</string>
   <string name="encrypt_device_launch_settings">Encriptar</string>
-  <string name="encrypt_device_text_for_device_owner_setup">"Para continuar configurando su dispositivo, deberá cifrarlo. Esto puede tomar algo de tiempo."</string>
-  <string name="encrypt_device_text_for_profile_owner_setup">"Para continuar configurando su perfil de trabajo, deberá cifrarlo. Esto puede tomar algo de tiempo."</string>
+  <string name="encrypt_device_text_for_device_owner_setup">Para configurar este dispositivo, primero debe encriptarse. Esto puede tomar algo de tiempo.</string>
+  <string name="encrypt_device_text_for_profile_owner_setup">Para configurar su perfil de trabajo, su dispositivo debe ser encriptado. Esto puede tomar algo de tiempo.</string>
   <string name="frp_clear_progress_text">Por favor espere...</string>
   <string name="frp_clear_progress_title">Borrando</string>
   <string name="learn_more_label">Botón aprenda más</string>
@@ -48,7 +46,7 @@
   <string name="opening_paragraph_delete_profile_known_company">Este perfil de trabajo se gestiona para %s usando:</string>
   <string name="opening_paragraph_delete_profile_unknown_company">Un perfil de trabajo ya existe y es administrado por:</string>
   <string name="pick_launcher">Aceptar</string>
-  <string name="preprovisioning_error_encryption_not_supported">Su dispositivo no admite el cifrado. Póngase en contacto con su departamento de Informática.</string>
+  <string name="profile_benefits_description">Al usar un perfil de trabajo, puede separar los datos de trabajo de los datos personales</string>
   <string name="profile_owner_cancel_cancel">No</string>
   <string name="profile_owner_cancel_message">¿Dejar de configurar?</string>
   <string name="profile_owner_cancel_ok">Sí</string>
@@ -81,7 +79,7 @@
   <string name="user_consent_msg">Lo consiento</string>
   <string name="user_setup_incomplete">Configuración del usuario incompleta</string>
   <string name="work_profile_setup_continue">Continue</string>
-  <string name="work_profile_setup_later_message">Puede configurar su perfil de trabajo más adelante desde la aplicación de Administrador de Dispositivos utilizada por su organización.</string>
+  <string name="work_profile_setup_later_message">"Puedes configurar tu perfil de trabajo más adelante en la aplicación de administración de dispositivos de tu organización"</string>
   <string name="work_profile_setup_later_title">¿Desea detener la configuración del perfil?</string>
   <string name="work_profile_setup_stop">Detener</string>
 </resources>
