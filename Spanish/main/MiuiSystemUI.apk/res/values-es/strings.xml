@@ -405,16 +405,12 @@ Puede que tu operador te cobre por volver a activar datos."</string>
   <string name="please_slide_agian">Deslizar de nuevo</string>
   <string name="pointer_location">Posición del puntero</string>
   <string name="pointer_location_summary">Superposición de pantalla que muestra los datos de toque actuales</string>
-  <string name="power_discharging_duration">%1$s - quedan alrededor de %2$s restante</string>
-  <string name="power_discharging_duration_short">%1$s - %2$s restante</string>
   <string name="power_remaining_charging_duration_only">%1$s restante hasta que esté completamente cargado</string>
-  <string name="power_remaining_duration_only">About %1$s restante</string>
   <string name="power_remaining_duration_only_short">%1$s restante</string>
   <string name="power_charging_duration_ac">%1$s - %2$s hasta que se llene a través de AC</string>
   <string name="power_discharging_duration">%1$s - aprox. %2$s restante</string>
   <string name="power_discharging_duration_short">%1$s - %2$s restante</string>
   <string name="power_remaining_duration_only">Aprox. %1$s restante</string>
-  <string name="power_remaining_duration_only_short">%1$s restante</string>
   <string name="prompt_danger">Riesgo</string>
   <string name="prompt_detecting">Detectado</string>
   <string name="prompt_failure">Error</string>
