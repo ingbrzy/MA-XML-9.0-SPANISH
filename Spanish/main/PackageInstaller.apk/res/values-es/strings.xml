@@ -58,12 +58,7 @@
   <string name="auto_startup_dialog_msg">Esta aplicación puede empezar sin su permiso.</string>
   <string name="available_via_passpoint">Disponible a través de %1$s</string>
   <string name="battery_info_status_charging">Cargando</string>
-  <string name="battery_info_status_charging_ac">Cargando con CA</string>
-  <string name="battery_info_status_charging_ac_short">Cargando</string>
-  <string name="battery_info_status_charging_usb">Cargando con USB</string>
-  <string name="battery_info_status_charging_usb_short">Cargando</string>
-  <string name="battery_info_status_charging_wireless">Cargando sin cables</string>
-  <string name="battery_info_status_charging_wireless_short">Cargando</string>
+  <string name="battery_info_status_charging_lower">cargando</string>
   <string name="battery_info_status_discharging">No está cargando</string>
   <string name="battery_info_status_full">Completa</string>
   <string name="battery_info_status_not_charging">No está cargando</string>
