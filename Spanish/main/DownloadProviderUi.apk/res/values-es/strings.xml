@@ -90,14 +90,14 @@
   <string name="download_list_get_hightspeed_flow_pay_ok">Pago completado.</string>
   <string name="download_list_get_hightspeed_flow_sucess_head">Sesión de prueba Xunlei creada</string>
   <string name="download_list_get_hightspeed_flow_sucess_tail">Disfrute de velocidades de descarga más rápidas gracias a Xunlei</string>
-  <string name="download_list_intoAuth">Verifique su cuenta</string>
-  <string name="download_list_intoAuthAlert">Cargando</string>
+  <string name="download_list_intoAuth">Verifica su cuenta</string>
+  <string name="download_list_intoAuthAlert">Un momento…</string>
   <string name="download_list_open_xl_cancel">Cancelar</string>
   <string name="download_list_open_xl_message">El acelerador Xunlei le permitirá aumentar la velocidad de las descargas.</string>
   <string name="download_list_open_xl_ok">Aceptar</string>
   <string name="download_list_open_xl_title">Acelerador de descargas Xunlei</string>
   <string name="download_list_title_browser">Descargas</string>
-  <string name="download_no_application">No hay aplicaciones que soporten este formato</string>
+  <string name="download_no_application">"No se puede abrir el archivo"</string>
   <string name="download_no_application_title">No se puede abrir el archivo</string>
   <string name="download_paused">Descarga pausada</string>
   <string name="download_pending">Descarga pendiente</string>
