@@ -10,6 +10,7 @@
     <string-array name="alert_reminder_interval_entries">
          <item>Una vez</item>
          <item>Cada 2 minutos</item>
+         <item>Cada 5 minutos</item>
          <item>Cada 15 minutos</item>
          <item>Apagado</item>
      </string-array>
