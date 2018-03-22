@@ -15,8 +15,10 @@ esta característica se añadirá al Segundo espacio de forma automática."</str
   <string name="appData">Aplicaciones instaladas</string>
   <string name="app_name">Security Core</string>
   <string name="back">Atrás</string>
+  <string name="bind_device">Agregar dispositivos</string>
   <string name="can_not_delete_when_calling">"No se pueden eliminar espacios durante una llamada"</string>
   <string name="can_not_switch_when_calling">"No se puede cambiar de espacio durante una llamada"</string>
+  <string name="can_not_switch_when_green_kid_active">El cambio al segundo espacio está restringido por los controles parentales</string>
   <string name="cancelClosePassword">No apagar</string>
   <string name="cancel_button">Cancelar</string>
   <string name="changePassword">Cambiar contraseña</string>
@@ -86,6 +88,7 @@ para poder verlos en cualquier momento"</string>
   <string name="err_unknown">Error desconocido</string>
   <string name="err_volume_not_enough">No hay suficiente espacio de almacenamiento</string>
   <string name="exit_private_space">Cambiar</string>
+  <string name="experience_more_features">Agregue un dispositivo para ver todas las funciones</string>
   <string name="finger_print_num">Huella dactilar %d</string>
   <string name="finger_print_of_use">Use la huella dactilar</string>
   <string name="fingerprint_removal_failed">No se pudo borrar la huella dactilar</string>
@@ -95,6 +98,12 @@ para poder verlos en cualquier momento"</string>
   <string name="gms_title">Activar los servicios de Google</string>
   <string name="goToSecondSpacce">Ir al Segundo espacio</string>
   <string name="go_on_import">Mantener la importación</string>
+  <string name="green_guard">Controles parentales</string>
+  <string name="green_guard_des1">Agregue dispositivos para administrarlos de forma remota</string>
+  <string name="green_guard_des2">Sepa dónde están exactamente todos los dispositivos administrados</string>
+  <string name="green_guard_des3">Controle las aplicaciones instaladas y restrinja el uso</string>
+  <string name="green_guard_title2">Ver información de ubicación</string>
+  <string name="green_guard_title3">Administrar aplicaciones</string>
   <string name="guide_contact_sub_title_desc">"Los contactos añadidos al Segundo espacio se mantendrán privados.
 Los mensajes sólo aparecerán en el Segundo espacio."</string>
   <string name="guide_contact_suc_sub_title_desc">Sólo se mostrarán los contactos privados y los mensajes en el Segundo espacio</string>
@@ -128,6 +137,7 @@ También puede importarlas por separado."</string>
   <string name="msg_switch_photo">¿Eliminar estas fotos del Primer espacio después de haberlos movidos?</string>
   <string name="needSetKeyguardFirst">Establecer contraseña del Primer espacio</string>
   <string name="needSetKeyguardFirstDes">Establezca una contraseña al Primer espacio antes que la contraseña del Segundo espacio</string>
+  <string name="need_network_when_bind">Conéctese a la red antes de Agregar dispositivos</string>
   <string name="need_network_when_create">Conectar a la red antes de crear espacio de trabajo</string>
   <string name="need_reset_passwd">Restablecer Contraseña del espacio de trabajo antes de entrar en el espacio de trabajo</string>
   <string name="need_set_second_space_desc">Añadir contraseña al Segundo espacio antes de registrar una huella dactilar al Segundo espacio</string>
