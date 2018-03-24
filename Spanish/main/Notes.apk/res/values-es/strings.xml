@@ -30,6 +30,7 @@
   <string name="dialog_share_as_pic">Compartir nota como imagen</string>
   <string name="dialog_share_as_text">Compartir nota como texto</string>
   <string name="dialog_share_title">Compartir nota</string>
+  <string name="dialog_privacy_revoke_tips">"Después de revocar la autorización, la aplicación dejará de recopilar datos y todos los datos relacionados se eliminarán de los servidores. Esto podría hacer que la aplicación sea prácticamente inutilizable. ¿Revocar autorización de todos modos? Para garantizar la seguridad de su cuenta, inicie sesión en i.mi.com antes de revocar la autorización para los servicios Mi Cloud".</string>
   <string name="dlg_btn_set_password">Establecer contraseña</string>
   <string name="dlg_check_reminder">"No mostrar de nuevo"</string>
   <string name="dlg_delete_message">Eliminando…</string>
