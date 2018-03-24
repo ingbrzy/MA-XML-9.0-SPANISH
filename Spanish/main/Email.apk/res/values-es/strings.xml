@@ -8,10 +8,6 @@
   <string name="account_duplicate_dlg_message_fmt">"Ya está usando este nombre de usuario para la cuenta \"%s\"."</string>
   <string name="account_duplicate_dlg_title">Cuenta duplicada</string>
   <string name="account_failure">Sesión terminada</string>
-  <string name="account_manager_type_exchange">com.android.exchange</string>
-  <string name="account_manager_type_imap">com.android.email</string>
-  <string name="account_manager_type_legacy_imap">com.android.email</string>
-  <string name="account_manager_type_pop3">com.android.email</string>
   <string name="account_name_toast">Ya existe una cuenta con el mismo nombre</string>
   <string name="account_options_sync_title">Sincronizar</string>
   <string name="account_password_spaces_error">"Esta contraseña comienza o termina con uno o varios
@@ -217,7 +213,6 @@
   <string name="attachment_unknown">%s Archivo</string>
   <string name="attachment_video">Vídeo</string>
   <string name="attachments_header">Adjuntos</string>
-  <string name="authority_email_provider">com.android.email.provider</string>
   <string name="auto_advance_help_title">Después de eliminar un mensaje, ver…</string>
   <string name="auto_advance_label">Eliminar flujo de mensajes</string>
   <string name="auto_advance_summary">Elegir a qué mensaje desplazarse tras eliminar otro mensaje</string>
@@ -418,7 +413,6 @@
   <string name="elided_padding_token"> </string>
   <string name="email_address">Dirección de correo electrónico</string>
   <string name="email_netease">Correo NetEase</string>
-  <string name="email_package_name">com.android.email</string>
   <string name="email_qq">Correo QQ</string>
   <string name="email_setting">Correo</string>
   <string name="email_setting_keywords">cuentas;Añadir cuenta;cuentas de correo;añadir cuenta de correo;confirmar antes de eliminar;confirmación de eliminación;confirmar antes de enviar;confirmación;eliminar el flujo de mensajes;eliminar redireccionamiento;vista de la conversación;conversación de correo;ahorro de batería;batería del correo;enviar feedback;subir reporte</string>
@@ -549,7 +543,6 @@
   <string name="info_switch_title">Promoción</string>
   <string name="inline_picture_deleted">Descargar imagen ausente…</string>
   <string name="input_password_prompt">Introduzca su contraseña</string>
-  <string name="intent_account_manager_entry">com.android.email.activity.setup.ACCOUNT_MANAGER_ENTRY</string>
   <string name="interact_with_server_error">"No se pudo conectar con el servidor"</string>
   <string name="invalid_recipient">La dirección %s no es válida.</string>
   <string name="invalid_recipient_title">Error de destinatario</string>
