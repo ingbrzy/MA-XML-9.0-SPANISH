@@ -34,7 +34,7 @@
   <string name="account_security_info_pref_title">Información de seguridad</string>
   <string name="account_token_expired_msg">"Código de verificación expirado, empiece de nuevo o salga
  Su ID de cuenta: %s"</string>
-  <string name="account_token_expired_title">Autentificación fallida</string>
+  <string name="account_token_expired_title">"No se pudo autenticar"</string>
   <string name="account_user_avatar">Foto de perfil</string>
   <string name="account_user_avatar_from_album">Elegir foto</string>
   <string name="account_user_avatar_from_camera">Tomar una foto</string>
@@ -449,7 +449,7 @@ Para activar su cuenta, siga el
   <string name="unbind_sns_description">Una vez borrada esta cuenta, no podrás usar la información de tu cuenta %s para iniciar sesión en tu Cuenta Mi.</string>
   <string name="unlock_help_notice">"Ayuda:
  1. Si ha olvidado su contraseña, vaya a id.mi.com para restablecerlo.
- 2. Si no puede desbloquear el dispositivo, vaya a i.mi.com para desactivar buscar dispositivo.
+ 2. Si no puede restablecer su contraseña o alguien ha bloqueado su dispositivo, vaya a i.mi.com para desbloquearlo.
  3. Su número de desbloqueo: %s"</string>
   <string name="update_contacts">Actualiza contactos</string>
   <string name="update_email_address_dialog_message">Necesita verificar su identidad antes de poder actualizar el correo.</string>

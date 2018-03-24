@@ -25,6 +25,7 @@
   <string name="details">Detalles</string>
   <string name="dialog_content_storage_full">Grabación detenida porque no hay suficiente espacio en la memoria interna del dispositivo.</string>
   <string name="dialog_title_storage_full">No hay espacio suficiente</string>
+  <string name="dialog_privacy_revoke_tips">"Después de revocar la autorización, la aplicación dejará de recopilar datos y todos los datos relacionados se eliminarán de los servidores. Esto podría hacer que la aplicación sea prácticamente inutilizable. ¿Revocar autorización de todos modos? Para garantizar la seguridad de su cuenta, inicie sesión en i.mi.com antes de revocar la autorización para los servicios Mi Cloud".</string>
   <string name="duration_format_hour">%sh</string>
   <string name="duration_format_minute">%sm</string>
   <string name="duration_format_second">%ss</string>
