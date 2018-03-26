@@ -6,7 +6,6 @@
   <string name="activity_parse_video_title">Pegar enlace de video</string>
   <string name="ad_download">Descargas</string>
   <string name="ad_downloading">Un momento…</string>
-  <string name="add_one">+1</string>
   <string name="add_private">Ocultar archivos ahora</string>
   <string name="add_private_files">Añadir archivos</string>
   <string name="album_creator">Creado por %s</string>
@@ -786,9 +785,7 @@
   <string name="video_publish_watchable_tag">Sígueme para ver este video</string>
   <string name="video_status_reject">Rechazado</string>
   <string name="video_status_review">Siendo reseñado</string>
-  <string name="video_tag">\#%s#</string>
   <string name="video_tag_search_hint">Personalizar tópico</string>
-  <string name="video_tag_search_lead">\#</string>
   <string name="video_tag_search_title">Seleccionar tópico</string>
   <string name="video_topic_hint">Buscar personas o temas</string>
   <string name="video_upload_btn">Siguiente</string>
