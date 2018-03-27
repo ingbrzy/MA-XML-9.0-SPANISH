@@ -598,7 +598,7 @@
     </string-array>
     <string-array name="ap_identify">
         <item>predeterminado</item>
-        <item>iPhone</item>
+        <item>Punto de acceso móvil</item>
     </string-array>
     <string-array name="battery_indicator_style_entries">
         <item>Gráfica</item>
