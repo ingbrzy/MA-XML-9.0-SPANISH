@@ -1583,7 +1583,7 @@ El uso de datos determinado por el teléfono puede variar del recuento realizado
   <string name="enable_webview_multiprocess_desc">Ejecutar renderizadores de WebView separados</string>
   <string name="enable_wifi_display">Pantalla inalámbrica</string>
   <string name="enabled_by_admin">Activado por el administrador</string>
-  <string name="enalbe_identify_iPhone">Identificación AP</string>
+  <string name="enalbe_identify_iPhone">Identificación del dispositivo</string>
   <string name="encrypt_dont_require_password">No, gracias</string>
   <string name="encrypt_dont_require_pattern">No, gracias</string>
   <string name="encrypt_dont_require_pin">No, gracias</string>
