@@ -109,9 +109,9 @@
   <string name="bookmark_group_lable">Grupo</string>
   <string name="bookmark_needs_title">Marcador debe tener un nombre</string>
   <string name="bookmark_needs_url">Marcador debe contener una URL</string>
-  <string name="bookmark_not_saved">"No se pudo guardar en favoritos"</string>
+  <string name="bookmark_not_saved">"No se pudo agregar a los marcadores"</string>
   <string name="bookmark_rename_group">Cambiar el nombre de grupo</string>
-  <string name="bookmark_saved">Guardado en favoritos</string>
+  <string name="bookmark_saved">Agregado a marcadores</string>
   <string name="bookmark_title">Nombre de marcador</string>
   <string name="bookmark_title_lable">Título</string>
   <string name="bookmark_url">URL http://</string>
@@ -583,7 +583,7 @@ Las páginas que visites no se verán reflejadas en el historial"</string>
   <string name="pref_enable_videos">Vídeos</string>
   <string name="pref_extras_reset_default">Restaurar los valores predeterminados</string>
   <string name="pref_extras_reset_default_dlg">¿Restaurar la configuración predeterminada?</string>
-  <string name="pref_extras_reset_default_summary">Restaurar la configuración predeterminada</string>
+  <string name="pref_extras_reset_default_summary">Restaurar orden predeterminada</string>
   <string name="pref_extras_reset_default_title">Otro</string>
   <string name="pref_extras_send_feedback">Enviar comentarios</string>
   <string name="pref_extras_title">Avanzado</string>
