@@ -1100,7 +1100,7 @@ Para agregar un contacto a la lista de favoritos:
   <string name="search_contacts_display">Contactos;Monitor</string>
   <string name="search_contacts_more">Organizar;Contactos</string>
   <string name="search_contacts_recovery">Contactos</string>
-  <string name="search_contacts_setting">Ajustes de los contactos;Pantalla de fotos e información;Asignar fotos de contactos;Importación y exportación;Compartir;Importar desde la tarjeta SD;Importar desde la tarjeta SIM;Importar desde otro teléfono;Exportar desde la tarjeta SD;Exportar desde la tarjeta SIM;Compartir contactos;Mostrar preferencias;Ocultar números incompletos;Mostrar contactos de SIM;Configurar listas de contactos;Grupos inteligentes;Organizar contactos;Fusionar contactos duplicados;Eliminar lote;Borrar datos;Reconstruir datos de índice;t9;Tarjetas SIM;Almacenamiento de tarjetas SIM;Introducción de recuperación de contactos;Fotos de contacto</string>
+  <string name="search_contacts_setting">Ajustes de contacto;Visualizar fotos e información;Asignar fotos de contacto;Importar y exportar;Compartir;Importar desde el almacenamiento;Importar desde tarjeta SIM;Importar desde otro teléfono;Exportar a almacenamiento;Exportar a tarjeta SIM;Compartir contactos;Mostrar preferencias;Ocultar números incompletos;Mostrar contactos SIM;Configurar listas de contactos;Grupos inteligentes;Organizar contactos;Fusionar contactos duplicados;Eliminar lote;Borrar datos; Reconstruir datos de índice;t9;Tarjetas SIM;Almacenamiento con tarjeta SIM;Introducción de recuperación de contactos;Fotos de contacto</string>
   <string name="search_display_only_phones">Contactos;Monitor</string>
   <string name="search_display_sim_contacts">Contactos;Monitor</string>
   <string name="search_export_to_sdcard">Contactos;Exportar;Almacenamiento</string>
@@ -1122,7 +1122,7 @@ Para agregar un contacto a la lista de favoritos:
   <string name="search_simple_mode">Mostrar;información;fotos;Contactos</string>
   <string name="search_smart_group_title">Contactos;Mostrar</string>
   <string name="search_wipe_data">Organizar;Contactos</string>
-  <string name="searching_vcard_message">Buscando vCard en el almacenamiento…</string>
+  <string name="searching_vcard_message">Buscando datos vCard desde el dispositivo…</string>
   <string name="select_all">Seleccionar todo</string>
   <string name="select_all_exceed">No seleccione más de %1$d, no se puede seleccionar todos</string>
   <string name="select_exceed">No seleccione más de %1$d</string>
