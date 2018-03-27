@@ -4,8 +4,4 @@
         <item quantity="other">%d llamadas grabadas.</item>
         <item quantity="one">%d llamada grabada.</item>
     </plurals>
-    <plurals name="livetalk_left_minute">
-        <item quantity="other">%d minutos restantes</item>
-        <item quantity="one">%d minuto restante</item>
-    </plurals>
 </resources>
