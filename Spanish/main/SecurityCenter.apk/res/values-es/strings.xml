@@ -1544,7 +1544,7 @@ Mientras se calibra, MIUI le enviará un mensaje de texto a su operadora para re
   <string name="report_only">Elija un mensaje sobre el que informar</string>
   <string name="report_success">Mensaje informado</string>
   <string name="report_warning">¿Informar %1$s SMS a Mi? Estos mensajes y los números de teléfono desde los que hayan sido enviados serán subidos a los servidores de Mi para ser revisados. Cualquier datos personal asociado con estos mensajes siempre serán mantenido en el anonimato.</string>
-  <string name="report_warning_title">Informar SMS</string>
+  <string name="report_warning_title">Atención</string>
   <string name="resource_antispam">Lista de bloqueo</string>
   <string name="resource_antivirus">Búsqueda de virus</string>
   <string name="resource_app_permissions">Permisos de aplicación</string>
@@ -1871,8 +1871,8 @@ Si no ha modificado MIUI en modo alguno, asegúrese de saber de dónde viene est
   <string name="sys_app_prot_cracked_title">Riesgo de seguridad</string>
   <string name="sys_cpu_title">Uso de CPU</string>
   <string name="sys_freememory_title">Disponible</string>
-  <string name="sys_title_gamebooster_unit_gb">G</string>
-  <string name="sys_title_gamebooster_unit_mb">M</string>
+  <string name="sys_title_gamebooster_unit_gb">GB</string>
+  <string name="sys_title_gamebooster_unit_mb">MB</string>
   <string name="system_app">Aplicaciones del sistema</string>
   <string name="system_application">Aplicaciones del sistema</string>
   <string name="tab_blacklist">Lista de bloqueo</string>
