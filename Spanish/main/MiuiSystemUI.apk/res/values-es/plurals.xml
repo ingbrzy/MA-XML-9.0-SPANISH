@@ -13,8 +13,8 @@
         <item quantity="one">Recientemente abiertas, aplicación disponible: 1. Desliza el dedo hacia arriba para eliminarlo, deslízalo hacia abajo para bloquearlo.</item>
     </plurals>
     <plurals name="settings_toggle_position_divider_page">
-        <item quantity="other">%1$d accesos activos encima de la barra de tareas</item>
-        <item quantity="one">1 acceso activo encima de la barra de tareas</item>
+        <item quantity="other">%1$d accesos se mostrarán en el panel de Notificaciones</item>
+        <item quantity="one">%1$d acceso se mostrará en el panel de Notificaciones</item>
     </plurals>
     <plurals name="disable_notification_confirm_title">
         <item quantity="other">¿Ocultar las notificaciones de %d aplicaciones?</item>
@@ -41,8 +41,16 @@
         <item quantity="other">%s más notificaciones en el interior.</item>
         <item quantity="one">%s notificaciones más en el interior.</item>
     </plurals>
+    <plurals name="notification_group_child_count">
+        <item quantity="other">%1$d notificaciones</item>
+        <item quantity="one">%1$d notificación</item>
+    </plurals>
+    <plurals name="notification_group_overflow_description">
+        <item quantity="other">%s notificaciones más en el interior.</item>
+        <item quantity="one">%s notificación más en el interior.</item>
+    </plurals>
     <plurals name="fold_tips_title">
-        <item quantity="other">%d notificaciones se repiten</item>
-        <item quantity="one">%d notificación se repite</item>
+        <item quantity="other">%d notificaciones sin importancia</item>
+        <item quantity="one">%d notificación sin importancia</item>
     </plurals>
 </resources>
