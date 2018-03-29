@@ -102,7 +102,7 @@
   <string name="operation_upload">Subir</string>
   <string name="paused">Pausado</string>
   <string name="petabyteShort">PB</string>
-  <string name="pick_from_fileexplor_failed">Update Explorer first.</string>
+  <string name="pick_from_fileexplor_failed">Primero actualice Administrador de archivos.</string>
   <string name="quota_info">Mi Drive: %1$s disponibles, %2$s total</string>
   <string name="rename_alert">"Si cambia la extensión del archivo, a lo mejor no será capaz de abrirlo."</string>
   <string name="rename_failed">Un archivo con el mismo nombre ya existe.</string>
