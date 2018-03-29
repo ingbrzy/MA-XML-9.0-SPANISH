@@ -1,5 +1,17 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+  <plurals name="firewall_item_summary">
+     <item quantity="other">Conexión restringida para %s aplicaciones</item>
+     <item quantity="one">Conexión restringida para %s aplicación</item>
+  </plurals>
+  <plurals name="bg_network_allow_count">
+     <item quantity="other">%d aplicaciones pueden conectarse a la red</item>
+     <item quantity="one">%d aplicación pueden conectarse a la red</item>
+  </plurals>
+  <plurals name="bg_network_restrict_count">
+     <item quantity="other">"%d aplicaciones no se pueden conectar a la red"</item>
+     <item quantity="one">"%d aplicación no se pueden conectar a la red"</item>
+  </plurals>
   <plurals name="accessibilty_autoclick_preference_subtitle_extremely_short_delay">
     <item quantity="other">Retraso extremadamente corto (%1$d ms)</item>
     <item quantity="one">Retraso extremadamente corto (%1$d ms)</item>
@@ -113,8 +125,8 @@
     <item quantity="one">Estás a %1$d paso de acceder a la info cit.</item>
   </plurals>
   <plurals name="settings_toggle_position_divider_page">
-     <item quantity="other">%1$d conmutadores situados por encima de la barra están activos</item>
-     <item quantity="one">1 conmutadores situado por encima de la barra está activo</item>
+     <item quantity="other">%1$d accesos se mostrarán en el panel de Notificaciones</item>
+     <item quantity="one">%1$d accesos se mostrará en el panel de Notificaciones</item>
   </plurals>
   <plurals name="show_dev_countdown">
     <item quantity="other">Estás a %1$d pasos de ser desarrollador.</item>
