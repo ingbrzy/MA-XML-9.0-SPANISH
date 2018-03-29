@@ -162,9 +162,12 @@ y luego crea una toma donde todos se vean mejor."</string>
   <string name="portait_effect_entry_japanese">Cielo azul</string>
   <string name="portait_effect_entry_maze">Laberinto</string>
   <string name="portait_effect_entry_mood">Emociones</string>
+  <string name="portait_effect_entry_movie">Película</string>
   <string name="portait_effect_entry_nature">Naturaleza</string>
   <string name="portait_effect_entry_pink">Sonrojo</string>
+  <string name="portait_effect_entry_riddle">Enigma</string>
   <string name="portait_effect_entry_romance">Romántico</string>
+  <string name="portait_effect_entry_story">Historia</string>
   <string name="portrait_mode_depth_effect_success_hint">Efecto de profundidad</string>
   <string name="portrait_mode_lowlight_hint">"Ahora está demasiado oscuro"</string>
   <string name="portrait_mode_too_close_hint">Alejarse del objeto</string>
