@@ -1582,6 +1582,8 @@ El uso de datos determinado por el teléfono puede variar del recuento realizado
   <string name="enable_webview_multiprocess">WebView multiproceso</string>
   <string name="enable_webview_multiprocess_desc">Ejecutar renderizadores de WebView separados</string>
   <string name="enable_wifi_display">Pantalla inalámbrica</string>
+  <string name="enabled_authorised_apps_summary">Su autorización será revocada después de alternar interruptores de aplicaciones individuales.</string>
+  <string name="enabled_authorised_apps_title">Autorización concedida</string>
   <string name="enabled_by_admin">Activado por el administrador</string>
   <string name="enalbe_identify_iPhone">Identificación del dispositivo</string>
   <string name="encrypt_dont_require_password">No, gracias</string>
@@ -3157,6 +3159,22 @@ Esto también dará a la aplicación la capacidad de activar y desactivar No Mol
   <string name="priority_storage_settings_summary">"Si no se detecta ninguna SD, los datos del usuario se guardarán automáticamente en la memoria interna de su dispositivo "</string>
   <string name="priority_storage_summary">Elija dónde guardar sus datos</string>
   <string name="priority_storage_title">Ajustes de almacenamiento</string>
+  <string name="privacy_authorize_cloud_msg">"Para garantizar la seguridad de su cuenta, inicie sesión en i.mi.com si desea revocar la autorización de los servicios Mi nube (incluidas las sincronizaciones y las copias de seguridad).</string>
+  <string name="privacy_authorize_dialog_agree">Aceptar</string>
+  <string name="privacy_authorize_dialog_exit">Salir</string>
+  <string name="privacy_authorize_dialog_message">&lt;Datos&gt;"Para utilizar las funciones básicas de los servicios Mi nube, debe aceptar que Xiaomi recopile, procese y use sus datos personales. Consulte nuestra Política de privacidad para conocer cómo recopilamos y procesamos los datos personales. Seleccionar \"Aceptar\" significa que ha leído y aceptado nuestra &amp;lt;a href=\"http://www.miui.com/res/doc/privacy.html?region=%1$s&amp;amp;lang=%2$s\"&amp;gt;Política de privacidad&amp;lt;/a&amp;gt; y &amp;lt;a href=\"http://www.miui.com/res/doc/eula.html?region=%3$s&amp;amp;lang=%4$s\"&amp;gt;Acuerdo del Usuario&amp;lt;/a&amp;gt;.&amp;#8203;"&lt;/Datos&gt;</string>
+  <string name="privacy_authorize_network_error">Conéctate a la red y vuelve a intentarlo.</string>
+  <string name="privacy_authorize_privacy_policy">Política de privacidad</string>
+  <string name="privacy_authorize_revoke">Revocar</string>
+  <string name="privacy_authorize_revoke_dialog_msg">Después de revocar la autorización, la aplicación dejará de recopilar datos y todos los datos relacionados se eliminarán de los servidores. Esto podría hacer que la aplicación sea prácticamente inutilizable. ¿Revocar autorización de todos modos?</string>
+  <string name="privacy_authorize_revoke_dialog_title">Revocación de la autorización</string>
+  <string name="privacy_authorize_revoke_failed">"No se pudo revocar la autorización"</string>
+  <string name="privacy_authorize_revoke_success">Autorización revocada con éxito</string>
+  <string name="privacy_authorize_revoke_time">Renunciar (%1$ds)</string>
+  <string name="privacy_authorize_revoke_title">Autorización y revocación</string>
+  <string name="privacy_authorize_revoking">Revocación de la autorización…</string>
+  <string name="privacy_authorize_success">Autorización otorgada con éxito</string>
+  <string name="privacy_authorize_title">Concesión de autorización</string>
   <string name="privacy_close_dlg_button_ok">Apagado</string>
   <string name="privacy_close_dlg_msg">Cuando la contraseña de protección de privacidad está desactivada, los elementos ya no estarán protegidos.</string>
   <string name="privacy_close_dlg_title">Atención</string>
