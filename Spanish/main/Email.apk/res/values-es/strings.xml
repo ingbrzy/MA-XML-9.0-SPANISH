@@ -973,8 +973,7 @@ para recibir recordatorios sobre pagos y viajes"</string>
   <string name="security_changed_ticker_fmt">La cuenta \"%s\"cambió su configuración de seguridad; ninguna acción del usuario se requiere.</string>
   <string name="security_needed_ticker_fmt">La cuenta \"%s\" requiere una actualización de los ajustes de seguridad.</string>
   <string name="security_notification_content_change_title">Las políticas de seguridad han cambiado</string>
-  <string name="security_notification_content_unsupported_title">"Security requirements can't be
-         met"</string>
+  <string name="security_notification_content_unsupported_title">"Los requisitos de seguridad no se pueden cumplir"</string>
   <string name="security_notification_content_update_title">Necesario actualizar seguridad</string>
   <string name="security_unsupported_ticker_fmt">"La cuenta \"%s\" no puede ser sincronizada debido a requisitos de seguridad."</string>
   <string name="select_attachment_type">Elegir adjunto de</string>

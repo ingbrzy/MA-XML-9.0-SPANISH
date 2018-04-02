@@ -3949,7 +3949,7 @@ Nota: su huella dactilar puede ser menos segura que un patrón complejo o un PIN
   <string name="set_password_title">Establecer contraseña</string>
   <string name="setting_privacy_password">Establecer contraseña de privacidad</string>
   <string name="settings_ad_loading">Cargando…</string>
-  <string name="settings_ad_loading_unavailable">Hay un problema al cargar.</string>
+  <string name="settings_ad_loading_unavailable">"No se pudo cargar la información".</string>
   <string name="settings_backup">Hacer copia de seguridad de configuración</string>
   <string name="settings_backup_summary">Hacer copia de seguridad de mi configuración</string>
   <string name="settings_button">Ajustes</string>
@@ -4498,8 +4498,8 @@ un servicio de Google que te permite sincronizar datos para que puedas acceder a
   <string name="testing_usage_stats">Estadísticas de uso</string>
   <string name="testing_wifi_info">Información Wi-Fi</string>
   <string name="tether_and_hotspot_title">Anclaje de red y punto de acceso portátil</string>
-  <string name="tether_auto_disable_summary">Cerrar automáticamente el punto de acceso cuando no hay dispositivos conectados</string>
-  <string name="tether_auto_disable_title">Cerrar automáticamente el punto de acceso</string>
+  <string name="tether_auto_disable_summary">Desactivar el punto de acceso automáticamente cuando no hay dispositivos conectados</string>
+  <string name="tether_auto_disable_title">Desactivar el punto de acceso automáticamente</string>
   <string name="tether_data_usage_limit">Límite de datos de una sola vez</string>
   <string name="tether_data_usage_limit_summary">El límite de datos se aplicará la próxima vez que su punto de acceso esté activado</string>
   <string name="tether_devices_management_title">Administrar dispositivos</string>
@@ -4815,7 +4815,7 @@ Sus huellas dactilares guardadas también serán eliminadas de este perfil y no 
   <string name="usb_use_power_only_desc">Proporcionar corriente eléctrica al otro dispositivo conectado</string>
   <string name="use_location_summary">Permitir que Google use tu ubicación para mejorar los resultados de búsqueda y otros servicios</string>
   <string name="use_location_title">Ubicación en búsquedas</string>
-  <string name="use_personalized_ad_service">Recomendación de Anuncio Personalizado</string>
+  <string name="use_personalized_ad_service">Recomendaciones publicitarias personalizadas</string>
   <string name="use_privacy_password_immediate">Usar</string>
   <string name="use_system_language_to_select_input_method_subtypes">Usar idiomas del sistema</string>
   <string name="use_this_wlan">Permanecer conectado</string>

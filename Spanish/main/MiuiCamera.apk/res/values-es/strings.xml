@@ -24,7 +24,9 @@
   <string name="accessibility_video_module_picker">Selector de módulos de video</string>
   <string name="accessibility_video_pause_button">Botón de pausar vídeo</string>
   <string name="accessibility_zoom_button">Modo zoom</string>
-  <string name="audio_focus_exit_button_text">Cerrar enfoque de audio</string>
+  <string name="ai_scene_mode_use_hint_text">"La cámara AI detecta escenas automáticamente
+y optimiza tus fotos en base a esta información"</string>
+  <string name="audio_focus_exit_button_text">Desactivar el enfoque de audio</string>
   <string name="beauty_fragment_tab_name_beauty">Belleza</string>
   <string name="beauty_fragment_tab_name_makeup">Avanzado</string>
   <string name="burst_shoot_exit_button_text">Cerrar disparo en ráfaga</string>
@@ -202,6 +204,7 @@ y luego crea una toma donde todos se vean mejor."</string>
   <string name="pref_camera_beauty">Embellececedor</string>
   <string name="pref_camera_beauty_deep">Embellecedor Pro</string>
   <string name="pref_camera_bokeh_title">Portrait</string>
+  <string name="pref_camera_ai_scene_title">Cámara AI</string>
   <string name="pref_camera_coloreffect_entry_aqua"/>
   <string name="pref_camera_coloreffect_entry_big_face">Difuminar</string>
   <string name="pref_camera_coloreffect_entry_blackwhite">B y N</string>

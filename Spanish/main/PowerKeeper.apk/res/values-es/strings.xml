@@ -31,13 +31,14 @@
   <string name="config_scenario_policies_title">Escenarios</string>
   <string name="config_suggest_description">"Identificar las aplicaciones y actividades para mantener los procesos importantes activos.
 El economizador de batería tratará de forma selectiva las aplicaciones importantes."</string>
-  <string name="config_suggest_suffix_title">Economizador de batería MIUI (recomendado)</string>
-  <string name="config_suggest_title">Economizador de batería MIUI</string>
-  <string name="disable_hide_mode">Deshabilitar el Ahorrador de Batería MIUI</string>
-  <string name="disable_hide_mode_warning">Deshabilitar el Ahorrador de Batería MIUI puede causar más consumo de energía</string>
+  <string name="config_suggest_suffix_title">Economizador de batería (recomendado)</string>
+  <string name="config_suggest_title">Economizador de batería</string>
+  <string name="disable_hide_mode">Deshabilitar el Ahorrador de Batería/string>
+  <string name="disable_hide_mode_warning">Desactivar Ahorro de batería puede aumentar el consumo de energía de su dispositivo.</string>
   <string name="disabled">Apagado</string>
   <string name="empty_title_apps_container_list">Sin aplicaciones</string>
-  <string name="enable_hide_mode">Habilitar el Ahorrador de Batería MIUI</string>
+  <string name="enable_hide_mode">Activar Ahorro de batería</string>
+  <string name="enable_sleep_mode">Active el modo de Suspensión para optimizar el uso de la batería durante la noche</string>
   <string name="error_filename_too_long">Nombre de archivo demasiado largo.</string>
   <string name="extreme_power_config_mode_category">Modo extremo</string>
   <string name="extreme_power_config_mode_desc">Cambie al modo extremo para desactivar la sincronización, Bluetooth, GPS, NFC, doble toque, las luces de los botones, la pantalla de bloqueo de las notificaciones, así como las luces de notificación. MIUI se enfocará en ahorrar batería.</string>
