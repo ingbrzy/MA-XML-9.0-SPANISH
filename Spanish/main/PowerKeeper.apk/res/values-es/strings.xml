@@ -33,7 +33,7 @@
 El economizador de batería tratará de forma selectiva las aplicaciones importantes."</string>
   <string name="config_suggest_suffix_title">Economizador de batería (recomendado)</string>
   <string name="config_suggest_title">Economizador de batería</string>
-  <string name="disable_hide_mode">Deshabilitar el Ahorrador de Batería/string>
+  <string name="disable_hide_mode">Deshabilitar el Ahorrador de Batería</string>
   <string name="disable_hide_mode_warning">Desactivar Ahorro de batería puede aumentar el consumo de energía de su dispositivo.</string>
   <string name="disabled">Apagado</string>
   <string name="empty_title_apps_container_list">Sin aplicaciones</string>
