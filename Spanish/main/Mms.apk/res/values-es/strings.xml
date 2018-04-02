@@ -154,7 +154,7 @@
   <string name="enter_edit_mode">Editar mensajes</string>
   <string name="error_code_label">"Código de error: "</string>
   <string name="error_state">Estado inconsistente</string>
-  <string name="error_state_text">El estado de hilos y destinatarios es inconsistente. Por favor capture un informe de errores y enviarlo a vía http://go/droidanizer</string>
+  <string name="error_state_text">El estado de los hilos y los destinatarios es inconsistente. Capture un informe de error e infórmelo a través de http://go/droidanizer</string>
   <string name="error_timed_msg">Hora no válida.</string>
   <string name="ex_type_mx">Mensajes Mi</string>
   <string name="ex_type_sms">SMS/MMS</string>
