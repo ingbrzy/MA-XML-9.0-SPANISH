@@ -40,6 +40,11 @@
   <string name="apps_sort_type_item_size">Tamaño</string>
   <string name="apps_sort_type_item_time">Usado frecuentemente</string>
   <string name="apps_sort_type_title">Ordenar</string>
+  <string name="auto_clean_notification_content">Limpiar %s de basura</string>
+  <string name="auto_clean_notification_title">Recordar para limpiar</string>
+  <string name="auto_clean_operation_clean_and_alert">Recordar y limpiar</string>
+  <string name="auto_clean_operation_dialog_title">Método de limpieza</string>
+  <string name="auto_clean_operation_just_clean">Solo limpiar</string>
   <string name="auto_clean_switch_off">Apagado</string>
   <string name="auto_clean_switch_on">Encendido</string>
   <string name="auto_cleaner_open">Activar</string>
@@ -47,6 +52,10 @@
   <string name="auto_clean_time_fifteen_day">Cada 15 días</string>
   <string name="auto_clean_time_seven_day">Cada 7 días</string>
   <string name="auto_clean_time_three_day">Cada 3 días</string>
+  <string name="auto_clean_trigger_dialog_title">Limpiar el almacenamiento</string>
+  <string name="auto_clean_trigger_percent_eighty">Cuando el 80% está ocupado</string>
+  <string name="auto_clean_trigger_percent_ninety">Cuando el 90% está ocupado</string>
+  <string name="auto_clean_trigger_percent_sixty">Cuando el 60% está ocupado</string>
   <string name="back">Volver</string>
   <string name="btn_text_done">Listo</string>
   <string name="btn_text_quick_cleanup">Limpiar</string>
@@ -301,6 +310,7 @@
   <string name="output_videos">Exportar videos</string>
   <string name="petabyteShort">PB</string>
   <string name="positive_confirm">Aceptar</string>
+  <string name="pref_category_title_auto_clean_config_settings">Limpieza automática</string>
   <string name="pref_category_title_auto_clean_settings">Recuerde limpiar</string>
   <string name="pref_category_title_auto_update_cleanup_db">Ajustes adicionales</string>
   <string name="pref_category_title_cleanup_white_list">Excepciones</string>
@@ -318,7 +328,10 @@
   <string name="pref_summary_garbage_process_mode">Configurar notificaciones para cuando se ejecute el limpiador</string>
   <string name="pref_summary_open_optimizer_cloud_scan">Subir y comparar nombres de archivo desconocidos con definiciones online</string>
   <string name="pref_title_apps_cleanup_size">Cuando alcance el tamaño del caché</string>
+  <string name="pref_title_auto_clean">Limpiar automáticamente</string>
   <string name="pref_title_auto_clean_content_choose">Seleccionar elementos a limpiar</string>
+  <string name="pref_title_auto_clean_operation">Método de limpieza</string>
+  <string name="pref_title_auto_clean_trigger">Limpiar el almacenamiento</string>
   <string name="pref_title_auto_update_cleanup_db">Actualizar automáticamente</string>
   <string name="pref_title_choose_engine">Definiciones</string>
   <string name="pref_title_clean_alert">Recuerde limpiar</string>
