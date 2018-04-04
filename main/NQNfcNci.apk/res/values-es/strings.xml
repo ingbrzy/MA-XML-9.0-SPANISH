@@ -1,0 +1,52 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<resources>
+  <string name="accessibility_nfc_enabled">NFC habilitado.</string>
+  <string name="android_beam">Android Transmitir</string>
+  <string name="app_name">Servicio Nfc</string>
+  <string name="ask_nfc_tap">Toque otro dispositivo para completar</string>  
+  <string name="beam_busy">Transmitir está actualmente ocupado. Intente de nuevo cuando la transferencia anterior finalice.</string>
+  <string name="beam_canceled">Transmitir cancelado</string>
+  <string name="beam_complete">Transmitir completo</string>
+  <string name="beam_failed">Transmitir no se ha completado</string>
+  <string name="beam_handover_not_supported">"El dispositivo del receptor no es compatible con la transferencia de archivos de gran tamaño a través de Transmitir."</string>
+  <string name="beam_outgoing">Transmitiendo...</string>
+  <string name="beam_progress">Transmisión entrante...</string>
+  <string name="beam_requires_nfc_enabled">Android Transmitir requiere que se habilite NFC. ¿Quieres habilitarlo?</string>
+  <string name="beam_tap_to_view">Toque para ver</string>
+  <string name="beam_try_again">Volver a unir los dispositivos</string>
+  <string name="cancel">Cancelar</string>
+  <string name="complete_with">Completar con</string>
+  <string name="confirm_pairing">¿Seguro que quieres vincular el dispositivo Bluetooth %1$s?</string>
+  <string name="connect_peripheral_failed">No pudo conectar con %1$s</string>
+  <string name="connected_peripheral">%1$s conectado</string>
+  <string name="connecting_peripheral">%1$s conectando</string>
+  <string name="could_not_use_app">"No se pudo usar %1$s."</string>
+  <string name="default_pay_app_removed">Su servicio preferido para tocar y pagar fue eliminado. ¿Elegir otro?</string>
+  <string name="device">dispositivo</string>
+  <string name="disconnected_peripheral">Desconectado %1$s</string>
+  <string name="disconnecting_peripheral">Desconectando %1$s</string>
+  <string name="failed_to_enable_bt">No se pudo habilitar el Bluetooth</string>
+  <string name="nfcUserLabel">Nfc</string>
+  <string name="nfc_enabled_dialog">"Nfc está actualmente deshabilitado.
+ ¿Desea habilitarlo para su servicio NFC?"</string>
+  <string name="no">NO</string>
+  <string name="ok">Aceptar</string>
+  <string name="pair_no">No</string>
+  <string name="pair_yes">Aceptar</string>
+  <string name="pairing_peripheral">Emparejamiento %1$s</string>
+  <string name="pairing_peripheral_failed">No se pudo emparejar %1$s</string>
+  <string name="pay_with">Pagar con</string>
+  <string name="permdesc_nfcReceiveEvent">Permitir que la aplicación reciba información sobre la transacción NFC realizada</string>
+  <string name="permgroupdesc_NFC">Acceda a varias funciones NFC</string>
+  <string name="permgrouplab_NFC">Comunicación NFC-Near Field</string>
+  <string name="permlab_nfcReceiveEvent">NFC Conciencia de transacción</string>
+  <string name="prompt_connect_to_network">¿Conectarse a la red %1$s?</string>
+  <string name="status_unable_to_connect">No se puede conectar a la red</string>
+  <string name="status_wifi_connected">Conectado</string>
+  <string name="tap_again_to_complete">Toque de nuevo para completar con %1$s</string>
+  <string name="tap_again_to_pay">Toque de nuevo para pagar con %1$s</string>
+  <string name="tap_to_beam">Toque para transmitir</string>
+  <string name="title_connect_to_network">Conectarse a la red</string>
+  <string name="transaction_failure">"Esta transacción no se pudo completar con %1$s."</string>
+  <string name="wifi_connect">Conectar</string>
+</resources>
