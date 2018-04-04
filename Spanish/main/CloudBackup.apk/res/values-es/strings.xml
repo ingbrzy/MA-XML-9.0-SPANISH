@@ -85,7 +85,7 @@ Nota: Los datos de las aplicaciones instaladas no se copiarán en Mi Cloud."</st
   <string name="date_format">HH:mm:ss dd-MM-yyyy</string>
   <string name="deskclock_backup">Alarma del reloj</string>
   <string name="desktop_downloading">Descargando</string>
-  <string name="desktop_failed">Ha fallado</string>
+  <string name="desktop_failed">Error</string>
   <string name="desktop_installing">Instalando</string>
   <string name="desktop_wait_wifi">Espera a Wi-Fi</string>
   <string name="desktop_waiting">Esperando</string>
