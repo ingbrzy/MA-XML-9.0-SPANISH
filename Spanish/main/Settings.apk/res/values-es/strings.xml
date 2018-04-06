@@ -2357,6 +2357,7 @@ Puede configurar un nuevo bloqueo de pantalla común para su dispositivo y su pe
   <string name="lockscreen_glogin_password_hint">Contraseña</string>
   <string name="lockscreen_glogin_submit_button">Iniciar sesión</string>
   <string name="lockscreen_magazine">Carrusel de Fondos de pantalla</string>
+  <string name="lockscreen_magazine_summary">Carrusel de Fondos de pantalla de alta calidad</string>
   <string name="lockscreen_magazine_title">Carrusel de Fondos de pantalla</string>
   <string name="lockscreen_remote_input">Si el dispositivo está bloqueado, impedir que se tecleen respuestas u otros textos en las notificaciones</string>
   <string name="login_account_dialog_message">Inicie sesión con su Cuenta Mi y active la sincronización con Mi Nube.</string>
