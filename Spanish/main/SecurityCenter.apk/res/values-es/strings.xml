@@ -695,6 +695,15 @@ Se agregará a las excepciones, pero los elementos bloqueados anteriormente no a
   <string name="empty_title_root_apps">Aun no hay aplicaciones con acceso root.</string>
   <string name="enable_network">Activar primero la red</string>
   <string name="every_day">Todos los días</string>
+  <string name="exit_dialog_garbage_clean_message">La cantidad de basura en su dispositivo es más de %s. ¿Limpiar la basura?</string>
+  <string name="exit_dialog_garbage_clean_positive_button">Limpiar</string>
+  <string name="exit_dialog_garbage_clean_title">Limpiar la basura</string>
+  <string name="exit_dialog_release_storage_message">Más del 80% del almacenamiento en su dispositivo está ocupado. Libera espacio al desinstalar las aplicaciones que nunca usas.</string>
+  <string name="exit_dialog_release_storage_positive_button">Espacio libre</string>
+  <string name="exit_dialog_release_storage_title">Espacio libre</string>
+  <string name="exit_dialog_scan_message">"La puntuación de rendimiento de su dispositivo es inferior a 75 puntos. ¿Optimizar ahora?"</string>
+  <string name="exit_dialog_scan_positive_button">Optimizar</string>
+  <string name="exit_dialog_scan_title">Optimizar el rendimiento</string>
   <string name="examination_score_100">¡Todo parece estar bien!</string>
   <string name="examination_score_60_0">Analizar ahora</string>
   <string name="examination_score_80_100">Varios elementos pueden optimizarse</string>
