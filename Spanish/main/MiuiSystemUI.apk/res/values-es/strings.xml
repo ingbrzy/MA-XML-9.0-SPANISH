@@ -411,7 +411,7 @@ Puede que tu operador te cobre por volver a activar datos."</string>
   <string name="power_discharging_duration">%1$s - aprox. %2$s restante</string>
   <string name="power_discharging_duration_short">%1$s - %2$s restante</string>
   <string name="power_remaining_duration_only">Aprox. %1$s restante</string>
-  <string name="prompt_danger">Riesgo</string>
+  <string name="prompt_danger">Peligro</string>
   <string name="prompt_detecting">Detectado</string>
   <string name="prompt_failure">Error</string>
   <string name="prompt_return_to_split">Pantalla dividida</string>
