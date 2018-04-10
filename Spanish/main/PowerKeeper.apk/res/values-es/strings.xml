@@ -18,6 +18,8 @@
   <string name="app_invisible_title">AppInvisible</string>
   <string name="app_list_title">Seleccionar aplicaciones</string>
   <string name="app_name">Batería y rendimiento</string>
+  <string name="app_preload_policies_summary">"Utilice el aprendizaje automático para predecir las aplicaciones que probablemente usará y cargue recursos con anticipación.."</string>
+  <string name="app_preload_policies_title">Precarga de IA</string>
   <string name="background">Aplicación ejecutándose en segundo plano</string>
   <string name="config_description">MIUI puede identificar aplicaciones especificas con procesos en segundo plano (p. ej. aplicaciones de mensajería y navegación, reproductores multimedia), y aplicar el ahorro de batería de una manera que no influya de forma importante en la actividad que se ejecute en segundo plano.</string>
   <string name="config_mode_title">Configuraciones de segundo plano</string>
