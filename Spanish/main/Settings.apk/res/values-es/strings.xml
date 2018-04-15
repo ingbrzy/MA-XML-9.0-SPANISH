@@ -150,6 +150,8 @@ Si hay varios usuarios en el dispositivo, usar este acceso directo en la pantall
   <string name="add_facerecoginition_text">Agregar datos faciales</string>
   <string name="add_fingerprint_done_msg">Ahora podrá desbloquear el dispositivo con su huella.</string>
   <string name="add_fingerprint_done_title">¿Listo para disfrutar?</string>
+  <string name="add_fingerprint_edge_instruction_msg">Mueva su dedo para que el sensor pueda registrar los bordes de su huella digital.</string>
+  <string name="add_fingerprint_edge_instruction_title">Mueva su dedo ligeramente</string>
   <string name="add_fingerprint_failed_retry_text">No se pudo añadir la huella dactilar, vuelva a intentarlo</string>
   <string name="add_fingerprint_finished_button_text">Listo</string>
   <string name="add_fingerprint_instruction_msg">El sensor de huellas dactilares está integrado en el botón Inicio del dispositivo.</string>
@@ -162,8 +164,9 @@ Si hay varios usuarios en el dispositivo, usar este acceso directo en la pantall
   <string name="add_fingerprint_success_msg">Añadida correctamente</string>
   <string name="add_fingerprint_text">Añadir huella</string>
   <string name="add_fingerprint_toast_text">Coloque su dedo en el sensor</string>
-  <string name="add_new">añadir</string>
-  <string name="add_rule">añadir reglas</string>
+  <string name="add_front_fingerprint_instruction_msg">El sensor de huellas dactilares se encuentra en el botón Inicio de su dispositivo.</string>
+  <string name="add_new">Añadir</string>
+  <string name="add_rule">Añadir reglas</string>
   <string name="add_virtual_keyboard">Gestionar teclados</string>
   <string name="adding_profile_owner_warning">"Al continuar, el administrador gestionará tu usuario y podrá almacenar los datos asociados, junto con tus datos personales.
 
