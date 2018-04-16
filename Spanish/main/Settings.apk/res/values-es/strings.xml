@@ -1203,6 +1203,14 @@ El uso de datos determinado por el teléfono puede variar del recuento realizado
   <string name="data_usage_metered_title">Restricciones de red</string>
   <string name="data_usage_metered_wifi">Redes Wi-Fi tarifadas</string>
   <string name="data_usage_metered_wifi_disabled">Para seleccionar redes tarifadas, actívelo la Wi-Fi.</string>
+  <string name="data_usage_mobile_dialog_title">"Ya uso 5GB de datos móviles. MIUI apagó los datos móviles."</string>
+  <string name="data_usage_mobile_limit_title">Límite de datos móviles alcanzado</string>
+  <string name="data_usage_no_total_package_body">Toque para establecer el límite de datos</string>
+  <string name="data_usage_no_total_package_body_dual">Sin límite de datos establecido para %s</string>
+  <string name="data_usage_no_total_package_title">Establecer un límite de uso de datos</string>
+  <string name="data_usage_protected_dialog_message">"MIUI desactivó los datos móviles para evitar que genere tarifas de operador adicionales.
+
+Su operador puede cobrarle cargos adicionales si vuelve a activar los datos móviles."</string>
   <string name="data_usage_other_apps">Otras aplicaciones incluidas en el uso</string>
   <string name="data_usage_pick_cycle_day">Día del mes para restablecer ciclo de uso de datos:</string>
   <string name="data_usage_received_sent">%1$s recibido, %2$s enviado</string>
