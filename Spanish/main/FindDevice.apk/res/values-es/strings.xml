@@ -65,14 +65,14 @@ Póngase en contacto con su agente de ventas para obtener más detalles. "</stri
   <string name="unlock_error_unknown">No es posible iniciar sesión</string>
   <string name="unlock_error_user_name">Nombre de usuario inválido</string>
   <string name="unlock_error_wrong_vcode">El código ingresado es incorrecto</string>
-  <string name="unlock_help">"Manténgase conectado a la red
-Asegúrese de haber instalado una tarjeta SIM que funcione  (si su dispositivo lo admite) y que su dispositivo esté conectado a una red Wi-Fi con acceso a Internet
+  <string name="unlock_help">"Manténgase conectado a la red.
+Asegúrese de haber instalado una tarjeta SIM que funcione  (si su dispositivo admite eso) y su dispositivo está conectado a una red Wi-Fi válida.
 
 ¿Olvidó su contraseña?
-Vaya a id.mi.com para restablecer su contraseña
+Vaya a id.mi.com para restablecer su contraseña.
 
 Otros motivos
-Inicie sesión en i.mi.com e intente desbloquear su dispositivo desde allí"</string>
+Inicie sesión en i.mi.com e intente desbloquear su dispositivo desde allí."</string>
   <string name="unlock_help_title">Desbloquear ayuda:</string>
   <string name="unlock_wrong_captcha">El código introducido es incorrecto</string>
   <string name="unlocking">Activando…</string>
