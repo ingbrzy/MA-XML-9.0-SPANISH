@@ -111,7 +111,7 @@ Si hay varios usuarios en el dispositivo, usar este acceso directo en la pantall
   <string name="accessibility_toggle_screen_magnification_auto_update_preference_title">Actualizar ampliación automáticamente</string>
   <string name="accessibility_toggle_screen_magnification_preference_title">Ampliación de pantalla</string>
   <string name="accessibility_toggle_speak_password_preference_title">Decir contraseñas</string>
-  <string name="accessibility_wifi_off">Wi-Fi apagado.</string>
+  <string name="accessibility_wifi_off">El Wi-Fi está apagado.</string>
   <string name="accessibility_wifi_one_bar">Una barra de Wi-Fi</string>
   <string name="accessibility_wifi_signal_full">Señal máxima de Wi-Fi</string>
   <string name="accessibility_wifi_three_bars">Tres barras de Wi-Fi.</string>
@@ -610,7 +610,7 @@ Las emisiones utilizan señales de Bluetooth de baja energía."</string>
   <string name="bluetooth_device_searchable">Detección</string>
   <string name="bluetooth_devices">Dispositivos Bluetooth</string>
   <string name="bluetooth_disable_absolute_volume">Desactivar volumen absoluto</string>
-  <string name="bluetooth_disable_absolute_volume_summary">Desactiva la funcionalidad de volumen absoluto de Bluetooth en caso de que haya problemas de volumen con dispositivos remotos como volumen inaceptablemente alto o pérdida de control</string>
+  <string name="bluetooth_disable_absolute_volume_summary">Deshabilite el volumen absoluto para Bluetooth en caso de problemas de volumen con dispositivos remotos, como volumen inaceptablemente alto o incapacidad para controlarlo.</string>
   <string name="bluetooth_disable_profile_message">Se inhabilitará&lt;br&gt;&lt;b&gt;%1$s&lt;/b&gt;&lt;br&gt;&lt;br&gt;de&lt;br&gt;&lt;b&gt;%2$s&lt;/b&gt;.</string>
   <string name="bluetooth_disable_profile_title">¿Inhabilitar perfil?</string>
   <string name="bluetooth_disabled">Desactivado</string>
@@ -1039,11 +1039,11 @@ Las emisiones utilizan señales de Bluetooth de baja energía."</string>
   <string name="controls_subtitle">Cómo reducir el uso de la batería</string>
   <string name="convenience_key_category_title">Accesos directos</string>
   <string name="convert_to_fbe_warning">"Convertir partición de datos a cifrado basado en ficheros.
-¡¡Atención!! Esto sobrescribirá todos sus datos.
- Esta funcionalidad está en estado alfa y puede no funcionar correctamente.
+ Atención: Esto sobrescribirá todos sus datos.
+ Esta característica se está desarrollando y es posible que no funcione correctamente.
  Pulse 'Sobrescribir y convertir…' para continuar."</string>
   <string name="convert_to_file_encryption">Convertir a cifrado de ficheros</string>
-  <string name="convert_to_file_encryption_done">Cifrado de ficheros ya activado</string>
+  <string name="convert_to_file_encryption_done">Los archivos están encriptados</string>
   <string name="convert_to_file_encryption_enabled">Convertir…</string>
   <string name="copyright_title">Derechos de autor</string>
   <string name="country_name">%s (sistema)</string>
