@@ -1275,10 +1275,10 @@ Su operador puede cobrarle cargos adicionales si vuelve a activar los datos móv
   <string name="debug_input_category">Entrada</string>
   <string name="debug_intent_sender_label">Debug intent sender</string>
   <string name="debug_layout">Mostrar límites de diseño</string>
-  <string name="debug_layout_summary">Mostrar límites de vídeo, márgenes, etc.</string>
+  <string name="debug_layout_summary">Mostrar límites de clip, márgenes, etc.</string>
   <string name="debug_monitoring_category">Supervisión</string>
   <string name="debug_networking_category">Redes</string>
-  <string name="debug_view_attributes">Inspección de atributos de vista</string>
+  <string name="debug_view_attributes">Habilitar atributos de visualización</string>
   <string name="decline_remote_bugreport_action">Declinar</string>
   <string name="defalut_launcher_title">Lanzador predeterminado</string>
   <string name="default_admin_support_msg">"Esta acción está desactivada. Póngase en contacto con el administrador de su organización para obtener más información."</string>
@@ -1713,7 +1713,7 @@ Para más detalles, comuníquese con el administrador de su organización."</str
   <string name="factory_reset_summary">Borrar todos los datos de la memoria interna de su teléfono</string>
   <string name="failed_to_check_find_device_status_content">No se pudo comprobar el estado de localizar el dispositivo. Espere un minuto o dos y vuelva a intentarlo.</string>
   <string name="failed_to_check_find_device_status_title">No se pudo comprobar el estado</string>
-  <string name="failed_to_open_app_settings_toast">Error al abrir los ajustes de %1$s</string>
+  <string name="failed_to_open_app_settings_toast">"No se pudo abrir la configuración para %1$s"</string>
   <string name="failed_to_shut_down_find_device_content">No se pudo desactivar la búsqueda del dispositivo. Espere un minuto o dos e inténtelo de nuevo.</string>
   <string name="failed_to_shut_down_find_device_title">No se pudo desactivar</string>
   <string name="fcc_equipment_id">ID de equipo</string>
