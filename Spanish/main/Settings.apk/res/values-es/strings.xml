@@ -71,7 +71,7 @@ Si hay varios usuarios en el dispositivo, usar este acceso directo en la pantall
   <string name="accessibility_menu_item_settings">Ajustes</string>
   <string name="accessibility_no_service_selected">Sin servicio seleccionado</string>
   <string name="accessibility_no_services_installed">No se ha instalado ningún servicio.</string>
-  <string name="accessibility_no_wifi">Wi-Fi desconectado</string>
+  <string name="accessibility_no_wifi">Desconectado de Wi-Fi.</string>
   <string name="accessibility_personal_account_title">Cuenta personal (%s)</string>
   <string name="accessibility_power_button_ends_call_prerefence_title">El botón de encendido cuelga</string>
   <string name="accessibility_screen_magnification_enable">Gestos de ampliación</string>
