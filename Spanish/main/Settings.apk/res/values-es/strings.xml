@@ -4029,6 +4029,8 @@ Nota: su huella dactilar puede ser menos segura que un patrón complejo o un PIN
   <string name="show_magnifier_when_input">Mostrar lupa</string>
   <string name="show_mem_info_title">Mostrar estado de la memoria</string>
   <string name="show_non_rect_clip">Depurar operaciones de recorte no rectangulares</string>
+  <string name="show_notification_channel_warnings">Mostrar advertencias de canales no válidos</string>
+  <string name="show_notification_channel_warnings_summary">Muestra una advertencia en pantalla cuando una aplicación publica una notificación sin un canal válido</string>
   <string name="show_owner_info_on_lockscreen_label">Mostrar información del propietario en la Pantalla de bloqueo</string>
   <string name="show_password">Mostrar las contraseñas</string>
   <string name="show_profile_info_on_lockscreen_label">Mostrar información de perfil en pantalla bloqueo</string>
