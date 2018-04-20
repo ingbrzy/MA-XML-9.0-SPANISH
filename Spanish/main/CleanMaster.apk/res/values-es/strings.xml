@@ -195,6 +195,14 @@
   <string name="go_to">Continuar</string>
   <string name="goto_set">Ajustar</string>
   <string name="grabage_rank_title">Limpiado hoy</string>
+  <string name="guide_secure_dialog_message">La puntuación de optimización de su dispositivo es inferior a 80 puntos. ¿Optimizar ahora?</string>
+  <string name="guide_secure_dialog_negative">Cancelar</string>
+  <string name="guide_secure_dialog_positive">Optimizar</string>
+  <string name="guide_secure_dialog_title">Optimizar el rendimiento</string>
+  <string name="guide_virus_dialog_message">El escaneo de aplicaciones y paquetes de instalación protege su dispositivo de virus y malware. ¿Escanear tu dispositivo ahora?</string>
+  <string name="guide_virus_dialog_negative">Cancelar</string>
+  <string name="guide_virus_dialog_positive">Escanear</string>
+  <string name="guide_virus_dialog_title">Escaneo antivirus</string>
   <string name="header_optimizer">Al usar esta función, acepta los %s.</string>
   <string name="hint_clean_select_items">Eliminación de duplicados…</string>
   <string name="hints_ad_header_left">Archivos obsoletos</string>
