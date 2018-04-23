@@ -105,8 +105,8 @@ Inicie sesión en i.mi.com, vaya a "Buscar dispositivo", seleccione el dispositi
   <string name="phone_locked_string">El teléfono ha sido bloqueado</string>
   <string name="phone_locked_timeout_minutes_string">Inténtelo de nuevo en %d minuto(s)</string>
   <string name="phone_locked_timeout_seconds_string">Inténtelo de nuevo en %d segundo(s)</string>
-  <string name="reset_device_detail_tip">Coloque su dispositivo en el cargador inalámbrico correctamente para asegurar una alta velocidad de carga.</string>
-  <string name="reset_device_tip">La carga es lenta. Reajusta su dispositivo.</string>
+  <string name="reset_device_detail_tip">Asegúrese de que la posición de su dispositivo en la base de carga sea correcta</string>
+  <string name="reset_device_tip">La carga es lenta. Ajusta su dispositivo.</string>
   <string name="unlock_string">Desbloquear</string>
   <string name="unlocking_sim_card">Desbloqueando la tarjeta SIM</string>
   <string name="unlockscreen_low_battery">Conecte el cargador</string>
@@ -173,8 +173,8 @@ Inicie sesión en i.mi.com, vaya a "Buscar dispositivo", seleccione el dispositi
   <string name="face_unlock_rotated_left">Gire su cabeza hacia la derecha</string>
   <string name="face_unlock_rotated_right">Gire su cabeza hacia la izquierda</string>
   <string name="face_unlock_down">Levante su cabeza</string>
-  <string name="wireless_charge_dialog_title">Ajuste su dispositivo en el cargador inalámbrico</string>
+  <string name="wireless_charge_dialog_title">Coloque su dispositivo en el centro de la base de carga</string>
   <string name="wireless_charge_stop">Detenida la carga inalámbrica</string>
-  <string name="wireless_current_charge">Carga actual</string>
+  <string name="wireless_current_charge">Cargando</string>
   <string name="wrong_password">Contraseña incorrecta</string>
 </resources>
