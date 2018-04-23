@@ -296,7 +296,7 @@
   <string name="msg_update_error_code_network_error">No es posible conectarse a la red</string>
   <string name="msg_update_error_code_no_newer_db">El Limpiador está actualizado</string>
   <string name="msg_update_error_code_success">Terminado</string>
-  <string name="msg_update_error_code_unknown_error">Error desconocido</string>
+  <string name="msg_update_error_code_unknown_error">Los servidores están demasiado ocupados, intente de nuevo más tarde</string>
   <string name="name_debuglog_dir">Registro Debug Bsp</string>
   <string name="name_optimizer">Política de privacidad</string>
   <string name="nb_clear_set">Limpiar caché, ver la información de la batería y la lista de bloqueo en la pantalla de notificaciones</string>
