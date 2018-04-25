@@ -114,7 +114,7 @@ Tire hacia abajo para actualizar o comprobar los ajustes de red"</string>
   <string name="feedback_result_fail_no_choice">Elija las condiciones actuales del tiempo</string>
   <string name="feedback_result_success">Enviado con éxito, gracias por tus comentarios.</string>
   <string name="feedback_sand">Arena</string>
-  <string name="feedback_sunny">Soleado</string>
+  <string name="feedback_sunny">Claro</string>
   <string name="first_start_network_msg">Para obtener la información del tiempo, es necesario conectarse a Internet.</string>
   <string name="first_start_network_title">Alerta de conexión</string>
   <string name="global_aqi">ICA: %1$s %2$s</string>
