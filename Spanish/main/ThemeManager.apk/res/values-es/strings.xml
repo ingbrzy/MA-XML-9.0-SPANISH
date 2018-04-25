@@ -51,7 +51,7 @@
   <string name="desktop_wallpaper">Pantalla de inicio</string>
   <string name="dev_options">Opciones de desarrollador</string>
   <string name="dev_options_summary">Recursos web</string>
-  <string name="download_failed">Descarga fallida</string>
+  <string name="download_failed">Error en la descarga</string>
   <string name="download_preview_failed">No se puede cargar la vista previa</string>
   <string name="download_success">Descarga finalizada</string>
   <string name="fail_to_add_account">No se puede añadir la cuenta</string>

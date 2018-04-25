@@ -116,6 +116,6 @@
   <string name="phone_verify_text">%1$s no obtendrá su número de teléfono, sólo verificará que su número coincide。</string>
   <string name="phone_verify_title">Acepta que %1$s verifique su número de teléfono</string>
   <string name="privacy_revoke_failed_msg">La activación requiere autorización para que Messaging pueda obtener su número de teléfono.</string>
-  <string name="privacy_revoke_tips">Después de revocar la autorización, Messaging dejará de recopilar sus datos y eliminará todos sus datos de sus servidores. La sincronización con Mi Cloud, Mi mensaje y otras funciones de mensajería ya no estarán disponibles. ¿Revocar autorización de todos modos?</string>
+  <string name="privacy_revoke_tips">Después de revocar la autorización, la aplicación dejará de recopilar sus datos y eliminará todos sus datos de sus servidores. La sincronización con Mi nube, Mi mensaje y otras funciones de mensajería ya no estarán disponibles. ¿Revocar autorización de todos modos?</string>
   <string name="sim_unactivated_title">"Su tarjeta SIM está sin activar"</string>
 </resources>

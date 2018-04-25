@@ -26,8 +26,8 @@ Póngase en contacto con su agente de ventas para obtener más detalles. "</stri
   <string name="find_device_error_unknown">Error desconocido (%s).</string>
   <string name="find_device_noise_title">"Alarma de 'Encontrar dispositivo'"</string>
   <string name="find_device_notice_p1">Acceda a</string>
-  <string name="find_device_notice_p3">"para localizar, bloquear o restaurar su teléfono.
-Si cambia de tarjeta SIM, se le enviará automáticamente otro SMS para reactivar esta función."</string>
+  <string name="find_device_notice_p3">para ubicar, bloquear o restaurar su dispositivo.</string>
+  <string name="find_device_notice_sms_alert">Si cambia las tarjetas SIM, se pueden enviar otros SMS automáticamente para reactivar esta función.</string>
   <string name="find_device_stop_noise">Toque OK para silenciar</string>
   <string name="find_device_storage_corrupted">El almacenamiento de Localizar el dispositivo se encuentra dañado. Actualmente su dispositivo no es seguro.</string>
   <string name="find_device_success_title">Encontrar dispositivo</string>
@@ -65,14 +65,14 @@ Si cambia de tarjeta SIM, se le enviará automáticamente otro SMS para reactiva
   <string name="unlock_error_unknown">No es posible iniciar sesión</string>
   <string name="unlock_error_user_name">Nombre de usuario inválido</string>
   <string name="unlock_error_wrong_vcode">El código ingresado es incorrecto</string>
-  <string name="unlock_help">"Manténgase conectado a la red
-Asegúrese de haber instalado una tarjeta SIM que funcione y que su dispositivo esté conectado a una red Wi-Fi con acceso a Internet
+  <string name="unlock_help">"Manténgase conectado a la red.
+Asegúrese de haber instalado una tarjeta SIM que funcione  (si su dispositivo admite eso) y su dispositivo está conectado a una red Wi-Fi válida.
 
 ¿Olvidó su contraseña?
-Vaya a id.mi.com para restablecer su contraseña
+Vaya a id.mi.com para restablecer su contraseña.
 
 Otros motivos
-Inicie sesión en i.mi.com e intente desbloquear su dispositivo desde allí"</string>
+Inicie sesión en i.mi.com e intente desbloquear su dispositivo desde allí."</string>
   <string name="unlock_help_title">Desbloquear ayuda:</string>
   <string name="unlock_wrong_captcha">El código introducido es incorrecto</string>
   <string name="unlocking">Activando…</string>

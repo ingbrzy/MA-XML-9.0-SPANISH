@@ -306,8 +306,8 @@
   <string name="trans_intro_title_private">Álbum oculto:</string>
   <string name="trans_main_tutor">Transferir contactos, historial de llamadas, mensajes, disposición de la pantalla de inicio, aplicaciones, ajustes, etc. a un nuevo dispositivo</string>
   <string name="trans_my_device">Mi dispositivo</string>
-  <string name="trans_native_no_space">"El dispositivo no tiene suficiente espacio
-Por favor, elimine al menos %s"</string>
+  <string name="trans_native_no_space">"No hay suficiente espacio de almacenamiento en el dispositivo anterior (%s disponible).
+ Libere espacio de almacenamiento o transfiera solo elementos importantes ".</string>
   <string name="trans_one_key_migrate">Transferencia</string>
   <string name="trans_operate_func_one">Método A</string>
   <string name="trans_operate_func_two">Método B</string>
@@ -338,8 +338,8 @@ Mantén los dispositivos cerca."</string>
   <string name="trans_security_tips_message">Algunas aplicaciones no soportan Mi Mover.</string>
   <string name="trans_security_tips_title">Compatibilidad Mi Mover</string>
   <string name="trans_select_data">Selecciona lo que vas a enviar</string>
-  <string name="trans_select_data_no_space">"%s disponibles en el nuevo dispositivo
-Selecciona archivos otra vez o haga una limpieza antes"</string>
+  <string name="trans_select_data_no_space">"No hay suficiente espacio de almacenamiento en el nuevo dispositivo (%s disponible).
+ Libere espacio de almacenamiento o transfiera solo elementos importantes".</string>
   <string name="trans_select_data_tips">"Seleccionar archivo para enviar
 Los archivos similares se sobrescribirán"</string>
   <string name="trans_select_device_receive">Selecciona un dispositivo para recibir datos.</string>
@@ -357,8 +357,7 @@ No apagues el punto de acceso Wi-Fi. Mantén los dispositivos cerca."</string>
   <string name="trans_start_failed_message">Fallo al iniciar, intenta de nuevo o reinicia</string>
   <string name="trans_start_failed_title">Fallo al iniciar</string>
   <string name="trans_time_format_second">menos de un minuto</string>
-  <string name="trans_time_spent">"
-Tiempo consumido: %s"</string>
+  <string name="trans_time_spent">"Tiempo consumido: %s"</string>
   <string name="trans_wait_trans_data">"Conectado al dispositivo anterior.
 Esperando la transferencia…"</string>
   <string name="trans_waiting_ensurance">"Asegúrate de que el dispositivo anterior

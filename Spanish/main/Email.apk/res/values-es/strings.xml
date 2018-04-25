@@ -923,7 +923,7 @@ para recibir recordatorios sobre pagos y viajes"</string>
   <string name="recognize_ticket_air_notification_title">Vuelo %3$s (%1$s/%2$s) despegará pronto. Revise su información de vuelo.</string>
   <string name="recognize_ticket_air_state_stopover">Escala</string>
   <string name="recognize_ticket_air_state_transfer">Transferir</string>
-  <string name="recognize_ticket_air_user_name">Pasajero:</string>
+  <string name="recognize_ticket_air_user_name">Pasajero: %1$s</string>
   <string name="recognize_ticket_title">Billetes de avión y tren</string>
   <string name="recognize_ticket_train_alter">Cambiado</string>
   <string name="recognize_ticket_train_depart_date">Salida a %3$s:%4$s en %1$s/%2$s</string>

@@ -71,7 +71,7 @@ Si hay varios usuarios en el dispositivo, usar este acceso directo en la pantall
   <string name="accessibility_menu_item_settings">Ajustes</string>
   <string name="accessibility_no_service_selected">Sin servicio seleccionado</string>
   <string name="accessibility_no_services_installed">No se ha instalado ningún servicio.</string>
-  <string name="accessibility_no_wifi">Wi-Fi desconectado</string>
+  <string name="accessibility_no_wifi">Desconectado de Wi-Fi.</string>
   <string name="accessibility_personal_account_title">Cuenta personal (%s)</string>
   <string name="accessibility_power_button_ends_call_prerefence_title">El botón de encendido cuelga</string>
   <string name="accessibility_screen_magnification_enable">Gestos de ampliación</string>
@@ -111,7 +111,7 @@ Si hay varios usuarios en el dispositivo, usar este acceso directo en la pantall
   <string name="accessibility_toggle_screen_magnification_auto_update_preference_title">Actualizar ampliación automáticamente</string>
   <string name="accessibility_toggle_screen_magnification_preference_title">Ampliación de pantalla</string>
   <string name="accessibility_toggle_speak_password_preference_title">Decir contraseñas</string>
-  <string name="accessibility_wifi_off">Wi-Fi apagado.</string>
+  <string name="accessibility_wifi_off">El Wi-Fi está apagado.</string>
   <string name="accessibility_wifi_one_bar">Una barra de Wi-Fi</string>
   <string name="accessibility_wifi_signal_full">Señal máxima de Wi-Fi</string>
   <string name="accessibility_wifi_three_bars">Tres barras de Wi-Fi.</string>
@@ -150,6 +150,8 @@ Si hay varios usuarios en el dispositivo, usar este acceso directo en la pantall
   <string name="add_facerecoginition_text">Agregar datos faciales</string>
   <string name="add_fingerprint_done_msg">Ahora podrá desbloquear el dispositivo con su huella.</string>
   <string name="add_fingerprint_done_title">¿Listo para disfrutar?</string>
+  <string name="add_fingerprint_edge_instruction_msg">Mueva su dedo para que el sensor pueda registrar los bordes de su huella digital.</string>
+  <string name="add_fingerprint_edge_instruction_title">Mueva su dedo ligeramente</string>
   <string name="add_fingerprint_failed_retry_text">No se pudo añadir la huella dactilar, vuelva a intentarlo</string>
   <string name="add_fingerprint_finished_button_text">Listo</string>
   <string name="add_fingerprint_instruction_msg">El sensor de huellas dactilares está integrado en el botón Inicio del dispositivo.</string>
@@ -162,8 +164,9 @@ Si hay varios usuarios en el dispositivo, usar este acceso directo en la pantall
   <string name="add_fingerprint_success_msg">Añadida correctamente</string>
   <string name="add_fingerprint_text">Añadir huella</string>
   <string name="add_fingerprint_toast_text">Coloque su dedo en el sensor</string>
-  <string name="add_new">añadir</string>
-  <string name="add_rule">añadir reglas</string>
+  <string name="add_front_fingerprint_instruction_msg">El sensor de huellas dactilares se encuentra en el botón Inicio de su dispositivo.</string>
+  <string name="add_new">Añadir</string>
+  <string name="add_rule">Añadir reglas</string>
   <string name="add_virtual_keyboard">Gestionar teclados</string>
   <string name="adding_profile_owner_warning">"Al continuar, el administrador gestionará tu usuario y podrá almacenar los datos asociados, junto con tus datos personales.
 
@@ -607,7 +610,7 @@ Las emisiones utilizan señales de Bluetooth de baja energía."</string>
   <string name="bluetooth_device_searchable">Detección</string>
   <string name="bluetooth_devices">Dispositivos Bluetooth</string>
   <string name="bluetooth_disable_absolute_volume">Desactivar volumen absoluto</string>
-  <string name="bluetooth_disable_absolute_volume_summary">Desactiva la funcionalidad de volumen absoluto de Bluetooth en caso de que haya problemas de volumen con dispositivos remotos como volumen inaceptablemente alto o pérdida de control</string>
+  <string name="bluetooth_disable_absolute_volume_summary">Deshabilite el volumen absoluto para Bluetooth en caso de problemas de volumen con dispositivos remotos, como volumen inaceptablemente alto o incapacidad para controlarlo.</string>
   <string name="bluetooth_disable_profile_message">Se inhabilitará&lt;br&gt;&lt;b&gt;%1$s&lt;/b&gt;&lt;br&gt;&lt;br&gt;de&lt;br&gt;&lt;b&gt;%2$s&lt;/b&gt;.</string>
   <string name="bluetooth_disable_profile_title">¿Inhabilitar perfil?</string>
   <string name="bluetooth_disabled">Desactivado</string>
@@ -626,8 +629,8 @@ Las emisiones utilizan señales de Bluetooth de baja energía."</string>
   <string name="bluetooth_dock_settings_headset">Como altavoz del teléfono</string>
   <string name="bluetooth_dock_settings_remember">Ajustes de recordatorio</string>
   <string name="bluetooth_dock_settings_title">Uso de la base para audio</string>
-  <string name="bluetooth_dun_profile_summary_connected">Connected to DUN Server</string>
-  <string name="bluetooth_dun_profile_summary_use_for">Uso para acceso a la red de acceso telefónico</string>
+  <string name="bluetooth_dun_profile_summary_connected">Connected to DUN server</string>
+  <string name="bluetooth_dun_profile_summary_use_for">Utilizar para acceso a la red de acceso telefónico</string>
   <string name="bluetooth_empty_list_bluetooth_off">Bluetooth permite la comunicación con dispositivos Bluetooth cercanos.</string>
   <string name="bluetooth_empty_list_user_restricted">No tienes permiso para cambiar los ajustes de Bluetooth.</string>
   <string name="bluetooth_enable">Bluetooth</string>
@@ -703,16 +706,16 @@ Las emisiones utilizan señales de Bluetooth de baja energía."</string>
   <string name="bluetooth_preference_scan_title">Buscar dispositivos</string>
   <string name="bluetooth_profile_a2dp">Audio multimedia</string>
   <string name="bluetooth_profile_details">Ajustes de perfil</string>
-  <string name="bluetooth_profile_dun">Se utiliza para acceder a redes de acceso telefónico</string>
+  <string name="bluetooth_profile_dun">Utilizado para acceder a la red a través de dial-up</string>
   <string name="bluetooth_profile_headset">Audio del teléfono</string>
   <string name="bluetooth_profile_hid">Dispositivo de entrada</string>
-  <string name="bluetooth_profile_map">Se utiliza para acceder a mensajes</string>
+  <string name="bluetooth_profile_map">Utilizado para acceder a mensajes</string>
   <string name="bluetooth_profile_opp">Transferencia de archivos</string>
   <string name="bluetooth_profile_pan">Acceso a Internet</string>
   <string name="bluetooth_profile_pan_nap">Se utiliza para compartir la conexión a Internet</string>
   <string name="bluetooth_profile_pbap">Compartir contactos</string>
   <string name="bluetooth_profile_pbap_summary">Se utiliza para compartir contactos</string>
-  <string name="bluetooth_profile_sap">Se utiliza para acceder a SIM</string>
+  <string name="bluetooth_profile_sap">Utilizado para acceder a SIM</string>
   <string name="bluetooth_quick_toggle_summary">Activar Bluetooth</string>
   <string name="bluetooth_quick_toggle_title">Ajustes de Bluetooth</string>
   <string name="bluetooth_remember_choice">No volver a preguntar</string>
@@ -1036,11 +1039,11 @@ Las emisiones utilizan señales de Bluetooth de baja energía."</string>
   <string name="controls_subtitle">Cómo reducir el uso de la batería</string>
   <string name="convenience_key_category_title">Accesos directos</string>
   <string name="convert_to_fbe_warning">"Convertir partición de datos a cifrado basado en ficheros.
-¡¡Atención!! Esto sobrescribirá todos sus datos.
- Esta funcionalidad está en estado alfa y puede no funcionar correctamente.
+ Atención: Esto sobrescribirá todos sus datos.
+ Esta característica se está desarrollando y es posible que no funcione correctamente.
  Pulse 'Sobrescribir y convertir…' para continuar."</string>
   <string name="convert_to_file_encryption">Convertir a cifrado de ficheros</string>
-  <string name="convert_to_file_encryption_done">Cifrado de ficheros ya activado</string>
+  <string name="convert_to_file_encryption_done">Los archivos están encriptados</string>
   <string name="convert_to_file_encryption_enabled">Convertir…</string>
   <string name="copyright_title">Derechos de autor</string>
   <string name="country_name">%s (sistema)</string>
@@ -1200,6 +1203,14 @@ El uso de datos determinado por el teléfono puede variar del recuento realizado
   <string name="data_usage_metered_title">Restricciones de red</string>
   <string name="data_usage_metered_wifi">Redes Wi-Fi tarifadas</string>
   <string name="data_usage_metered_wifi_disabled">Para seleccionar redes tarifadas, actívelo la Wi-Fi.</string>
+  <string name="data_usage_mobile_dialog_title">"Ya uso 5GB de datos móviles. MIUI apagó los datos móviles."</string>
+  <string name="data_usage_mobile_limit_title">Límite de datos móviles alcanzado</string>
+  <string name="data_usage_no_total_package_body">Toque para establecer el límite de datos</string>
+  <string name="data_usage_no_total_package_body_dual">Sin límite de datos establecido para %s</string>
+  <string name="data_usage_no_total_package_title">Establecer un límite de uso de datos</string>
+  <string name="data_usage_protected_dialog_message">"MIUI desactivó los datos móviles para evitar que genere tarifas de operador adicionales.
+
+Su operador puede cobrarle cargos adicionales si vuelve a activar los datos móviles."</string>
   <string name="data_usage_other_apps">Otras aplicaciones incluidas en el uso</string>
   <string name="data_usage_pick_cycle_day">Día del mes para restablecer ciclo de uso de datos:</string>
   <string name="data_usage_received_sent">%1$s recibido, %2$s enviado</string>
@@ -1264,10 +1275,10 @@ El uso de datos determinado por el teléfono puede variar del recuento realizado
   <string name="debug_input_category">Entrada</string>
   <string name="debug_intent_sender_label">Debug intent sender</string>
   <string name="debug_layout">Mostrar límites de diseño</string>
-  <string name="debug_layout_summary">Mostrar límites de vídeo, márgenes, etc.</string>
+  <string name="debug_layout_summary">Mostrar límites de clip, márgenes, etc.</string>
   <string name="debug_monitoring_category">Supervisión</string>
   <string name="debug_networking_category">Redes</string>
-  <string name="debug_view_attributes">Inspección de atributos de vista</string>
+  <string name="debug_view_attributes">Habilitar atributos de visualización</string>
   <string name="decline_remote_bugreport_action">Declinar</string>
   <string name="defalut_launcher_title">Lanzador predeterminado</string>
   <string name="default_admin_support_msg">"Esta acción está desactivada. Póngase en contacto con el administrador de su organización para obtener más información."</string>
@@ -1702,7 +1713,7 @@ Para más detalles, comuníquese con el administrador de su organización."</str
   <string name="factory_reset_summary">Borrar todos los datos de la memoria interna de su teléfono</string>
   <string name="failed_to_check_find_device_status_content">No se pudo comprobar el estado de localizar el dispositivo. Espere un minuto o dos y vuelva a intentarlo.</string>
   <string name="failed_to_check_find_device_status_title">No se pudo comprobar el estado</string>
-  <string name="failed_to_open_app_settings_toast">Error al abrir los ajustes de %1$s</string>
+  <string name="failed_to_open_app_settings_toast">"No se pudo abrir la configuración para %1$s"</string>
   <string name="failed_to_shut_down_find_device_content">No se pudo desactivar la búsqueda del dispositivo. Espere un minuto o dos e inténtelo de nuevo.</string>
   <string name="failed_to_shut_down_find_device_title">No se pudo desactivar</string>
   <string name="fcc_equipment_id">ID de equipo</string>
@@ -1796,10 +1807,10 @@ Parecía no haber caballos ni animales de ninguna clase. En cambio, los hombres 
   <string name="font_size_summary1">"Si el tamaño del texto sigue siendo pequeño, pruebe con "</string>
   <string name="font_size_summary2">Modo simple.</string>
   <string name="forbidden_switch_apn_string">Los ajustes de APN seleccionados no coinciden con el tipo de red actual</string>
-  <string name="force_allow_on_external">Aplicaciones reubicables en almacenamiento externo</string>
-  <string name="force_allow_on_external_summary">Designa a cualquier aplicación como candidata para ser guardada en almacenamiento externo, independientemente de los valores del manifiesto</string>
+  <string name="force_allow_on_external">Permite forzar que las aplicaciones escriban en el almacenamiento externo</string>
+  <string name="force_allow_on_external_summary">Hace que cualquier aplicación sea apta para escribirse en el almacenamiento externo, independientemente de los valores manifiestos</string>
   <string name="force_hw_ui">Forzar aceleración GPU</string>
-  <string name="force_hw_ui_summary">Forzar uso de GPU para dibujos en 2D</string>
+  <string name="force_hw_ui_summary">Fuerza el uso de la GPU para el dibujo 2D</string>
   <string name="force_msaa">Forzar MSAA 4x</string>
   <string name="force_msaa_summary">Habilitar MSAA 4x en aplicaciones de OpenGL ES 2.0</string>
   <string name="force_resizable_activities">Hacer a las actividades redimensionables</string>
@@ -1940,7 +1951,7 @@ Al activar la copia de seguridad automática, los datos del dispositivo y de las
   <string name="high_power_prompt_title">¿Ignorar optimizaciones de la batería?</string>
   <string name="high_power_system">Optimización de la batería no disponible</string>
   <string name="history_details_title">Detalles del historial</string>
-  <string name="home">Inicio de los ajustes</string>
+  <string name="home">Ajustes de la pantalla de inicio</string>
   <string name="home_app">Aplicación de inicio</string>
   <string name="home_app_uninstall_button">Desinstalar esta aplicación</string>
   <string name="home_key">Inicio</string>
@@ -1957,7 +1968,7 @@ Al activar la copia de seguridad automática, los datos del dispositivo y de las
   <string name="imei_information_summary">Información relativa al IMEI</string>
   <string name="imei_information_title">Información IMEI</string>
   <string name="immediately_destroy_activities">Cerrar actividades</string>
-  <string name="immediately_destroy_activities_summary">Cerrar las actividades cuando el usuario deje de usarlas</string>
+  <string name="immediately_destroy_activities_summary">Poner fin a todas las actividades tan pronto como el usuario lo deja</string>
   <string name="importance_reset">Restablecer</string>
   <string name="ims_reg_required_off">Es necesario desactivar el registro de IMS.</string>
   <string name="ims_reg_required_on">Es necesario activar el registro de IMS.</string>
@@ -2133,12 +2144,12 @@ Al activar la copia de seguridad automática, los datos del dispositivo y de las
   <string name="local_auto_backup_off">Apagado</string>
   <string name="local_auto_backup_on">Encendido</string>
   <string name="local_auto_backup_section_title">Crear backup automáticamente</string>
-  <string name="local_backup_password_summary_change">Tocar para cambiar o quitar la contraseña para las copias de seguridad completas de ordenador</string>
-  <string name="local_backup_password_summary_none">Las copias de seguridad completas de ordenador no están protegidas</string>
-  <string name="local_backup_password_title">Contraseña para copias de ordenador</string>
-  <string name="local_backup_password_toast_confirmation_mismatch">La nueva contraseña y la de confirmación no coinciden</string>
+  <string name="local_backup_password_summary_change">Toque para cambiar o eliminar la contraseña para copias de seguridad completas de la pantalla de inicio</string>
+  <string name="local_backup_password_summary_none">Las copias de seguridad de la pantalla de inicio completa no están actualmente protegidas</string>
+  <string name="local_backup_password_title">Contraseña de copia de seguridad de la pantalla</string>
+  <string name="local_backup_password_toast_confirmation_mismatch">Las contraseñas no coinciden</string>
   <string name="local_backup_password_toast_success">Nueva contraseña de seguridad establecida</string>
-  <string name="local_backup_password_toast_validation_failure">Error al establecer la contraseña de seguridad</string>
+  <string name="local_backup_password_toast_validation_failure">"No se pudo establecer una contraseña de respaldo"</string>
   <string name="local_backup_section_summary">Crear backup de los ajustes, información de cuenta y aplicaciones</string>
   <string name="local_backup_section_title">Backups locales</string>
   <string name="locale_default">Predeterminada</string>
@@ -3919,14 +3930,14 @@ Nota: su huella dactilar puede ser menos segura que un patrón complejo o un PIN
   <string name="select_all">Seleccionar todo</string>
   <string name="select_application">Selecciona una aplicación</string>
   <string name="select_device_admin_msg">Administradores de dispositivos</string>
-  <string name="select_logd_size_dialog_title">Elige el tamaño del Logger por búfer</string>
-  <string name="select_logd_size_title">Tamaños del búfer del registrador</string>
+  <string name="select_logd_size_dialog_title">Seleccione el tamaño para los almacenamientos intermedios de registro</string>
+  <string name="select_logd_size_title">Tamaño de almacenamiento intermedio de registro</string>
   <string name="select_sim_card">Seleccione tarjeta SIM</string>
   <string name="select_sim_for_calls">Llamar con</string>
   <string name="select_sim_for_data">Selecciona una SIM de datos</string>
   <string name="select_ssid_type_title">Seleccionar SSID</string>
-  <string name="select_usb_configuration_dialog_title">Seleccionar configuración de USB</string>
-  <string name="select_usb_configuration_title">Seleccionar configuración de USB</string>
+  <string name="select_usb_configuration_dialog_title">Seleccionar ajustes de USB</string>
+  <string name="select_usb_configuration_title">Seleccionar ajustes de USB</string>
   <string name="select_webview_provider_dialog_title">Establezca la implementación de WebView</string>
   <string name="select_webview_provider_title">Implementación de WebView</string>
   <string name="select_webview_provider_toast_text">Esta selección ya no es válida. Inténtelo otra vez.</string>
@@ -3998,8 +4009,8 @@ Nota: su huella dactilar puede ser menos segura que un patrón complejo o un PIN
   <string name="share_remote_bugreport_dialog_title">¿Compartir un informe de errores?</string>
   <string name="sharing_remote_bugreport_dialog_message">Este informe de errores está siendo compartido con su administrador informático. Contacte con ellos para más detalles.</string>
   <string name="short_summary_font_size">Hacer el texto más grande o más pequeño</string>
-  <string name="show_all_anrs">Errores sin respuesta</string>
-  <string name="show_all_anrs_summary">Informar de que una aplicación en segundo plano no responde</string>
+  <string name="show_all_anrs">Mostrar todos los ANR</string>
+  <string name="show_all_anrs_summary">Mostrar el cuadro de diálogo \"La aplicación no responde\" para aplicaciones en segundo plano</string>
   <string name="show_background_processes">Procesos en caché</string>
   <string name="show_connected_devices_summary">Ver dispositivos conectados</string>
   <string name="show_connected_devices_title">Dispositivos conectados</string>
@@ -4009,15 +4020,17 @@ Nota: su huella dactilar puede ser menos segura que un patrón complejo o un PIN
   <string name="show_dev_on">¡Ahora están activadas las opciones de desarrollo!</string>
   <string name="show_fc">Aplicaciones de cierre forzado</string>
   <string name="show_fc_summary">Mostrar aplicaciones de cierre forzado</string>
-  <string name="show_hw_layers_updates">Ver actualizaciones capas HW</string>
-  <string name="show_hw_layers_updates_summary">Iluminar capas de hardware en verde al actualizarse</string>
-  <string name="show_hw_screen_updates">Actualizaciones GPU</string>
-  <string name="show_hw_screen_updates_summary">Actualizar vistas de las ventanas creadas con GPU</string>
+  <string name="show_hw_layers_updates">Mostrar actualizaciones de nivel de hardware</string>
+  <string name="show_hw_layers_updates_summary">Los elementos de hardware que se actualizan parpadearán en verde</string>
+  <string name="show_hw_screen_updates">Visualice la representación de GPU</string>
+  <string name="show_hw_screen_updates_summary">Ventanas de destello donde los videos son renderizados por GPU</string>
   <string name="show_ime">Mostrar teclado virtual</string>
   <string name="show_ime_summary">Mantenerlo en pantalla mientras el teclado físico está activo</string>
   <string name="show_magnifier_when_input">Mostrar lupa</string>
   <string name="show_mem_info_title">Mostrar estado de la memoria</string>
   <string name="show_non_rect_clip">Depurar operaciones de recorte no rectangulares</string>
+  <string name="show_notification_channel_warnings">Mostrar advertencias de canales no válidos</string>
+  <string name="show_notification_channel_warnings_summary">Muestra una advertencia en pantalla cuando una aplicación publica una notificación sin un canal válido</string>
   <string name="show_owner_info_on_lockscreen_label">Mostrar información del propietario en la Pantalla de bloqueo</string>
   <string name="show_password">Mostrar las contraseñas</string>
   <string name="show_profile_info_on_lockscreen_label">Mostrar información de perfil en pantalla bloqueo</string>
@@ -4620,7 +4633,7 @@ un servicio de Google que te permite sincronizar datos para que puedas acceder a
   <string name="tts_settings_changed_demo">Tu configuración ha cambiado. Este es un ejemplo de cómo suena.</string>
   <string name="tts_settings_title">Síntesis de voz</string>
   <string name="tts_status_checking">Comprobando...</string>
-  <string name="tts_status_not_supported">No se admite el %1$s</string>
+  <string name="tts_status_not_supported">"%1$s no es compatible"</string>
   <string name="tts_status_ok">El %1$s se admite completamente</string>
   <string name="tts_status_requires_network">El idioma %1$s requiere conexión a Internet</string>
   <string name="tts_status_title">Estado del idioma predeterminado</string>
@@ -4818,7 +4831,7 @@ Sus huellas dactilares guardadas también serán eliminadas de este perfil y no 
   <string name="use_location_title">Ubicación en búsquedas</string>
   <string name="use_personalized_ad_service">Recomendaciones publicitarias personalizadas</string>
   <string name="use_privacy_password_immediate">Usar</string>
-  <string name="use_system_language_to_select_input_method_subtypes">Usar idiomas del sistema</string>
+  <string name="use_system_language_to_select_input_method_subtypes">Usar lenguaje del sistema</string>
   <string name="use_this_wlan">Permanecer conectado</string>
   <string name="user_account_title">Cuenta para contenido</string>
   <string name="user_add_max_count">Puedes añadir hasta %1$d usuarios</string>
@@ -5130,10 +5143,10 @@ Añada una palabra pulsando el botón (+) añadir"</string>
   <string name="wifi_advanced_settings_label">Ajustes de IP</string>
   <string name="wifi_advanced_titlebar">Wi-Fi avanzada</string>
   <string name="wifi_aggressive_handover">Transferencia agresiva de Wi‑Fi a móvil</string>
-  <string name="wifi_aggressive_handover_summary">Si está habilitada, la conexión Wi‑Fi será más agresiva al transferir la conexión de datos al móvil cuando la señal Wi‑Fi sea débil</string>
+  <string name="wifi_aggressive_handover_summary">Cuando está habilitada, la conexión cambiará a datos móviles más activamente cuando la señal Wi‑Fi sea débil.</string>
   <string name="wifi_alert_lockdown_by_device_owner">%1$s administra tu dispositivo y no permite modificar ni eliminar esta red Wi-Fi. Para obtener más información, ponte en contacto con el administrador.</string>
-  <string name="wifi_allow_scan_with_traffic">Permitir siempre búsquedas de Wi-Fi</string>
-  <string name="wifi_allow_scan_with_traffic_summary">Permitir/No permitir búsquedas de Wi-Fi basadas en la cantidad de tráfico de datos presente en la interfaz</string>
+  <string name="wifi_allow_scan_with_traffic">Permitir siempre escaneos de itinerancia Wi-Fi</string>
+  <string name="wifi_allow_scan_with_traffic_summary">Permita o restrinja escaneos de itinerancia Wi-Fi basados en la cantidad de tráfico de datos presente en la interfaz.</string>
   <string name="wifi_and_mobile_skipped_message">El teléfono no podrá verificar que el software esté actualizado</string>
   <string name="wifi_ap_band_config">Seleccionar banda de AP</string>
   <string name="wifi_ap_choose_2G">Banda de 2,4 GHz</string>
@@ -5197,7 +5210,7 @@ Asistente de Wi‑Fi"</string>
   <string name="wifi_disabled_help">La Wi-Fi se ha desconectado por tener una conexión deficiente</string>
   <string name="wifi_disabled_network_failure">"No se pudo configurar la IP"</string>
   <string name="wifi_disabled_password_failure">Error de autenticación</string>
-  <string name="wifi_disabled_wifi_failure">"No se pudo conectar a Wi-Fi"</string>
+  <string name="wifi_disabled_wifi_failure">"No se pudo conectar a la Wi-Fi"</string>
   <string name="wifi_disconnected_notification_summary">No está conectado a la Wi-Fi.</string>
   <string name="wifi_disconnected_notification_title">Wi-Fi desconectada</string>
   <string name="wifi_display_autonomous_go">Enable autonomous GO</string>
@@ -5296,7 +5309,7 @@ Asistente de Wi‑Fi"</string>
   <string name="wifi_network_prefix_length">Longitud del prefijo</string>
   <string name="wifi_network_prefix_length_hint">24</string>
   <string name="wifi_no_domain_warning">Debe especificar un dominio.</string>
-  <string name="wifi_no_internet">"No hay acceso a Internet, no se reconectará automáticamente."</string>
+  <string name="wifi_no_internet">"No se puede conectar a internet"</string>
   <string name="wifi_not_in_range">Fuera de rango</string>
   <string name="wifi_notify_cmcc_connected_summary">Mostrar una notificación cuando se conecta a la red CMCC</string>
   <string name="wifi_notify_cmcc_connected_title">Notificación de red CMCC</string>
@@ -5498,7 +5511,7 @@ Asistente de Wi‑Fi"</string>
   <string name="wifi_update">Refrescar estadísticas</string>
   <string name="wifi_use_system_certs">Usar certificados del sistema</string>
   <string name="wifi_verbose_logging">Habilitar registro Wi-Fi detallado</string>
-  <string name="wifi_verbose_logging_summary">Aumentar el nivel de logging de Wi-Fi, mostrar por SSID RSSI en el selector Wi-Fi</string>
+  <string name="wifi_verbose_logging_summary">Aumente el nivel de registro Wi-Fi, muestre RSSI para cada SSID en la lista de redes Wi-Fi.</string>
   <string name="wifi_wapi_as_cert">Certificado AS</string>
   <string name="wifi_wapi_cert_cancel_button">Cancelar</string>
   <string name="wifi_wapi_cert_create_subdir">Crear una carpeta</string>

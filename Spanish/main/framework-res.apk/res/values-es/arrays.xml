@@ -55,4 +55,33 @@
         <item>Otro</item>
         <item>Personalizar</item>
     </string-array>
+    <string-array name="fingerprint_acquired_vendor">
+        <item>Inténtelo de nuevo</item>
+        <item></item>
+        <item></item>
+        <item>Cubra el escáner de huellas dactilares por completo y aplique presión</item>
+        <item></item>
+        <item>Cubra el escáner de huellas dactilares por completo y aplique presión</item>
+        <item>Cubra el escáner de huellas dactilares por completo y aplique presión</item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item>Cubra el escáner de huellas dactilares por completo y aplique presión</item>
+        <item>Cubra el escáner de huellas dactilares por completo y aplique presión</item>
+        <item>"Demasiado rápido! No se pudo reconocer la huella digital"</item>
+        <item>Mueva su dedo un poco e intente de nuevo</item>
+        <item>Levante su dedo y vuelva a colocarlo en el escáner</item>
+        <item>Mantenga el dedo en el escáner un poco más</item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item>Mueva su dedo ligeramente</item>
+        <item>Esta huella digital ha sido agregada, use un dedo diferente</item>
+    </string-array>
 </resources>

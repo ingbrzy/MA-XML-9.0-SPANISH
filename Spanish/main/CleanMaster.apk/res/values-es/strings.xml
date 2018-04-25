@@ -195,6 +195,14 @@
   <string name="go_to">Continuar</string>
   <string name="goto_set">Ajustar</string>
   <string name="grabage_rank_title">Limpiado hoy</string>
+  <string name="guide_secure_dialog_message">La puntuación de optimización de su dispositivo es inferior a 80 puntos. ¿Optimizar ahora?</string>
+  <string name="guide_secure_dialog_negative">Cancelar</string>
+  <string name="guide_secure_dialog_positive">Optimizar</string>
+  <string name="guide_secure_dialog_title">Optimizar el rendimiento</string>
+  <string name="guide_virus_dialog_message">El escaneo de aplicaciones y paquetes de instalación protege su dispositivo de virus y malware. ¿Escanear tu dispositivo ahora?</string>
+  <string name="guide_virus_dialog_negative">Cancelar</string>
+  <string name="guide_virus_dialog_positive">Escanear</string>
+  <string name="guide_virus_dialog_title">Escaneo antivirus</string>
   <string name="header_optimizer">Al usar esta función, acepta los %s.</string>
   <string name="hint_clean_select_items">Eliminación de duplicados…</string>
   <string name="hints_ad_header_left">Archivos obsoletos</string>
@@ -288,8 +296,8 @@
   <string name="msg_update_error_code_network_error">No es posible conectarse a la red</string>
   <string name="msg_update_error_code_no_newer_db">El Limpiador está actualizado</string>
   <string name="msg_update_error_code_success">Terminado</string>
-  <string name="msg_update_error_code_unknown_error">Los servidores están ocupados. Espere un minuto o dos y vuelva a intentarlo.</string>
-  <string name="name_debuglog_dir">Registro de depuración BSP</string>
+  <string name="msg_update_error_code_unknown_error">Los servidores están demasiado ocupados, intente de nuevo más tarde</string>
+  <string name="name_debuglog_dir">Registro Debug Bsp</string>
   <string name="name_optimizer">Política de privacidad</string>
   <string name="nb_clear_set">Limpiar caché, ver la información de la batería y la lista de bloqueo en la pantalla de notificaciones</string>
   <string name="network_not_available">No se puede conectar a la red</string>

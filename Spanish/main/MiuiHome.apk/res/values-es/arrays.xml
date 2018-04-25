@@ -47,7 +47,7 @@
         <item>Tormentas de arena ligeras</item>
         <item>Tormenta de arena</item>
         <item>Granizo</item>
-        <item>Polvo</item>
+        <item>Polvo flotando</item>
         <item>Neblina</item>
     </string-array>
     <string-array name="editing_mode_entries">
