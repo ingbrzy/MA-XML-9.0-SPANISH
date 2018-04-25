@@ -283,13 +283,13 @@
   <string name="menu_view">Ver en la carpeta</string>
   <string name="month_day_format">dd MMM</string>
   <string name="msg_cleanup_db_update_checking">Buscando actualizaciones…</string>
-  <string name="msg_cleanup_db_update_time_unknown">Última actualización desconocida</string>
+  <string name="msg_cleanup_db_update_time_unknown">Última actualización: Desconocido</string>
   <string name="msg_update_error_code_already_running">Actualizando…</string>
   <string name="msg_update_error_code_network_error">No es posible conectarse a la red</string>
   <string name="msg_update_error_code_no_newer_db">El Limpiador está actualizado</string>
   <string name="msg_update_error_code_success">Terminado</string>
-  <string name="msg_update_error_code_unknown_error">Error desconocido</string>
-  <string name="name_debuglog_dir">Registro Debug Bsp</string>
+  <string name="msg_update_error_code_unknown_error">Los servidores están ocupados. Espere un minuto o dos y vuelva a intentarlo.</string>
+  <string name="name_debuglog_dir">Registro de depuración BSP</string>
   <string name="name_optimizer">Política de privacidad</string>
   <string name="nb_clear_set">Limpiar caché, ver la información de la batería y la lista de bloqueo en la pantalla de notificaciones</string>
   <string name="network_not_available">No se puede conectar a la red</string>
