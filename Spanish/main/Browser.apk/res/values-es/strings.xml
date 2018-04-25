@@ -252,14 +252,14 @@ Las páginas que visites no se verán reflejadas en el historial"</string>
   <string name="download_dialog_file_length_nolength_txt">Descargando…</string>
   <string name="download_failed">No se pudo completar la descarga</string>
   <string name="download_filter_all">Todo</string>
-  <string name="download_filter_apk">Apk</string>
+  <string name="download_filter_apk">APK</string>
   <string name="download_filter_application">Aplicaciones</string>
   <string name="download_filter_audio">Música</string>
-  <string name="download_filter_image">Foto</string>
+  <string name="download_filter_image">Imágenes</string>
   <string name="download_filter_others">Otros</string>
-  <string name="download_filter_text">Archivo</string>
+  <string name="download_filter_text">Documentos</string>
   <string name="download_filter_video">Vídeo</string>
-  <string name="download_filter_zip">Zip</string>
+  <string name="download_filter_zip">ZIP</string>
   <string name="download_in_process">Descargando…</string>
   <string name="download_list_open_xl_ok">Aceptar</string>
   <string name="download_memory_info_avai">" disponible %s|"</string>
@@ -701,7 +701,7 @@ Las páginas que visites no se verán reflejadas en el historial"</string>
   <string name="same_folder_name_warning">Ya existe una carpeta con el mismo nombre</string>
   <string name="save_button_text">Guardar</string>
   <string name="save_dialog_title">Guardar</string>
-  <string name="save_file">Guardar %s archivo</string>
+  <string name="save_file">Guardar %s</string>
   <string name="save_file_already_exist_alert_message">Ya existe un archivo con el mismo nombre, ¿reemplazar?</string>
   <string name="save_file_already_exist_alert_title">¿Reemplazar el archivo?</string>
   <string name="save_form_data_confirm_message">Apagar esta característica puede afectar al uso.</string>
