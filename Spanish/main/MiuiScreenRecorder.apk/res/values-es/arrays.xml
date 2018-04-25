@@ -10,4 +10,8 @@
         <item>Micrófono</item>
         <item>Sonidos del sistema</item>
     </string-array>
+    <string-array name="screenrecorder_settings_storage_location">
+        <item>Almacenamiento interno</item>
+        <item>Almacenamiento externo</item>
+    </string-array>
 </resources>
