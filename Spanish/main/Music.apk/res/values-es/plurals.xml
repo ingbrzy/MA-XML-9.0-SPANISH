@@ -40,6 +40,12 @@
     <item quantity="other">%d comentarios</item>
     <item quantity="one">%d comentario</item>
   </plurals>
+  <plurals name="dialog_confirm_delete_downloads_message_with_file">
+    <item quantity="other">"¿Eliminar %d elementos?
+Nota: Los archivos también se eliminarán de este dispositivo."</item>
+    <item quantity="one">"¿Eliminar %d elemento?
+Nota: El archivo también se eliminará de este dispositivo."</item>
+  </plurals>
   <plurals name="dialog_delete_descript">
     <item quantity="other">¿Borrar %d canciones?</item>
     <item quantity="one">¿Borrar %d canción?</item>

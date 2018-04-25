@@ -20,10 +20,10 @@
   <string name="about">Sobre Música Mi</string>
   <string name="account">Cuenta</string>
   <string name="account_and_cloud">Cuenta</string>
-  <string name="action_item_add">Añadir</string>
+  <string name="action_item_add">Añadir a</string>
   <string name="action_item_add_song">Añadir a lista de reproducción</string>
-  <string name="action_item_add_to_current_playlist">Lista de reproducción actual</string>
-  <string name="action_item_add_to_favorite_playlist">Lista de reproducción favorita</string>
+  <string name="action_item_add_to_current_playlist">Cola</string>
+  <string name="action_item_add_to_favorite_playlist">Favoritos</string>
   <string name="action_item_add_to_new_playlist">Nueva</string>
   <string name="action_item_cancel">Cancelar</string>
   <string name="action_item_delete">Eliminar</string>
@@ -34,7 +34,7 @@
   <string name="action_item_hide">Ocultar</string>
   <string name="action_item_hifi">Auriculares y efectos de audio</string>
   <string name="action_item_multiple">Editar</string>
-  <string name="action_item_play_all">Reproducir todo</string>
+  <string name="action_item_play_all">Reproducción aleatoria</string>
   <string name="action_item_remove">Quitar</string>
   <string name="action_item_remove_from_favorite">Quitar de favoritos</string>
   <string name="action_item_send">Enviar</string>
@@ -44,8 +44,8 @@
   <string name="ad_data_exception">Error de datos de AD</string>
   <string name="ad_extension">Promoción</string>
   <string name="ad_mark">Anuncio</string>
-  <string name="ad_recommend">Recomendaciones</string>
-  <string name="ad_setting">Ajustes de AD</string>
+  <string name="ad_recommend">Recibe recomendaciones</string>
+  <string name="ad_setting">Ajustes adicionales</string>
   <string name="add_music">Añadir canciones</string>
   <string name="add_to_last_of_playlist">Añadir al final de la lista de reproducción.</string>
   <string name="add_to_playlist_successful">Añadida correctamente</string>
@@ -255,7 +255,7 @@ es proporcionado principalmente por Ultimate Inc."</string>
   <string name="dialog_song_view_type_folder">Por carpeta</string>
   <string name="dialog_song_view_type_song">Por canción</string>
   <string name="dialog_title_add_playlist">Añadir lista de reproducción</string>
-  <string name="dialog_title_clearlist_tracks">Borrar playlist</string>
+  <string name="dialog_title_clearlist_tracks">Eliminar de la cola</string>
   <string name="dialog_title_delete_tracks">Eliminar</string>
   <string name="dialog_title_name_playlist">Nombre de la lista de reproducción</string>
   <string name="dialog_title_not_available">No se pudo descargar</string>
@@ -469,9 +469,9 @@ es proporcionado principalmente por Ultimate Inc."</string>
   <string name="home_tab_local">Música</string>
   <string name="home_tab_online">Descubrir</string>
   <string name="hungama">Hungama</string>
-  <string name="hungama_subscribe_message">Debes pagar esta canción para descargarla</string>
-  <string name="hungama_subscribe_positive_button">Pagar</string>
-  <string name="hungama_subscribe_title">Descargar</string>
+  <string name="hungama_subscribe_message">¡Hola! Go Pro para descargar esta canción y todos tus otros favoritos también. Lleve su música a lo largo de una calidad de sonido suprema.</string>
+  <string name="hungama_subscribe_positive_button">Go PRO</string>
+  <string name="hungama_subscribe_title">Servicio PRO</string>
   <string name="i_know">Aceptar</string>
   <string name="i_know_it">Aceptar</string>
   <string name="impunity_declaration_content">Debe leer y estar de acuerdo con nuestro &lt;a href=\"http://www.miui.com/res/doc/eula.html?lang=en\"&gt;Acuerdo del Usuario&lt;/a&gt; y &lt;a href=\"http://www.miui.com/res/doc/privacy.html?lang=en\"&gt;Política de privacidad&lt;/a&gt; antes de usar el producto.</string>
@@ -574,7 +574,7 @@ es proporcionado principalmente por Ultimate Inc."</string>
   <string name="monthly_price">Créditos Mi</string>
   <string name="more">Más</string>
   <string name="more_about_artist">Más sobre %s</string>
-  <string name="more_add_song_list">Añadir a la playlist actual</string>
+  <string name="more_add_song_list">Añadir canciones a la cola</string>
   <string name="more_online_artist">Más</string>
   <string name="more_online_billboard">Más</string>
   <string name="more_online_fm">Más</string>
@@ -649,8 +649,8 @@ es proporcionado principalmente por Ultimate Inc."</string>
   <string name="notification_recommend_title">Notificaciones importantes</string>
   <string name="notification_setting">Configuración de las notificaciones</string>
   <string name="notification_title_no_song">¡Mire lo que escucha la gente!</string>
-  <string name="nowplaying_dialog_title_delete_tracks">¿Limpiar la lista de reproducción actual?</string>
-  <string name="nowplaying_menu_item_delete">Eliminar</string>
+  <string name="nowplaying_dialog_title_delete_tracks">¿Eliminar esta canción de la cola?</string>
+  <string name="nowplaying_menu_item_delete">Eliminar de la cola</string>
   <string name="ok">Aceptar</string>
   <string name="one_month">1 mes</string>
   <string name="online_bill">Gráficas</string>
@@ -810,12 +810,12 @@ es proporcionado principalmente por Ultimate Inc."</string>
   <string name="select_all">Seleccionar todo</string>
   <string name="select_device">Seleccionar dispositivo</string>
   <string name="select_displayed_folders">Elegir carpetas a mostrar</string>
-  <string name="select_local_album">Seleccionar álbum</string>
-  <string name="select_local_lyric">Seleccionar letra</string>
+  <string name="select_local_cover">Seleccionar cubierta local</string>
+  <string name="select_local_lyric_file">Seleccionar archivo de letras locales</string>
   <string name="select_lyric">Seleccionar letra</string>
   <string name="select_none">Deseleccionar todo</string>
-  <string name="select_operation_items">Choose items</string>
-  <string name="selected_count">Selected %1$d out of %2$d</string>
+  <string name="select_operation_items">Elige artículos</string>
+  <string name="selected_count">Seleccionado %1$d de %2$d</string>
   <string name="send_to">Compartir</string>
   <string name="send_to_title">Enviar a (%1$s)</string>
   <string name="server_error">Error en el servidor. Por favor, inténtelo más tarde</string>
@@ -867,7 +867,7 @@ es proporcionado principalmente por Ultimate Inc."</string>
   <string name="sleep_mode_canceled">Temporizador desactivado</string>
   <string name="sleep_mode_summary">Parar el reproductor tras cierto tiempo transcurrido</string>
   <string name="sleep_mode_title">Temporizador</string>
-  <string name="song_exist_in_playlist">Operación fallida. La canción ya está en la lista de reproducción existente.</string>
+  <string name="song_exist_in_playlist">Esta canción ya está en la cola</string>
   <string name="song_info">Detalles de la canción</string>
   <string name="song_is_empty">El nombre de la canción no puede estar vacío.</string>
   <string name="song_name">Canción</string>
@@ -930,7 +930,7 @@ es proporcionado principalmente por Ultimate Inc."</string>
   <string name="terms_of_service">Términos del servicio</string>
   <string name="ticket_summary">Comprar entradas para espectáculos, conciertos, obras de teatro y otros eventos</string>
   <string name="ticket_title">entradas para espectáculos</string>
-  <string name="time_to_upgrade">Debe actualizar Mi Music</string>
+  <string name="time_to_upgrade">Actualizaciones disponibles</string>
   <string name="title_online_artist">Artistas de moda</string>
   <string name="title_online_billboard">Listas</string>
   <string name="title_online_fm">Radio</string>
