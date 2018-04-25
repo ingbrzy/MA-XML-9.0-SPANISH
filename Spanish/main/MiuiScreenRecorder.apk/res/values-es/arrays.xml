@@ -8,6 +8,6 @@
     <string-array name="screenrecorder_settings_sound">
         <item>Silencio</item>
         <item>Micrófono</item>
-        <item>Altavoz</item>
+        <item>Sonidos del sistema</item>
     </string-array>
 </resources>
