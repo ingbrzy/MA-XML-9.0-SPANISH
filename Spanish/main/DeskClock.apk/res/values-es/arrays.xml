@@ -74,11 +74,13 @@
     <string-array name="weather_tips_value">
         <item>Reduce las actividades al aire libre</item>
         <item>Las carreteras están resbaladizas</item>
-        <item>Parece que puede haber tormenta, ¡ten cuidado!</item>
-        <item>El aire está contaminado, ¡ponte una máscara!</item>
-        <item>Coge un paraguas si vas a salir</item>
+        <item>El clima es tormentoso, ten cuidado.</item>
+        <item>"Hoy esta nublado. Conduce de manera responsable."</item>
+        <item>El aire está contaminado, use una máscara.</item>
+        <item>Tome un paraguas cuando salga</item>
         <item>Ten cuidado en la carretera</item>
-        <item>¡Viene una tormenta de arena, usa una máscara!</item>
+        <item>"Hoy está granizando, ten cuidado."</item>
+        <item>Viene una tormenta de arena, usa una máscara.</item>
         <item>¡Ten un buen día!</item>
     </string-array>
     <string-array name="volume_button_setting_entries">
