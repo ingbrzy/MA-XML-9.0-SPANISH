@@ -393,6 +393,13 @@
   <string name="terabyteShort">TB</string>
   <string name="text_optimizer">Cargar nombres de carpeta</string>
   <string name="there_is_no">Todo parece estar bien, regrese en otro momento</string>
+  <string name="tips_low_storage_dialog_cancel">Cancelar</string>
+  <string name="tips_low_storage_dialog_msg_qq">El tamaño de caché de QQ ha alcanzado 3 GB. Esto puede ralentizar su dispositivo. ¿Borrar caché de QQ ahora?</string>
+  <string name="tips_low_storage_dialog_msg_storage">"Estás usando el 90% de tu espacio de almacenamiento. Desinstale las aplicaciones que no usa."</string>
+  <string name="tips_low_storage_dialog_msg_wechat">El tamaño del caché de WeChat ha alcanzado los 3 GB. Esto puede ralentizar su dispositivo. ¿Borrar el caché de WeChat ahora?</string>
+  <string name="tips_low_storage_dialog_ok">Limpiar</string>
+  <string name="tips_low_storage_dialog_ok_storage">Espacio libre</string>
+  <string name="tips_low_storage_dialog_title">Espacio de almacenamiento bajo</string>
   <string name="tips_of_app_manage">Eliminar las aplicaciones que se usan poco para ahorrar almacenamiento</string>
   <string name="tips_of_auto_launch_manage">Prevenir el auto-inicio de aplicaciones usadas pocas veces</string>
   <string name="tips_of_cloud_service">Inicie sesión en su Cuenta Mi para usar más servicios de Mi</string>
