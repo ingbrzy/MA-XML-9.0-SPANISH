@@ -5497,10 +5497,11 @@ Asistente de Wi‑Fi"</string>
   <string name="wifi_tether_checkbox_text">Punto de acceso móvil</string>
   <string name="wifi_tether_configure_ap_text">Configurar punto de acceso móvil</string>
   <string name="wifi_tether_configure_subtext">%1$s %2$s punto de acceso móvil</string>
-  <string name="wifi_tether_enabled_subtext">Zona Wi-Fi portátil %1$s activa</string>
+  <string name="wifi_tether_enabled_subtext">%1$s está activa</string>
+  <string name="wifi_tether_enabled_summary">%1$s está activa</string>
   <string name="wifi_tether_failed_subtext">Error de punto de acceso móvil</string>
   <string name="wifi_tether_first_use_message">Configure un punto de acceso Wi-Fi móvil en el Primer Uso</string>
-  <string name="wifi_tether_setting_title">Configuración</string>
+  <string name="wifi_tether_setting_title">Ajustes</string>
   <string name="wifi_tether_settings_title">Punto de acceso personal</string>
   <string name="wifi_tether_starting">Activando zona Wi-Fi…</string>
   <string name="wifi_tether_stopping">Desactivando zona Wi-Fi…</string>
